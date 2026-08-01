@@ -1,0 +1,363 @@
+[
+  {
+    "id": "category_language_barrier",
+    "code": "language_barrier",
+    "english_title": "Language Barrier",
+    "somali_title": "Caqabadda Luqadda",
+    "english_description": "Learn practical English for asking people to repeat, explain, spell and clarify information.",
+    "somali_description": "Baro Ingiriis la isticmaalo markaad codsanayso ku celin, sharaxaad, higgaad iyo caddeyn.",
+    "icon": "translate",
+    "color": "#42A5F5",
+    "sort_order": 1,
+    "difficulty": "A1-A2",
+    "estimated_learning_time": "4 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "clarification",
+      "interpreter",
+      "communication"
+    ]
+  },
+  {
+    "id": "category_greetings_etiquette",
+    "code": "greetings_etiquette",
+    "english_title": "Greetings & Etiquette",
+    "somali_title": "Salaan iyo Edeb",
+    "english_description": "Learn polite English for greetings, introductions, thanks, apologies and respectful everyday contact.",
+    "somali_description": "Baro Ingiriis edeb leh oo ku saabsan salaanta, isbarashada, mahadnaqa, raalli-gelinta iyo xushmadda.",
+    "icon": "handshake",
+    "color": "#66BB6A",
+    "sort_order": 2,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 12,
+    "tags": [
+      "politeness",
+      "social life",
+      "telephone"
+    ]
+  },
+  {
+    "id": "category_personal_information",
+    "code": "personal_information",
+    "english_title": "Personal Information",
+    "somali_title": "Macluumaadka Qofka",
+    "english_description": "Learn how to give personal details clearly in forms, offices, schools and services.",
+    "somali_description": "Baro sida loo bixiyo macluumaadka qofka si cad marka la buuxinayo foomam ama lala hadlayo adeegyo.",
+    "icon": "person",
+    "color": "#7E57C2",
+    "sort_order": 3,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 11,
+    "tags": [
+      "identity",
+      "forms",
+      "family"
+    ]
+  },
+  {
+    "id": "category_public_signs",
+    "code": "public_signs",
+    "english_title": "Public Signs",
+    "somali_title": "Calaamadaha Dadweynaha",
+    "english_description": "Learn the English used on signs, notices and warnings in public places.",
+    "somali_description": "Baro Ingiriiska ku qoran calaamadaha, ogeysiisyada iyo digniinaha meelaha dadweynaha.",
+    "icon": "signpost",
+    "color": "#FFA726",
+    "sort_order": 4,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "4 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "signs",
+      "safety",
+      "public places"
+    ]
+  },
+  {
+    "id": "category_measurements",
+    "code": "measurements",
+    "english_title": "Measurements",
+    "somali_title": "Cabbirro",
+    "english_description": "Learn English for length, weight, volume, temperature, size and everyday measurements.",
+    "somali_description": "Baro Ingiriiska cabbirka dhererka, miisaanka, mugga, heerkulka iyo cabbirrada maalinlaha ah.",
+    "icon": "scale",
+    "color": "#26A69A",
+    "sort_order": 5,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "4 hours",
+    "subcategory_count": 9,
+    "tags": [
+      "units",
+      "sizes",
+      "cooking"
+    ]
+  },
+  {
+    "id": "category_numbers",
+    "code": "numbers",
+    "english_title": "Numbers",
+    "somali_title": "Tirooyin",
+    "english_description": "Learn numbers for counting, prices, dates, rooms, phone numbers and percentages.",
+    "somali_description": "Baro tirooyinka loo adeegsado tirinta, qiimaha, taariikhaha, qolalka, telefoonka iyo boqolleyda.",
+    "icon": "numbers",
+    "color": "#FFCA28",
+    "sort_order": 6,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "4 hours",
+    "subcategory_count": 9,
+    "tags": [
+      "numbers",
+      "dates",
+      "prices"
+    ]
+  },
+  {
+    "id": "category_money",
+    "code": "money",
+    "english_title": "Money",
+    "somali_title": "Lacag",
+    "english_description": "Learn English for paying, banking, receipts, refunds, discounts and money services.",
+    "somali_description": "Baro Ingiriiska lacag-bixinta, bangiga, rasiidyada, lacag-celinta, qiimo-dhimista iyo adeegyada lacagta.",
+    "icon": "payments",
+    "color": "#26C281",
+    "sort_order": 7,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "bank",
+      "payments",
+      "shopping"
+    ]
+  },
+  {
+    "id": "category_time",
+    "code": "time",
+    "english_title": "Time",
+    "somali_title": "Waqti",
+    "english_description": "Learn how to discuss time, days, months, appointments, opening hours and schedules.",
+    "somali_description": "Baro sida looga hadlo waqtiga, maalmaha, bilaha, ballamaha, saacadaha furitaanka iyo jadwalka.",
+    "icon": "schedule",
+    "color": "#29B6F6",
+    "sort_order": 8,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "4 hours",
+    "subcategory_count": 9,
+    "tags": [
+      "time",
+      "appointments",
+      "schedules"
+    ]
+  },
+  {
+    "id": "category_locations",
+    "code": "locations",
+    "english_title": "Locations",
+    "somali_title": "Meelo",
+    "english_description": "Learn English for directions, buildings, rooms, maps, positions and finding places or things.",
+    "somali_description": "Baro Ingiriiska tilmaamaha, dhismayaasha, qolalka, khariidadaha, booska iyo helidda meelaha ama waxyaabaha.",
+    "icon": "place",
+    "color": "#FF7043",
+    "sort_order": 9,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 9,
+    "tags": [
+      "directions",
+      "maps",
+      "places"
+    ]
+  },
+  {
+    "id": "category_descriptions",
+    "code": "descriptions",
+    "english_title": "Descriptions",
+    "somali_title": "Sharaxaad",
+    "english_description": "Learn how to describe people, objects, colours, shapes, sizes, feelings and weather.",
+    "somali_description": "Baro sida loo sharaxo dadka, walxaha, midabbada, qaababka, cabbirka, dareenka iyo cimilada.",
+    "icon": "palette",
+    "color": "#EC407A",
+    "sort_order": 10,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "describing",
+      "appearance",
+      "weather"
+    ]
+  },
+  {
+    "id": "category_daily_activities",
+    "code": "daily_activities",
+    "english_title": "Daily Activities",
+    "somali_title": "Hawlaha Maalinlaha ah",
+    "english_description": "Learn English for common routines at home, work, school, shops and online.",
+    "somali_description": "Baro Ingiriiska hawlaha caadiga ah ee guriga, shaqada, iskuulka, dukaanka iyo internetka.",
+    "icon": "task",
+    "color": "#9CCC65",
+    "sort_order": 11,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "routine",
+      "home",
+      "technology"
+    ]
+  },
+  {
+    "id": "category_transportation",
+    "code": "transportation",
+    "english_title": "Transportation",
+    "somali_title": "Gaadiid",
+    "english_description": "Learn practical English for buses, taxis, trains, airports, tickets, driving and parking.",
+    "somali_description": "Baro Ingiriis waxtar leh oo ku saabsan basaska, taksiyada, tareennada, garoomada, tigidhada, wadista iyo baarkinka.",
+    "icon": "directions_bus",
+    "color": "#42A5F5",
+    "sort_order": 12,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "travel",
+      "tickets",
+      "driving"
+    ]
+  },
+  {
+    "id": "category_communication",
+    "code": "communication",
+    "english_title": "Communication",
+    "somali_title": "Isgaarsiin",
+    "english_description": "Learn English for phone calls, messages, emails, meetings, instructions and online contact.",
+    "somali_description": "Baro Ingiriiska wicitaannada, farriimaha, iimayllada, shirarka, tilmaamaha iyo xiriirka internetka.",
+    "icon": "mail",
+    "color": "#AB47BC",
+    "sort_order": 13,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 9,
+    "tags": [
+      "phone",
+      "email",
+      "meetings"
+    ]
+  },
+  {
+    "id": "category_health",
+    "code": "health",
+    "english_title": "Health",
+    "somali_title": "Caafimaad",
+    "english_description": "Learn English for symptoms, doctors, pharmacies, hospitals, medicine, emergencies and care.",
+    "somali_description": "Baro Ingiriiska calaamadaha xanuunka, dhakhaatiirta, farmashiyaha, isbitaalka, daawada, gurmadka iyo daryeelka.",
+    "icon": "medical_services",
+    "color": "#EF5350",
+    "sort_order": 14,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "doctor",
+      "pharmacy",
+      "emergency"
+    ]
+  },
+  {
+    "id": "category_food",
+    "code": "food",
+    "english_title": "Food and Drinks",
+    "somali_title": "Cunto iyo Cabitaan",
+    "english_description": "Learn practical English for buying, ordering, preparing and talking about food.",
+    "somali_description": "Baro Ingiriiska maalinlaha ah ee la xiriira iibsashada, dalbashada, diyaarinta iyo ka hadalka cuntada.",
+    "icon": "restaurant",
+    "color": "#FF8A65",
+    "sort_order": 15,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 14,
+    "tags": [
+      "restaurant",
+      "shopping",
+      "daily life"
+    ]
+  },
+  {
+    "id": "category_clothing",
+    "code": "clothing",
+    "english_title": "Clothing",
+    "somali_title": "Dhar",
+    "english_description": "Learn English for clothes, sizes, colours, shoes, laundry, tailoring and shopping.",
+    "somali_description": "Baro Ingiriiska dharka, cabbirrada, midabbada, kabaha, dhaqidda, tolidda iyo wax iibsiga.",
+    "icon": "checkroom",
+    "color": "#F06292",
+    "sort_order": 16,
+    "difficulty": "A1-B1",
+    "estimated_learning_time": "5 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "shopping",
+      "sizes",
+      "laundry"
+    ]
+  },
+  {
+    "id": "category_housing",
+    "code": "housing",
+    "english_title": "Housing",
+    "somali_title": "Guri iyo Degaanka",
+    "english_description": "Learn English for renting, buying, repairs, utilities, neighbours, moving and home safety.",
+    "somali_description": "Baro Ingiriiska kirada, iibsashada guri, dayactirka, biilasha, deriska, guurista iyo badbaadada guriga.",
+    "icon": "home",
+    "color": "#8D6E63",
+    "sort_order": 17,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "rent",
+      "repairs",
+      "utilities"
+    ]
+  },
+  {
+    "id": "category_jobs",
+    "code": "jobs",
+    "english_title": "Jobs",
+    "somali_title": "Shaqo",
+    "english_description": "Learn English for job searches, applications, CVs, interviews, salaries, leave and workplace life.",
+    "somali_description": "Baro Ingiriiska raadinta shaqo, codsiyada, CV-ga, wareysiyada, mushaharka, fasaxa iyo goobta shaqada.",
+    "icon": "work",
+    "color": "#78909C",
+    "sort_order": 18,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "work",
+      "interviews",
+      "office"
+    ]
+  },
+  {
+    "id": "category_school",
+    "code": "school",
+    "english_title": "School",
+    "somali_title": "Iskuul",
+    "english_description": "Learn English for classrooms, subjects, homework, teachers, exams, attendance and online learning.",
+    "somali_description": "Baro Ingiriiska fasalka, maaddooyinka, layliska, macallimiinta, imtixaannada, xaadiriska iyo waxbarashada internetka.",
+    "icon": "school",
+    "color": "#5C6BC0",
+    "sort_order": 19,
+    "difficulty": "A1-B2",
+    "estimated_learning_time": "6 hours",
+    "subcategory_count": 10,
+    "tags": [
+      "education",
+      "classroom",
+      "homework"
+    ]
+  }
+]
