@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../core/database/phrasebook_repository.dart';
@@ -18,15 +19,31 @@ class DialogueDetailScreen extends ConsumerStatefulWidget {
 class _DialogueDetailScreenState extends ConsumerState<DialogueDetailScreen> {
   int selectedTab = 0;
   late final Future<List<Object?>> _future;
+  late final FlutterTts _tts;
 
   @override
   void initState() {
     super.initState();
+    _tts = FlutterTts();
+    _tts.setLanguage('en-US');
+    _tts.setSpeechRate(0.45);
     _future = Future.wait<Object?>([
       ref.read(repositoryProvider).dialogue(widget.id),
       ref.read(repositoryProvider).dialogueLines(widget.id),
       ref.read(repositoryProvider).isFavorite('dialogue', widget.id),
     ]);
+  }
+
+  @override
+  void dispose() {
+    _tts.stop();
+    super.dispose();
+  }
+
+  Future<void> _speakEnglish(String text) async {
+    await _tts.stop();
+    await _tts.setLanguage('en-US');
+    await _tts.speak(text);
   }
 
   @override
@@ -139,6 +156,8 @@ class _DialogueDetailScreenState extends ConsumerState<DialogueDetailScreen> {
                         return ChatLineTile(
                           line: line,
                           alignRight: index.isEven,
+                          onSpeakEnglish: () =>
+                              _speakEnglish('${line['english_text']}'),
                         );
                       },
                     )
@@ -171,9 +190,15 @@ List<String> _dialogueWords(List<Map<String, Object?>> lines) {
 }
 
 class ChatLineTile extends StatelessWidget {
-  const ChatLineTile({super.key, required this.line, required this.alignRight});
+  const ChatLineTile({
+    super.key,
+    required this.line,
+    required this.alignRight,
+    required this.onSpeakEnglish,
+  });
   final Map<String, Object?> line;
   final bool alignRight;
+  final VoidCallback onSpeakEnglish;
 
   @override
   Widget build(BuildContext context) {
@@ -217,7 +242,13 @@ class ChatLineTile extends StatelessWidget {
                     style: TextStyle(color: theme.phrasebook.success),
                   ),
                 ),
-                const Icon(Icons.volume_up, size: 18),
+                IconButton(
+                  tooltip: 'Hear English',
+                  onPressed: onSpeakEnglish,
+                  visualDensity: VisualDensity.compact,
+                  iconSize: 18,
+                  icon: const Icon(Icons.volume_up),
+                ),
               ],
             ),
           ],

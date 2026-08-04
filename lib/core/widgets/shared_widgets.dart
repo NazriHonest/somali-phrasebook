@@ -438,11 +438,13 @@ class CategoryHeroArt extends StatelessWidget {
     super.key,
     required this.icon,
     required this.tone,
+    this.imageAsset,
     this.height = 92,
   });
 
   final IconData icon;
   final Color tone;
+  final String? imageAsset;
   final double height;
 
   @override
@@ -456,28 +458,42 @@ class CategoryHeroArt extends StatelessWidget {
         borderRadius: BorderRadius.circular(8),
         border: Border.all(color: theme.phrasebook.cardBorder),
       ),
-      child: Stack(
-        children: [
-          Positioned(
-            left: 18,
-            right: 18,
-            bottom: 24,
-            child: Divider(color: tone.withValues(alpha: 0.35), thickness: 3),
-          ),
-          Positioned(
-            right: 16,
-            top: 15,
-            child: Icon(icon, size: 48, color: tone),
-          ),
-          Positioned(
-            left: 16,
-            bottom: 18,
-            child: Icon(Icons.location_city, size: 36, color: tone),
-          ),
-        ],
-      ),
+      clipBehavior: Clip.antiAlias,
+      child: imageAsset == null
+          ? _GeneratedHeroArt(icon: icon, tone: tone)
+          : Image.asset(
+              imageAsset!,
+              fit: BoxFit.fill,
+              errorBuilder: (_, _, _) =>
+                  _GeneratedHeroArt(icon: icon, tone: tone),
+            ),
     );
   }
+}
+
+class _GeneratedHeroArt extends StatelessWidget {
+  const _GeneratedHeroArt({required this.icon, required this.tone});
+
+  final IconData icon;
+  final Color tone;
+
+  @override
+  Widget build(BuildContext context) => Stack(
+    children: [
+      Positioned(
+        left: 18,
+        right: 18,
+        bottom: 24,
+        child: Divider(color: tone.withValues(alpha: 0.35), thickness: 3),
+      ),
+      Positioned(right: 16, top: 15, child: Icon(icon, size: 48, color: tone)),
+      Positioned(
+        left: 16,
+        bottom: 18,
+        child: Icon(Icons.location_city, size: 36, color: tone),
+      ),
+    ],
+  );
 }
 
 class PillLabel extends StatelessWidget {

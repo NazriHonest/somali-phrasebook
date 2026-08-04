@@ -269,7 +269,8 @@ class _CategoryDetailScreenState extends ConsumerState<CategoryDetailScreen> {
                 '${category['icon_key']}',
               ),
               tone: tone,
-              height: 96,
+              imageAsset: _categoryHeroAsset(category),
+              height: 165,
             ),
             const SizedBox(height: 14),
             for (var i = 0; i < visibleSubcategories.length; i++)
@@ -446,6 +447,8 @@ class _SubcategoryContentScreenState
                 '${subcategory['english_title']} ${category['english_title']}',
               ),
               tone: tone,
+              imageAsset: _categoryHeroAsset(category),
+              height: 132,
             ),
             const SizedBox(height: 14),
             for (final tile in tiles)
@@ -1246,6 +1249,33 @@ IconData _categoryDisplayIcon(String title, String iconKey) {
   if (display == 'education') return Icons.school;
   if (display == 'people') return Icons.groups;
   return iconFor(iconKey);
+}
+
+String? _categoryHeroAsset(Map<String, Object?> category) {
+  final code = '${category['code']}';
+  final assetName = switch (code) {
+    'language_barrier' => 'Language and Barrier.png',
+    'greetings_etiquette' => 'Greetings.png',
+    'personal_information' => 'Personal Information.png',
+    'public_signs' => 'Public Signs.png',
+    'measurements' => 'Measurements.png',
+    'numbers' => 'Numbers.png',
+    'money' => 'Money.png',
+    'time' => 'Time.png',
+    'locations' => 'Locations.png',
+    'daily_activities' => 'Daily Activities.png',
+    'transportation' => 'Travel.png',
+    'communication' => 'Communications.png',
+    'health' => 'Health.png',
+    'food' => 'Food and Dining.png',
+    'clothing' => 'Clothing.png',
+    'housing' => 'Housing.png',
+    'jobs' => 'Jobs.png',
+    'school' => 'School.png',
+    'descriptions' => 'Shopping.png',
+    _ => '',
+  };
+  return assetName.isEmpty ? null : 'assets/hero_images/$assetName';
 }
 
 int _subcategoryItemCount(

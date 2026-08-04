@@ -139,8 +139,8 @@ class _ExpressionDetailScreenState
                       fontWeight: FontWeight.w900,
                       height: 1.2,
                     ),
-                    
                   ),
+                  const SizedBox(height: 12),
                   UiCard(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,

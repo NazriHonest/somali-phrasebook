@@ -67,6 +67,7 @@ flutter:
 
   assets:
     - assets/branding/
+    - assets/hero_images/
     - lib/data/seed/categories_seed.json
     - lib/data/seed/subcategories_seed.json
     - lib/data/seed/conversations/
