@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_daily_activities_home_routines_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I wake up at seven.",
+    "somali": "Toddobada ayaan soo kacaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I make my bed every morning.",
+    "somali": "Subax kasta sariirtayda waan hagaajiyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I need to get dressed.",
+    "somali": "Waxaan u baahanahay inaan dharkayga xirto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Where are my keys?",
+    "somali": "Furayaashaydu xaggee yaallaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I am getting ready for work.",
+    "somali": "Shaqada ayaan isu diyaarinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Please turn off the lights.",
+    "somali": "Fadlan nalalka dami.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I forgot my phone at home.",
+    "somali": "Taleefankaygii guriga ayaan ku illoobay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Can you open the window?",
+    "somali": "Daaqadda ma furi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I will be home late tonight.",
+    "somali": "Caawa guriga goor dambe ayaan imaan doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Dinner is almost ready.",
+    "somali": "Cashadii way dhowdahay inay diyaar noqoto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Please lock the door when you leave.",
+    "somali": "Fadlan albaabka quful markaad baxdo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I need to tidy the living room.",
+    "somali": "Waxaan u baahanahay inaan fadhiga hagaajiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "The children are sleeping.",
+    "somali": "Carruurtu way hurdaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Can you help me at home today?",
+    "somali": "Maanta guriga ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I am going to bed early.",
+    "somali": "Goor hore ayaan seexanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "Please be quiet for a moment.",
+    "somali": "Fadlan cabbaar aamus.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I have a lot to do at home.",
+    "somali": "Guriga hawlo badan ayaa ii yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "We usually eat together.",
+    "somali": "Badanaa waan wada cunnaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "I need a few minutes to rest.",
+    "somali": "Dhowr daqiiqo oo nasasho ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_home_routines_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": "See you at home later.",
+    "somali": "Guriga ayaan kugu arki doonaa mar dambe.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "home routines"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "What are you cooking?",
+    "somali": "Maxaad karinaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "I am making rice for dinner.",
+    "somali": "Cashada bariis ayaan karinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Can you cut the onions?",
+    "somali": "Basasha ma jarjari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Please wash the vegetables.",
+    "somali": "Fadlan khudaarta dhaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "The food smells good.",
+    "somali": "Cuntadu ur fiican ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Do we have enough salt?",
+    "somali": "Cusbo ku filan ma haysannaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "The rice is almost ready.",
+    "somali": "Bariisku wuu dhow yahay inuu bislaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Please lower the heat.",
+    "somali": "Fadlan dabka yaree.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "I burned the sauce.",
+    "somali": "Suugadii ayaan gubay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Can you taste this?",
+    "somali": "Tan ma dhadhamin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "It needs more spice.",
+    "somali": "Xawaash dheeraad ah ayay u baahan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Please set the table.",
+    "somali": "Fadlan miiska dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "I need a clean pot.",
+    "somali": "Dheri nadiif ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "The chicken is not cooked yet.",
+    "somali": "Digaaggu weli ma bislaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Can you stir the soup?",
+    "somali": "Maraqaa ma walaaqi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "I am cooking for the family.",
+    "somali": "Qoyska ayaan cunto u karinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Please do not add too much oil.",
+    "somali": "Fadlan saliid badan ha ku darin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "The kitchen is hot.",
+    "somali": "Jikadu way kulushahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Dinner will be ready soon.",
+    "somali": "Cashadu dhowaan ayay diyaar noqon doontaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cooking_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": "Thank you for helping me cook.",
+    "somali": "Waad ku mahadsan tahay inaad karinta iga caawisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "I need to clean the room.",
+    "somali": "Waxaan u baahanahay inaan qolka nadiifiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Please sweep the floor.",
+    "somali": "Fadlan dhulka xaaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Can you wash the dishes?",
+    "somali": "Suxuunta ma dhaqi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "The table is dirty.",
+    "somali": "Miisku wuu wasakhaysan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Where is the rubbish bin?",
+    "somali": "Qashinka lagu rido xaggee yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "I will take out the rubbish.",
+    "somali": "Qashinka ayaan bannaanka u saari doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Please wipe the counter.",
+    "somali": "Fadlan miiska jikada masax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "We need more soap.",
+    "somali": "Saabuun dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "The bathroom needs cleaning.",
+    "somali": "Musqushu nadiifin ayay u baahan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Can you help me clean today?",
+    "somali": "Maanta nadiifinta ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "The floor is still wet.",
+    "somali": "Dhulku weli wuu qoyan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Please put the clothes away.",
+    "somali": "Fadlan dharka meel dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "I vacuumed the carpet.",
+    "somali": "Roogga waan nadiifiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "The window is dusty.",
+    "somali": "Daaqaddu boor ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Do not leave dishes in the sink.",
+    "somali": "Suxuunta ha uga tagin saxanka biyaha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "I cleaned the kitchen this morning.",
+    "somali": "Saaka jikada waan nadiifiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Where are the cleaning supplies?",
+    "somali": "Qalabka nadiifintu xaggee yaal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "The house looks much better now.",
+    "somali": "Gurigu hadda aad buu uga fiican yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "Please keep your room tidy.",
+    "somali": "Fadlan qolkaaga hagaagsan ha ahaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_cleaning_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": "We clean together on Saturdays.",
+    "somali": "Sabtida waan wada nadiifinnaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "cleaning"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I need to buy some groceries.",
+    "somali": "Waxaan u baahanahay inaan cunto soo iibsado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Can you come shopping with me?",
+    "somali": "Wax iibsiga ma ila iman kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "What do we need from the shop?",
+    "somali": "Maxaan dukaanka uga baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Please bring the shopping list.",
+    "somali": "Fadlan liiska wax iibsiga keen.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "This shop is too expensive.",
+    "somali": "Dukaankani aad buu qaali u yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I am looking for fresh bread.",
+    "somali": "Rooti cusub ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Do we have enough money?",
+    "somali": "Lacag nagu filan ma haysannaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Please choose the cheaper one.",
+    "somali": "Fadlan midka jaban dooro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "The market is busy today.",
+    "somali": "Suuqu maanta wuu mashquul badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I forgot to buy milk.",
+    "somali": "Caano ayaan illoobay inaan soo iibsado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Can you carry this bag?",
+    "somali": "Boorsadan ma qaadi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I need a receipt, please.",
+    "somali": "Rasiid ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "The queue is very long.",
+    "somali": "Safku aad buu u dheer yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Let us compare the prices.",
+    "somali": "Aan qiimayaasha is barbar dhigno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I will pay by card.",
+    "somali": "Kaarka ayaan ku bixinayaa lacagta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Please check the expiry date.",
+    "somali": "Fadlan taariikhda dhicitaanka eeg.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "This fruit looks fresh.",
+    "somali": "Midhahani waxay u egyihiin kuwo cusub.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "Can we buy this later?",
+    "somali": "Tan mar dambe ma iibsan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "I only need a few things.",
+    "somali": "Wax yar oo keliya ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_shopping_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": "We are finished shopping.",
+    "somali": "Wax iibsiga waan dhamaynay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "shopping"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I start work at nine.",
+    "somali": "Shaqada sagaalka ayaan bilaabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I have a lot of work today.",
+    "somali": "Maanta shaqo badan ayaa ii taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Can we talk after work?",
+    "somali": "Shaqada ka dib ma wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Please send me the report.",
+    "somali": "Fadlan warbixinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I am working from home today.",
+    "somali": "Maanta guriga ayaan ka shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "The meeting starts soon.",
+    "somali": "Shirku dhowaan ayuu bilaabmayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I need a short break.",
+    "somali": "Nasasho gaaban ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Can you help me with this task?",
+    "somali": "Hawshan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I finished the first part.",
+    "somali": "Qaybtii koowaad waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "The computer is not working.",
+    "somali": "Kombiyuutarku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Please check your email.",
+    "somali": "Fadlan iimaylkaaga eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I will call the customer.",
+    "somali": "Macaamilka ayaan wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "The deadline is tomorrow.",
+    "somali": "Waqtiga kama dambaysta ahi waa berri.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Can we finish this today?",
+    "somali": "Maanta tan ma dhamayn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I need to speak to my manager.",
+    "somali": "Maamulahayga ayaan u baahanahay inaan la hadlo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Please save the file.",
+    "somali": "Fadlan faylka kaydi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I am leaving work now.",
+    "somali": "Hadda shaqada ayaan ka baxayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "Work was busy today.",
+    "somali": "Shaqadu maanta way mashquul badnayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "I have a day off tomorrow.",
+    "somali": "Berri fasax shaqo ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_working_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": "See you at work tomorrow.",
+    "somali": "Berri shaqada ayaan kugu arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "working"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I need to study tonight.",
+    "somali": "Caawa waan u baahanahay inaan wax barto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "What are you studying?",
+    "somali": "Maxaad baranaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Can you help me with this lesson?",
+    "somali": "Casharkan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Please explain this word.",
+    "somali": "Fadlan eraygan sharax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I have homework to finish.",
+    "somali": "Laylis aan dhammeeyo ayaan hayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "The exam is next week.",
+    "somali": "Imtixaanku toddobaadka dambe ayuu yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I am learning English.",
+    "somali": "Ingiriis ayaan baranayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "This book is useful.",
+    "somali": "Buuggani waa faa'iido leh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Can I borrow your notes?",
+    "somali": "Qoraalladaada ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Please read this sentence aloud.",
+    "somali": "Fadlan jumladdan cod dheer ku akhri.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I do not understand the grammar.",
+    "somali": "Naxwaha ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Let us practise together.",
+    "somali": "Aan wada tababbaranno.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I need a quiet place to study.",
+    "somali": "Meel deggan oo aan wax ku barto ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "The library is open today.",
+    "somali": "Maktabaddu maanta way furan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Can you check my pronunciation?",
+    "somali": "Dhawaaqayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I will review the lesson again.",
+    "somali": "Casharka mar kale ayaan dib u eegi doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "Please do not disturb me.",
+    "somali": "Fadlan ha i qasin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I studied for two hours.",
+    "somali": "Laba saac ayaan wax bartay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I am getting better at English.",
+    "somali": "Ingiriisigaygu wuu soo hagaagayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_studying_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": "I need to take a break.",
+    "somali": "Nasasho ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "studying"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I am travelling tomorrow.",
+    "somali": "Berri ayaan safrayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "What time are we leaving?",
+    "somali": "Imisa ayaan baxeynaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Please pack your bag tonight.",
+    "somali": "Fadlan caawa boorsadaada diyaari.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I need my passport.",
+    "somali": "Baasaboorkayga ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "The journey is long.",
+    "somali": "Safarku wuu dheer yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Can you book the ticket?",
+    "somali": "Tigidhka ma qabsan kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "We should leave early.",
+    "somali": "Waa inaan goor hore baxnaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I forgot my charger.",
+    "somali": "Dabayshihii taleefanka ayaan illoobay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Where is the station?",
+    "somali": "Saldhiggu xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Please check the time again.",
+    "somali": "Fadlan waqtiga mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I feel tired from travelling.",
+    "somali": "Safarka waan ka daalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Can we stop for food?",
+    "somali": "Cunto ma u istaagi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "The road is busy.",
+    "somali": "Waddadu way mashquul badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I need to call my family.",
+    "somali": "Qoyskayga ayaan u baahanahay inaan waco.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Our bags are in the car.",
+    "somali": "Boorsooyinkayagu gaariga ayay ku jiraan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Please keep your ticket safe.",
+    "somali": "Fadlan tigidhkaaga si fiican u hayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "We arrived safely.",
+    "somali": "Si nabad ah ayaan u nimid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Where are we staying tonight?",
+    "somali": "Caawa xaggee ayaan degaynaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "I enjoyed the trip.",
+    "somali": "Safarka waan ka helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_travelling_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": "Have a safe journey.",
+    "somali": "Safar nabad ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "travelling"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I go for a walk every morning.",
+    "somali": "Subax kasta socod ayaan u baxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Do you exercise often?",
+    "somali": "Marar badan ma jimicsataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I need to stretch first.",
+    "somali": "Marka hore waxaan u baahanahay inaan murqaha kala bixiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Please slow down.",
+    "somali": "Fadlan tartiib u soco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I am tired after running.",
+    "somali": "Orodka ka dib waan daalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Can we rest for a minute?",
+    "somali": "Hal daqiiqo ma nasan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "The gym is open today.",
+    "somali": "Jimicsiga maanta wuu furan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I want to get stronger.",
+    "somali": "Waxaan rabaa inaan xoog yeesho.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "This exercise is difficult.",
+    "somali": "Jimicsigani wuu adag yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Please show me how to do it.",
+    "somali": "Fadlan sida loo sameeyo i tus.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I hurt my knee.",
+    "somali": "Jilibka ayaan iska dhaawacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Drink some water.",
+    "somali": "Biyo cab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "How many times should I repeat it?",
+    "somali": "Immisa jeer ayaan ku celiyaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I exercise three times a week.",
+    "somali": "Toddobaadkii saddex jeer ayaan jimicsadaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Can you train with me?",
+    "somali": "Ma ila tababbari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "The class starts at six.",
+    "somali": "Fasalka jimicsigu lixda ayuu bilaabmaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I need comfortable shoes.",
+    "somali": "Kabo raaxo leh ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Let us walk instead of driving.",
+    "somali": "Aan soconno halkii aan gaari ka raaci lahayn.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "I feel better after exercise.",
+    "somali": "Jimicsiga ka dib waan ka fiicnaadaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_exercise_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": "Do not push yourself too hard.",
+    "somali": "Naftaada aad ha u cadaadin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "exercise"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "What do you like to do in your free time?",
+    "somali": "Waqtigaaga firaaqada maxaad jeceshahay inaad samayso?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I like reading books.",
+    "somali": "Buugaag akhriska waan jeclahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Do you play football?",
+    "somali": "Kubadda cagta ma ciyaartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I listen to music in the evening.",
+    "somali": "Fiidkii muusig ayaan dhageystaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Can you teach me this game?",
+    "somali": "Ciyaartan ma i bari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I am learning to paint.",
+    "somali": "Waxaan baranayaa rinjiyeynta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "This hobby helps me relax.",
+    "somali": "Hiwaayaddani way i dejisaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Do you want to watch a film?",
+    "somali": "Filim ma rabtaa inaan daawanno?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I enjoy cooking on weekends.",
+    "somali": "Dhammaadka usbuuca karinta waan ka helaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Please bring your camera.",
+    "somali": "Fadlan kaamiradaada keen.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "We can practise together.",
+    "somali": "Waan wada tababbari karnaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I joined a reading group.",
+    "somali": "Koox akhris ayaan ku biiray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "My hobby is gardening.",
+    "somali": "Hiwaayaddaydu waa beer-falasho.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Can we go swimming tomorrow?",
+    "somali": "Berri dabaal ma aadi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I do not have much free time.",
+    "somali": "Waqti firaaqo badan ma haysto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "This is fun.",
+    "somali": "Tani waa madadaalo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I want to try something new.",
+    "somali": "Wax cusub ayaan rabaa inaan tijaabiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Do you have any hobbies?",
+    "somali": "Hiwaayado ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "Let us take a break and play.",
+    "somali": "Aan nasanno oo ciyaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_hobbies_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": "I am getting better every week.",
+    "somali": "Toddobaad kasta waan sii fiicnaanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "hobbies"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "My phone is charging.",
+    "somali": "Taleefankaygu wuu dallacmayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_002",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Can I use your charger?",
+    "somali": "Dallacahaaga ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_003",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "The internet is not working.",
+    "somali": "Internetku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_004",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Please send me the password.",
+    "somali": "Fadlan erayga sirta ah ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_005",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "I need to update the app.",
+    "somali": "Waxaan u baahanahay inaan app-ka cusbooneysiiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_006",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "The screen is too dark.",
+    "somali": "Shaashaddu aad bay u madowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_007",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Can you help me log in?",
+    "somali": "Gelitaanka ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_008",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "I forgot my password.",
+    "somali": "Erayga sirta ah waan illoobay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_009",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Please save the file.",
+    "somali": "Fadlan faylka kaydi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_010",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "The battery is almost empty.",
+    "somali": "Batarigu wuu ku dhow yahay inuu dhammaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_011",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Can you send the photo?",
+    "somali": "Sawirka ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_012",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "I cannot open the website.",
+    "somali": "Bogga internetka ma furi karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_013",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "The computer is slow today.",
+    "somali": "Kombiyuutarku maanta wuu gaabis yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_014",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Please turn off the sound.",
+    "somali": "Fadlan codka dami.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_015",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Do you have Wi-Fi here?",
+    "somali": "Halkan Wi-Fi ma yaal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_016",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "I downloaded the document.",
+    "somali": "Dukumentiga waan soo dejiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_017",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Can you scan this code?",
+    "somali": "Koodkan ma sawiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_018",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "The printer is out of paper.",
+    "somali": "Daabacuhu warqad ayuu ka dhammaaday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_019",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "I need to back up my files.",
+    "somali": "Faylashayda ayaan u baahanahay inaan kayd ka sameeyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_daily_activities_technology_020",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": "Technology makes this easier.",
+    "somali": "Tiknoolajiyaddu tan way fududaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "daily_activities",
+      "technology"
+    ],
+    "notes": "Editorial rewrite: natural daily-life English with directly aligned Somali meaning."
+  }
+]

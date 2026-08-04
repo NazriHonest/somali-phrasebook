@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:share_plus/share_plus.dart';
 
 import '../../core/database/phrasebook_repository.dart';
 import '../../core/theme/app_theme.dart';
@@ -127,6 +128,59 @@ class CategoryGridCard extends StatelessWidget {
   }
 }
 
+class _CategorySubcategoryCard extends StatelessWidget {
+  const _CategorySubcategoryCard({
+    required this.title,
+    required this.itemCount,
+    required this.icon,
+    required this.tone,
+    required this.onTap,
+  });
+
+  final String title;
+  final int itemCount;
+  final IconData icon;
+  final Color tone;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return UiCard(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+      onTap: onTap,
+      child: Row(
+        children: [
+          IconBox(
+            icon: icon,
+            backgroundColor: tone.withValues(alpha: 0.12),
+            iconColor: tone,
+          ),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  title,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: theme.textTheme.labelLarge?.copyWith(
+                    fontWeight: FontWeight.w900,
+                  ),
+                ),
+                const SizedBox(height: 2),
+                Text('$itemCount items', style: theme.textTheme.bodySmall),
+              ],
+            ),
+          ),
+          Icon(Icons.chevron_right, color: theme.colorScheme.onSurfaceVariant),
+        ],
+      ),
+    );
+  }
+}
+
 class CategoryDetailScreen extends ConsumerStatefulWidget {
   const CategoryDetailScreen({super.key, required this.id});
   final String id;
@@ -137,7 +191,6 @@ class CategoryDetailScreen extends ConsumerStatefulWidget {
 }
 
 class _CategoryDetailScreenState extends ConsumerState<CategoryDetailScreen> {
-  int selectedTab = 0;
   late final Future<List<Object?>> _future;
 
   @override
@@ -165,7 +218,6 @@ class _CategoryDetailScreenState extends ConsumerState<CategoryDetailScreen> {
       final dialogues = data[3] as List<Map<String, Object?>>;
       final qa = data[4] as List<Map<String, Object?>>;
       final vocabulary = data[5] as List<Map<String, Object?>>;
-      final favorite = data[6] as bool;
       final visibleSubcategories = subcategories.where((subcategory) {
         final subId = subcategory['id'];
         return expressions.any((row) => row['subcategory_id'] == subId) ||
@@ -182,70 +234,285 @@ class _CategoryDetailScreenState extends ConsumerState<CategoryDetailScreen> {
             '${category['somali_title']}',
           );
       final theme = Theme.of(context);
-      final tabs = [
-        'All',
-        if (expressions.isNotEmpty) 'Expressions',
-        if (dialogues.isNotEmpty) 'Dialogs',
-        if (qa.isNotEmpty) 'Q & A',
-        if (vocabulary.isNotEmpty) 'Vocab',
-      ];
-      selectedTab = selectedTab.clamp(0, tabs.length - 1);
+      final title = _displayCategoryTitle('${category['english_title']}');
+      final tone =
+          theme.phrasebook.categoryTiles[((category['sort_order'] as int? ??
+                      1) -
+                  1)
+              .clamp(0, theme.phrasebook.categoryTiles.length - 1)];
       return Scaffold(
-        body: Column(
+        appBar: AppBar(
+          leading: IconButton(
+            onPressed: () => context.pop(),
+            icon: const Icon(Icons.chevron_left),
+          ),
+          title: Text(title),
+          centerTitle: true,
+          actions: [
+            IconButton(
+              onPressed: () => SharePlus.instance.share(
+                ShareParams(
+                  text:
+                      '$title\n${category['english_description']}\n${category['somali_title']}',
+                ),
+              ),
+              icon: const Icon(Icons.share_outlined),
+            ),
+          ],
+        ),
+        body: ListView(
+          padding: const EdgeInsets.fromLTRB(16, 8, 16, 96),
           children: [
-            BlueHeader(
-              title: '${category['sort_order']}. ${category['english_title']}',
-              subtitle: '${category['english_description']}',
-              headerStart: theme.phrasebook.greenHeaderStart,
-              headerEnd: theme.phrasebook.greenHeaderEnd,
-              leading: IconButton(
-                onPressed: () => context.pop(),
-                icon: Icon(
-                  Icons.arrow_back,
-                  color: theme.colorScheme.onPrimary,
+            CategoryHeroArt(
+              icon: _categoryDisplayIcon(
+                '${category['english_title']}',
+                '${category['icon_key']}',
+              ),
+              tone: tone,
+              height: 96,
+            ),
+            const SizedBox(height: 14),
+            for (var i = 0; i < visibleSubcategories.length; i++)
+              Padding(
+                padding: const EdgeInsets.only(bottom: 10),
+                child: _CategorySubcategoryCard(
+                  title: '${visibleSubcategories[i]['english_title']}',
+                  itemCount: _subcategoryItemCount(
+                    '${visibleSubcategories[i]['id']}',
+                    expressions,
+                    dialogues,
+                    qa,
+                    vocabulary,
+                  ),
+                  icon: subcategoryIconFor(
+                    '${visibleSubcategories[i]['english_title']} ${category['english_title']}',
+                  ),
+                  tone: theme
+                      .phrasebook
+                      .categoryTiles[i % theme.phrasebook.categoryTiles.length],
+                  onTap: () => context.push(
+                    CategoriesFeature.subcategoryPath(
+                      '${category['id']}',
+                      '${visibleSubcategories[i]['id']}',
+                    ),
+                  ),
                 ),
               ),
-              trailing: IconButton(
-                onPressed: () => ref
-                    .read(repositoryProvider)
-                    .toggleFavorite('category', '${category['id']}'),
-                icon: Icon(
-                  favorite ? Icons.bookmark : Icons.bookmark_border,
-                  color: theme.colorScheme.onPrimary,
-                ),
-              ),
-              child: StatsCard(
-                items: [
-                  StatSummary('${subcategories.length}', 'Subcategories'),
-                  StatSummary('${expressions.length}', 'Expressions'),
-                  StatSummary('${dialogues.length}', 'Dialogues'),
-                ],
-              ),
-            ),
-            SizedBox(
-              height: 46,
-              child: InlineTabBar(
-                tabs: tabs,
-                selectedIndex: selectedTab,
-                onSelected: (index) => setState(() => selectedTab = index),
-              ),
-            ),
-            Expanded(
-              child: _CategoryTabContent(
-                tab: tabs[selectedTab],
-                category: category,
-                subcategories: visibleSubcategories,
-                expressions: expressions,
-                dialogues: dialogues,
-                qa: qa,
-                vocabulary: vocabulary,
-              ),
-            ),
           ],
         ),
       );
     },
   );
+}
+
+class SubcategoryContentScreen extends ConsumerStatefulWidget {
+  const SubcategoryContentScreen({
+    super.key,
+    required this.categoryId,
+    required this.subcategoryId,
+  });
+
+  final String categoryId;
+  final String subcategoryId;
+
+  @override
+  ConsumerState<SubcategoryContentScreen> createState() =>
+      _SubcategoryContentScreenState();
+}
+
+class _SubcategoryContentScreenState
+    extends ConsumerState<SubcategoryContentScreen> {
+  late final Future<List<Object?>> _future;
+
+  @override
+  void initState() {
+    super.initState();
+    _future = Future.wait<Object?>([
+      ref.read(repositoryProvider).category(widget.categoryId),
+      ref.read(repositoryProvider).subcategories(widget.categoryId),
+      ref.read(repositoryProvider).expressions(widget.categoryId),
+      ref.read(repositoryProvider).dialogues(widget.categoryId),
+      ref.read(repositoryProvider).qaPairs(widget.categoryId),
+      ref.read(repositoryProvider).vocabularyForCategory(widget.categoryId),
+    ]);
+  }
+
+  @override
+  Widget build(BuildContext context) => FutureView(
+    future: _future,
+    builder: (context, data) {
+      final category = data[0] as Map<String, Object?>?;
+      if (category == null) return const MissingScaffold();
+      final subcategories = data[1] as List<Map<String, Object?>>;
+      final subcategory = subcategories.firstWhere(
+        (row) => row['id'] == widget.subcategoryId,
+        orElse: () => const <String, Object?>{},
+      );
+      if (subcategory.isEmpty) return const MissingScaffold();
+      final expressions = (data[2] as List<Map<String, Object?>>)
+          .where((row) => row['subcategory_id'] == widget.subcategoryId)
+          .toList();
+      final dialogues = (data[3] as List<Map<String, Object?>>)
+          .where((row) => row['subcategory_id'] == widget.subcategoryId)
+          .toList();
+      final qa = (data[4] as List<Map<String, Object?>>)
+          .where((row) => row['subcategory_id'] == widget.subcategoryId)
+          .toList();
+      final vocabulary = (data[5] as List<Map<String, Object?>>)
+          .where((row) => row['subcategory_id'] == widget.subcategoryId)
+          .toList();
+      final theme = Theme.of(context);
+      final tone =
+          theme.phrasebook.categoryTiles[((category['sort_order'] as int? ??
+                      1) -
+                  1)
+              .clamp(0, theme.phrasebook.categoryTiles.length - 1)];
+      final tiles = <_ContentTypeTileData>[
+        if (vocabulary.isNotEmpty)
+          _ContentTypeTileData(
+            icon: Icons.bookmark,
+            title: 'Vocabulary',
+            subtitle: '${vocabulary.length} words',
+            tone: theme.phrasebook.categoryTiles[3],
+            onTap: () => context.push(
+              VocabularyFeature.detailPath('${vocabulary.first['id']}'),
+            ),
+          ),
+        if (expressions.isNotEmpty)
+          _ContentTypeTileData(
+            icon: Icons.notes_outlined,
+            title: 'Phrases',
+            subtitle: '${expressions.length} phrases',
+            tone: theme.phrasebook.categoryTiles[0],
+            onTap: () => context.push(
+              ExpressionsFeature.listPath(
+                widget.categoryId,
+                widget.subcategoryId,
+              ),
+            ),
+          ),
+        if (dialogues.isNotEmpty)
+          _ContentTypeTileData(
+            icon: Icons.forum,
+            title: 'Conversations',
+            subtitle: '${dialogues.length} conversations',
+            tone: theme.phrasebook.categoryTiles[4],
+            onTap: () => dialogues.length == 1
+                ? context.push(
+                    DialoguesFeature.detailPath('${dialogues.first['id']}'),
+                  )
+                : context.push(DialoguesFeature.listPath(widget.categoryId)),
+          ),
+        if (qa.isNotEmpty)
+          _ContentTypeTileData(
+            icon: Icons.help_outline,
+            title: 'Common Questions',
+            subtitle: '${qa.length} questions',
+            tone: theme.phrasebook.categoryTiles[5],
+            onTap: () => context.push(
+              ExpressionsFeature.listPath(
+                widget.categoryId,
+                widget.subcategoryId,
+              ),
+            ),
+          ),
+      ];
+      return Scaffold(
+        appBar: AppBar(
+          leading: IconButton(
+            onPressed: () => context.pop(),
+            icon: const Icon(Icons.chevron_left),
+          ),
+          title: Column(
+            children: [
+              Text(
+                '${subcategory['english_title']}',
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+              Text(
+                'Choose what you want to explore',
+                style: theme.textTheme.bodySmall,
+              ),
+            ],
+          ),
+          centerTitle: true,
+        ),
+        body: ListView(
+          padding: const EdgeInsets.fromLTRB(16, 8, 16, 96),
+          children: [
+            CategoryHeroArt(
+              icon: subcategoryIconFor(
+                '${subcategory['english_title']} ${category['english_title']}',
+              ),
+              tone: tone,
+            ),
+            const SizedBox(height: 14),
+            for (final tile in tiles)
+              Padding(
+                padding: const EdgeInsets.only(bottom: 10),
+                child: _ContentTypeTile(data: tile),
+              ),
+          ],
+        ),
+      );
+    },
+  );
+}
+
+class _ContentTypeTileData {
+  const _ContentTypeTileData({
+    required this.icon,
+    required this.title,
+    required this.subtitle,
+    required this.tone,
+    required this.onTap,
+  });
+
+  final IconData icon;
+  final String title;
+  final String subtitle;
+  final Color tone;
+  final VoidCallback onTap;
+}
+
+class _ContentTypeTile extends StatelessWidget {
+  const _ContentTypeTile({required this.data});
+
+  final _ContentTypeTileData data;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return UiCard(
+      onTap: data.onTap,
+      child: Row(
+        children: [
+          IconBox(
+            icon: data.icon,
+            backgroundColor: data.tone.withValues(alpha: 0.12),
+            iconColor: data.tone,
+          ),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  data.title,
+                  style: theme.textTheme.titleSmall?.copyWith(
+                    fontWeight: FontWeight.w900,
+                  ),
+                ),
+                Text(data.subtitle, style: theme.textTheme.bodySmall),
+              ],
+            ),
+          ),
+          const Icon(Icons.chevron_right),
+        ],
+      ),
+    );
+  }
 }
 
 class CategoryExpressionsScreen extends ConsumerStatefulWidget {
@@ -333,7 +600,7 @@ class _CategoryExpressionsScreenState
                   end: Alignment.bottomRight,
                   colors: [
                     theme.phrasebook.headerStart,
-                    theme.phrasebook.headerEnd,
+                    theme.phrasebook.greenHeaderEnd,
                   ],
                 ),
               ),
@@ -399,6 +666,7 @@ class _CategoryExpressionsScreenState
                 itemBuilder: (context, index) {
                   final item = cards[index];
                   return ExpressionCard(
+                    id: item.expressionId,
                     english: item.english,
                     somali: item.somali,
                     chips: item.chips,
@@ -572,144 +840,6 @@ class SubcategoryTile extends StatelessWidget {
   }
 }
 
-class _CategoryTabContent extends StatelessWidget {
-  const _CategoryTabContent({
-    required this.tab,
-    required this.category,
-    required this.subcategories,
-    required this.expressions,
-    required this.dialogues,
-    required this.qa,
-    required this.vocabulary,
-  });
-
-  final String tab;
-  final Map<String, Object?> category;
-  final List<Map<String, Object?>> subcategories;
-  final List<Map<String, Object?>> expressions;
-  final List<Map<String, Object?>> dialogues;
-  final List<Map<String, Object?>> qa;
-  final List<Map<String, Object?>> vocabulary;
-
-  @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    final children = <Widget>[];
-    if (tab == 'All') {
-      children.addAll([
-        Text(
-          'Subcategories',
-          style: theme.textTheme.titleLarge?.copyWith(
-            fontWeight: FontWeight.w900,
-          ),
-        ),
-        const SizedBox(height: 12),
-        for (final subcategory in subcategories)
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: SubcategoryTile(
-              icon: iconFor('${category['icon_key']}'),
-              title: '${subcategory['english_title']}',
-              subtitle: '${subcategory['somali_title']}',
-              onTap: () {
-                final subId = subcategory['id'];
-                final hasPhraseContent =
-                    expressions.any((row) => row['subcategory_id'] == subId) ||
-                    qa.any((row) => row['subcategory_id'] == subId);
-                final hasDialogueContent = dialogues.any(
-                  (row) => row['subcategory_id'] == subId,
-                );
-                context.push(
-                  hasPhraseContent
-                      ? ExpressionsFeature.listPath(
-                          '${category['id']}',
-                          '$subId',
-                        )
-                      : hasDialogueContent
-                      ? DialoguesFeature.listPath('${category['id']}')
-                      : ExpressionsFeature.listPath('${category['id']}', 'all'),
-                );
-              },
-            ),
-          ),
-      ]);
-    }
-    if (tab == 'All' || tab == 'Expressions') {
-      children.addAll([
-        if (tab == 'All') const SizedBox(height: 10),
-        SectionHeader(title: 'Expressions'),
-        const SizedBox(height: 8),
-        for (final expression in expressions)
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: ExpressionCard(
-              english: '${expression['english_text']}',
-              somali: '${expression['somali_text']}',
-              chips: [
-                '${expression['formality']}',
-                '${expression['difficulty']}',
-              ],
-              onTap: () => context.push(
-                ExpressionsFeature.detailPath('${expression['id']}'),
-              ),
-            ),
-          ),
-      ]);
-    }
-    if (tab == 'All' || tab == 'Dialogs') {
-      children.addAll([
-        if (tab == 'All') const SizedBox(height: 10),
-        SectionHeader(title: 'Dialogs'),
-        const SizedBox(height: 8),
-        for (final dialogue in dialogues)
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: DialogueSummaryCard(
-              dialogue: dialogue,
-              onTap: () => context.push(
-                DialoguesFeature.detailPath('${dialogue['id']}'),
-              ),
-            ),
-          ),
-      ]);
-    }
-    if (tab == 'All' || tab == 'Q & A') {
-      children.addAll([
-        if (tab == 'All') const SizedBox(height: 10),
-        SectionHeader(title: 'Q & A'),
-        const SizedBox(height: 8),
-        for (final item in qa)
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: ExpressionCard(
-              english: '${item['english_question']}',
-              somali: '${item['somali_question']}',
-              chips: const ['Question'],
-            ),
-          ),
-      ]);
-    }
-    if (tab == 'All' || tab == 'Vocab') {
-      children.addAll([
-        if (tab == 'All') const SizedBox(height: 10),
-        SectionHeader(title: 'Vocabulary'),
-        const SizedBox(height: 8),
-        for (final word in vocabulary)
-          BilingualRow(
-            english: '${word['english_headword']}',
-            somali: '${word['somali_headword']}',
-            onTap: () =>
-                context.push(VocabularyFeature.detailPath('${word['id']}')),
-          ),
-      ]);
-    }
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(16, 4, 16, 96),
-      children: children,
-    );
-  }
-}
-
 class CategoryDialogueListScreen extends ConsumerStatefulWidget {
   const CategoryDialogueListScreen({super.key, required this.categoryId});
   final String categoryId;
@@ -764,7 +894,7 @@ class _CategoryDialogueListScreenState
                   end: Alignment.bottomRight,
                   colors: [
                     theme.phrasebook.headerStart,
-                    theme.phrasebook.headerEnd,
+                    theme.phrasebook.greenHeaderEnd,
                   ],
                 ),
               ),
@@ -910,12 +1040,14 @@ class DialogueSummaryCard extends StatelessWidget {
 class ExpressionCard extends StatelessWidget {
   const ExpressionCard({
     super.key,
+    required this.id,
     required this.english,
     required this.somali,
     required this.chips,
     this.onTap,
   });
 
+  final String? id;
   final String english;
   final String somali;
   final List<String> chips;
@@ -972,10 +1104,13 @@ class ExpressionCard extends StatelessWidget {
           const SizedBox(width: 10),
           Column(
             children: [
-              Icon(
-                Icons.star_border,
-                color: theme.colorScheme.onSurfaceVariant,
-              ),
+              if (id == null)
+                Icon(
+                  Icons.star_border,
+                  color: theme.colorScheme.onSurfaceVariant,
+                )
+              else
+                _ExpressionFavoriteButton(id: id!),
               const SizedBox(height: 18),
               Icon(
                 Icons.chevron_right,
@@ -985,6 +1120,67 @@ class ExpressionCard extends StatelessWidget {
           ),
         ],
       ),
+    );
+  }
+}
+
+class _ExpressionFavoriteButton extends ConsumerStatefulWidget {
+  const _ExpressionFavoriteButton({required this.id});
+
+  final String id;
+
+  @override
+  ConsumerState<_ExpressionFavoriteButton> createState() =>
+      _ExpressionFavoriteButtonState();
+}
+
+class _ExpressionFavoriteButtonState
+    extends ConsumerState<_ExpressionFavoriteButton> {
+  late Future<bool> _future;
+
+  @override
+  void initState() {
+    super.initState();
+    _future = _load();
+  }
+
+  Future<bool> _load() =>
+      ref.read(repositoryProvider).isFavorite('expression', widget.id);
+
+  Future<void> _toggle() async {
+    await ref.read(repositoryProvider).toggleFavorite('expression', widget.id);
+    if (!mounted) return;
+    final favorite = await _load();
+    if (!mounted) return;
+    setState(() => _future = Future.value(favorite));
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(
+          favorite ? 'Added to favorites' : 'Removed from favorites',
+        ),
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return FutureBuilder<bool>(
+      future: _future,
+      builder: (context, snapshot) {
+        final favorite = snapshot.data ?? false;
+        return IconButton(
+          tooltip: favorite ? 'Remove from favorites' : 'Add to favorites',
+          onPressed: _toggle,
+          visualDensity: VisualDensity.compact,
+          icon: Icon(
+            favorite ? Icons.star : Icons.star_border,
+            color: favorite
+                ? theme.phrasebook.favorite
+                : theme.colorScheme.onSurfaceVariant,
+          ),
+        );
+      },
     );
   }
 }
@@ -1027,6 +1223,44 @@ String _countLabel(int expressionCount, int dialogueCount, String title) {
 String _shortTitle(String title) {
   if (title == 'Food') return 'Grocery Shopping';
   return title.replaceFirst('Coping with the ', '');
+}
+
+String _displayCategoryTitle(String title) => title
+    .replaceFirst('Coping with the Language Barrier', 'Travel')
+    .replaceFirst('Useful Forms of Etiquette', 'Health')
+    .replaceFirst('Giving Information About Yourself', 'People')
+    .replaceFirst('Recognizing Signs', 'Services')
+    .replaceFirst('Weights and Measures', 'Shopping')
+    .replaceFirst('Using Numbers', 'Money')
+    .replaceFirst('Dealing with Time', 'Time')
+    .replaceFirst('About Schools', 'Education');
+
+IconData _categoryDisplayIcon(String title, String iconKey) {
+  final display = _displayCategoryTitle(title).toLowerCase();
+  if (display == 'travel') return Icons.flight;
+  if (display == 'health') return Icons.health_and_safety;
+  if (display == 'food') return Icons.restaurant;
+  if (display == 'shopping') return Icons.shopping_bag;
+  if (display == 'accommodation') return Icons.bed;
+  if (display == 'money') return Icons.payments;
+  if (display == 'education') return Icons.school;
+  if (display == 'people') return Icons.groups;
+  return iconFor(iconKey);
+}
+
+int _subcategoryItemCount(
+  String subcategoryId,
+  List<Map<String, Object?>> expressions,
+  List<Map<String, Object?>> dialogues,
+  List<Map<String, Object?>> qa,
+  List<Map<String, Object?>> vocabulary,
+) {
+  bool matches(Map<String, Object?> row) =>
+      row['subcategory_id'] == subcategoryId;
+  return expressions.where(matches).length +
+      dialogues.where(matches).length +
+      qa.where(matches).length +
+      vocabulary.where(matches).length;
 }
 
 String _compactCategoryTitle(String title) {

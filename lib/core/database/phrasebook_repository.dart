@@ -251,6 +251,17 @@ class PhrasebookRepository {
     rows.addAll(
       await db.rawQuery(
         '''
+      SELECT type, id, english AS title, somali AS subtitle, explanation AS preview
+      FROM reference_entries
+      WHERE english LIKE ? OR somali LIKE ? OR explanation LIKE ? OR search_text LIKE ?
+      LIMIT 50
+    ''',
+        [q, q, q, q],
+      ),
+    );
+    rows.addAll(
+      await db.rawQuery(
+        '''
       SELECT 'category' AS type, id, english_title AS title, somali_title AS subtitle
       FROM categories
       WHERE english_title LIKE ? OR somali_title LIKE ? OR english_description LIKE ? OR somali_description LIKE ?
@@ -306,8 +317,8 @@ class PhrasebookRepository {
     final db = await _db;
     return db.rawQuery('''
       SELECT f.item_type, f.item_id, f.created_at,
-        COALESCE(e.english_text, d.english_title, v.english_headword, c.english_title, s.english_text, f.item_id) AS title,
-        COALESCE(e.somali_text, d.somali_title, vt.somali_headword, c.somali_title, s.somali_meaning, '') AS subtitle
+        COALESCE(e.english_text, d.english_title, v.english_headword, c.english_title, s.english_text, r.english, f.item_id) AS title,
+        COALESCE(e.somali_text, d.somali_title, vt.somali_headword, c.somali_title, s.somali_meaning, r.somali, '') AS subtitle
       FROM favorites f
       LEFT JOIN expressions e ON f.item_type = 'expression' AND e.id = f.item_id
       LEFT JOIN dialogues d ON f.item_type = 'dialogue' AND d.id = f.item_id
@@ -315,6 +326,7 @@ class PhrasebookRepository {
       LEFT JOIN vocabulary_translations vt ON vt.vocabulary_entry_id = v.id AND vt.is_primary = 1
       LEFT JOIN categories c ON f.item_type = 'category' AND c.id = f.item_id
       LEFT JOIN signs s ON f.item_type = 'sign' AND s.id = f.item_id
+      LEFT JOIN reference_entries r ON f.item_type = r.type AND r.id = f.item_id
       WHERE title IS NOT NULL
       ORDER BY f.created_at DESC
     ''');
@@ -430,6 +442,7 @@ class PhrasebookRepository {
       'vocabulary_translations': await count('vocabulary_translations'),
       'vocabulary_examples': await count('vocabulary_examples'),
       'signs': await count('signs'),
+      'reference_entries': await count('reference_entries'),
     };
   }
 

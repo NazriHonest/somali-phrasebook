@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "conversation_measurements_length_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "title": "Measuring Curtain Fabric",
+    "somali_title": "Dharka daahyada oo la cabbirayo",
+    "situation": "A customer asks a shop assistant to measure the length and height of fabric needed for curtains.",
+    "somali_situation": "Macmiil ayaa shaqaale dukaan ka codsanaya inuu cabbiro dhererka iyo joogga dharka daahyada loogu baahan yahay.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "length",
+      "metre",
+      "centimetre",
+      "wide",
+      "height"
+    ],
+    "key_phrases": [
+      "What length do you need?",
+      "Please measure two metres.",
+      "Can you add ten centimetres?",
+      "How wide is the window?",
+      "The height is one metre."
+    ],
+    "grammar_focus": [
+      "how long",
+      "how wide",
+      "comparatives",
+      "numbers with units",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need fabric for curtains.",
+        "somali": "Waxaan u baahanahay dhar daahyo loogu talagalay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "What length do you need?",
+        "somali": "Dherer intee le'eg ayaad u baahan tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Please measure two metres.",
+        "somali": "Fadlan cabbir laba mitir."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "All right. Can you add ten centimetres?",
+        "somali": "Waa hagaag. Toban sentimitir ma ku dari karaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please add ten centimetres.",
+        "somali": "Haa, fadlan ku dar toban sentimitir."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "How wide is the window?",
+        "somali": "Daaqaddu ballac ahaan intee le'eg tahay?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It is wide, but the height is one metre.",
+        "somali": "Way ballaaran tahay, laakiin jooggu waa hal mitir."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Good. I will cut two metres and ten centimetres.",
+        "somali": "Waa fiican tahay. Waxaan jarayaa laba mitir iyo toban sentimitir."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_weight_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "title": "Buying Fruit by Weight",
+    "somali_title": "Miro miisaan lagu iibsanayo",
+    "situation": "A customer buys fruit at a market and asks the seller to weigh one kilogram, then reduce it because the bag is heavy.",
+    "somali_situation": "Macmiil ayaa suuqa ka iibsanaya miro, wuxuuna iibiyaha ka codsanayaa inuu miisaamo hal kiilo kadibna yareeyo maadaama bacdu culus tahay.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "weight",
+      "gram",
+      "kilogram",
+      "heavy",
+      "light"
+    ],
+    "key_phrases": [
+      "Can you weigh these mangoes?",
+      "They weigh one kilogram.",
+      "That bag feels heavy.",
+      "Please take out two hundred grams.",
+      "Now it is light enough."
+    ],
+    "grammar_focus": [
+      "how much does it weigh",
+      "comparatives",
+      "numbers with units",
+      "by + measurement",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you weigh these mangoes?",
+        "somali": "Cambahan ma ii miisaami kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes. They weigh one kilogram.",
+        "somali": "Haa. Waxay miisaankoodu yahay hal kiilo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That bag feels heavy.",
+        "somali": "Bacdaasi waxay u muuqataa mid culus."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I can make the weight lower.",
+        "somali": "Miisaanka waan dhimi karaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Please take out two hundred grams.",
+        "somali": "Fadlan ka saar laba boqol oo garaam."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Now the weight is eight hundred grams.",
+        "somali": "Hadda miisaanku waa siddeed boqol oo garaam."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Now it is light enough.",
+        "somali": "Hadda way igu filan tahay oo fudud tahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Would you like a smaller bag?",
+        "somali": "Ma rabtaa bac ka yar?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please. This one is easier to carry.",
+        "somali": "Haa, fadlan. Tan way fududahay in la qaado."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Here you are.",
+        "somali": "Waa kuwan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_volume_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "title": "Measuring Liquid Medicine",
+    "somali_title": "Daawo dareere ah oo la cabbirayo",
+    "situation": "A customer asks a pharmacist how much liquid medicine to pour into a small measuring container.",
+    "somali_situation": "Macmiil ayaa farmashiiste weydiinaya inta daawo dareere ah ee lagu shubayo weel yar oo cabbir ah.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Pharmacist"
+    ],
+    "key_vocabulary": [
+      "volume",
+      "litre",
+      "millilitre",
+      "container",
+      "liquid"
+    ],
+    "key_phrases": [
+      "How much liquid should I take?",
+      "The volume is five millilitres.",
+      "Use this small container.",
+      "Is that less than a litre?",
+      "One litre is much more."
+    ],
+    "grammar_focus": [
+      "how much",
+      "countable and uncountable nouns",
+      "partitives",
+      "numbers with units",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much liquid should I take?",
+        "somali": "Intee daawo dareere ah ayaan qaataa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "The volume is five millilitres.",
+        "somali": "Muggu waa shan milliliter."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is that less than a litre?",
+        "somali": "Taasi ma ka yar tahay hal liter?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Yes, one litre is much more.",
+        "somali": "Haa, hal liter aad buu uga badan yahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How do I measure five millilitres?",
+        "somali": "Sideen u cabbiraa shan milliliter?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Use this small container.",
+        "somali": "Isticmaal weelkan yar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I fill it to the first line?",
+        "somali": "Ma ilaa xariiqda koowaad ayaan buuxiyaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Yes, the first line shows five millilitres.",
+        "somali": "Haa, xariiqda koowaad waxay muujisaa shan milliliter."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do I need water with it?",
+        "somali": "Biyo ma u baahanahay inaan la qaato?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "You may drink water after the medicine.",
+        "somali": "Daawada kadib biyo waad cabbi kartaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. The measurement is clear.",
+        "somali": "Mahadsanid. Cabbirku wuu ii caddahay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Good. Take only that amount each time.",
+        "somali": "Waa fiican tahay. Mar kasta qaado qiyaastaas oo keliya."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_temperature_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "title": "Checking a Child's Temperature",
+    "somali_title": "Heerkulka ilmo oo la hubinayo",
+    "situation": "A parent calls a nurse after checking a child's temperature and asks whether the Celsius reading means a fever.",
+    "somali_situation": "Waalid ayaa kalkaaliso wacaya kadib marka uu hubiyo heerkulka ilmaha, wuxuuna weydiinayaa in cabbirka Celsius uu muujinayo qandho.",
+    "cefr": "B2",
+    "participants": [
+      "Parent",
+      "Nurse"
+    ],
+    "key_vocabulary": [
+      "temperature",
+      "degree",
+      "Celsius",
+      "fever",
+      "cold"
+    ],
+    "key_phrases": [
+      "I checked my child's temperature.",
+      "It is thirty-eight point five degrees Celsius.",
+      "That sounds like a fever.",
+      "Is the room too cold?",
+      "Call us again if the temperature rises."
+    ],
+    "grammar_focus": [
+      "reported measurements",
+      "point numbers",
+      "if clauses",
+      "too + adjective",
+      "comparatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Hello, I checked my child's temperature.",
+        "somali": "Salaan, waxaan hubiyey heerkulka ilmahayga."
+      },
+      {
+        "turn": 2,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "What does the thermometer say?",
+        "somali": "Heerkulbeeggu muxuu sheegayaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "It is thirty-eight point five degrees Celsius.",
+        "somali": "Waa siddeed iyo soddon dhibic shan darajo Celsius."
+      },
+      {
+        "turn": 4,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "That sounds like a fever.",
+        "somali": "Taasi waxay u egtahay qandho."
+      },
+      {
+        "turn": 5,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "She says she feels cold.",
+        "somali": "Waxay leedahay qabow bay dareemaysaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "That can happen with a fever.",
+        "somali": "Taasi way dhici kartaa marka qandho jirto."
+      },
+      {
+        "turn": 7,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Is the room too cold?",
+        "somali": "Qolku ma aad buu u qabow yahay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Keep the room warm, but not hot.",
+        "somali": "Qolka diirimaad ka dhig, laakiin ha ka dhigin kulul."
+      },
+      {
+        "turn": 9,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Should I check the temperature again later?",
+        "somali": "Miyaan heerkulka mar kale hubiyaa goor dambe?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Yes, check it again in one hour.",
+        "somali": "Haa, mar kale hubi hal saac kadib."
+      },
+      {
+        "turn": 11,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "What if it goes higher?",
+        "somali": "Haddii ay ka sii kacdo maxaan sameeyaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Call us again if the temperature rises.",
+        "somali": "Mar kale na soo wac haddii heerkulku kaco."
+      },
+      {
+        "turn": 13,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Should I write down the degree each time?",
+        "somali": "Mar kasta ma qoriyaa darajada?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Yes, write down each Celsius reading.",
+        "somali": "Haa, qor cabbir kasta oo Celsius ah."
+      },
+      {
+        "turn": 15,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Thank you. I know what to watch now.",
+        "somali": "Mahadsanid. Hadda waan garanayaa waxa aan fiirinayo."
+      },
+      {
+        "turn": 16,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "You're welcome. Call sooner if she seems worse.",
+        "somali": "Waad mudan tahay. Si degdeg ah u wac haddii ay ka sii darto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_distance_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "title": "Asking How Far the Clinic Is",
+    "somali_title": "Fogaan rug caafimaad loo jiro oo la weydiinayo",
+    "situation": "A visitor asks a local person how far the clinic is and whether it is near enough to walk.",
+    "somali_situation": "Booqde ayaa qof deegaanka ah weydiinaya inta rugta caafimaadka loo jiro iyo haddii ay dhowdahay in lug lagu tago.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Local Person"
+    ],
+    "key_vocabulary": [
+      "distance",
+      "kilometre",
+      "near",
+      "far",
+      "approximately"
+    ],
+    "key_phrases": [
+      "How far is the clinic?",
+      "It is approximately one kilometre away.",
+      "Is it near enough to walk?",
+      "It is not far.",
+      "Walk straight for ten minutes."
+    ],
+    "grammar_focus": [
+      "how far",
+      "prepositions of distance",
+      "comparatives",
+      "about and approximately",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Excuse me, how far is the clinic?",
+        "somali": "Raalli ahow, rugta caafimaadka intee loo jiraa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "It is approximately one kilometre away.",
+        "somali": "Qiyaastii hal kiiloomitir bay u jirtaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Is it near enough to walk?",
+        "somali": "Ma dhowdahay oo lug ma lagu tagi karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is not far.",
+        "somali": "Haa, fog ma aha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Which way should I go?",
+        "somali": "Jidkee ayaan maraa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Walk straight for ten minutes.",
+        "somali": "Toban daqiiqo si toos ah u soco."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "So the distance is short?",
+        "somali": "Markaa fogaantu way gaaban tahay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, but take water if it is hot.",
+        "somali": "Haa, laakiin biyo qaado haddii ay kulushahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_clothing_sizes_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "title": "Checking a Clothing Size",
+    "somali_title": "Cabbirka dharka oo la hubinayo",
+    "situation": "A customer compares small, medium, and large clothing sizes with a shop assistant before choosing a shirt that fits.",
+    "somali_situation": "Macmiil ayaa shaqaale dukaan la barbar dhigaya cabbirrada dharka ee yar, dhexe, iyo weyn ka hor inta uusan dooran shaati ku habboon.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "size",
+      "small",
+      "medium",
+      "large",
+      "fit",
+      "clothing",
+      "shirt"
+    ],
+    "key_phrases": [
+      "I need the right clothing size.",
+      "Small may be too tight.",
+      "Medium should fit better.",
+      "Do you have a large size too?",
+      "This size fits well."
+    ],
+    "grammar_focus": [
+      "too + adjective",
+      "comparatives",
+      "this one",
+      "do you have",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need the right clothing size.",
+        "somali": "Waxaan u baahanahay cabbirka dharka ee saxda ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "What size do you usually wear?",
+        "somali": "Cabbirkee ayaad badanaa xirataa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Medium, but sometimes small.",
+        "somali": "Dhexe, laakiin mararka qaar yar."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Small may be too tight.",
+        "somali": "Yar waxaa laga yaabaa inuu aad kuu ciriiri noqdo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Medium should fit better.",
+        "somali": "Dhexe ayaa si fiican kuugu habboonaan kara."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Do you have a large size too?",
+        "somali": "Cabbir weynna ma haysaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, but large may be loose.",
+        "somali": "Haa, laakiin weyn waxaa laga yaabaa inuu dabacsanaado."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Can I try the medium shirt?",
+        "somali": "Shirtka cabbirka dhexe ma cabbiri karaa?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Of course. The fitting room is open.",
+        "somali": "Dabcan. Qolka cabbirku wuu furan yahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "This size fits well.",
+        "somali": "Cabbirkan si fiican ayuu ii le'eg yahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_shoe_sizes_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "title": "Finding a Comfortable Shoe Size",
+    "somali_title": "Cabbir kabo oo raaxo leh oo la helayo",
+    "situation": "A customer tries on shoes and asks for a half size because one pair is tight and another is loose.",
+    "somali_situation": "Macmiil ayaa kabo cabbiraya, wuxuuna codsanayaa nus cabbir sababtoo ah hal lammaane wuu ciriiri yahay mid kalena wuu dabacsan yahay.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "shoe size",
+      "half size",
+      "tight",
+      "loose",
+      "comfortable",
+      "shoe",
+      "wide"
+    ],
+    "key_phrases": [
+      "What is your shoe size?",
+      "This shoe feels tight.",
+      "Do you have a half size bigger?",
+      "This pair feels loose at the heel.",
+      "These shoes are comfortable."
+    ],
+    "grammar_focus": [
+      "too + adjective",
+      "do you have",
+      "comparatives",
+      "present simple for fit",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need shoes for work.",
+        "somali": "Waxaan u baahanahay kabo shaqo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "What is your shoe size?",
+        "somali": "Cabbirka kabahaagu waa imisa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Usually size nine.",
+        "somali": "Badanaa cabbir sagaal."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Try this pair first.",
+        "somali": "Marka hore lammaanahan cabbir."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "This shoe feels tight.",
+        "somali": "Kabtan wuu i ciriirinayaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Do you have a half size bigger?",
+        "somali": "Ma haysaa nus cabbir ka weyn?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, here is nine and a half.",
+        "somali": "Haa, waa kan sagaal iyo bar."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "This pair feels loose at the heel.",
+        "somali": "Lammaanahan ciribta ayuu ka dabacsan yahay."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then try the wide size nine.",
+        "somali": "Markaa cabbirka sagaalka ballaaran cabbir."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "These shoes are comfortable.",
+        "somali": "Kabahan waa raaxo."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good. They should not rub when you walk.",
+        "somali": "Waa fiican tahay. Waa inaysan ku xoqin markaad socoto."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I will take this shoe size.",
+        "somali": "Cabbirkan kabaha ayaan qaadanayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_cooking_measurements_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "title": "Following a Recipe Measurement",
+    "somali_title": "Cabbirrada cunto-karinta oo la raacayo",
+    "situation": "A learner cooks with a friend and checks teaspoons, tablespoons, cups, grams, and half amounts in a recipe.",
+    "somali_situation": "Arday ayaa saaxiib la karinaya, wuxuuna hubinayaa qaaddo yar, qaaddo weyn, koob, garaam, iyo nus qiyaas oo ku jira cunto-karis.",
+    "cefr": "B2",
+    "participants": [
+      "Learner",
+      "Friend"
+    ],
+    "key_vocabulary": [
+      "teaspoon",
+      "tablespoon",
+      "cup",
+      "gram",
+      "half",
+      "cooking",
+      "measurements"
+    ],
+    "key_phrases": [
+      "How many grams of flour do we need?",
+      "Add one cup of milk.",
+      "Is that a teaspoon or a tablespoon?",
+      "Use half a teaspoon of salt.",
+      "These cooking measurements matter."
+    ],
+    "grammar_focus": [
+      "imperatives",
+      "quantifiers",
+      "fractions",
+      "countable and uncountable nouns",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "How many grams of flour do we need?",
+        "somali": "Immisa garaam oo bur ah ayaan u baahanahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "We need two hundred grams.",
+        "somali": "Waxaan u baahanahay laba boqol oo garaam."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Should I add the milk now?",
+        "somali": "Caanaha hadda ma ku daraa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Yes, add one cup of milk.",
+        "somali": "Haa, ku dar hal koob oo caano ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Is that a teaspoon or a tablespoon?",
+        "somali": "Taasi ma qaaddo yar baa mise qaaddo weyn?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "For sugar, use a tablespoon.",
+        "somali": "Sonkorta, isticmaal qaaddo weyn."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "And for salt?",
+        "somali": "Cusbada se?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Use half a teaspoon of salt.",
+        "somali": "Isticmaal nus qaaddo yar oo cusbo ah."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I almost used half a tablespoon.",
+        "somali": "Waxaan ku sigtay inaan isticmaalo nus qaaddo weyn."
+      },
+      {
+        "turn": 10,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "That would make the food too salty.",
+        "somali": "Taasi cuntada aad bay cusbo ugu badin lahayd."
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "These cooking measurements matter.",
+        "somali": "Cabbirradan cunto-karintu muhiim bay yihiin."
+      },
+      {
+        "turn": 12,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "They do, especially with baking.",
+        "somali": "Haa, gaar ahaan marka wax la dubayo."
+      },
+      {
+        "turn": 13,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "What should I mix next?",
+        "somali": "Maxaan xigta isku daraa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Mix the flour, milk, sugar, and salt slowly.",
+        "somali": "Si tartiib ah isku dar burka, caanaha, sonkorta, iyo cusbada."
+      },
+      {
+        "turn": 15,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I will read each measurement before I add it.",
+        "somali": "Cabbir kasta waan akhrin doonaa ka hor inta aanan ku darin."
+      },
+      {
+        "turn": 16,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Good. Then the recipe will turn out right.",
+        "somali": "Waa fiican tahay. Markaa cunto-karisku si sax ah ayuu u soo bixi doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_measurements_time_measurement_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "title": "Asking How Long a Class Lasts",
+    "somali_title": "Fasal inta uu socdo oo la weydiinayo",
+    "situation": "A student asks a receptionist about the duration of a class and the deadline for arriving.",
+    "somali_situation": "Arday ayaa soo-dhoweeye weydiinaya muddada fasalku socdo iyo waqtiga ugu dambeeya ee la imaan karo.",
+    "cefr": "A1",
+    "participants": [
+      "Student",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "duration",
+      "minute",
+      "hour",
+      "last",
+      "deadline",
+      "time",
+      "class"
+    ],
+    "key_phrases": [
+      "How long does the class last?",
+      "The duration is one hour.",
+      "Is there a ten-minute break?",
+      "The deadline is nine o'clock.",
+      "I will arrive on time."
+    ],
+    "grammar_focus": [
+      "how long",
+      "for + duration",
+      "from and to",
+      "comparatives",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "How long does the class last?",
+        "somali": "Fasalku intee buu socdaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The duration is one hour.",
+        "somali": "Muddadu waa hal saac."
+      },
+      {
+        "turn": 3,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Is there a ten-minute break?",
+        "somali": "Ma jiraa nasasho toban daqiiqo ah?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, after thirty minutes.",
+        "somali": "Haa, soddon daqiiqo kadib."
+      },
+      {
+        "turn": 5,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "What is the deadline for arriving?",
+        "somali": "Waqtiga ugu dambeeya ee la imaan karo waa goorma?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The deadline is nine o'clock.",
+        "somali": "Waqtiga ugu dambeeya waa sagaalka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I will arrive on time.",
+        "somali": "Mahadsanid. Waqtiga ayaan ku imaan doonaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Good. The class starts at nine fifteen.",
+        "somali": "Waa fiican tahay. Fasalku wuxuu bilaabmaa sagaal iyo rubuc."
+      }
+    ]
+  }
+]

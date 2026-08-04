@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_language_barrier_repeat_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Could you repeat that, please?",
+    "somali": "Taas ma ku celin kartaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please say it again.",
+    "somali": "Fadlan mar kale dheh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "I did not hear you clearly.",
+    "somali": "Si fiican kuuma maqlin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Can you repeat the last word?",
+    "somali": "Eraygii ugu dambeeyey ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Could you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please repeat the address.",
+    "somali": "Fadlan cinwaanka ku celi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "I missed the first part.",
+    "somali": "Qaybtii hore waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Can you say that one more time?",
+    "somali": "Taas hal mar oo kale ma oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Sorry, I did not catch that.",
+    "somali": "Waan ka xumahay, taas ma qaban.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please repeat it slowly.",
+    "somali": "Fadlan si tartiib ah ugu celi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Could you repeat the question?",
+    "somali": "Su'aasha ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "I heard only part of it.",
+    "somali": "Qayb keliya ayaan maqlay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please say the name again.",
+    "somali": "Fadlan magaca mar kale dheh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Can you repeat the time?",
+    "somali": "Waqtiga ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "I want to make sure I heard correctly.",
+    "somali": "Waxaan rabaa inaan hubiyo inaan si sax ah u maqlay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please repeat after me.",
+    "somali": "Fadlan aniga iga daba ku celi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Could you say the sentence again?",
+    "somali": "Jumladda mar kale ma oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "I am sorry, could you repeat that?",
+    "somali": "Waan ka xumahay, taas ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Please repeat only this part.",
+    "somali": "Fadlan qaybtan oo keliya ku celi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_repeat_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": "Thank you for repeating it.",
+    "somali": "Waad ku mahadsan tahay inaad ku celisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "repeat"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Could you speak more slowly?",
+    "somali": "Si ka tartiibsan ma u hadli kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "I am still learning English.",
+    "somali": "Weli Ingiriis ayaan baranayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please use simple words.",
+    "somali": "Fadlan erayo fudud isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Can you say it word by word?",
+    "somali": "Eray eray ma u oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "That was too fast for me.",
+    "somali": "Taas aad bay iigu degdeg badnayd.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please slow down a little.",
+    "somali": "Fadlan wax yar tartiib u dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "I understand better when you speak slowly.",
+    "somali": "Markaad tartiib u hadasho si fiican ayaan u fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Can we go one step at a time?",
+    "somali": "Hal tallaabo mar ma u socon karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please pause after each sentence.",
+    "somali": "Fadlan jumlad kasta ka dib hakad samee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "I need a little more time to understand.",
+    "somali": "Waqti yar oo dheeraad ah ayaan u baahanahay si aan u fahmo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Can you speak clearly, please?",
+    "somali": "Si cad ma u hadli kartaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please do not speak too quickly.",
+    "somali": "Fadlan si aad u degdeg badan ha u hadlin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "I can follow you now.",
+    "somali": "Hadda waan kula socon karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please explain it slowly.",
+    "somali": "Fadlan si tartiib ah u sharax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Could you say the important part slowly?",
+    "somali": "Qaybta muhiimka ah si tartiib ah ma u oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Your English is clear when you slow down.",
+    "somali": "Markaad tartiibiso Ingiriisigaagu wuu caddaadaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Let me write it down as you speak.",
+    "somali": "Aan qoro inta aad hadlayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Please give me time to answer.",
+    "somali": "Fadlan waqti ii sii aan ku jawaabo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_speak_slowly_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": "Thank you for speaking slowly.",
+    "somali": "Waad ku mahadsan tahay inaad tartiib u hadashay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "speak slowly"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "What does this word mean?",
+    "somali": "Eraygan muxuu ka dhigan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Can you explain the meaning?",
+    "somali": "Macnaha ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "I do not know this word.",
+    "somali": "Eraygan ma aqaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "What does this sentence mean?",
+    "somali": "Jumladdani maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Does this mean the same thing?",
+    "somali": "Tani isla macnahaas ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Can you give me an example?",
+    "somali": "Tusaale ma i siin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Please explain it in simple English.",
+    "somali": "Fadlan Ingiriis fudud ku sharax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "I understand the words, but not the meaning.",
+    "somali": "Erayada waan fahmayaa, laakiin macnaha ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Is this formal or informal?",
+    "somali": "Tani ma rasmi baa mise aan rasmi ahayn?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "What is the Somali meaning?",
+    "somali": "Macnaha Soomaaligu waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Can this word mean something else?",
+    "somali": "Eraygani wax kale ma ka dhigan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "I think I understand now.",
+    "somali": "Hadda waxaan u malaynayaa inaan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Please explain the difference.",
+    "somali": "Fadlan farqiga sharax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddani maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "That meaning is new to me.",
+    "somali": "Macnahaasi wuu igu cusub yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Can you translate this for me?",
+    "somali": "Tan ma ii tarjumi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "I need the meaning, not only the word.",
+    "somali": "Macnaha ayaan u baahanahay, erayga oo keliya ma aha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Please use it in a sentence.",
+    "somali": "Fadlan jumlad ku isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Now the meaning is clear.",
+    "somali": "Hadda macnuhu wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_meaning_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": "Thank you for explaining the meaning.",
+    "somali": "Waad ku mahadsan tahay inaad macnaha sharaxday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "meaning"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "How do you spell that?",
+    "somali": "Sidee loo higgaadiyaa taas?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Can you spell your name?",
+    "somali": "Magacaaga ma higgaadin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Please spell it slowly.",
+    "somali": "Fadlan si tartiib ah u higgaadi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Is that with one L or two?",
+    "somali": "Ma hal L baa mise laba?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Can you write the spelling down?",
+    "somali": "Higgaadda ma qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "I am not sure about the spelling.",
+    "somali": "Higgaadda si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Please check the spelling of my name.",
+    "somali": "Fadlan higgaadda magacayga hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "The spelling is different in English.",
+    "somali": "Higgaaddu Ingiriisiga way ka duwan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Can you spell the street name?",
+    "somali": "Magaca waddada ma higgaadin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "I wrote one letter wrong.",
+    "somali": "Hal xaraf ayaan khalday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Please spell it letter by letter.",
+    "somali": "Fadlan xaraf xaraf u higgaadi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Does it start with B?",
+    "somali": "Ma B ayuu ku bilaabmaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Does it end with N?",
+    "somali": "Ma N ayuu ku dhammaadaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "I need the correct spelling for the form.",
+    "somali": "Foomka waxaan u baahanahay higgaadda saxda ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Can you check my email spelling?",
+    "somali": "Higgaadda iimaylkayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "The spelling on the document is wrong.",
+    "somali": "Higgaadda dukumentiga ku qoran way khaldan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Please use capital letters.",
+    "somali": "Fadlan xarfo waaweyn isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Can you spell that again?",
+    "somali": "Taas mar kale ma higgaadin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Now I have the spelling.",
+    "somali": "Hadda higgaaddii waan hayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_spelling_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": "Thank you for spelling it for me.",
+    "somali": "Waad ku mahadsan tahay inaad ii higgaadisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "spelling"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "How do you pronounce this word?",
+    "somali": "Sidee loo dhawaaqaa eraygan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Can you say it slowly?",
+    "somali": "Si tartiib ah ma u oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Please listen to my pronunciation.",
+    "somali": "Fadlan dhageyso dhawaaqayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Am I saying it correctly?",
+    "somali": "Si sax ah ma u oranayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "That sound is difficult for me.",
+    "somali": "Dhawaaqaasi wuu igu adag yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Please repeat the word after me.",
+    "somali": "Fadlan erayga iga daba ku celi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Where is the stress in this word?",
+    "somali": "Eraygan xaggee ayaa xoogga la saaraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Can you correct my pronunciation?",
+    "somali": "Dhawaaqayga ma sixi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "I want to practise this word.",
+    "somali": "Eraygan ayaan rabaa inaan ku tababarto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Please say the first syllable again.",
+    "somali": "Fadlan dhawaaqa koowaad mar kale dheh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Does this sound natural?",
+    "somali": "Tani si dabiici ah ma u dhawaaqaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "I cannot make that sound yet.",
+    "somali": "Dhawaaqaas weli ma samayn karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Please speak clearly.",
+    "somali": "Fadlan si cad u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "I understand it when I hear it slowly.",
+    "somali": "Markaan si tartiib ah u maqlo waan fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Can you record the word for me?",
+    "somali": "Erayga ma ii duubi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Your pronunciation is clear.",
+    "somali": "Dhawaaqaga wuu cad yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "This word sounds similar to another word.",
+    "somali": "Eraygani eray kale ayuu u dhawaaq eg yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Please show me how your mouth moves.",
+    "somali": "Fadlan sida afkaagu u dhaqaaqo i tus.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "I need more practice.",
+    "somali": "Tababar dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_pronunciation_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": "Thank you for correcting me.",
+    "somali": "Waad ku mahadsan tahay inaad i saxday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "pronunciation"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I do not understand.",
+    "somali": "Ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I am sorry, I do not understand.",
+    "somali": "Waan ka xumahay, ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I only understand a little English.",
+    "somali": "Ingiriis yar oo keliya ayaan fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Can you explain it another way?",
+    "somali": "Si kale ma u sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I am confused.",
+    "somali": "Waan wareersanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "This is difficult for me.",
+    "somali": "Tani way igu adag tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I understood the first part.",
+    "somali": "Qaybtii hore waan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I did not understand the last part.",
+    "somali": "Qaybtii ugu dambaysay ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Can you use easier words?",
+    "somali": "Erayo fudud ma isticmaali kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Please show me instead.",
+    "somali": "Fadlan halkii aad ka oran lahayd i tus.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I need someone to translate.",
+    "somali": "Qof ii tarjuma ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I am not sure what you mean.",
+    "somali": "Ma hubo waxa aad ula jeeddo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Could you write it down?",
+    "somali": "Ma qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Now I understand.",
+    "somali": "Hadda waan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I still do not understand.",
+    "somali": "Weli ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Please give me a moment.",
+    "somali": "Fadlan cabbaar ii sug.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I understand better with examples.",
+    "somali": "Tusaalooyinka ayaan si fiican ugu fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Can you point to it?",
+    "somali": "Ma farta ku fiiqi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "I need help with the language.",
+    "somali": "Luqadda caawin ayaan uga baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_dont_understand_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": "Thank you for your patience.",
+    "somali": "Waad ku mahadsan tahay dulqaadkaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "dont understand"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I need an interpreter, please.",
+    "somali": "Turjubaan ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Is there a Somali interpreter?",
+    "somali": "Turjubaan Soomaali ah ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Can someone translate for me?",
+    "somali": "Qof ma ii tarjumi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I would like to speak through an interpreter.",
+    "somali": "Waxaan rabaa inaan turjubaan ku hadlo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Please wait for the interpreter.",
+    "somali": "Fadlan turjubaanka sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "The interpreter is on the phone.",
+    "somali": "Turjubaanku taleefanka ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Can the interpreter explain this form?",
+    "somali": "Turjubaanku foomkan ma sharxi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I do not want to misunderstand.",
+    "somali": "Ma doonayo inaan si khaldan u fahmo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Please translate exactly what I say.",
+    "somali": "Fadlan si sax ah u tarjun waxa aan oranayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Can my friend interpret for me?",
+    "somali": "Saaxiibkay ma ii turjumi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I need an interpreter for the appointment.",
+    "somali": "Ballanta turjubaan ayaan ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Is the interpreter free?",
+    "somali": "Turjubaanku bilaash ma yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Can we book an interpreter?",
+    "somali": "Turjubaan ma qabsan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "The interpreter speaks Somali and English.",
+    "somali": "Turjubaanku Soomaali iyo Ingiriis ayuu ku hadlaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Please speak one person at a time.",
+    "somali": "Fadlan qof keliya mar ha hadlo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I want to answer myself.",
+    "somali": "Aniga ayaa rabaa inaan jawaabo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Please ask the interpreter to repeat that.",
+    "somali": "Fadlan turjubaanka ka codso inuu taas ku celiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "The interpretation was clear.",
+    "somali": "Turjumaaddu way caddayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "I understand now with the interpreter.",
+    "somali": "Hadda turjubaanka ayaan ku fahmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_interpreter_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": "Thank you for arranging an interpreter.",
+    "somali": "Waad ku mahadsan tahay inaad turjubaan diyaarisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "interpreter"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Can I confirm the details?",
+    "somali": "Faahfaahinta ma xaqiijin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Is my name spelled correctly?",
+    "somali": "Magacaygu si sax ah ma u higgaadsan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Please check my date of birth.",
+    "somali": "Fadlan taariikhda dhalashadayda hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "The address is correct.",
+    "somali": "Cinwaanku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "The phone number is wrong.",
+    "somali": "Lambarka taleefanku wuu khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Can you repeat the appointment time?",
+    "somali": "Waqtiga ballanta ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "I want to make sure this is right.",
+    "somali": "Waxaan rabaa inaan hubiyo in tani sax tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Please read it back to me.",
+    "somali": "Fadlan dib iigu akhri.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "That is not my address.",
+    "somali": "Kani ma aha cinwaankayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "The spelling needs one more letter.",
+    "somali": "Higgaaddu hal xaraf oo kale ayay u baahan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Can you correct this detail?",
+    "somali": "Faahfaahintan ma sixi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Everything looks correct.",
+    "somali": "Wax walba waxay u muuqdaan sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "The time should be three o'clock.",
+    "somali": "Waqtigu waa inuu noqdaa saddexda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Please confirm by message.",
+    "somali": "Fadlan farriin ku xaqiiji.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "I did not give that information.",
+    "somali": "Macluumaadkaas anigu ma bixin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Can you show me what is written?",
+    "somali": "Waxa qoran ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "This number is missing a digit.",
+    "somali": "Lambarkan hal tiro ayaa ka maqan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Please update my details.",
+    "somali": "Fadlan faahfaahintayda cusbooneysii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Now the details are correct.",
+    "somali": "Hadda faahfaahintu waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_confirming_details_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "confirming details"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Could you write it down, please?",
+    "somali": "Ma qori kartaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write the address for me.",
+    "somali": "Fadlan cinwaanka ii qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can you write the price here?",
+    "somali": "Qiimaha halkan ma ku qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write slowly and clearly.",
+    "somali": "Fadlan si tartiib ah oo cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "I understand better when I see it written.",
+    "somali": "Markaan arko isagoo qoran si fiican ayaan u fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can you write the word in English?",
+    "somali": "Erayga Ingiriis ma ku qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write your phone number.",
+    "somali": "Fadlan lambarkaaga taleefanka qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can I take a photo of this?",
+    "somali": "Tan sawir ma ka qaadi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write the instructions down.",
+    "somali": "Fadlan tilmaamaha qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "I cannot read this handwriting.",
+    "somali": "Qoraalkan gacanta ma akhrin karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can you print it instead?",
+    "somali": "Ma daabici kartaa halkii?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write the date clearly.",
+    "somali": "Fadlan taariikhda si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can you write both names?",
+    "somali": "Labada magac ma qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "I will copy it now.",
+    "somali": "Hadda waan nuqulanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please write one word per line.",
+    "somali": "Fadlan sadar kasta hal eray ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Can you write the website address?",
+    "somali": "Cinwaanka bogga internetka ma qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "This note helps me remember.",
+    "somali": "Qoraalkani wuxuu iga caawiyaa inaan xasuusto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Please circle the important part.",
+    "somali": "Fadlan qaybta muhiimka ah wareeji.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Now I can read it.",
+    "somali": "Hadda waan akhrin karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_write_it_down_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": "Thank you for writing it down.",
+    "somali": "Waad ku mahadsan tahay inaad qortay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "write it down"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I speak a little English.",
+    "somali": "Ingiriis yar ayaan ku hadlaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_002",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I am still learning English.",
+    "somali": "Weli Ingiriis ayaan baranayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_003",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "My English is not very good yet.",
+    "somali": "Ingiriisigaygu weli aad uma fiicna.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_004",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I understand simple English.",
+    "somali": "Ingiriis fudud waan fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_005",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Please use easy words.",
+    "somali": "Fadlan erayo fudud isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_006",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I can read English better than I speak it.",
+    "somali": "Ingiriisiga waan ka akhris fiicanahay hadalkiisa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_007",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I need more time to answer in English.",
+    "somali": "Waqti dheeraad ah ayaan u baahanahay inaan Ingiriis ku jawaabo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_008",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Can I answer in Somali?",
+    "somali": "Soomaali ma ku jawaabi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_009",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I am practising my English.",
+    "somali": "Ingiriisigayga ayaan ku tababaranayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_010",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Please correct me if I make a mistake.",
+    "somali": "Fadlan i sax haddii aan qalad sameeyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_011",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I know some English words.",
+    "somali": "Erayo Ingiriis ah qaar waan aqaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_012",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I do not know the English word for this.",
+    "somali": "Erayga Ingiriisiga ah ee tan ma aqaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_013",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Can you speak in simple sentences?",
+    "somali": "Jumlado fudud ma ku hadli kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_014",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I can understand when you speak slowly.",
+    "somali": "Markaad tartiib u hadasho waan fahmi karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_015",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I am not fluent yet.",
+    "somali": "Weli si fiican uma hadlo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_016",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I want to improve my English.",
+    "somali": "Waxaan rabaa inaan Ingiriisigayga hagaajiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_017",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Please be patient with me.",
+    "somali": "Fadlan ii dulqaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_018",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I am more comfortable with Somali.",
+    "somali": "Soomaaliga ayaan ku raaxo badanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_019",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "I learned English at school.",
+    "somali": "Ingiriis iskuulka ayaan ku bartay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_language_barrier_english_level_020",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": "Thank you for helping me practise.",
+    "somali": "Waad ku mahadsan tahay inaad tababarka iga caawisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "language_barrier",
+      "english level"
+    ],
+    "notes": "Editorial rewrite: natural communication-repair phrase with directly aligned Somali meaning."
+  }
+]

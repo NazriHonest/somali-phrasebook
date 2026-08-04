@@ -43,7 +43,7 @@ class _PracticeScreenState extends ConsumerState<PracticeScreen> {
                 gradient: LinearGradient(
                   colors: [
                     theme.phrasebook.headerStart,
-                    theme.phrasebook.headerEnd,
+                    theme.phrasebook.greenHeaderEnd,
                   ],
                 ),
               ),
@@ -324,7 +324,7 @@ class _PracticeModeScreenState extends ConsumerState<PracticeModeScreen> {
                   end: Alignment.bottomRight,
                   colors: [
                     theme.phrasebook.headerStart,
-                    theme.phrasebook.headerEnd,
+                    theme.phrasebook.greenHeaderEnd,
                   ],
                 ),
               ),

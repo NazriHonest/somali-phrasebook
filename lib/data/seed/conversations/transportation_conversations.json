@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "conversation_transportation_bus_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "title": "Asking for the Right Bus",
+    "somali_title": "Weydiinta baska saxda ah",
+    "situation": "A passenger at a bus stop asks which bus goes to the city centre and checks the fare.",
+    "somali_situation": "Rakaab jooga meel bas laga raaco ayaa weydiinaya baska taga bartamaha magaalada wuxuuna hubinayaa lacagta raacitaanka.",
+    "cefr": "A1",
+    "participants": [
+      "Passenger",
+      "Travel assistant"
+    ],
+    "key_vocabulary": [
+      "bus",
+      "bus stop",
+      "city centre",
+      "fare",
+      "driver",
+      "ticket"
+    ],
+    "key_phrases": [
+      "Does this bus go to the city centre?",
+      "Yes, it stops near the market.",
+      "How much is the fare?",
+      "You can buy a ticket from the driver.",
+      "I'll take this bus, then."
+    ],
+    "grammar_focus": [
+      "Does this...?",
+      "Place phrases",
+      "How much...?",
+      "Can for possibility",
+      "I'll for decision"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Excuse me. Does this bus go to the city centre?",
+        "somali": "Iga raalli noqo. Baskani ma tagaa bartamaha magaalada?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Travel assistant",
+        "somali_speaker": "Kaaliye safar",
+        "english": "Yes, it stops near the market.",
+        "somali": "Haa, wuxuu istaagaa suuqa agtiisa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Great. Is this the right bus stop?",
+        "somali": "Wanaagsan. Tani ma tahay meesha saxda ah ee bas laga raaco?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Travel assistant",
+        "somali_speaker": "Kaaliye safar",
+        "english": "Yes. The driver will open the door in a minute.",
+        "somali": "Haa. Darawalku albaabka ayuu furi doonaa daqiiqad kadib."
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "How much is the fare?",
+        "somali": "Lacagta raacitaanku waa imisa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Travel assistant",
+        "somali_speaker": "Kaaliye safar",
+        "english": "It is two dollars. You can buy a ticket from the driver.",
+        "somali": "Waa laba doolar. Tigidhka waxaad ka iibsan kartaa darawalka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "I'll take this bus, then.",
+        "somali": "Markaa baskan ayaan raacayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Travel assistant",
+        "somali_speaker": "Kaaliye safar",
+        "english": "Good. Have your money ready before you get on.",
+        "somali": "Waa hagaag. Lacagta diyaarso ka hor intaadan fuulin."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_taxi_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "title": "Taking a Taxi to the Hotel",
+    "somali_title": "Taksi loogu socdo hoteelka",
+    "situation": "A passenger gets into a taxi, gives the hotel address, asks about the fare, and requests a receipt.",
+    "somali_situation": "Rakaab ayaa taksi raacaya, cinwaanka hoteelka sheegaya, lacagta safarka weydiinaya, kadibna rasiid codsanaya.",
+    "cefr": "A2",
+    "participants": [
+      "Passenger",
+      "Taxi driver"
+    ],
+    "key_vocabulary": [
+      "taxi",
+      "hotel",
+      "address",
+      "luggage",
+      "fare",
+      "traffic",
+      "receipt"
+    ],
+    "key_phrases": [
+      "Can you take me to this hotel?",
+      "Could you put my luggage in the boot?",
+      "How much is the fare usually?",
+      "There is a lot of traffic today.",
+      "Could I have a receipt, please?"
+    ],
+    "grammar_focus": [
+      "Can you...?",
+      "Could you...?",
+      "How much...?",
+      "There is...",
+      "Polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Hello. Is this taxi free? Can you take me to this hotel?",
+        "somali": "Salaan. Taksigan ma bannaan yahay? Hoteelkan ma ii kaxayn kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Taxi driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Yes, I know the address. Please get in.",
+        "somali": "Haa, cinwaanka waan garanayaa. Fadlan soo fuul."
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Could you put my luggage in the boot?",
+        "somali": "Shandaddayda ma gelin kartaa qaybta dambe ee gaariga?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Taxi driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Of course. Is one bag all you have?",
+        "somali": "Dabcan. Hal shandad oo keliya miyaa kuu taal?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Yes. How much is the fare usually?",
+        "somali": "Haa. Lacagta safarku badanaa waa imisa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Taxi driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "About fifteen dollars, but there is a lot of traffic today.",
+        "somali": "Qiyaastii shan iyo toban doolar, laakiin maanta taraafik badan ayaa jira."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "That's fine. Please use the meter.",
+        "somali": "Waa hagaag. Fadlan mitirka isticmaal."
+      },
+      {
+        "turn": 8,
+        "speaker": "Taxi driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "No problem. We should arrive in twenty minutes.",
+        "somali": "Dhib ma leh. Labaatan daqiiqo gudahood ayaynu gaari doonnaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Could I have a receipt, please?",
+        "somali": "Rasiid ma heli karaa, fadlan?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Taxi driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Yes, I'll print one when we get there.",
+        "somali": "Haa, mid ayaan kuu daabici doonaa marka aynu halkaas gaarno."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_train_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "title": "Buying a Return Train Ticket",
+    "somali_title": "Iibsashada tigidh tareen oo noqosho leh",
+    "situation": "A passenger buys a return train ticket, asks whether the train is direct, and checks the platform.",
+    "somali_situation": "Rakaab ayaa iibsanaya tigidh tareen oo noqosho leh, weydiinaya in tareenku toos yahay, wuxuuna hubinayaa boosteejada laga raaco.",
+    "cefr": "B1",
+    "participants": [
+      "Passenger",
+      "Ticket clerk"
+    ],
+    "key_vocabulary": [
+      "train",
+      "ticket",
+      "return",
+      "direct",
+      "change",
+      "platform",
+      "seat",
+      "delay"
+    ],
+    "key_phrases": [
+      "I'd like a return ticket to Birmingham, please.",
+      "Is the train direct?",
+      "You need to change at Coventry.",
+      "Which platform does it leave from here?",
+      "There is a short delay, about five minutes."
+    ],
+    "grammar_focus": [
+      "I'd like...",
+      "Direct and indirect questions",
+      "Need to",
+      "Which platform...?",
+      "There is..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Good morning. I'd like a return ticket to Birmingham, please.",
+        "somali": "Subax wanaagsan. Waxaan rabaa tigidh Birmingham ah oo noqosho leh, fadlan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Certainly. Do you want to travel on the next train?",
+        "somali": "Hubaal. Ma rabtaa inaad raacdo tareenka xiga?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Yes, if there is still a seat.",
+        "somali": "Haa, haddii kursi weli jiro."
+      },
+      {
+        "turn": 4,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "There are seats available in standard class.",
+        "somali": "Kuraas ayaa ka bannaan qaybta caadiga ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Is the train direct?",
+        "somali": "Tareenku ma toos buu u socdaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "No, you need to change at Coventry.",
+        "somali": "Maya, waa inaad Coventry ka beddelataa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "How long do I have between trains?",
+        "somali": "Immisa waqti ah ayaan u dhexeeyaa labada tareen?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "You have twelve minutes, so walk straight to the next platform.",
+        "somali": "Waxaad haysataa laba iyo toban daqiiqo, markaa si toos ah ugu soco boosteejada xigta."
+      },
+      {
+        "turn": 9,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Which platform does it leave from here?",
+        "somali": "Halkan boosteejo intee le'eg ayuu ka baxayaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Platform four. There is a short delay, about five minutes.",
+        "somali": "Boosteejada afraad. Dib u dhac yar ayaa jira, qiyaastii shan daqiiqo."
+      },
+      {
+        "turn": 11,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "That's all right. Can I pay by card?",
+        "somali": "Taasi waa hagaag. Kaar ma ku bixin karaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Yes. Your ticket will print after payment.",
+        "somali": "Haa. Tigidhkaaga ayaa daabacmi doona marka lacagta la bixiyo."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_airport_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "title": "Checking In at the Airport",
+    "somali_title": "Isdiiwaangelinta garoonka diyaaradaha",
+    "situation": "A passenger checks in for a flight, drops off a bag, asks about the gate, and hears about a short delay.",
+    "somali_situation": "Rakaab ayaa isu diiwaangelinaya duulimaad, shandad dhiibaya, albaabka laga baxo weydiinaya, kadibna maqlaya dib u dhac gaaban.",
+    "cefr": "B2",
+    "participants": [
+      "Passenger",
+      "Check-in agent"
+    ],
+    "key_vocabulary": [
+      "airport",
+      "passport",
+      "boarding pass",
+      "checked bag",
+      "hand luggage",
+      "gate",
+      "aisle seat",
+      "security",
+      "boarding"
+    ],
+    "key_phrases": [
+      "May I see your passport?",
+      "I checked in online, but I need a boarding pass.",
+      "Do you have a checked bag?",
+      "Would you prefer a window seat or an aisle seat?",
+      "Go through security now, then follow the signs for international departures."
+    ],
+    "grammar_focus": [
+      "May I...?",
+      "Present perfect",
+      "Do you have...?",
+      "Would you prefer...?",
+      "Should for expectation"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Good afternoon. I'm checking in for flight 218 to Nairobi.",
+        "somali": "Galab wanaagsan. Waxaan isu diiwaangelinayaa duulimaadka 218 ee Nairobi."
+      },
+      {
+        "turn": 2,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "May I see your passport?",
+        "somali": "Baasaboorkaaga ma arki karaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Here it is. I checked in online, but I need a boarding pass.",
+        "somali": "Waa kan. Internet-ka ayaan iska diiwaangeliyay, laakiin waxaan u baahanahay kaarka fuulitaanka."
+      },
+      {
+        "turn": 4,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "No problem. Do you have a checked bag?",
+        "somali": "Dhib ma leh. Shandad la diiwaangelinayo ma haysataa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Yes, one checked bag and one piece of hand luggage.",
+        "somali": "Haa, hal shandad la diiwaangelinayo iyo hal boorso gacanta ah."
+      },
+      {
+        "turn": 6,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "Put the checked bag on the scale, please.",
+        "somali": "Fadlan shandadda la diiwaangelinayo saar miisaanka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Is it over the limit?",
+        "somali": "Ma ka badan tahay xadka?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "No, the weight is fine. Would you prefer a window seat or an aisle seat?",
+        "somali": "Maya, miisaanku waa hagaag. Ma doorbidaysaa kursi daaqad agteeda ah mise kursi marinka agtiisa ah?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "An aisle seat, if possible.",
+        "somali": "Kursi marinka agtiisa ah, haddii ay suuragal tahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "I can move you to seat 18C.",
+        "somali": "Waxaan kuu beddeli karaa kursiga 18C."
+      },
+      {
+        "turn": 11,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Thank you. Has the gate been announced yet?",
+        "somali": "Mahadsanid. Albaabka laga baxo weli ma lagu dhawaaqay?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "Not yet. It will appear on the airport screens after security.",
+        "somali": "Weli maya. Waxay ka soo muuqan doontaa shaashadaha garoonka kadib amniga."
+      },
+      {
+        "turn": 13,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Is the flight delayed?",
+        "somali": "Duulimaadku ma dib buu u dhacay?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "Only by twenty minutes, so boarding should start at six ten.",
+        "somali": "Kaliya labaatan daqiiqo, markaa fuulitaanku waa inuu bilaabmaa lix iyo toban."
+      },
+      {
+        "turn": 15,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Do I need to go straight to the gate?",
+        "somali": "Ma u baahanahay inaan si toos ah albaabka u aado?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Check-in agent",
+        "somali_speaker": "Shaqaale isdiiwaangelin",
+        "english": "Go through security now, then follow the signs for international departures.",
+        "somali": "Hadda amniga ka gudub, kadibna raac calaamadaha duulimaadyada caalamiga ah."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_tickets_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "title": "Buying a Single Ticket",
+    "somali_title": "Iibsashada tigidh hal-jid ah",
+    "situation": "A passenger buys a simple ticket, asks about the stop, and pays with cash.",
+    "somali_situation": "Rakaab ayaa iibsanaya tigidh fudud, meesha uu ka degayo weydiinaya, kadibna lacag caddaan ah bixinaya.",
+    "cefr": "A1",
+    "participants": [
+      "Passenger",
+      "Ticket clerk"
+    ],
+    "key_vocabulary": [
+      "ticket",
+      "single",
+      "return",
+      "cash",
+      "stop",
+      "Central Station"
+    ],
+    "key_phrases": [
+      "One ticket to Central Station, please.",
+      "Single or return?",
+      "Which stop should I get off at?",
+      "Can I pay with cash?",
+      "Here is your ticket."
+    ],
+    "grammar_focus": [
+      "One + noun",
+      "Single or return",
+      "Which stop...?",
+      "Can I...?",
+      "Here is..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "One ticket to Central Station, please.",
+        "somali": "Hal tigidh oo Central Station ah, fadlan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Single or return?",
+        "somali": "Hal-jid mise noqosho?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Single, please.",
+        "somali": "Hal-jid, fadlan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "That is three dollars.",
+        "somali": "Waa saddex doolar."
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Which stop should I get off at?",
+        "somali": "Joogsi kee ayaan ka degayaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Get off at Central Station.",
+        "somali": "Ka deg Central Station."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Can I pay with cash?",
+        "somali": "Lacag caddaan ah ma ku bixin karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Ticket clerk",
+        "somali_speaker": "Iibiye tigidh",
+        "english": "Yes. Here is your ticket.",
+        "somali": "Haa. Waa kan tigidhkaagii."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_driving_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "title": "Picking Up a Rental Car",
+    "somali_title": "Qaadata gaari kiraysan",
+    "situation": "A customer collects a rental car and asks about the licence, insurance, driving side, and keys.",
+    "somali_situation": "Macmiil ayaa qaadanaya gaari kiraysan wuxuuna weydiinayaa ruqsadda, caymiska, dhinaca la maro, iyo furayaasha.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Rental agent"
+    ],
+    "key_vocabulary": [
+      "driving",
+      "licence",
+      "car",
+      "automatic",
+      "insurance",
+      "left side",
+      "speed limit",
+      "keys"
+    ],
+    "key_phrases": [
+      "May I see your driving licence?",
+      "Is the car automatic?",
+      "Does the insurance cover another driver?",
+      "Drive on the left side and watch the speed limit.",
+      "The keys are in the car park, bay twelve."
+    ],
+    "grammar_focus": [
+      "May I...?",
+      "Is the...?",
+      "Does the...?",
+      "Imperatives",
+      "Place phrases"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. I'm here to pick up a rental car.",
+        "somali": "Salaan. Waxaan u imid inaan qaato gaari kiraysan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Rental agent",
+        "somali_speaker": "Shaqaale kireynta gawaarida",
+        "english": "May I see your driving licence?",
+        "somali": "Ruqsaddaada wadista ma arki karaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Here it is. Is the car automatic?",
+        "somali": "Waa tan. Gaarigu ma otomaatig baa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Rental agent",
+        "somali_speaker": "Shaqaale kireynta gawaarida",
+        "english": "Yes, it is an automatic car.",
+        "somali": "Haa, waa gaari otomaatig ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Does the insurance cover another driver?",
+        "somali": "Caymisku ma daboolayaa darawal kale?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Rental agent",
+        "somali_speaker": "Shaqaale kireynta gawaarida",
+        "english": "Only if the second driver signs here.",
+        "somali": "Kaliya haddii darawalka labaad halkan saxiixo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do I drive on the left side here?",
+        "somali": "Halkan dhinaca bidix ma ku wadaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Rental agent",
+        "somali_speaker": "Shaqaale kireynta gawaarida",
+        "english": "Yes. Drive on the left side and watch the speed limit.",
+        "somali": "Haa. Dhinaca bidix ku wad, xadka xawaarahana ilaali."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. Where are the keys?",
+        "somali": "Wanaagsan. Furayaashu xaggee bay yaallaan?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Rental agent",
+        "somali_speaker": "Shaqaale kireynta gawaarida",
+        "english": "The keys are in the car park, bay twelve.",
+        "somali": "Furayaashu waxay yaallaan goobta baabuurta la dhigto, booska laba iyo toban."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_fuel_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "title": "Paying for Fuel",
+    "somali_title": "Bixinta lacagta shidaalka",
+    "situation": "A driver pays for fuel at a petrol station and asks where to check tyre pressure.",
+    "somali_situation": "Darawal ayaa lacagta shidaalka ku bixinaya kaalin shidaal wuxuuna weydiinayaa meesha cadaadiska taayirrada laga hubiyo.",
+    "cefr": "B1",
+    "participants": [
+      "Driver",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "fuel",
+      "petrol station",
+      "pump",
+      "unleaded",
+      "diesel",
+      "receipt",
+      "tyre pressure",
+      "air machine"
+    ],
+    "key_phrases": [
+      "I used pump four for unleaded fuel.",
+      "Can I pay by card?",
+      "Could I have a receipt?",
+      "Where can I check tyre pressure?",
+      "This car needs unleaded."
+    ],
+    "grammar_focus": [
+      "Past simple",
+      "Can I...?",
+      "Could I...?",
+      "Where can I...?",
+      "This + noun + needs..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Hi. I'm new to this petrol station. I used pump four for unleaded fuel.",
+        "somali": "Salaan. Kaalintan shidaal waan ku cusubahay. Waxaan isticmaalay bamka afraad oo shidaal unleaded ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "Pump four. That comes to forty-two dollars.",
+        "somali": "Bamka afraad. Waxay noqonaysaa laba iyo afartan doolar."
+      },
+      {
+        "turn": 3,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Can I pay by card?",
+        "somali": "Kaar ma ku bixin karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "Yes, insert your card and enter your PIN.",
+        "somali": "Haa, kaarka geli kadibna lambarkaaga sirta ah qor."
+      },
+      {
+        "turn": 5,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Could I have a receipt?",
+        "somali": "Rasiid ma ii soo bixi karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "Of course. It is printing now.",
+        "somali": "Dabcan. Hadda ayuu daabacmayaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Where can I check tyre pressure?",
+        "somali": "Xaggee baan ka hubin karaa cadaadiska taayirrada?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "The air machine is beside pump one.",
+        "somali": "Mashiinka hawadu wuxuu yaal bamka koowaad agtiisa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Is it free to use?",
+        "somali": "Ma bilaash baa in la isticmaalo?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "Yes, but wait until the other car moves.",
+        "somali": "Haa, laakiin sug ilaa gaariga kale dhaqaaqo."
+      },
+      {
+        "turn": 11,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Thanks. I almost chose diesel by mistake.",
+        "somali": "Mahadsanid. Ku dhowaad si qalad ah ayaan diesel u dooran lahaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Cashier",
+        "somali_speaker": "Khasnaji",
+        "english": "Good thing you checked. This car needs unleaded.",
+        "somali": "Waa fiican tahay inaad hubisay. Gaarigan wuxuu u baahan yahay unleaded."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_parking_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "title": "Using a Car Park",
+    "somali_title": "Isticmaalka goob baarkin",
+    "situation": "A driver asks a parking attendant about spaces, rates, payment, and the exit barrier.",
+    "somali_situation": "Darawal ayaa shaqaale baarkin weydiinaya meelaha bannaan, qiimaha, lacag bixinta, iyo xannibaadda bixitaanka.",
+    "cefr": "B2",
+    "participants": [
+      "Driver",
+      "Parking attendant"
+    ],
+    "key_vocabulary": [
+      "parking",
+      "car park",
+      "spaces",
+      "ticket",
+      "barrier",
+      "hourly rate",
+      "payment machine",
+      "registration number",
+      "receipt"
+    ],
+    "key_phrases": [
+      "Is there any parking near the hospital entrance?",
+      "Level two has spaces.",
+      "Do I take a ticket at the barrier?",
+      "What is the hourly rate?",
+      "Use the payment machine next to the lift."
+    ],
+    "grammar_focus": [
+      "Is there any...?",
+      "Do I...?",
+      "What is...?",
+      "Can I...?",
+      "Imperatives for instructions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Excuse me, is there any parking near the hospital entrance?",
+        "somali": "Iga raalli noqo, baarkin ma jiraa meel u dhow albaabka isbitaalka?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Yes, use this car park. Level two has spaces.",
+        "somali": "Haa, isticmaal goobtan baarkinka. Dabaqa labaad meelo bannaan ayaa ku yaal."
+      },
+      {
+        "turn": 3,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Do I take a ticket at the barrier?",
+        "somali": "Tigidh ma ka qaataa xannibaadda?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Yes, press the button and take the ticket.",
+        "somali": "Haa, badhanka riix kadibna tigidhka qaado."
+      },
+      {
+        "turn": 5,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "What is the hourly rate?",
+        "somali": "Qiimaha saacaddiiba waa imisa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "It is three dollars an hour, with a daily maximum of eighteen.",
+        "somali": "Waa saddex doolar saacaddii, ugu badnaan maalintii waa siddeed iyo toban."
+      },
+      {
+        "turn": 7,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Can I leave the car overnight?",
+        "somali": "Gaariga habeenkii ma ka tagi karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "You can, but keep the ticket with you.",
+        "somali": "Waad ka tagi kartaa, laakiin tigidhka ha kula jiro."
+      },
+      {
+        "turn": 9,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Where do I pay before I leave?",
+        "somali": "Xaggee baan lacagta ku bixiyaa ka hor intaanan bixin?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Use the payment machine next to the lift.",
+        "somali": "Isticmaal mashiinka lacag bixinta ee wiishka agtiisa yaal."
+      },
+      {
+        "turn": 11,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "The payment machine asks for my registration number.",
+        "somali": "Mashiinka lacag bixintu wuxuu iga rabaa lambarka diiwaangelinta gaariga."
+      },
+      {
+        "turn": 12,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Type your plate number first, then insert the ticket.",
+        "somali": "Marka hore qor lambarka taarikada, kadibna tigidhka geli."
+      },
+      {
+        "turn": 13,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Can I get a receipt?",
+        "somali": "Rasiid ma heli karaa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Yes, choose receipt after payment.",
+        "somali": "Haa, dooro rasiid marka lacagta la bixiyo kadib."
+      },
+      {
+        "turn": 15,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "And if the barrier does not open?",
+        "somali": "Haddii xannibaaddu furmi weydo?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Parking attendant",
+        "somali_speaker": "Shaqaale baarkin",
+        "english": "Press the help button and show the paid ticket to the camera.",
+        "somali": "Riix badhanka caawinta kadibna tigidhka la bixiyay tus kamaradda."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_route_directions_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "title": "Asking for Directions",
+    "somali_title": "Weydiinta tilmaamaha jidka",
+    "situation": "A visitor asks for directions to a museum and checks the best walking route.",
+    "somali_situation": "Booqde ayaa weydiinaya tilmaamaha jidka loo maro matxaf wuxuuna hubinayaa waddada ugu fiican ee lagu socdo.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Local person"
+    ],
+    "key_vocabulary": [
+      "route",
+      "directions",
+      "museum",
+      "straight",
+      "left",
+      "corner",
+      "bank"
+    ],
+    "key_phrases": [
+      "Could you give me directions to the museum?",
+      "Is this the best route?",
+      "Go straight and turn left.",
+      "The museum is next to the bank.",
+      "It is on the corner."
+    ],
+    "grammar_focus": [
+      "Could you...?",
+      "Is this...?",
+      "Imperatives",
+      "Prepositions of place",
+      "Short answers"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Excuse me. Could you give me directions to the museum?",
+        "somali": "Iga raalli noqo. Matxafka tilmaamo ma ii siin kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Local person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes. Go straight and turn left.",
+        "somali": "Haa. Toos u soco kadibna bidix u leexo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Is this the best route?",
+        "somali": "Tani ma waddada ugu fiican baa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Local person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is the quickest route on foot.",
+        "somali": "Haa, waa waddada ugu dhaqso badan marka lug lagu socdo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "What is near the museum?",
+        "somali": "Maxaa u dhow matxafka?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Local person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "The museum is next to the bank.",
+        "somali": "Matxafku wuxuu ku xigaa bangiga."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Is it on the corner?",
+        "somali": "Ma geeska ayuu ku yaal?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Local person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is on the corner.",
+        "somali": "Haa, geeska ayuu ku yaal."
+      }
+    ]
+  },
+  {
+    "id": "conversation_transportation_ride_sharing_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "title": "Meeting a Ride Share Driver",
+    "somali_title": "La kulmidda darawal adeeg raacid",
+    "situation": "A passenger meets a ride share driver, confirms the car, destination, and route, then gets in safely.",
+    "somali_situation": "Rakaab ayaa la kulmaya darawal adeeg raacid, wuxuuna xaqiijinayaa gaariga, meesha loo socdo, iyo waddada ka hor inta uusan si ammaan ah u fuulin.",
+    "cefr": "A2",
+    "participants": [
+      "Passenger",
+      "Driver"
+    ],
+    "key_vocabulary": [
+      "ride",
+      "sharing",
+      "pickup point",
+      "driver",
+      "car",
+      "number plate",
+      "destination",
+      "route"
+    ],
+    "key_phrases": [
+      "Are you my ride sharing driver?",
+      "Are you waiting at the pickup point?",
+      "Can you confirm your destination?",
+      "Is there a faster route?",
+      "Please check the number plate before you get in."
+    ],
+    "grammar_focus": [
+      "Are you...?",
+      "Can you...?",
+      "Is there...?",
+      "I'll for route choice",
+      "Safety imperatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Hi, are you my ride sharing driver?",
+        "somali": "Salaan, ma adigaa ah darawalkayga adeegga raacitaanka?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Yes, I'm Sam. Are you waiting at the pickup point?",
+        "somali": "Haa, waxaan ahay Sam. Ma joogtaa meesha rakaabka laga qaado?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Yes, I'm by the pharmacy. Is this the blue car?",
+        "somali": "Haa, waxaan joogaa farmashiyaha agtiisa. Kani ma gaariga buluugga ah baa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Yes. Can you confirm your destination?",
+        "somali": "Haa. Meesha aad u socoto ma xaqiijin kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "The Central Hotel on King Street.",
+        "somali": "Hoteelka Central ee ku yaal King Street."
+      },
+      {
+        "turn": 6,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Great. The app shows a busy route.",
+        "somali": "Wanaagsan. App-ku wuxuu muujinayaa waddo mashquul ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Is there a faster route?",
+        "somali": "Waddo ka dhaqso badan ma jirtaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Yes, I'll take the river road.",
+        "somali": "Haa, waxaan mari doonaa waddada webiga."
+      },
+      {
+        "turn": 9,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Can I sit in the back?",
+        "somali": "Dambe ma fariisan karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Driver",
+        "somali_speaker": "Darawal",
+        "english": "Of course. Please check the number plate before you get in.",
+        "somali": "Dabcan. Fadlan hubi lambarka taarikada ka hor intaadan fuulin."
+      }
+    ]
+  }
+]

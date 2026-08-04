@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "phrase_personal_information_name_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "What is your name?",
+    "somali": "Magacaagu waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "My name is Ahmed.",
+    "somali": "Magacaygu waa Axmed.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Please write your full name.",
+    "somali": "Fadlan magacaaga oo buuxa qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "My first name is Asha.",
+    "somali": "Magacayga koowaad waa Caasha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "My family name is Hassan.",
+    "somali": "Magaca qoyskaygu waa Xasan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Can you spell your name?",
+    "somali": "Magacaaga ma higgaadin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "My name is spelled wrong.",
+    "somali": "Magacayga si khaldan ayaa loo higgaadiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Please use my legal name.",
+    "somali": "Fadlan isticmaal magacayga rasmiga ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "I prefer to be called Ali.",
+    "somali": "Waxaan doorbidaa in Cali la iigu yeero.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Is this your signature?",
+    "somali": "Kani ma saxiixaagii baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "My name has changed.",
+    "somali": "Magacaygii wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Do you need proof of my name?",
+    "somali": "Caddayn magacayga ah ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "The name on the document is correct.",
+    "somali": "Magaca dukumentiga ku qoran waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Please correct the last name.",
+    "somali": "Fadlan magaca dambe sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "I have two given names.",
+    "somali": "Laba magac oo hore ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_name_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "name"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "How old are you?",
+    "somali": "Immisa jir baad tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "I am twenty-five years old.",
+    "somali": "Waxaan ahay shan iyo labaatan jir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Please write your age here.",
+    "somali": "Fadlan da'daada halkan ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "My child is six years old.",
+    "somali": "Ilmahaygu waa lix jir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Are you over eighteen?",
+    "somali": "Ma ka weyn tahay siddeed iyo toban?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "I am under sixteen.",
+    "somali": "Waxaan ka yarahay lix iyo toban.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Do you need my date of birth?",
+    "somali": "Taariikhda dhalashadayda ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "My age is written on the form.",
+    "somali": "Da'daydu foomka ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "The age on the record is wrong.",
+    "somali": "Da'da diiwaanka ku qoran way khaldan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Please correct my age.",
+    "somali": "Fadlan da'dayda sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "He is too young for this activity.",
+    "somali": "Wuu ka yar yahay hawshan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "She is old enough to register.",
+    "somali": "Way ku filan tahay da? ahaan inay is diiwaangeliso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "I turned thirty last month.",
+    "somali": "Bishii hore waxaan gaaray soddon jir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "My baby is eight months old.",
+    "somali": "Ilmahaygu waa siddeed bilood jir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Age is required on this form.",
+    "somali": "Foomkan da? ayaa looga baahan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_age_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "age"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "What nationality are you?",
+    "somali": "Jinsiyaddaadu waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I am Somali.",
+    "somali": "Waxaan ahay Soomaali.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I have British nationality.",
+    "somali": "Waxaan haystaa jinsiyad British ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Please write your nationality here.",
+    "somali": "Fadlan jinsiyaddaada halkan ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "My nationality is on my passport.",
+    "somali": "Jinsiyaddaydu baasaboorkayga ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Do you have another nationality?",
+    "somali": "Jinsiyad kale ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I was born in Somalia.",
+    "somali": "Soomaaliya ayaan ku dhashay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I live in the United Kingdom.",
+    "somali": "Boqortooyada Midowday ayaan degganahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "The nationality on the form is wrong.",
+    "somali": "Jinsiyadda foomka ku qoran way khaldan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Please correct my nationality.",
+    "somali": "Fadlan jinsiyaddayda sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I am applying as a Somali citizen.",
+    "somali": "Muwaadin Soomaali ah ayaan ku codsanayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Do you need my passport?",
+    "somali": "Baasaboorkayga ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "I have permanent residence.",
+    "somali": "Degganaansho joogto ah ayaan haystaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "My country of birth is Somalia.",
+    "somali": "Dalka aan ku dhashay waa Soomaaliya.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Nationality is required for this form.",
+    "somali": "Foomkan jinsiyad ayaa looga baahan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_nationality_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "nationality"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "What is your address?",
+    "somali": "Cinwaankaagu waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "I live at this address.",
+    "somali": "Cinwaankan ayaan degganahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Please write your full address.",
+    "somali": "Fadlan cinwaankaaga oo buuxa qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "My address has changed.",
+    "somali": "Cinwaankaygii wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Can you update my address?",
+    "somali": "Cinwaankayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "The postcode is missing.",
+    "somali": "Koodhka boostadu wuu maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "My flat number is six.",
+    "somali": "Lambarka gurigaygu waa lix.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "The street name is spelled wrong.",
+    "somali": "Magaca waddada si khaldan ayaa loo higgaadiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Do you need proof of address?",
+    "somali": "Caddayn cinwaan ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Here is a utility bill with my address.",
+    "somali": "Waa kan biil adeeg oo cinwaankayga leh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Please send letters to this address.",
+    "somali": "Fadlan waraaqaha cinwaankan u dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "I moved last week.",
+    "somali": "Toddobaadkii hore ayaan guuray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "This is my temporary address.",
+    "somali": "Kani waa cinwaankayga ku-meelgaarka ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "I do not know the postcode.",
+    "somali": "Koodhka boostada ma aqaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Can you read the address back to me?",
+    "somali": "Cinwaanka dib ma iigu akhrin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_address_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "address"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "What is your phone number?",
+    "somali": "Lambarkaaga taleefanku waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "My phone number is written here.",
+    "somali": "Lambarka taleefankaygu halkan ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Please call this number.",
+    "somali": "Fadlan lambarkan wac.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Can you send me a text message?",
+    "somali": "Farriin qoraal ah ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "My phone number has changed.",
+    "somali": "Lambarka taleefankaygii wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "The last digit is wrong.",
+    "somali": "Tirada ugu dambaysa way khaldan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Please include the country code.",
+    "somali": "Fadlan koodhka dalka ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "This is my mobile number.",
+    "somali": "Kani waa lambarka taleefankayga gacanta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "I do not have a landline.",
+    "somali": "Taleefan guri ma haysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Can you repeat the number slowly?",
+    "somali": "Lambarka si tartiib ah ma ugu celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Please do not share my number.",
+    "somali": "Fadlan lambarkayga ha la wadaagin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "You can reach me after five.",
+    "somali": "Shanta ka dib waad i heli kartaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "My voicemail is not working.",
+    "somali": "Voicemail-kaygu ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Please update my contact number.",
+    "somali": "Fadlan lambarka xiriirkayga cusbooneysii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "I missed your call.",
+    "somali": "Wicitaankaagii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_phone_number_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "phone number"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Do you have family here?",
+    "somali": "Qoys halkan ma ku leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "I live with my family.",
+    "somali": "Qoyskayga ayaan la degganahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "This is my wife.",
+    "somali": "Tani waa xaaskayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "This is my husband.",
+    "somali": "Kani waa ninkayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "I have two children.",
+    "somali": "Laba carruur ah ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "My parents live in Somalia.",
+    "somali": "Waalidkaygu Soomaaliya ayay deggan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "My brother is my emergency contact.",
+    "somali": "Walaalkay ayaa ah xiriirkayga degdegga ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Can my sister come with me?",
+    "somali": "Walaashay ma ila iman kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "I am here with my mother.",
+    "somali": "Hooyaday ayaan la joogaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "My child needs an appointment.",
+    "somali": "Ilmahaygu ballan ayuu u baahan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Please write the family member's name.",
+    "somali": "Fadlan magaca qofka qoyska ka tirsan qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Do you have dependants?",
+    "somali": "Dad kugu tiirsan ma jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "My family name is Hassan.",
+    "somali": "Magaca qoyskaygu waa Xasan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "I need to call my family.",
+    "somali": "Qoyskayga ayaan u baahanahay inaan waco.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "We are a family of four.",
+    "somali": "Waxaan nahay qoys afar qof ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_family_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "family"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Are you married?",
+    "somali": "Ma guursatay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I am married.",
+    "somali": "Waan guursaday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I am single.",
+    "somali": "Weli ma guursan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I am divorced.",
+    "somali": "Waan kala tagay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I am widowed.",
+    "somali": "Waan carmalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Please choose your marital status.",
+    "somali": "Fadlan dooro xaaladdaada guurka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "My marital status has changed.",
+    "somali": "Xaaladdayda guurku way is beddeshay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Do you need my marriage certificate?",
+    "somali": "Shahaadada guurka ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "My spouse lives with me.",
+    "somali": "Lammaanahaygu wuu ila deggan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I do not have a spouse.",
+    "somali": "Lammaane ma lihi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "The form asks if I am married.",
+    "somali": "Foomku wuxuu weydiinayaa inaan guursaday iyo in kale.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Please correct my marital status.",
+    "somali": "Fadlan xaaladdayda guurka sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "I prefer not to answer that.",
+    "somali": "Taas kama jawaabi rabo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Is this question required?",
+    "somali": "Su'aashan ma khasab baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "My partner is listed here.",
+    "somali": "Lammaanahaygu halkan ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_marital_status_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "marital status"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "What do you do for work?",
+    "somali": "Shaqo ahaan maxaad qabataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I am a driver.",
+    "somali": "Waxaan ahay darawal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I work in a shop.",
+    "somali": "Dukaan ayaan ka shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I am currently unemployed.",
+    "somali": "Hadda shaqo ma hayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I am a student.",
+    "somali": "Waxaan ahay arday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Please write your occupation.",
+    "somali": "Fadlan shaqadaada qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "My job title has changed.",
+    "somali": "Magaca shaqadaydu wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I work part-time.",
+    "somali": "Waqti-dhiman ayaan shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I work full-time.",
+    "somali": "Waqti-buuxa ayaan shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I am self-employed.",
+    "somali": "Aniga ayaa iskii u shaqaysta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Do you need my employer's name?",
+    "somali": "Magaca loo-shaqeeyahayga ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I started this job last year.",
+    "somali": "Shaqadan sannadkii hore ayaan bilaabay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "I am looking for work.",
+    "somali": "Shaqo ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "My occupation is written on the form.",
+    "somali": "Shaqadaydu foomka ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Please update my job details.",
+    "somali": "Fadlan faahfaahinta shaqadayda cusbooneysii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_occupation_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "occupation"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "What is your highest level of education?",
+    "somali": "Heerkaaga waxbarasho ee ugu sarreeya waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I finished secondary school.",
+    "somali": "Dugsiga sare waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I studied at university.",
+    "somali": "Jaamacad ayaan dhigtay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I am still studying.",
+    "somali": "Weli waxbarasho ayaan ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Please write your qualification.",
+    "somali": "Fadlan shahaadadaada qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Do you need my certificate?",
+    "somali": "Shahaadadayda ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I studied English at school.",
+    "somali": "Ingiriis iskuulka ayaan ku bartay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I did not finish college.",
+    "somali": "Kulliyadda ma dhammeystirin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "My certificate is from Somalia.",
+    "somali": "Shahaadadaydu Soomaaliya ayay ka timid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Can I translate my certificate?",
+    "somali": "Shahaadadayda ma tarjumi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I have vocational training.",
+    "somali": "Tababar xirfadeed ayaan haystaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "The course lasted six months.",
+    "somali": "Koorsadu lix bilood ayay socotay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "I want to continue my education.",
+    "somali": "Waxbarashadayda ayaan rabaa inaan sii wato.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Please add my latest course.",
+    "somali": "Fadlan koorsadaydii ugu dambaysay ku dar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "My education details are correct.",
+    "somali": "Faahfaahinta waxbarashadaydu waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_education_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "education"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "What languages do you speak?",
+    "somali": "Luqado noocee ah ayaad ku hadashaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I speak Somali.",
+    "somali": "Soomaali ayaan ku hadlaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I speak a little English.",
+    "somali": "Ingiriis yar ayaan ku hadlaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I understand Arabic.",
+    "somali": "Carabi waan fahmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Please speak in English.",
+    "somali": "Fadlan Ingiriis ku hadal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Can I have a Somali interpreter?",
+    "somali": "Turjubaan Soomaali ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "My first language is Somali.",
+    "somali": "Luqaddayda koowaad waa Soomaali.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I am learning English.",
+    "somali": "Ingiriis ayaan baranayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I can read English better than I speak it.",
+    "somali": "Ingiriisiga waan ka akhris fiicanahay hadalkiisa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Please write the language you prefer.",
+    "somali": "Fadlan qor luqadda aad doorbidayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Do you need language support?",
+    "somali": "Taageero luqadeed ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I prefer Somali for important information.",
+    "somali": "Macluumaadka muhiimka ah Soomaali ayaan doorbidayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Can you translate this?",
+    "somali": "Tan ma tarjumi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "I do not speak that language.",
+    "somali": "Luqaddaas kuma hadlo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Please use simple English.",
+    "somali": "Fadlan Ingiriis fudud isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_languages_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "languages"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Who is your emergency contact?",
+    "somali": "Yaa ah xiriirkaaga degdegga ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_002",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "My brother is my emergency contact.",
+    "somali": "Walaalkay ayaa ah xiriirkayga degdegga ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_003",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Please write their phone number.",
+    "somali": "Fadlan lambarkooda taleefanka qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_004",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Can we call this person in an emergency?",
+    "somali": "Xaalad degdeg ah qofkan ma wici karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_005",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "This is my wife's number.",
+    "somali": "Kani waa lambarka xaaskayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_006",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "My emergency contact has changed.",
+    "somali": "Xiriirkaygii degdegga ahaa wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_007",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Please update the emergency contact.",
+    "somali": "Fadlan xiriirka degdegga ah cusbooneysii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_008",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "They live near me.",
+    "somali": "Meel ii dhow ayay deggan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_009",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "They speak Somali and English.",
+    "somali": "Soomaali iyo Ingiriis ayay ku hadlaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_010",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Call this number first.",
+    "somali": "Lambarkan marka hore wac.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_011",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "The number is not correct.",
+    "somali": "Lambarku sax ma aha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_012",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Do you need their address?",
+    "somali": "Cinwaankooda ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_013",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "This person knows my medical information.",
+    "somali": "Qofkani wuu yaqaan macluumaadkayga caafimaad.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_014",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Please do not call them unless it is urgent.",
+    "somali": "Fadlan ha wicin haddii aysan degdeg ahayn.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_015",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "I need to add a second contact.",
+    "somali": "Xiriir labaad ayaan u baahanahay inaan ku daro.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_016",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Please write it clearly.",
+    "somali": "Fadlan si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_017",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_018",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "There is a mistake here.",
+    "somali": "Halkan qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_019",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Can you update my information?",
+    "somali": "Macluumaadkayga ma cusbooneysiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_personal_information_emergency_contact_020",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": "Thank you for checking.",
+    "somali": "Waad ku mahadsan tahay hubinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "personal_information",
+      "emergency contact"
+    ],
+    "notes": "Editorial rewrite: natural personal-information phrase with directly aligned Somali meaning."
+  }
+]

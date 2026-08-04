@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "conversation_descriptions_people_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "title": "Describing a Person at Reception",
+    "somali_title": "Qof soo-dhoweynta lagu sharxayo",
+    "situation": "A visitor describes the person they are meeting so reception can call the right office.",
+    "somali_situation": "Soo booqde ayaa sharxaya qofka uu la kulmayo si soo-dhoweyntu ugu wacdo xafiiska saxda ah.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "person",
+      "man",
+      "woman",
+      "tall",
+      "office",
+      "people"
+    ],
+    "key_phrases": [
+      "I am looking for a person here.",
+      "Is it a man or a woman?",
+      "She is a tall woman.",
+      "Many people work in this office.",
+      "I know who you mean."
+    ],
+    "grammar_focus": [
+      "be + adjective",
+      "or questions",
+      "looking for",
+      "who you mean",
+      "simple descriptions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "I am looking for a person here.",
+        "somali": "Waxaan halkan ka raadinayaa qof."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Is it a man or a woman?",
+        "somali": "Ma nin baa mise naag?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "She is a tall woman.",
+        "somali": "Waa haweeney dheer."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Many people work in this office.",
+        "somali": "Dad badan ayaa ka shaqeeya xafiiskan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Her name is Amina.",
+        "somali": "Magaceedu waa Aamina."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I know who you mean.",
+        "somali": "Waan garanayaa qofka aad ula jeeddo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Can you call her?",
+        "somali": "Ma wici kartaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, please wait here.",
+        "somali": "Haa, fadlan halkan ku sug."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_appearance_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "title": "Describing Appearance to Find a Friend",
+    "somali_title": "Muuqaal saaxiib lagu raadinayo",
+    "situation": "A visitor describes a friend's appearance to a hotel worker in a busy lobby.",
+    "somali_situation": "Soo booqde ayaa shaqaale hoteel u sharxaya muuqaalka saaxiib uu ka raadinayo hool mashquul ah.",
+    "cefr": "A2",
+    "participants": [
+      "Visitor",
+      "Hotel Worker"
+    ],
+    "key_vocabulary": [
+      "appearance",
+      "short hair",
+      "glasses",
+      "jacket",
+      "beard",
+      "lobby"
+    ],
+    "key_phrases": [
+      "Can I describe his appearance?",
+      "He has short hair and glasses.",
+      "He is wearing a gray jacket.",
+      "Does he have a beard?",
+      "I saw him in the lobby."
+    ],
+    "grammar_focus": [
+      "has and is wearing",
+      "yes/no questions",
+      "past simple saw",
+      "adjective + noun",
+      "can for permission"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "I cannot find my friend.",
+        "somali": "Ma heli karo saaxiibkay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Hotel Worker",
+        "somali_speaker": "Shaqaale hoteel",
+        "english": "Can I describe his appearance?",
+        "somali": "Muuqaalkiisa ma sharxi karaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "He has short hair and glasses.",
+        "somali": "Timo gaaban iyo ookiyaale ayuu leeyahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Hotel Worker",
+        "somali_speaker": "Shaqaale hoteel",
+        "english": "Does he have a beard?",
+        "somali": "Gar ma leeyahay?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "No, he does not.",
+        "somali": "Maya, ma leh."
+      },
+      {
+        "turn": 6,
+        "speaker": "Hotel Worker",
+        "somali_speaker": "Shaqaale hoteel",
+        "english": "What is he wearing?",
+        "somali": "Muxuu xiran yahay?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "He is wearing a gray jacket.",
+        "somali": "Wuxuu xiran yahay jaakad cawl ah."
+      },
+      {
+        "turn": 8,
+        "speaker": "Hotel Worker",
+        "somali_speaker": "Shaqaale hoteel",
+        "english": "I saw him in the lobby.",
+        "somali": "Waxaan ku arkay hoolka."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Great. I will go there now.",
+        "somali": "Waa fiican tahay. Hadda halkaas ayaan aadayaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Hotel Worker",
+        "somali_speaker": "Shaqaale hoteel",
+        "english": "He is sitting near the window.",
+        "somali": "Wuxuu fadhiyaa daaqadda agteeda."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_personality_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "title": "Describing a New Teacher",
+    "somali_title": "Macallin cusub oo la sharxayo",
+    "situation": "Two students talk about a new teacher's personality after the first lesson.",
+    "somali_situation": "Laba arday ayaa ka hadlaya dabeecadda macallin cusub ka dib casharkii ugu horreeyay.",
+    "cefr": "B1",
+    "participants": [
+      "Student A",
+      "Student B"
+    ],
+    "key_vocabulary": [
+      "personality",
+      "patient",
+      "strict",
+      "friendly",
+      "quiet",
+      "teacher"
+    ],
+    "key_phrases": [
+      "What is the teacher's personality like?",
+      "She is patient when we make mistakes.",
+      "She is strict about homework.",
+      "She seems friendly but quiet.",
+      "That kind of teacher helps me learn."
+    ],
+    "grammar_focus": [
+      "what is someone like",
+      "seems + adjective",
+      "when clauses",
+      "but for contrast",
+      "helps me + verb"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "What is the teacher's personality like?",
+        "somali": "Dabeecadda macallinku sidee bay tahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "She seems friendly but quiet.",
+        "somali": "Waxay u muuqataa mid saaxiibtinimo leh laakiin aamusan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "Is she patient?",
+        "somali": "Ma samir badan tahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "She is patient when we make mistakes.",
+        "somali": "Way samirtaa marka aan khalad samayno."
+      },
+      {
+        "turn": 5,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "That is good for beginners.",
+        "somali": "Taasi way u fiican tahay bilowga."
+      },
+      {
+        "turn": 6,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "Yes, but she is strict about homework.",
+        "somali": "Haa, laakiin shaqada guriga way ku adag tahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "Does she explain things clearly?",
+        "somali": "Waxyaabaha si cad ma u sharaxdaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "Yes, she gives short examples.",
+        "somali": "Haa, waxay bixisaa tusaalooyin gaaban."
+      },
+      {
+        "turn": 9,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "I was nervous before class.",
+        "somali": "Fasalka ka hor waan walwalsanaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "I was too, but the lesson felt calm.",
+        "somali": "Aniguna sidaas ayaan ahaa, laakiin casharku wuu degganaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Student A",
+        "somali_speaker": "Arday A",
+        "english": "That kind of teacher helps me learn.",
+        "somali": "Macallinka noocaas ah wuxuu iga caawiyaa inaan barto."
+      },
+      {
+        "turn": 12,
+        "speaker": "Student B",
+        "somali_speaker": "Arday B",
+        "english": "Me too. I want to stay in her class.",
+        "somali": "Aniguna sidoo kale. Waxaan rabaa inaan fasalkeeda sii joogo."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_colour_words_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "title": "Choosing Colours for a Sign",
+    "somali_title": "Midabbo calaamad loo dooranayo",
+    "situation": "A shop owner and designer choose clear colour words for a sign that customers can notice quickly.",
+    "somali_situation": "Milkiile dukaan iyo naqshadeeye ayaa dooranaya erayo midabbo cad ah oo calaamad macaamiishu si dhakhso ah u arki karaan.",
+    "cefr": "B2",
+    "participants": [
+      "Shop Owner",
+      "Designer"
+    ],
+    "key_vocabulary": [
+      "colour",
+      "red",
+      "green",
+      "blue",
+      "dark",
+      "bright",
+      "sign"
+    ],
+    "key_phrases": [
+      "Which colour is easiest to see?",
+      "Red is bright but too strong.",
+      "Dark blue looks professional.",
+      "Green matches the food section.",
+      "Use clear colour words on the sign."
+    ],
+    "grammar_focus": [
+      "which + superlative",
+      "looks + adjective",
+      "but for contrast",
+      "imperatives",
+      "matches + noun"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "Which colour is easiest to see?",
+        "somali": "Midabkee ayaa ugu fudud in la arko?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Red is bright but too strong.",
+        "somali": "Casaanku wuu dhalaalayaa laakiin aad buu u xoog badan yahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "I do not want the sign to look angry.",
+        "somali": "Ma rabo calaamaddu inay u ekaato mid xanaaqsan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Dark blue looks professional.",
+        "somali": "Buluug madow wuxuu u muuqdaa xirfad."
+      },
+      {
+        "turn": 5,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "Will customers notice it from the street?",
+        "somali": "Macaamiishu jidka ma ka arki doonaan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Yes, if the letters are white.",
+        "somali": "Haa, haddii xarfuhu caddaan yihiin."
+      },
+      {
+        "turn": 7,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "What about green?",
+        "somali": "Ka warran cagaar?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Green matches the food section.",
+        "somali": "Cagaarku wuxuu la jaanqaadayaa qaybta cuntada."
+      },
+      {
+        "turn": 9,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "The shop also sells medicine.",
+        "somali": "Dukaanku sidoo kale daawo ayuu iibiyaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Then blue is safer for the main sign.",
+        "somali": "Markaa buluuggu waa ka habboon yahay calaamadda weyn."
+      },
+      {
+        "turn": 11,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "Can we use green inside?",
+        "somali": "Gudaha cagaar ma ku isticmaali karnaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Yes, green can mark the food shelves.",
+        "somali": "Haa, cagaar wuxuu calaamadayn karaa shelf-yada cuntada."
+      },
+      {
+        "turn": 13,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "Please keep the text simple.",
+        "somali": "Fadlan qoraalka ka dhig mid fudud."
+      },
+      {
+        "turn": 14,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "Use clear colour words on the sign.",
+        "somali": "Calaamadda ku isticmaal erayo midab oo cad."
+      },
+      {
+        "turn": 15,
+        "speaker": "Shop Owner",
+        "somali_speaker": "Milkiile dukaan",
+        "english": "Good. Blue outside and green inside.",
+        "somali": "Waa fiican tahay. Buluug bannaanka, cagaar gudaha."
+      },
+      {
+        "turn": 16,
+        "speaker": "Designer",
+        "somali_speaker": "Naqshadeeye",
+        "english": "I will prepare that version.",
+        "somali": "Noocaas ayaan diyaarinayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_shapes_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "title": "Choosing the Shape of a Table",
+    "somali_title": "Qaabka miis oo la dooranayo",
+    "situation": "A customer chooses a table by describing simple shapes.",
+    "somali_situation": "Macmiil ayaa miis dooranaya isagoo sharxaya qaabab fudud.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop Assistant"
+    ],
+    "key_vocabulary": [
+      "shape",
+      "round",
+      "square",
+      "table",
+      "small",
+      "shapes"
+    ],
+    "key_phrases": [
+      "What shape is this table?",
+      "It is round.",
+      "Do you have a square table?",
+      "I need a small shape.",
+      "These shapes are simple."
+    ],
+    "grammar_focus": [
+      "what shape",
+      "it is + adjective",
+      "do you have",
+      "adjective + noun",
+      "simple choices"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What shape is this table?",
+        "somali": "Miiskani qaabkee buu leeyahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "It is round.",
+        "somali": "Waa wareegsan yahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have a square table?",
+        "somali": "Miis afar-gees ah ma haysaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Yes, this one is square.",
+        "somali": "Haa, kan waa afar-gees."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need a small shape.",
+        "somali": "Waxaan u baahanahay qaab yar."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "The square table is small.",
+        "somali": "Miiska afar-geeska ahi wuu yar yahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "These shapes are simple.",
+        "somali": "Qaababkani way fudud yihiin."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Yes, they fit small rooms.",
+        "somali": "Haa, waxay ku habboon yihiin qolal yar."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_object_sizes_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "title": "Choosing the Right Bag Size",
+    "somali_title": "Cabbirka boorso sax ah oo la dooranayo",
+    "situation": "A customer compares object sizes while choosing a bag for travel.",
+    "somali_situation": "Macmiil ayaa isbarbar dhigaya cabbirrada alaabta isagoo dooranaya boorso safar.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop Assistant"
+    ],
+    "key_vocabulary": [
+      "size",
+      "large",
+      "small",
+      "medium",
+      "heavy",
+      "light",
+      "object sizes"
+    ],
+    "key_phrases": [
+      "What size is this bag?",
+      "This one is medium.",
+      "The large bag is too heavy.",
+      "Do you have a small, light bag?",
+      "Object sizes can be confusing."
+    ],
+    "grammar_focus": [
+      "what size",
+      "too + adjective",
+      "do you have",
+      "adjective pairs",
+      "can be + adjective"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What size is this bag?",
+        "somali": "Boorsadani cabbirkeedu waa imisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "This one is medium.",
+        "somali": "Kani waa dhex-dhexaad."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have a large bag?",
+        "somali": "Boorso weyn ma haysaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Yes, but the large bag is too heavy.",
+        "somali": "Haa, laakiin boorsada weyn aad bay u culus tahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have a small, light bag?",
+        "somali": "Boorso yar oo fudud ma haysaan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Yes, this small one is light.",
+        "somali": "Haa, kan yar wuu fudud yahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Object sizes can be confusing.",
+        "somali": "Cabbirrada alaabtu way wareerin karaan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Try carrying each size for a moment.",
+        "somali": "Cabbir kasta xoogaa qaad."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The small one is best for me.",
+        "somali": "Kan yar ayaa aniga ii fiican."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Good choice for a short trip.",
+        "somali": "Doorasho fiican oo safar gaaban ah."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_feelings_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "title": "Explaining How You Feel",
+    "somali_title": "Sida aad dareemayso oo la sharxayo",
+    "situation": "A patient explains physical feelings to a nurse before seeing the doctor.",
+    "somali_situation": "Bukaan ayaa kalkaaliye u sharxaya dareenno jireed ka hor inta uusan dhakhtar arkin.",
+    "cefr": "B1",
+    "participants": [
+      "Patient",
+      "Nurse"
+    ],
+    "key_vocabulary": [
+      "feelings",
+      "tired",
+      "dizzy",
+      "cold",
+      "hungry",
+      "thirsty",
+      "weak"
+    ],
+    "key_phrases": [
+      "I feel tired and weak.",
+      "Do you feel dizzy?",
+      "I feel cold, but I am thirsty too.",
+      "Are you hungry?",
+      "These feelings started this morning."
+    ],
+    "grammar_focus": [
+      "feel + adjective",
+      "do you feel",
+      "but for contrast",
+      "started + time",
+      "compound symptoms"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "How do you feel today?",
+        "somali": "Maanta sidee baad dareemaysaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I feel tired and weak.",
+        "somali": "Waxaan dareemayaa daal iyo tabar-darro."
+      },
+      {
+        "turn": 3,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Do you feel dizzy?",
+        "somali": "Wareer ma dareemaysaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "A little, when I stand up.",
+        "somali": "Wax yar, marka aan istaago."
+      },
+      {
+        "turn": 5,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Do you feel hot or cold?",
+        "somali": "Kulayl mise qabow ayaad dareemaysaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I feel cold, but I am thirsty too.",
+        "somali": "Qabow ayaan dareemayaa, laakiin sidoo kale waan oommanahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Are you hungry?",
+        "somali": "Ma gaajaysan tahay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "No, I do not want food.",
+        "somali": "Maya, cunto ma rabo."
+      },
+      {
+        "turn": 9,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "When did these feelings begin?",
+        "somali": "Dareennadani goormay bilaabmeen?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "These feelings started this morning.",
+        "somali": "Dareennadani waxay bilaabmeen subaxdan."
+      },
+      {
+        "turn": 11,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Please sit here and drink some water.",
+        "somali": "Fadlan halkan fadhiiso oo biyo cab."
+      },
+      {
+        "turn": 12,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you. I will wait for the doctor.",
+        "somali": "Mahadsanid. Dhakhtarka ayaan sugi doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_emotions_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "title": "Talking About Emotions After a Move",
+    "somali_title": "Dareenno guuritaan ka dib laga hadlayo",
+    "situation": "A learner talks with a friend about mixed emotions after moving to a new city.",
+    "somali_situation": "Arday ayaa saaxiib kala hadlaya dareenno isku qasan ka dib markii uu magaalo cusub u guuray.",
+    "cefr": "B2",
+    "participants": [
+      "Learner",
+      "Friend"
+    ],
+    "key_vocabulary": [
+      "emotions",
+      "nervous",
+      "excited",
+      "lonely",
+      "proud",
+      "worried",
+      "calm"
+    ],
+    "key_phrases": [
+      "My emotions are mixed today.",
+      "I feel nervous and excited.",
+      "I felt lonely last night.",
+      "You should be proud of yourself.",
+      "Talking about it makes me calmer."
+    ],
+    "grammar_focus": [
+      "feel + adjective",
+      "past simple felt",
+      "should for encouragement",
+      "make + object + adjective",
+      "mixed emotions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "My emotions are mixed today.",
+        "somali": "Dareennadaydu maanta way isku qasan yihiin."
+      },
+      {
+        "turn": 2,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "That makes sense. It is your first week here.",
+        "somali": "Taasi waa la fahmi karaa. Waa toddobaadkaagii koowaad halkan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I feel nervous and excited.",
+        "somali": "Waxaan dareemayaa welwel iyo farxad."
+      },
+      {
+        "turn": 4,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "What feels hardest?",
+        "somali": "Maxaa ugu adag?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I felt lonely last night.",
+        "somali": "Xalay waxaan dareemay cidlo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "New places can feel quiet at first.",
+        "somali": "Meelo cusub marka hore way u ekaan karaan aamusan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I am worried about speaking English.",
+        "somali": "Waxaan ka walwalsanahay ku hadalka Ingiriisiga."
+      },
+      {
+        "turn": 8,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "You should be proud of yourself.",
+        "somali": "Waa inaad naftaada ku faantaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I do not feel proud yet.",
+        "somali": "Weli faan ma dareemayo."
+      },
+      {
+        "turn": 10,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "You came, you asked for help, and you kept going.",
+        "somali": "Waad timid, caawimaad ayaad codsatay, waadna sii wadatay."
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "That is true.",
+        "somali": "Taasi waa run."
+      },
+      {
+        "turn": 12,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "What would help you feel calm tonight?",
+        "somali": "Maxaa caawa kaa caawin lahaa inaad degto?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Maybe a short walk and a phone call home.",
+        "somali": "Waxaa laga yaabaa socod gaaban iyo wicitaan guriga ah."
+      },
+      {
+        "turn": 14,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "That sounds gentle and realistic.",
+        "somali": "Taasi waxay u muuqataa mid deggan oo suurtagal ah."
+      },
+      {
+        "turn": 15,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Talking about it makes me calmer.",
+        "somali": "Ka hadalkiisu wuxuu iga dhigaa mid ka deggan."
+      },
+      {
+        "turn": 16,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "I am glad you told me.",
+        "somali": "Waan ku faraxsanahay inaad ii sheegtay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_weather_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "title": "Describing Today's Weather",
+    "somali_title": "Cimilada maanta oo la sharxayo",
+    "situation": "Two neighbors describe the weather before deciding whether to walk to the market.",
+    "somali_situation": "Laba deris ayaa sharxaya cimilada ka hor inta aysan go'aansan inay suuqa u lugeeyaan.",
+    "cefr": "A1",
+    "participants": [
+      "Neighbor A",
+      "Neighbor B"
+    ],
+    "key_vocabulary": [
+      "weather",
+      "sunny",
+      "windy",
+      "rain",
+      "cold",
+      "hot"
+    ],
+    "key_phrases": [
+      "How is the weather today?",
+      "It is sunny, but windy.",
+      "Will it rain?",
+      "It is not cold.",
+      "It may be hot later."
+    ],
+    "grammar_focus": [
+      "how is the weather",
+      "it is + adjective",
+      "will questions",
+      "may for possibility",
+      "but for contrast"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Neighbor A",
+        "somali_speaker": "Deris A",
+        "english": "How is the weather today?",
+        "somali": "Cimiladu maanta sidee bay tahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Neighbor B",
+        "somali_speaker": "Deris B",
+        "english": "It is sunny, but windy.",
+        "somali": "Qorrax baa jirta, laakiin dabayl bay leedahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Neighbor A",
+        "somali_speaker": "Deris A",
+        "english": "Will it rain?",
+        "somali": "Roob ma di'i doonaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Neighbor B",
+        "somali_speaker": "Deris B",
+        "english": "No, I do not think so.",
+        "somali": "Maya, uma malaynayo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Neighbor A",
+        "somali_speaker": "Deris A",
+        "english": "Is it cold outside?",
+        "somali": "Bannaanka qabow ma yahay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Neighbor B",
+        "somali_speaker": "Deris B",
+        "english": "It is not cold.",
+        "somali": "Qabow ma aha."
+      },
+      {
+        "turn": 7,
+        "speaker": "Neighbor A",
+        "somali_speaker": "Deris A",
+        "english": "It may be hot later.",
+        "somali": "Goor dambe way kululaan kartaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Neighbor B",
+        "somali_speaker": "Deris B",
+        "english": "Then let us walk now.",
+        "somali": "Markaa hadda aan lugeyno."
+      }
+    ]
+  },
+  {
+    "id": "conversation_descriptions_objects_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "title": "Describing a Lost Object",
+    "somali_title": "Shay lumay oo la sharxayo",
+    "situation": "A customer describes a lost object at a store counter so staff can identify it.",
+    "somali_situation": "Macmiil ayaa miiska dukaanka ku sharxaya shay lumay si shaqaaluhu u aqoonsadaan.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Store Worker"
+    ],
+    "key_vocabulary": [
+      "object",
+      "phone",
+      "case",
+      "black",
+      "screen",
+      "scratch",
+      "objects"
+    ],
+    "key_phrases": [
+      "I lost an object in the store.",
+      "It is a phone with a black case.",
+      "The screen has a small scratch.",
+      "We found two objects today.",
+      "This phone matches your description."
+    ],
+    "grammar_focus": [
+      "past simple lost",
+      "with + noun",
+      "has + noun",
+      "this + noun",
+      "matches your description"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I lost an object in the store.",
+        "somali": "Waxaan dukaanka ku lumiyay shay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Store Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "What kind of object is it?",
+        "somali": "Shay noocee ah buu yahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It is a phone with a black case.",
+        "somali": "Waa taleefan leh dabool madow."
+      },
+      {
+        "turn": 4,
+        "speaker": "Store Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Does the phone have a mark?",
+        "somali": "Taleefanku calaamad ma leeyahay?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The screen has a small scratch.",
+        "somali": "Shaashaddu waxay leedahay xagasho yar."
+      },
+      {
+        "turn": 6,
+        "speaker": "Store Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "We found two objects today.",
+        "somali": "Maanta waxaan helnay laba shay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I see them?",
+        "somali": "Ma arki karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Store Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes. This phone matches your description.",
+        "somali": "Haa. Taleefankan wuxuu la mid yahay sharaxaaddaada."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That is mine. Thank you.",
+        "somali": "Kaas waa kaygii. Mahadsanid."
+      },
+      {
+        "turn": 10,
+        "speaker": "Store Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Please check that it works.",
+        "somali": "Fadlan hubi inuu shaqaynayo."
+      }
+    ]
+  }
+]

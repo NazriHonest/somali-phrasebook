@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "phrase_time_telling_time_001",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "What time is it?",
+    "somali": "Waa imisa saac?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_002",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is three o'clock.",
+    "somali": "Waa saddexda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_003",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is half past seven.",
+    "somali": "Waa toddobadii iyo bar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_004",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is quarter past nine.",
+    "somali": "Waa sagaalkii iyo rubuc.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_005",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is quarter to five.",
+    "somali": "Shanta ayaa rubuc dhiman.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_006",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "My watch is slow.",
+    "somali": "Saacaddaydu way gaabis tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_007",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Your clock is fast.",
+    "somali": "Saacaddaadu way horreysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_008",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Can you tell me the time?",
+    "somali": "Saacadda ma ii sheegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_009",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "I need to leave at six.",
+    "somali": "Lixda ayaan u baahanahay inaan baxo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_010",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "The bus comes at ten past eight.",
+    "somali": "Basku siddeeddii iyo toban ayuu yimaadaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_011",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Please wake me at seven.",
+    "somali": "Fadlan toddobada i toosi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_012",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is almost midnight.",
+    "somali": "Waxay ku dhowdahay saqda dhexe.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_013",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is still early.",
+    "somali": "Weli waa goor hore.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_014",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "It is getting late.",
+    "somali": "Waqtigu wuu sii daahayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_015",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "What time should I come?",
+    "somali": "Imisa ayaan imaadaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_016",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_017",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_018",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_019",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_telling_time_020",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "telling time"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_001",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "What day is it today?",
+    "somali": "Maanta waa maalintee?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_002",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Today is Monday.",
+    "somali": "Maanta waa Isniin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_003",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Tomorrow is Tuesday.",
+    "somali": "Berri waa Talaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_004",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I am free on Friday.",
+    "somali": "Jimcaha waan firaaqo ahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_005",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Can we meet on Saturday?",
+    "somali": "Sabtida ma kulmi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_006",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "The shop is closed on Sunday.",
+    "somali": "Dukaanku Axadda wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_007",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I work from Monday to Friday.",
+    "somali": "Waxaan shaqeeyaa Isniin ilaa Jimce.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_008",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Which day is best for you?",
+    "somali": "Maalintee ayaa adiga kuu fiican?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_009",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I came here yesterday.",
+    "somali": "Shalay ayaan halkan imid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_010",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I will come back the day after tomorrow.",
+    "somali": "Saadambe ayaan soo laaban doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_011",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "The appointment is next Wednesday.",
+    "somali": "Ballantu waa Arbacada dambe.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_012",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Every day is different.",
+    "somali": "Maalin kasta way ka duwan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_013",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Please choose a day.",
+    "somali": "Fadlan maalin dooro.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_014",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I forgot which day it is.",
+    "somali": "Waxaan illoobay maalinta ay tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_015",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "This day is busy for me.",
+    "somali": "Maalintani aniga way ii mashquul badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_016",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_017",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_018",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_019",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_days_020",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "days"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_001",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "What month is it?",
+    "somali": "Waa biltee?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_002",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "It is January.",
+    "somali": "Waa Janaayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_003",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "My birthday is in June.",
+    "somali": "Dhalashadaydu waa Juun.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_004",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "The course starts next month.",
+    "somali": "Koorsadu bisha dambe ayay bilaabmaysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_005",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Rent is due at the end of the month.",
+    "somali": "Kiradu dhammaadka bisha ayay ku eg tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_006",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "I moved here last month.",
+    "somali": "Bishii hore ayaan halkan u soo guuray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_007",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Which month is best to travel?",
+    "somali": "Biltee ayaa safarka ugu fiican?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_008",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "The weather is cold in December.",
+    "somali": "Cimiladu Diseembar way qabowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_009",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "The bill comes every month.",
+    "somali": "Biilku bil kasta ayuu yimaadaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_010",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "I need an appointment this month.",
+    "somali": "Bishan ballan ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_011",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "The festival is in August.",
+    "somali": "Bandhiggu waa Agoosto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_012",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Please write the month clearly.",
+    "somali": "Fadlan bisha si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_013",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "The month is written on the form.",
+    "somali": "Bishu foomka ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_014",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "I will renew it in March.",
+    "somali": "Maarso ayaan cusbooneysiin doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_015",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "This month has been busy.",
+    "somali": "Bishan way mashquul badnayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_016",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_017",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_018",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_019",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_months_020",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "months"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_001",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I have an appointment today.",
+    "somali": "Maanta ballan ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_002",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "What time is my appointment?",
+    "somali": "Ballantaydu imisa ayay tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_003",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Can I make an appointment?",
+    "somali": "Ballan ma qabsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_004",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I need to change my appointment.",
+    "somali": "Ballantayda ayaan u baahanahay inaan beddelo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_005",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I am here for my appointment.",
+    "somali": "Ballantaydii ayaan u imid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_006",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "The appointment is at three.",
+    "somali": "Ballantu waa saddexda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_007",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Can I get an earlier appointment?",
+    "somali": "Ballan ka horreysa ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_008",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "The next available appointment is Monday.",
+    "somali": "Ballanta xigta ee bannaan waa Isniin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_009",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Please cancel my appointment.",
+    "somali": "Fadlan ballantayda baaji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_010",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I missed my appointment.",
+    "somali": "Ballantaydii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_011",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "How long will the appointment take?",
+    "somali": "Ballantu intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_012",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Do I need to bring anything?",
+    "somali": "Wax ma inaan keenaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_013",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Please remind me tomorrow.",
+    "somali": "Fadlan berri i xasuusi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_014",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I arrived early for my appointment.",
+    "somali": "Ballantayda goor hore ayaan u imid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_015",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Can you confirm the appointment by text?",
+    "somali": "Ballanta farriin ma ku xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_016",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_017",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_018",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_019",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_appointments_020",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "appointments"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_001",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "What time do you open?",
+    "somali": "Imisa ayaad furtaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_002",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "What time do you close?",
+    "somali": "Imisa ayaad xirtaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_003",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Are you open today?",
+    "somali": "Maanta ma furan tihiin?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_004",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The shop opens at nine.",
+    "somali": "Dukaanku sagaalka ayuu furmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_005",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The bank closes at five.",
+    "somali": "Bangigu shanta ayuu xirmaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_006",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "We are closed for lunch.",
+    "somali": "Qadada awgeed waan xiranahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_007",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The office is open until six.",
+    "somali": "Xafiisku ilaa lixda wuu furan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_008",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Are you open on Sundays?",
+    "somali": "Axadaha ma furan tihiin?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_009",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The pharmacy is open late.",
+    "somali": "Farmashiyuhu ilaa goor dambe wuu furan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_010",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The opening hours are on the door.",
+    "somali": "Saacadaha furitaanka albaabka ayay ku qoran yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_011",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Please come before closing time.",
+    "somali": "Fadlan ka hor waqtiga xiritaanka imow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_012",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Do you close early today?",
+    "somali": "Maanta goor hore ma xiraysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_013",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The restaurant opens at noon.",
+    "somali": "Maqaayaddu duhurkii ayay furantaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_014",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "The clinic is closed today.",
+    "somali": "Rugtu maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_015",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Can I come after work?",
+    "somali": "Shaqada ka dib ma iman karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_016",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_017",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_018",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_019",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_opening_hours_020",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "opening hours"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_001",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Can we schedule a meeting?",
+    "somali": "Shir ma jadwaleyn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_002",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "What time suits you?",
+    "somali": "Waqtigee ayaa kugu habboon?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_003",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "I am free after two.",
+    "somali": "Laba ka dib waan firaaqo ahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_004",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Morning is better for me.",
+    "somali": "Subaxdu aniga ayay ii fiican tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_005",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Can we move it to Friday?",
+    "somali": "Jimcaha ma u wareejin karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_006",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Please add it to the calendar.",
+    "somali": "Fadlan jadwalka ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_007",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "I already have plans then.",
+    "somali": "Waqtigaas qorshe ayaan hore u leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_008",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Let us choose another time.",
+    "somali": "Aan waqti kale dooranno.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_009",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "The schedule is full today.",
+    "somali": "Jadwalku maanta wuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_010",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Can you send me the schedule?",
+    "somali": "Jadwalka ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_011",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Please remind me before the meeting.",
+    "somali": "Fadlan shirka ka hor i xasuusi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_012",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "I need to check my calendar.",
+    "somali": "Jadwalkayga ayaan u baahanahay inaan eego.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_013",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "The time has changed.",
+    "somali": "Waqtigii wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_014",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Can we meet at the same time tomorrow?",
+    "somali": "Berri isla waqtigan ma kulmi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_015",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "This schedule works well.",
+    "somali": "Jadwalkani si fiican ayuu u shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_016",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_017",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_018",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_019",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_scheduling_020",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "scheduling"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_001",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I am sorry I am late.",
+    "somali": "Waan ka xumahay inaan soo daahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_002",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I will be ten minutes late.",
+    "somali": "Toban daqiiqo ayaan soo daahayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_003",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "The bus was late.",
+    "somali": "Basku wuu soo daahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_004",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Please wait for me.",
+    "somali": "Fadlan i sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_005",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Can we still meet?",
+    "somali": "Weli ma kulmi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_006",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I missed the train.",
+    "somali": "Tareenkii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_007",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Traffic is very bad today.",
+    "somali": "Maanta taraafikadu aad bay u xun tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_008",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I left home late.",
+    "somali": "Guriga goor dambe ayaan ka baxay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_009",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I should arrive soon.",
+    "somali": "Dhowaan ayaan iman doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_010",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Please start without me.",
+    "somali": "Fadlan aniga la'aantay bilow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_011",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I did not mean to keep you waiting.",
+    "somali": "Ujeeddadaydu ma ahayn inaan ku sugo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_012",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Can we reschedule?",
+    "somali": "Ma dib u jadwaleyn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_013",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I am almost there.",
+    "somali": "Waan ku dhowahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_014",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Sorry for the delay.",
+    "somali": "Waan ka xumahay dib-u-dhaca.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_015",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Next time I will come earlier.",
+    "somali": "Marka xigta goor hore ayaan iman doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_016",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_017",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_018",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_019",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_being_late_020",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "being late"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_001",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "How often do you go there?",
+    "somali": "Immisa jeer ayaad halkaas tagtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_002",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I go there every day.",
+    "somali": "Maalin kasta ayaan halkaas tagaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_003",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I exercise twice a week.",
+    "somali": "Toddobaadkii laba jeer ayaan jimicsadaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_004",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "We meet once a month.",
+    "somali": "Bishii hal mar ayaan kulannaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_005",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I rarely eat fast food.",
+    "somali": "Marar dhif ah ayaan cunaa cunto degdeg ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_006",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "She often calls her family.",
+    "somali": "Badanaa qoyskeeda ayay wacdaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_007",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "Do you always take the bus?",
+    "somali": "Mar walba bas ma raacdaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_008",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I sometimes work at night.",
+    "somali": "Mararka qaar habeenkii ayaan shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_009",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "Please check your email regularly.",
+    "somali": "Fadlan iimaylkaaga si joogto ah u eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_010",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "The medicine is taken three times a day.",
+    "somali": "Daawada maalintii saddex jeer ayaa la qaataa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_011",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "How many times should I repeat it?",
+    "somali": "Immisa jeer ayaan ku celiyaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_012",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I visit my friend every weekend.",
+    "somali": "Dhammaadka usbuuc kasta saaxiibkay ayaan booqdaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_013",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "The bus comes every fifteen minutes.",
+    "somali": "Basku shan iyo tobankii daqiiqo mar ayuu yimaadaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_014",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I do not come here often.",
+    "somali": "Halkan marar badan ma imaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_015",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "This happens all the time.",
+    "somali": "Tani mar walba way dhacdaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_016",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_017",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_018",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_019",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_frequency_020",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "frequency"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_001",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Are you open during the holiday?",
+    "somali": "Fasaxa ma furan tihiin?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_002",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "I am travelling for the holiday.",
+    "somali": "Fasaxa ayaan safrayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_003",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "The office is closed on the holiday.",
+    "somali": "Xafiisku fasaxa wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_004",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "When does the holiday start?",
+    "somali": "Fasaxu goorma ayuu bilaabmaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_005",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "When do you return to work?",
+    "somali": "Goorma ayaad shaqada ku soo laabanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_006",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "I want to visit my family.",
+    "somali": "Waxaan rabaa inaan qoyskayga booqdo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_007",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Have a nice holiday.",
+    "somali": "Fasax wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_008",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "The roads are busy before the holiday.",
+    "somali": "Waddooyinku fasaxa ka hor way mashquul badan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_009",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Can I book a room for the holiday?",
+    "somali": "Fasaxa qol ma qabsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_010",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "The price is higher during holidays.",
+    "somali": "Qiimuhu fasaxyada wuu ka sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_011",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "I need time off next week.",
+    "somali": "Toddobaadka dambe fasax ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_012",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "The holiday was relaxing.",
+    "somali": "Fasaxu nasasho ayuu lahaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_013",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Do you celebrate this holiday?",
+    "somali": "Fasaxan ma dabaaldegtaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_014",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Please check the holiday schedule.",
+    "somali": "Fadlan jadwalka fasaxa eeg.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_015",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "We are closed for the public holiday.",
+    "somali": "Fasaxa guud awgiis waan xiranahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_016",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_017",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Please write it down for me.",
+    "somali": "Fadlan ii qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_018",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "I am not sure about the time.",
+    "somali": "Waqtiga si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_019",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "That time works for me.",
+    "somali": "Waqtigaasi wuu ii shaqaynayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_time_holidays_020",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": "Thank you for letting me know.",
+    "somali": "Waad ku mahadsan tahay inaad ii sheegtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "time",
+      "holidays"
+    ],
+    "notes": "Editorial rewrite: natural time and scheduling phrase with directly aligned Somali meaning."
+  }
+]

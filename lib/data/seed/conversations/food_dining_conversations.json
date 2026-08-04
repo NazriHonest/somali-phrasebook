@@ -1,0 +1,1670 @@
+[
+  {
+    "id": "conversation_food_restaurant_001",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "title": "At a Restaurant: Ordering Food",
+    "somali_title": "Maqaayadda: Dalbashada cunto",
+    "situation": "A customer sits down at a restaurant, asks for a menu, orders food, and asks for water.",
+    "somali_situation": "Macmiil ayaa fadhiisanaya maqaayad, liiska cuntada codsanaya, cunto dalbanaya, kadibna biyo weydiinaya.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "restaurant",
+      "menu",
+      "rice",
+      "chicken",
+      "water",
+      "order",
+      "table"
+    ],
+    "key_phrases": [
+      "Can I see the menu, please?",
+      "Are you ready to order?",
+      "I'd like rice and chicken.",
+      "Can I have some water?",
+      "That's all, thank you."
+    ],
+    "grammar_focus": [
+      "Can I...?",
+      "I'd like...",
+      "Some + uncountable noun",
+      "Are you ready...?",
+      "Polite thanks"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. Is this restaurant open? Do you have a table for one?",
+        "somali": "Salaan. Maqaayaddani ma furan tahay? Miis hal qof ah ma haysaan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes, this table is free.",
+        "somali": "Haa, miiskan wuu bannaan yahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I see the menu, please?",
+        "somali": "Liiska cuntada ma arki karaa, fadlan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. Are you ready to order?",
+        "somali": "Dabcan. Diyaar ma u tahay inaad dalbato?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes. I'd like rice and chicken.",
+        "somali": "Haa. Bariis iyo digaag ayaan rabaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Would you like anything to drink?",
+        "somali": "Wax cabitaan ah ma rabtaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I have some water?",
+        "somali": "Biyo ma heli karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes. That's all, thank you.",
+        "somali": "Haa. Intaas ayaa igu filan, mahadsanid."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_fast_food_001",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "title": "Fast Food: Ordering Food",
+    "somali_title": "Cunto Degdeg ah: Dalbashada cunto",
+    "situation": "A customer orders a fast food meal, chooses a size and sauce, and asks for it to take away.",
+    "somali_situation": "Macmiil ayaa dalbanaya cunto degdeg ah, cabbir iyo suugo dooranaya, kadibna codsanaya in loo qaado.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "fast food",
+      "burger",
+      "meal",
+      "fries",
+      "sauce",
+      "take away",
+      "receipt"
+    ],
+    "key_phrases": [
+      "Can I have a burger meal, please?",
+      "Would you like small, medium, or large?",
+      "What sauce would you like?",
+      "Is it to eat here or take away?",
+      "Could I have a receipt?"
+    ],
+    "grammar_focus": [
+      "Can I have...?",
+      "Would you like...?",
+      "Choice questions",
+      "To eat here or take away",
+      "Could I...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hi. I need some fast food. Can I have a burger meal, please?",
+        "somali": "Salaan. Waxaan u baahanahay cunto degdeg ah. Burger meal ma heli karaa, fadlan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Sure. Would you like small, medium, or large?",
+        "somali": "Haye. Yar, dhexe, mise weyn ayaad rabtaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Medium, please, with fries.",
+        "somali": "Dhexe, fadlan, fries-na ha la socdaan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "What sauce would you like?",
+        "somali": "Suugo noocee ah ayaad rabtaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Garlic sauce, please.",
+        "somali": "Suugo toon ah, fadlan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Is it to eat here or take away?",
+        "somali": "Halkan ma ku cunaysaa mise waad qaadanaysaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Take away, please.",
+        "somali": "Waan qaadanayaa, fadlan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "That is seven dollars.",
+        "somali": "Waa toddoba doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Could I have a receipt?",
+        "somali": "Rasiid ma ii samayn kartaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes. Your food will be ready in five minutes.",
+        "somali": "Haa. Cuntadaadu shan daqiiqo gudahood ayay diyaar noqon doontaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_grocery_shopping_001",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "title": "Finding Groceries in the Store",
+    "somali_title": "Helidda alaabta cuntada ee dukaanka",
+    "situation": "A customer asks where to find rice and tomatoes, checks the price, and pays at the checkout.",
+    "somali_situation": "Macmiil ayaa weydiinaya halka bariis iyo yaanyo laga helo, qiimaha hubinaya, kadibna lacagta ku bixinaya khasnadda.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "grocery",
+      "shopping",
+      "rice",
+      "tomatoes",
+      "aisle",
+      "kilo",
+      "checkout",
+      "bag",
+      "receipt"
+    ],
+    "key_phrases": [
+      "I'm doing some grocery shopping.",
+      "Where can I find rice?",
+      "The rice is in aisle three, next to the flour.",
+      "How much are the tomatoes per kilo?",
+      "Do you need a bag?"
+    ],
+    "grammar_focus": [
+      "Where can I...?",
+      "How much are...?",
+      "Per + unit",
+      "Do you need...?",
+      "Some/any"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. I'm doing some grocery shopping. Where can I find rice?",
+        "somali": "Salaan. Waxaan iibsanayaa alaab cunto. Bariiska xaggee ka heli karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The rice is in aisle three, next to the flour.",
+        "somali": "Bariisku wuxuu yaal safka saddexaad, burka agtiisa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. Do you have small bags of rice?",
+        "somali": "Mahadsanid. Bacaha yaryar ee bariiska ma haysaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, we have one-kilo and five-kilo bags.",
+        "somali": "Haa, waxaan haynaa bac hal kiilo ah iyo bac shan kiilo ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll take one kilo. How much are the tomatoes per kilo?",
+        "somali": "Hal kiilo ayaan qaadanayaa. Yaanyadu kiiladii waa imisa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "They are two dollars per kilo today.",
+        "somali": "Maanta waa laba doolar kiiladii."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Are they fresh?",
+        "somali": "Ma cusub yihiin?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, they arrived this morning.",
+        "somali": "Haa, saaka ayay yimaadeen."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. Where is the checkout?",
+        "somali": "Wanaagsan. Khasnaddu xaggee bay ku taallaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "It is at the front of the store.",
+        "somali": "Waxay ku taallaa dukaanka hortiisa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you need a bag?",
+        "somali": "Bac ma u baahan tahay?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please, and a receipt.",
+        "somali": "Haa, fadlan, rasiidna waan rabaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_fruits_001",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "title": "Choosing Fruit at the Market",
+    "somali_title": "Doorashada miraha suuqa",
+    "situation": "A customer buys fruit at a market, asks about ripeness and price, and avoids bruised fruit.",
+    "somali_situation": "Macmiil ayaa suuqa ka iibsanaya miro, bisaylka iyo qiimaha weydiinaya, wuxuuna ka fogaanayaa miro dhaawacmay.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Fruit seller"
+    ],
+    "key_vocabulary": [
+      "fruits",
+      "mangoes",
+      "bananas",
+      "ripe",
+      "bruised",
+      "kilo",
+      "basket",
+      "discount",
+      "total"
+    ],
+    "key_phrases": [
+      "Are these mangoes ripe enough to eat today?",
+      "These ones are ripe, but those are still firm.",
+      "Please don't include any bruised fruit.",
+      "Can you add six bananas to the basket?",
+      "What is the total?"
+    ],
+    "grammar_focus": [
+      "These/those",
+      "Enough to...",
+      "Imperatives with please",
+      "Can you add...?",
+      "Price and total questions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good morning. Are these mangoes ripe enough to eat today?",
+        "somali": "Subax wanaagsan. Cambahan ma u bisil yihiin in maanta la cuno?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "These ones are ripe, but those are still firm.",
+        "somali": "Kuwan way bisil yihiin, laakiin kuwaas weli way adag yihiin."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll take two kilos of the ripe mangoes.",
+        "somali": "Laba kiilo oo cambaha bisil ah ayaan qaadanayaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "All right. I will choose the soft ones for you.",
+        "somali": "Waa hagaag. Kuwa jilicsan ayaan kuu doorayaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Please don't include any bruised fruit.",
+        "somali": "Fadlan ha ku darin miro dhaawacmay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "Of course. I will check each one.",
+        "somali": "Dabcan. Mid kasta waan hubinayaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much are the bananas?",
+        "somali": "Muusku waa imisa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "They are one dollar for six.",
+        "somali": "Lixda waa hal doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you add six bananas to the basket?",
+        "somali": "Lix muus ma ku dari kartaa dambiisha?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "Yes. Do you want anything else?",
+        "somali": "Haa. Wax kale ma rabtaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have a discount if I buy more fruits?",
+        "somali": "Qiimo dhimis ma jirtaa haddii aan miro badan iibsado?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "For three kilos, I can reduce the price a little.",
+        "somali": "Saddex kiilo haddii aad qaadato, qiimaha xoogaa waan dhimi karaa."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Two kilos are enough today. What is the total?",
+        "somali": "Laba kiilo maanta way igu filan yihiin. Wadarta waa imisa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "The total is seven dollars.",
+        "somali": "Wadartu waa toddoba doolar."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Here is the money. Could you tie the bag, please?",
+        "somali": "Waa tan lacagtii. Bacda ma ii xiri kartaa, fadlan?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Fruit seller",
+        "somali_speaker": "Iibiye miro",
+        "english": "Certainly. Keep the mangoes on top so they do not get crushed.",
+        "somali": "Hubaal. Cambaha dusha saar si aysan u burburin."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_vegetables_001",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "title": "Buying Vegetables",
+    "somali_title": "Iibsashada khudaar",
+    "situation": "A customer buys vegetables at a small stall and asks for carrots and onions.",
+    "somali_situation": "Macmiil ayaa khudaar ka iibsanaya miis yar wuxuuna codsanayaa karooto iyo basal.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Vegetable seller"
+    ],
+    "key_vocabulary": [
+      "vegetables",
+      "carrots",
+      "onions",
+      "bag",
+      "fresh",
+      "dollars",
+      "money"
+    ],
+    "key_phrases": [
+      "Do you have fresh vegetables?",
+      "I need carrots and onions.",
+      "How much is this bag?",
+      "That is three dollars.",
+      "Here is the money."
+    ],
+    "grammar_focus": [
+      "Do you have...?",
+      "I need...",
+      "Plural nouns",
+      "How much...?",
+      "Here is..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. Do you have fresh vegetables?",
+        "somali": "Salaan. Khudaar cusub ma haysaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Vegetable seller",
+        "somali_speaker": "Iibiye khudaar",
+        "english": "Yes, the carrots and onions are fresh.",
+        "somali": "Haa, karootada iyo basashu way cusub yihiin."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need carrots and onions.",
+        "somali": "Waxaan u baahanahay karooto iyo basal."
+      },
+      {
+        "turn": 4,
+        "speaker": "Vegetable seller",
+        "somali_speaker": "Iibiye khudaar",
+        "english": "One small bag or one large bag?",
+        "somali": "Hal bac yar mise hal bac weyn?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "One small bag, please.",
+        "somali": "Hal bac yar, fadlan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Vegetable seller",
+        "somali_speaker": "Iibiye khudaar",
+        "english": "Here you are.",
+        "somali": "Waa kan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much is this bag?",
+        "somali": "Bacdan waa imisa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Vegetable seller",
+        "somali_speaker": "Iibiye khudaar",
+        "english": "That is three dollars.",
+        "somali": "Waa saddex doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Here is the money.",
+        "somali": "Waa tan lacagtii."
+      },
+      {
+        "turn": 10,
+        "speaker": "Vegetable seller",
+        "somali_speaker": "Iibiye khudaar",
+        "english": "Thank you. Have a good day.",
+        "somali": "Mahadsanid. Maalin wanaagsan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_meat_001",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "title": "Buying Meat at the Butcher",
+    "somali_title": "Hilib ka iibsashada hiliblaha",
+    "situation": "A customer buys halal meat at a butcher shop and asks for it to be cut into small pieces.",
+    "somali_situation": "Macmiil ayaa hilib xalaal ah ka iibsanaya hilible wuxuuna codsanayaa in qaybo yaryar loo jarjaro.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Butcher"
+    ],
+    "key_vocabulary": [
+      "meat",
+      "butcher",
+      "lamb",
+      "halal",
+      "kilo",
+      "pieces",
+      "bone",
+      "price"
+    ],
+    "key_phrases": [
+      "Do you have halal meat?",
+      "I'd like one kilo of lamb.",
+      "Can you cut it into small pieces?",
+      "Do you want it with bone or without bone?",
+      "What is the price per kilo?"
+    ],
+    "grammar_focus": [
+      "Do you have...?",
+      "I'd like...",
+      "Can you...?",
+      "With or without",
+      "Price per kilo"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. Do you have halal meat?",
+        "somali": "Salaan. Hilib xalaal ah ma haysaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Butcher",
+        "somali_speaker": "Hilible",
+        "english": "Yes, all the meat here is halal.",
+        "somali": "Haa, hilibka halkan yaal oo dhan waa xalaal."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'd like one kilo of lamb.",
+        "somali": "Hal kiilo oo wan ah ayaan rabaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Butcher",
+        "somali_speaker": "Hilible",
+        "english": "Do you want it with bone or without bone?",
+        "somali": "Lafo ma ku rabtaa mise lafo la'aan?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "With bone, please. Can you cut it into small pieces?",
+        "somali": "Lafo ha lahaado, fadlan. Qaybo yaryar ma u jarjari kartaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Butcher",
+        "somali_speaker": "Hilible",
+        "english": "Yes, I can cut it for stew.",
+        "somali": "Haa, waxaan u jarjari karaa maraq."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the price per kilo?",
+        "somali": "Qiimaha kiiladii waa imisa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Butcher",
+        "somali_speaker": "Hilible",
+        "english": "It is nine dollars per kilo.",
+        "somali": "Kiiladii waa sagaal doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That's fine. Please put it in a bag.",
+        "somali": "Waa hagaag. Fadlan bac iigu rid."
+      },
+      {
+        "turn": 10,
+        "speaker": "Butcher",
+        "somali_speaker": "Hilible",
+        "english": "Here you are. The butcher counter is open until six.",
+        "somali": "Waa kan. Miiska hilibluhu wuxuu furan yahay ilaa lixda."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_drinks_001",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "title": "Ordering Drinks at a Cafe",
+    "somali_title": "Cabitaan ka dalbashada kafateeri",
+    "situation": "A customer orders drinks at a cafe, asks about milk options, sugar, ice, and takeaway cups.",
+    "somali_situation": "Macmiil ayaa cabitaan ka dalbanaya kafateeri, wuxuuna weydiinayaa noocyada caanaha, sonkorta, barafka, iyo koobabka la qaato.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Barista"
+    ],
+    "key_vocabulary": [
+      "drinks",
+      "coffee",
+      "tea",
+      "milk",
+      "sugar",
+      "ice",
+      "takeaway cup",
+      "cafe"
+    ],
+    "key_phrases": [
+      "I'd like two drinks, please.",
+      "Do you have oat milk?",
+      "No sugar in the coffee, please.",
+      "Can you add ice to the tea?",
+      "Could you put them in takeaway cups?"
+    ],
+    "grammar_focus": [
+      "I'd like...",
+      "Do you have...?",
+      "No + noun",
+      "Can you add...?",
+      "Could you...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hi. I'd like two drinks, please.",
+        "somali": "Salaan. Laba cabitaan ayaan rabaa, fadlan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "Sure. What can I get for you?",
+        "somali": "Haye. Maxaan kuu keenaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "One coffee and one tea.",
+        "somali": "Hal kafee iyo hal shaah."
+      },
+      {
+        "turn": 4,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "Do you want milk in the coffee?",
+        "somali": "Kafeega caano ma ku rabtaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have oat milk?",
+        "somali": "Caano oat ah ma haysaan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "Yes. Would you like sugar?",
+        "somali": "Haa. Sonkor ma rabtaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "No sugar in the coffee, please.",
+        "somali": "Kafeega sonkor ha lagu darin, fadlan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "All right. Hot tea or iced tea?",
+        "somali": "Waa hagaag. Shaah kulul mise shaah baraf leh?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Iced tea. Can you add ice to the tea?",
+        "somali": "Shaah baraf leh. Shaaha baraf ma ku dari kartaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "Yes. Do you want to drink them here?",
+        "somali": "Haa. Halkan ma ku cabaysaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "No, could you put them in takeaway cups?",
+        "somali": "Maya, koobab la qaato ma ku ridi kartaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Barista",
+        "somali_speaker": "Sameeye kafee",
+        "english": "Sure. They will be ready at the end of the cafe counter.",
+        "somali": "Hubaal. Waxay diyaar ku noqon doonaan dhammaadka miiska kafateeriga."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_desserts_001",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "title": "Choosing Dessert After Dinner",
+    "somali_title": "Doorashada macmacaan cashada kadib",
+    "situation": "A customer asks about desserts after dinner, checks for nuts, chooses something less sweet, and adds a birthday message.",
+    "somali_situation": "Macmiil ayaa cashada kadib weydiinaya macmacaan, lowska hubinaya, dooranaya wax aan aad u macaanayn, kadibna fariin dhalasho ku daraya.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "desserts",
+      "cake",
+      "ice cream",
+      "nuts",
+      "sweet",
+      "share",
+      "birthday",
+      "chocolate",
+      "plate"
+    ],
+    "key_phrases": [
+      "Could we see the dessert menu?",
+      "Does the chocolate cake contain nuts?",
+      "Which dessert is not too sweet?",
+      "We'll share one cake and one ice cream.",
+      "Could you write Happy Birthday on the plate?"
+    ],
+    "grammar_focus": [
+      "Could we...?",
+      "Does + noun + contain...?",
+      "Too + adjective",
+      "We'll for shared decision",
+      "Could you write...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Excuse me, could we see the dessert menu?",
+        "somali": "Iga raalli noqo, liiska macmacaanka ma arki karnaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. Our desserts today are cake, ice cream, and fruit.",
+        "somali": "Dabcan. Macmacaanka maanta waa keeg, jalaato, iyo miro."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Does the chocolate cake contain nuts?",
+        "somali": "Keegga shukulaatada lows ma ku jiraa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes, it has almonds on top.",
+        "somali": "Haa, dusha waxaa kaga jira yicib."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then we should avoid that. Which dessert is not too sweet?",
+        "somali": "Markaa waa inaan ka fogaannaa. Macmacaan kee aan aad u macaanayn?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "The vanilla ice cream is light, and the lemon cake is less sweet.",
+        "somali": "Jalaatada vaniladu waa fudud tahay, keegga liintuna macaan yar ayuu leeyahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can two people share the lemon cake?",
+        "somali": "Laba qof keegga liinta ma wadaagi karaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes, I can bring two spoons.",
+        "somali": "Haa, laba qaaddo ayaan keeni karaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. We'll share one cake and one ice cream.",
+        "somali": "Wanaagsan. Hal keeg iyo hal jalaato ayaan wadaagaynaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Would you like them together or one after the other?",
+        "somali": "Ma wada rabtaan mise midba midka kale kadib?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Together, please. It is my sister's birthday.",
+        "somali": "Wada keen, fadlan. Waa dhalashada walaashay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Happy birthday to her. Would you like a candle?",
+        "somali": "Dhalasho wanaagsan ha u ahaato. Shumac ma rabtaan?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please. Could you write Happy Birthday on the plate?",
+        "somali": "Haa, fadlan. Saxanka ma ku qori kartaa Happy Birthday?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Certainly. I will write it in chocolate.",
+        "somali": "Hubaal. Shukulaato ayaan ku qori doonaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. Please bring it after the tea.",
+        "somali": "Mahadsanid. Fadlan shaaha kadib keen."
+      },
+      {
+        "turn": 16,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. I will bring everything in a few minutes.",
+        "somali": "Dabcan. Wax walba dhowr daqiiqo gudahood ayaan keeni doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_allergies_001",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "title": "Saying You Have a Food Allergy",
+    "somali_title": "Sheegidda xasaasiyad cunto",
+    "situation": "A customer tells a server about a food allergy and checks whether a dish contains nuts.",
+    "somali_situation": "Macmiil ayaa adeegaha u sheegaya xasaasiyad cunto wuxuuna hubinayaa in saxan uu lows ku jiro.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "allergies",
+      "food",
+      "nuts",
+      "ingredients",
+      "dish",
+      "safe",
+      "chicken",
+      "salad"
+    ],
+    "key_phrases": [
+      "I have a food allergy.",
+      "Does this dish have nuts?",
+      "Let me check the ingredients.",
+      "The chicken salad is safe.",
+      "I'll order that, please."
+    ],
+    "grammar_focus": [
+      "I have...",
+      "Does this...?",
+      "Let me...",
+      "Adjectives",
+      "I'll order..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Excuse me. I have a food allergy.",
+        "somali": "Iga raalli noqo. Xasaasiyad cunto ayaan qabaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Thank you for telling me. What are you allergic to?",
+        "somali": "Waad ku mahadsan tahay inaad ii sheegtay. Maxaad xasaasiyad ku qabtaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Nuts. Does this dish have nuts?",
+        "somali": "Lows. Saxankan lows ma ku jiraa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Let me check the ingredients.",
+        "somali": "Aan hubiyo waxyaabaha ku jira."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. I need safe food.",
+        "somali": "Mahadsanid. Waxaan u baahanahay cunto ammaan ah."
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "The chicken salad is safe.",
+        "somali": "Saladhka digaaggu waa ammaan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll order that, please.",
+        "somali": "Kaas ayaan dalbanayaa, fadlan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. I will tell the kitchen about your allergies.",
+        "somali": "Dabcan. Jikada ayaan u sheegi doonaa xasaasiyaddaada."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_cooking_001",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "title": "Following a Simple Recipe",
+    "somali_title": "Raacidda cunto-karin fudud",
+    "situation": "A learner cooks with a friend and asks how to prepare rice and vegetables step by step.",
+    "somali_situation": "Arday ayaa saaxiib la karinaya wuxuuna tallaabo-tallaabo u weydiinayaa sida bariis iyo khudaar loo diyaariyo.",
+    "cefr": "A2",
+    "participants": [
+      "Learner",
+      "Friend"
+    ],
+    "key_vocabulary": [
+      "cooking",
+      "food",
+      "recipe",
+      "rice",
+      "vegetables",
+      "chop",
+      "boil",
+      "pan",
+      "minutes"
+    ],
+    "key_phrases": [
+      "Can you show me this recipe?",
+      "First, wash the rice.",
+      "Chop the vegetables into small pieces.",
+      "How long should it boil?",
+      "Cook it for fifteen minutes."
+    ],
+    "grammar_focus": [
+      "Can you...?",
+      "Imperatives",
+      "Sequencing words",
+      "How long should...?",
+      "For + time period"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can you show me this recipe?",
+        "somali": "Cunto-karintan ma i tusi kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Sure. First, wash the rice.",
+        "somali": "Haye. Marka hore bariiska dhaq."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Do I put the rice in this pan?",
+        "somali": "Bariiska digsigaan ma ku ridayaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Yes, then add water and a little salt.",
+        "somali": "Haa, kadibna biyo iyo cusbo yar ku dar."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "What should I do with the vegetables?",
+        "somali": "Khudaarta maxaan ku sameeyaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Chop the vegetables into small pieces.",
+        "somali": "Khudaarta qaybo yaryar u jarjar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "How long should it boil?",
+        "somali": "Intee in le'eg ayay karkaraysaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Cook it for fifteen minutes.",
+        "somali": "Shan iyo toban daqiiqo kari."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Should I stir it?",
+        "somali": "Ma walaaqaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Yes, stir it once while the food is cooking.",
+        "somali": "Haa, hal mar walaaq inta cuntadu karinayso."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_kitchen_001",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "title": "Finding Kitchen Tools",
+    "somali_title": "Helidda qalabka jikada",
+    "situation": "A learner in a shared kitchen asks where to find tools and how to use them safely.",
+    "somali_situation": "Arday ku jira jiko la wadaago ayaa weydiinaya halka qalabku yaal iyo sida si ammaan ah loogu isticmaalo.",
+    "cefr": "B1",
+    "participants": [
+      "Learner",
+      "Housemate"
+    ],
+    "key_vocabulary": [
+      "kitchen",
+      "tools",
+      "knife",
+      "cutting board",
+      "pan",
+      "lid",
+      "drawer",
+      "sink",
+      "towel"
+    ],
+    "key_phrases": [
+      "Where are the kitchen tools?",
+      "Use the cutting board under the knife.",
+      "Can I use this pan?",
+      "Put the lid on while it cooks.",
+      "Yes, after you wash the tools in the sink."
+    ],
+    "grammar_focus": [
+      "Where are...?",
+      "Can I use...?",
+      "Imperatives",
+      "While + clause",
+      "Please + verb"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Where are the kitchen tools?",
+        "somali": "Qalabka jikadu xaggee buu yaal?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Most of them are in the top drawer.",
+        "somali": "Intooda badan waxay ku jiraan khaanadda sare."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I need a knife and a cutting board.",
+        "somali": "Waxaan u baahanahay mindi iyo loox wax lagu jarjaro."
+      },
+      {
+        "turn": 4,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Use the cutting board under the knife.",
+        "somali": "Looxa wax lagu jarjaro hoos dhig mindida."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can I use this pan?",
+        "somali": "Digsigan ma isticmaali karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Yes, but use a little oil first.",
+        "somali": "Haa, laakiin marka hore saliid yar isticmaal."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Where is the lid for this pan?",
+        "somali": "Daboolka digsigan xaggee buu yaal?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "It is beside the stove. Put the lid on while it cooks.",
+        "somali": "Wuxuu yaal foornada agteeda. Daboolka saar inta ay karinayso."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Should I dry everything with this towel?",
+        "somali": "Wax walba tuwaalkan ma ku qalajiyaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Yes, after you wash the tools in the sink.",
+        "somali": "Haa, kadib markaad qalabka ku dhaqdo saxanka."
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thanks. I will put them back in the drawer.",
+        "somali": "Mahadsanid. Khaanadda ayaan dib ugu celin doonaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Perfect. That keeps the kitchen easy for everyone.",
+        "somali": "Waa hagaag. Taasi jikada qof walba ayay u fududaynaysaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_paying_bill_001",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "title": "Paying the Bill",
+    "somali_title": "Bixinta biilka",
+    "situation": "A customer asks for the bill, checks the service charge, splits the payment, and requests a receipt.",
+    "somali_situation": "Macmiil ayaa biilka codsanaya, lacagta adeegga hubinaya, lacagta kala qaybinaya, kadibna rasiid codsanaya.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "bill",
+      "service charge",
+      "split",
+      "card",
+      "cash",
+      "receipt",
+      "total",
+      "tip"
+    ],
+    "key_phrases": [
+      "Could we have the bill, please?",
+      "Is the service charge included?",
+      "Can we split the bill?",
+      "I'll pay by card, and my friend will pay cash.",
+      "Could we have a receipt?"
+    ],
+    "grammar_focus": [
+      "Could we...?",
+      "Passive: is included",
+      "Can we...?",
+      "Will for payment plan",
+      "By card / in cash"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Excuse me, could we have the bill, please?",
+        "somali": "Iga raalli noqo, biilka ma heli karnaa, fadlan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. I'll bring it now.",
+        "somali": "Dabcan. Hadda ayaan keenayaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. Is the service charge included?",
+        "somali": "Mahadsanid. Lacagta adeeggu ma ku jirtaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes, ten percent is included in the total.",
+        "somali": "Haa, boqolkiiba toban ayaa wadarta ku jira."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can we split the bill?",
+        "somali": "Biilka ma kala qaybin karnaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes. How would you like to split it?",
+        "somali": "Haa. Sideed u rabtaan inaad u kala qaybisaan?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll pay by card, and my friend will pay cash.",
+        "somali": "Anigu kaar ayaan ku bixinayaa, saaxiibkayna lacag caddaan ah ayuu bixinayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "No problem. Your part is twenty-two dollars.",
+        "somali": "Dhib ma leh. Qaybtaadu waa laba iyo labaatan doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I add a small tip on the card?",
+        "somali": "Kaariga ma ku dari karaa lacag yar oo mahadcelin ah?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes, choose the amount on the screen.",
+        "somali": "Haa, lacagta ka dooro shaashadda."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The card machine says approved.",
+        "somali": "Mashiinka kaarku wuxuu leeyahay waa la aqbalay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Great. I'll take your friend's cash now.",
+        "somali": "Wanaagsan. Hadda lacagta caddaanka ah ee saaxiibkaa ayaan qaadanayaa."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Could we have a receipt?",
+        "somali": "Rasiid ma heli karnaa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Yes. Do you need one receipt or two?",
+        "somali": "Haa. Hal rasiid miyaad u baahan tihiin mise laba?"
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Two, please, because we are claiming expenses separately.",
+        "somali": "Laba, fadlan, sababtoo ah kharashka si kala gooni ah ayaan u gudbinaynaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. Here are both receipts.",
+        "somali": "Dabcan. Waa kuwan labada rasiid."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_ordering_food_001",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "title": "Ordering Food at the Counter",
+    "somali_title": "Cunto ka dalbashada miiska",
+    "situation": "A customer orders a simple meal at a counter and chooses whether to eat there.",
+    "somali_situation": "Macmiil ayaa miiska ka dalbanaya cunto fudud wuxuuna dooranayaa inuu halkaas ku cuno.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Server"
+    ],
+    "key_vocabulary": [
+      "food",
+      "counter",
+      "soup",
+      "bread",
+      "meal",
+      "for here",
+      "anything else"
+    ],
+    "key_phrases": [
+      "I'd like to order food.",
+      "What would you like?",
+      "I'd like soup and bread.",
+      "Is that for here?",
+      "Anything else?"
+    ],
+    "grammar_focus": [
+      "I'd like...",
+      "What would you like?",
+      "And + noun",
+      "For here",
+      "Anything else?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. I'd like to order food.",
+        "somali": "Salaan. Waxaan rabaa inaan cunto dalbado."
+      },
+      {
+        "turn": 2,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Of course. What would you like?",
+        "somali": "Dabcan. Maxaad rabtaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'd like soup and bread.",
+        "somali": "Maraq iyo rooti ayaan rabaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Is that for here?",
+        "somali": "Halkan ma ku cunaysaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, for here.",
+        "somali": "Haa, halkan ayaan ku cunayaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Anything else?",
+        "somali": "Wax kale ma rabtaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "No, just the meal.",
+        "somali": "Maya, cuntadaas oo keliya."
+      },
+      {
+        "turn": 8,
+        "speaker": "Server",
+        "somali_speaker": "Adeege",
+        "english": "Thank you. Please wait at the counter.",
+        "somali": "Mahadsanid. Fadlan miiska agtiisa ku sug."
+      }
+    ]
+  },
+  {
+    "id": "conversation_food_food_storage_001",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "title": "Storing Leftover Food",
+    "somali_title": "Kaydinta cuntada hartay",
+    "situation": "Two housemates store leftover food safely and decide what goes in the fridge or freezer.",
+    "somali_situation": "Laba qof oo guri wada deggan ayaa si ammaan ah u kaydinaya cunto hartay waxayna go'aaminayaan waxa qaboojiyaha ama barafeeyaha la geliyo.",
+    "cefr": "A2",
+    "participants": [
+      "Housemate",
+      "Cook"
+    ],
+    "key_vocabulary": [
+      "food",
+      "food storage",
+      "leftover food",
+      "fridge",
+      "freezer",
+      "container",
+      "label",
+      "expiry date",
+      "reheat"
+    ],
+    "key_phrases": [
+      "Where should I put the leftover food?",
+      "Put it in a clean container.",
+      "Should it go in the fridge or the freezer?",
+      "Write today's date on the label.",
+      "Reheat it only once."
+    ],
+    "grammar_focus": [
+      "Where should I...?",
+      "Should it...?",
+      "Imperatives",
+      "Only once",
+      "Date labels"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "I'm learning food storage. Where should I put the leftover food?",
+        "somali": "Waxaan baranayaa kaydinta cuntada. Cuntada hartay xaggee baan dhigaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cook",
+        "somali_speaker": "Kariye",
+        "english": "Put it in a clean container.",
+        "somali": "Ku rid weel nadiif ah."
+      },
+      {
+        "turn": 3,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Should it go in the fridge or the freezer?",
+        "somali": "Qaboojiyaha ma gelinayaa mise barafeeyaha?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Cook",
+        "somali_speaker": "Kariye",
+        "english": "Put tonight's food in the fridge.",
+        "somali": "Cuntada caawa geli qaboojiyaha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "What about the soup?",
+        "somali": "Maraqana maxaa laga yeelayaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Cook",
+        "somali_speaker": "Kariye",
+        "english": "The soup can go in the freezer.",
+        "somali": "Maraqku wuxuu geli karaa barafeeyaha."
+      },
+      {
+        "turn": 7,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Should I write the expiry date?",
+        "somali": "Taariikhda uu dhacayo ma qoro?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cook",
+        "somali_speaker": "Kariye",
+        "english": "Yes, write today's date on the label.",
+        "somali": "Haa, taariikhda maanta ku qor calaamadda."
+      },
+      {
+        "turn": 9,
+        "speaker": "Housemate",
+        "somali_speaker": "Qof guriga la deggan",
+        "english": "Can I reheat it tomorrow?",
+        "somali": "Berri dib ma u kululeyn karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Cook",
+        "somali_speaker": "Kariye",
+        "english": "Yes, but reheat it only once.",
+        "somali": "Haa, laakiin hal mar oo keliya dib u kululee."
+      }
+    ]
+  }
+]

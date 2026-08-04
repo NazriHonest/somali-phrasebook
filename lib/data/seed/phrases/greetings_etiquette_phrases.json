@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "phrase_greetings_etiquette_greetings_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Hello.",
+    "somali": "Salaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Good morning.",
+    "somali": "Subax wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Good afternoon.",
+    "somali": "Galab wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Good evening.",
+    "somali": "Fiid wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "How are you?",
+    "somali": "Sidee tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "I am fine, thank you.",
+    "somali": "Waan fiicanahay, mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Nice to see you.",
+    "somali": "Waa ku faraxsanahay inaan ku arko.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "It is good to meet you.",
+    "somali": "Way fiican tahay inaan kula kulmo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "How is your family?",
+    "somali": "Qoyskaagu sidee yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Everyone is well, thank you.",
+    "somali": "Dhammaantood way fiican yihiin, mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Welcome.",
+    "somali": "Soo dhowow.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Welcome back.",
+    "somali": "Soo dhowow mar kale.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Long time no see.",
+    "somali": "Muddo dheer isma arag.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "How was your day?",
+    "somali": "Maalintaadu sidee ahayd?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "My day was good.",
+    "somali": "Maalintaydu way fiicnayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "I hope you are well.",
+    "somali": "Waxaan rajaynayaa inaad fiican tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Peace be upon you.",
+    "somali": "Nabad korkaaga ha ahaato.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "And peace be upon you.",
+    "somali": "Adigana nabad korkaaga ha ahaato.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "Good to hear from you.",
+    "somali": "Waan ku faraxsanahay inaan war kaa helo.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_greetings_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": "See you soon.",
+    "somali": "Dhawaan ayaan ku arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "greetings"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "My name is Amina.",
+    "somali": "Magacaygu waa Aamina.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "What is your name?",
+    "somali": "Magacaagu waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "This is my friend Ahmed.",
+    "somali": "Kani waa saaxiibkay Axmed.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "introduction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I would like you to meet my sister.",
+    "somali": "Waxaan rabaa inaad la kulanto walaashay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "introduction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "Nice to meet you.",
+    "somali": "Waan ku faraxsanahay inaan kula kulmo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I have heard a lot about you.",
+    "somali": "Wax badan ayaan kaa maqlay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "Where are you from?",
+    "somali": "Xaggee ayaad ka timid?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I am from Somalia.",
+    "somali": "Waxaan ka imid Soomaaliya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I live near here.",
+    "somali": "Meel dhow ayaan degganahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I am new here.",
+    "somali": "Halkan waan ku cusubahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "Let me introduce myself.",
+    "somali": "Aan isbaro.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "introduction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "Please introduce me to your family.",
+    "somali": "Fadlan i bar qoyskaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "This is my colleague.",
+    "somali": "Kani waa shaqa-wadaaggayga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "introduction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "We work together.",
+    "somali": "Waan wada shaqaynaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "We study together.",
+    "somali": "Waan wada barannaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I am pleased to meet you.",
+    "somali": "Aad baan ugu faraxsanahay inaan kula kulmo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "greeting",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "What do you do?",
+    "somali": "Maxaad qabataa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I am a student.",
+    "somali": "Waxaan ahay arday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I work at a clinic.",
+    "somali": "Waxaan ka shaqeeyaa xarun caafimaad.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_introductions_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": "I hope we meet again.",
+    "somali": "Waxaan rajaynayaa inaan mar kale kulanno.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "introductions"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Goodbye.",
+    "somali": "Nabad gelyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "See you later.",
+    "somali": "Mar dambe ayaan ku arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "See you tomorrow.",
+    "somali": "Berri ayaan ku arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Take care.",
+    "somali": "Is ilaali.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Have a good day.",
+    "somali": "Maalin wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Have a safe trip.",
+    "somali": "Safar nabad ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "I have to go now.",
+    "somali": "Hadda waa inaan baxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "It was nice talking to you.",
+    "somali": "Waa fiicnayd inaan kula sheekaysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Please give my regards to your family.",
+    "somali": "Fadlan salaanta iga gaarsii qoyskaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Let us stay in touch.",
+    "somali": "Aan xiriir sii wadanno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Call me when you arrive.",
+    "somali": "I soo wac markaad gaarto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "I will see you next week.",
+    "somali": "Usbuuca dambe ayaan ku arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Thank you for coming.",
+    "somali": "Waad ku mahadsan tahay inaad timid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "I enjoyed the visit.",
+    "somali": "Booqashadu way ii fiicnayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Have a peaceful evening.",
+    "somali": "Fiid nabad ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Do not be late tomorrow.",
+    "somali": "Berri ha soo daahin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "I will miss you.",
+    "somali": "Waan kuu xiisi doonaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Come again soon.",
+    "somali": "Dhawaan mar kale kaalay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Let me walk you out.",
+    "somali": "Aan bannaanka kuu raaco.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_goodbye_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": "Until next time.",
+    "somali": "Ilaa mar kale.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "goodbye"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you.",
+    "somali": "Mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you very much.",
+    "somali": "Aad baad u mahadsan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thanks for your help.",
+    "somali": "Waad ku mahadsan tahay caawimadaada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "I really appreciate it.",
+    "somali": "Runtii waan ku qadarinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "That was very kind of you.",
+    "somali": "Taasi aad bay kuu naxariis badnayd.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thanks for your time.",
+    "somali": "Waad ku mahadsan tahay waqtigaaga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you for waiting.",
+    "somali": "Waad ku mahadsan tahay inaad sugaysay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you for explaining.",
+    "somali": "Waad ku mahadsan tahay inaad sharaxday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you for inviting me.",
+    "somali": "Waad ku mahadsan tahay inaad i casuuntay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thank you for the meal.",
+    "somali": "Waad ku mahadsan tahay cuntada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "You are welcome.",
+    "somali": "Soo dhowow.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "No problem.",
+    "somali": "Dhib ma leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Do not mention it.",
+    "somali": "Ha ka welwelin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "I am happy to help.",
+    "somali": "Waan ku faraxsanahay inaan caawiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Thanks again.",
+    "somali": "Mar kale mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "I owe you one.",
+    "somali": "Abaal baan kuu hayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "That helped me a lot.",
+    "somali": "Taasi aad bay ii caawisay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "I am grateful.",
+    "somali": "Waan kuu mahadcelinayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "Please accept my thanks.",
+    "somali": "Fadlan aqbal mahadnaqayga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_thanking_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": "You made this easier for me.",
+    "somali": "Waxaad ii fududaysay arrintan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "thanking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I am sorry.",
+    "somali": "Waan ka xumahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I am very sorry.",
+    "somali": "Aad baan uga xumahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Sorry for being late.",
+    "somali": "Waan ka xumahay inaan soo daahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Sorry, I did not understand.",
+    "somali": "Waan ka xumahay, ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I apologize for the mistake.",
+    "somali": "Waxaan ka raalli gelinayaa qaladka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Please forgive me.",
+    "somali": "Fadlan i cafi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "It was my fault.",
+    "somali": "Aniga ayaa qaladka lahaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I did not mean to upset you.",
+    "somali": "Uma jeedin inaan kaa xanaajiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I will not do it again.",
+    "somali": "Mar kale ma sameyn doono.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "promise",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I made a mistake.",
+    "somali": "Qalad ayaan sameeyay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "That was an accident.",
+    "somali": "Taasi si kama? ah ayay u dhacday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "explanation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Sorry to bother you.",
+    "somali": "Waan ka xumahay inaan ku dhibay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Sorry for interrupting.",
+    "somali": "Waan ka xumahay inaan hadalka kaa dhex galay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Please accept my apology.",
+    "somali": "Fadlan aqbal raalli-gelintayda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "I hope you can forgive me.",
+    "somali": "Waxaan rajaynayaa inaad i cafin karto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "No worries.",
+    "somali": "Wax dhib ah ma leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "It is okay.",
+    "somali": "Waa hagaag.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Do not worry about it.",
+    "somali": "Ha ka welwelin.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Thank you for understanding.",
+    "somali": "Waad ku mahadsan tahay fahamkaaga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_apologizing_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": "Let us forget it.",
+    "somali": "Aan iska illoowno.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "apologizing"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Congratulations!",
+    "somali": "Hambalyo!",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Well done!",
+    "somali": "Si fiican baad u qabatay!",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "I am happy for you.",
+    "somali": "Waan kuu faraxsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "You deserve it.",
+    "somali": "Waad u qalantaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Congratulations on your success.",
+    "somali": "Hambalyo guushaada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Congratulations on your new job.",
+    "somali": "Hambalyo shaqadaada cusub.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Congratulations on your graduation.",
+    "somali": "Hambalyo qalin-jabintaada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "That is wonderful news.",
+    "somali": "Taasi waa war aad u fiican.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "I wish you more success.",
+    "somali": "Waxaan kuu rajaynayaa guulo badan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "wish",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "You worked hard for this.",
+    "somali": "Arrintan dadaal badan ayaad gelisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "I am proud of you.",
+    "somali": "Waan kugu faanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "May it bring you happiness.",
+    "somali": "Ha kuu keento farxad.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "wish",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Best wishes.",
+    "somali": "Hambalyo iyo duco wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "wish",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "You did a great job.",
+    "somali": "Shaqo fiican ayaad qabatay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "congratulations",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "This is a big achievement.",
+    "somali": "Tani waa guul weyn.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Enjoy your special day.",
+    "somali": "Ku raaxayso maalintaada gaarka ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "wish",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "I knew you could do it.",
+    "somali": "Waan ogaa inaad samayn karto.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Keep up the good work.",
+    "somali": "Sii wad shaqada fiican.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "encouragement",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Everyone is happy for you.",
+    "somali": "Qof walba wuu kuu faraxsan yahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_congratulations_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": "Let us celebrate.",
+    "somali": "Aan dabaaldegno.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "congratulations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Would you like to come for dinner?",
+    "somali": "Ma jeclaan lahayd inaad casho timaaddo?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Please join us tomorrow.",
+    "somali": "Fadlan nagu soo biir berri.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "I would like to invite you to my home.",
+    "somali": "Waxaan jeclaan lahaa inaan gurigayga kugu casuumo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Are you free this weekend?",
+    "somali": "Dhammaadka usbuucan ma firaaqo baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Can you come to the meeting?",
+    "somali": "Shirka ma imaan kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "We are having tea at five.",
+    "somali": "Shaah ayaan cabbaynaa shanta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Please bring your family.",
+    "somali": "Fadlan qoyskaaga soo kaxee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "You are welcome to join us.",
+    "somali": "Waa lagugu soo dhoweynayaa inaad nagu biirto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Would you like to visit us?",
+    "somali": "Ma jeclaan lahayd inaad na soo booqato?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Let us eat together.",
+    "somali": "Aan wada cunno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "I hope you can come.",
+    "somali": "Waxaan rajaynayaa inaad imaan karto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "The party starts at seven.",
+    "somali": "Xafladdu waxay bilaabmaysaa toddobada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "information",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Please let me know if you can come.",
+    "somali": "Fadlan ii sheeg haddii aad imaan karto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Do you want to go with us?",
+    "somali": "Ma rabtaa inaad nala tagto?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Come in, please.",
+    "somali": "Soo gal, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Have a seat.",
+    "somali": "Fadhiiso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Make yourself comfortable.",
+    "somali": "Iska dhig mid raaxo leh.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Please stay for lunch.",
+    "somali": "Fadlan qadada u joog.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "invitation",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Can I invite a friend?",
+    "somali": "Saaxiib ma casuumi karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_invitations_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": "Thank you for accepting my invitation.",
+    "somali": "Waad ku mahadsan tahay inaad aqbashay casuumaaddayda.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Yes, I would love to come.",
+    "somali": "Haa, waan jeclaan lahaa inaan imaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Thank you for inviting me.",
+    "somali": "Waad ku mahadsan tahay inaad i casuuntay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I will be there.",
+    "somali": "Waan iman doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "That sounds lovely.",
+    "somali": "Taasi way fiicnaan lahayd.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I am free tomorrow.",
+    "somali": "Berri waan firaaqo ahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I can come at seven.",
+    "somali": "Toddobada ayaan imaan karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I would be happy to join you.",
+    "somali": "Waan ku farxi lahaa inaan idinku biiro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Please send me the address.",
+    "somali": "Fadlan cinwaanka ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Should I bring anything?",
+    "somali": "Wax ma soo qaadaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Can I come with my brother?",
+    "somali": "Walaalkay ma ila imaan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I accept your invitation.",
+    "somali": "Waan aqbalay casuumaaddaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "See you there.",
+    "somali": "Halkaas ayaan kugu arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I am looking forward to it.",
+    "somali": "Waan sugayaa si farxad leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Thank you, that is very kind.",
+    "somali": "Mahadsanid, taasi waa naxariis.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I will arrive on time.",
+    "somali": "Waqtiga ayaan imaan doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "promise",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Please save me a seat.",
+    "somali": "Fadlan kursi ii hay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I will call before I come.",
+    "somali": "Waan soo wici doonaa ka hor intaan iman.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "That works for me.",
+    "somali": "Taasi aniga way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "I am glad you invited me.",
+    "somali": "Waan ku faraxsanahay inaad i casuuntay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_accepting_invitations_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": "Count me in.",
+    "somali": "Aniga igu dar.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "acceptance",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "accepting invitations"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I am sorry, I cannot come.",
+    "somali": "Waan ka xumahay, ma imaan karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Thank you, but I am busy.",
+    "somali": "Mahadsanid, laakiin waan mashquulsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Maybe another time.",
+    "somali": "Waxaa laga yaabaa mar kale.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I already have plans.",
+    "somali": "Hore ayaan qorshe u leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I wish I could come.",
+    "somali": "Waxaan jeclaan lahaa inaan imaan karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I am not available tomorrow.",
+    "somali": "Berri ma firaaqo ahi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Please invite me next time.",
+    "somali": "Fadlan mar kale i casuun.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I have to work tonight.",
+    "somali": "Caawa waa inaan shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "That is kind of you, but I cannot.",
+    "somali": "Waa naxariis, laakiin ma awoodo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I need to rest today.",
+    "somali": "Maanta waxaan u baahanahay inaan nasto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I cannot stay long.",
+    "somali": "Muddo dheer ma joogi karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I will join you another day.",
+    "somali": "Maalin kale ayaan idinku biiri doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Thank you for understanding.",
+    "somali": "Waad ku mahadsan tahay fahamkaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Please do not be offended.",
+    "somali": "Fadlan ha ka xumaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I hope you enjoy it.",
+    "somali": "Waxaan rajaynayaa inaad ku raaxaysato.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "wish",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I have a family commitment.",
+    "somali": "Qoys ayaan ballan la leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I am not feeling well.",
+    "somali": "Caafimaadkaygu ma fiicna.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I cannot make it this time.",
+    "somali": "Markan ma iman karo.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "decline",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "Let us meet next week instead.",
+    "somali": "Aan usbuuca dambe kulanno beddelkeeda.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "suggestion",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_declining_politely_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": "I appreciate the invitation.",
+    "somali": "Waan qadarinayaa casuumaadda.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "declining politely"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Hello, who is speaking?",
+    "somali": "Salaan, yaa hadlaya?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "This is Amina speaking.",
+    "somali": "Waa Aamina oo hadlaysa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "May I speak to Ahmed?",
+    "somali": "Axmed ma la hadli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Please hold on.",
+    "somali": "Fadlan sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "I will call you back.",
+    "somali": "Dib ayaan kuu soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Can you hear me?",
+    "somali": "Ma i maqashaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "The line is not clear.",
+    "somali": "Khadku ma cadda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Please speak a little louder.",
+    "somali": "Fadlan codka kor u qaad wax yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Sorry, I called the wrong number.",
+    "somali": "Waan ka xumahay, lambar khaldan ayaan wacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Can I leave a message?",
+    "somali": "Fariin ma reebi karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Please tell him I called.",
+    "somali": "Fadlan u sheeg inaan wacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "I missed your call.",
+    "somali": "Wicitaankaaga waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "My battery is low.",
+    "somali": "Batarigaygu wuu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "I will text you the address.",
+    "somali": "Cinwaanka fariin ahaan ayaan kuugu soo diri doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Please call me later.",
+    "somali": "Fadlan mar dambe i soo wac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Do not hang up yet.",
+    "somali": "Weli ha dhigin telefoonka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "The call dropped.",
+    "somali": "Wicitaankii wuu go'ay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Can we talk now?",
+    "somali": "Hadda ma hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Thank you for calling.",
+    "somali": "Waad ku mahadsan tahay wicitaanka.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_telephone_etiquette_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": "Goodbye, talk to you later.",
+    "somali": "Nabad gelyo, mar dambe ayaan wada hadli doonaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "farewell",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "telephone etiquette"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Please.",
+    "somali": "Fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Excuse me.",
+    "somali": "Raalli ahow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "After you.",
+    "somali": "Adiga iga hor mar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Please have a seat.",
+    "somali": "Fadlan fadhiiso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Let me help you.",
+    "somali": "Aan ku caawiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "I respect your opinion.",
+    "somali": "Waan xushmeeyaa ra'yigaaga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Thank you for your advice.",
+    "somali": "Waad ku mahadsan tahay taladaada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "May I ask a question?",
+    "somali": "Su'aal ma weydiin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Please forgive my interruption.",
+    "somali": "Fadlan iga raalli ahow inaan hadalka dhex galay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "apology",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "You are very kind.",
+    "somali": "Aad baad u naxariis badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "I appreciate your time.",
+    "somali": "Waan qadarinayaa waqtigaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Please go first.",
+    "somali": "Fadlan adigu marka hore tag.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "I will wait my turn.",
+    "somali": "Waan sugi doonaa markayga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "That is very thoughtful.",
+    "somali": "Taasi waa fikir wanaagsan oo tixgelin leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "I understand your point.",
+    "somali": "Waan fahmay aragtidaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Please accept my respect.",
+    "somali": "Fadlan aqbal xushmaddayda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "I do not want to disturb you.",
+    "somali": "Ma doonayo inaan ku dhibo.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "Thank you for welcoming me.",
+    "somali": "Waad ku mahadsan tahay inaad i soo dhoweysay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "May I come in?",
+    "somali": "Ma soo geli karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "polite",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_showing_respect_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": "It is an honor to meet you.",
+    "somali": "Sharaf bay ii tahay inaan kula kulmo.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "respect",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "showing respect"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Can I help you?",
+    "somali": "Ma ku caawin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_002",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Do you need any help?",
+    "somali": "Wax caawimo ah ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_003",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Let me carry that for you.",
+    "somali": "Aan kuu qaado taas.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_004",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I can show you the way.",
+    "somali": "Jidka waan ku tusi karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_005",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Would you like some tea?",
+    "somali": "Shaah ma rabtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_006",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Please tell me what you need.",
+    "somali": "Fadlan ii sheeg waxa aad u baahan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_007",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I am happy to help.",
+    "somali": "Waan ku faraxsanahay inaan caawiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_008",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Can I call someone for you?",
+    "somali": "Qof ma kuu wici karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_009",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Do you want me to wait?",
+    "somali": "Ma rabtaa inaan sugo?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_010",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I can explain it again.",
+    "somali": "Mar kale waan sharxi karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_011",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Let me open the door.",
+    "somali": "Aan albaabka kuu furo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_012",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I can translate for you.",
+    "somali": "Waan kuu tarjumi karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_013",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Would you like me to write it down?",
+    "somali": "Ma rabtaa inaan kuu qoro?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_014",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Tell me if you need anything.",
+    "somali": "Ii sheeg haddii aad wax u baahato.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_015",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I can help you fill in the form.",
+    "somali": "Waan kaa caawin karaa buuxinta foomka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_016",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Please take my seat.",
+    "somali": "Fadlan kursigayga qaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_017",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I will bring it for you.",
+    "somali": "Waan kuu keeni doonaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_018",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "Do you need directions?",
+    "somali": "Tilmaamo jid ma u baahan tahay?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_019",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "I can come with you.",
+    "somali": "Waan kula imaan karaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_greetings_etiquette_offering_help_020",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": "You are welcome to ask me.",
+    "somali": "Waad i weydiin kartaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "offer",
+    "keywords": [
+      "greetings",
+      "etiquette",
+      "offering help"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  }
+]

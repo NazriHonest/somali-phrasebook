@@ -1,0 +1,669 @@
+[
+  {
+    "id": "vocab_housing_renting_rent",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": {
+      "headword": "rent",
+      "search_forms": [
+        "rent",
+        "rents"
+      ]
+    },
+    "somali": {
+      "translation": "kiro",
+      "alternative_translations": [],
+      "explanation": "Lacagta lagu bixiyo isticmaalka guri ama hanti muddo cayiman."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Money paid regularly to use a house, apartment, or other property.",
+        "translation": "kiro",
+        "examples": [
+          {
+            "english": "The rent is due on the first of the month.",
+            "somali": "Kirada waxaa la bixiyaa maalinta koowaad ee bisha."
+          },
+          {
+            "english": "Our rent increased this year.",
+            "somali": "Kiradayadu way kordhay sanadkan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "pay the rent",
+        "somali": "bixi kirada"
+      },
+      {
+        "english": "monthly rent",
+        "somali": "kirada bisha"
+      },
+      {
+        "english": "rent agreement",
+        "somali": "heshiiska kirada"
+      }
+    ],
+    "related_words": [
+      "landlord",
+      "tenant",
+      "lease",
+      "apartment"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying monthly rent",
+      "Signing a rental agreement",
+      "Asking about rental costs"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Renting"
+    }
+  },
+  {
+    "id": "vocab_housing_buying_house",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": {
+      "headword": "house",
+      "search_forms": [
+        "house",
+        "houses"
+      ]
+    },
+    "somali": {
+      "translation": "guri",
+      "alternative_translations": [],
+      "explanation": "Dhismaha ama hoyga ay dadku ku noolaadaan."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A building where people live.",
+        "translation": "guri",
+        "examples": [
+          {
+            "english": "They bought a new house.",
+            "somali": "Waxay iibsadeen guri cusub."
+          },
+          {
+            "english": "The house has three bedrooms.",
+            "somali": "Gurigu wuxuu leeyahay saddex qol jiif."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "buy a house",
+        "somali": "iibso guri"
+      },
+      {
+        "english": "family house",
+        "somali": "guri qoys"
+      },
+      {
+        "english": "house key",
+        "somali": "furaha guriga"
+      }
+    ],
+    "related_words": [
+      "home",
+      "apartment",
+      "room",
+      "building"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Viewing a house",
+      "Buying a home",
+      "Describing your home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Buying"
+    }
+  },
+  {
+    "id": "vocab_housing_furniture_bed",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": {
+      "headword": "bed",
+      "search_forms": [
+        "bed",
+        "beds"
+      ]
+    },
+    "somali": {
+      "translation": "sariir",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa furniture ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to furniture.",
+        "translation": "sariir",
+        "examples": [
+          {
+            "english": "We discussed the bed with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The bed is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "bed inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "bed problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "bed service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Furniture"
+    }
+  },
+  {
+    "id": "vocab_housing_kitchen_room_kitchen",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": {
+      "headword": "kitchen",
+      "search_forms": [
+        "kitchen",
+        "kitchens"
+      ]
+    },
+    "somali": {
+      "translation": "jiko",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa kitchen room ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to kitchen room.",
+        "translation": "jiko",
+        "examples": [
+          {
+            "english": "We discussed the kitchen with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The kitchen is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "kitchen inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "kitchen problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "kitchen service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Kitchen Room"
+    }
+  },
+  {
+    "id": "vocab_housing_bathroom_bathroom",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": {
+      "headword": "bathroom",
+      "search_forms": [
+        "bathroom",
+        "bathrooms"
+      ]
+    },
+    "somali": {
+      "translation": "musqul",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa bathroom ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to bathroom.",
+        "translation": "musqul",
+        "examples": [
+          {
+            "english": "We discussed the bathroom with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The bathroom is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "bathroom inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "bathroom problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "bathroom service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Bathroom"
+    }
+  },
+  {
+    "id": "vocab_housing_repairs_repair",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": {
+      "headword": "repair",
+      "search_forms": [
+        "repair",
+        "repairs"
+      ]
+    },
+    "somali": {
+      "translation": "dayactir",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa repairs ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to repairs.",
+        "translation": "dayactir",
+        "examples": [
+          {
+            "english": "We discussed the repair with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The repair is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "repair inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "repair problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "repair service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Repairs"
+    }
+  },
+  {
+    "id": "vocab_housing_utilities_electricity",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": {
+      "headword": "electricity",
+      "search_forms": [
+        "electricity",
+        "electricities"
+      ]
+    },
+    "somali": {
+      "translation": "koronto",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa utilities ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to utilities.",
+        "translation": "koronto",
+        "examples": [
+          {
+            "english": "We discussed the electricity with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The electricity is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "electricity inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "electricity problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "electricity service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Utilities"
+    }
+  },
+  {
+    "id": "vocab_housing_moving_move",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": {
+      "headword": "move",
+      "search_forms": [
+        "move",
+        "moves",
+        "moved",
+        "moving"
+      ]
+    },
+    "somali": {
+      "translation": "guur",
+      "alternative_translations": [],
+      "explanation": "Inaad u guurto guri ama meel kale oo aad degto."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To change the place where you live.",
+        "translation": "guur",
+        "examples": [
+          {
+            "english": "We're moving to a new apartment next week.",
+            "somali": "Toddobaadka dambe waxaan u guureynaa dabaq cusub."
+          },
+          {
+            "english": "They moved closer to work.",
+            "somali": "Waxay ugu guureen meel shaqada u dhow."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "move house",
+        "somali": "guri u guur"
+      },
+      {
+        "english": "move in",
+        "somali": "soo deg"
+      },
+      {
+        "english": "move out",
+        "somali": "ka guur"
+      }
+    ],
+    "related_words": [
+      "relocate",
+      "apartment",
+      "address",
+      "packing"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Moving into a new apartment",
+      "Hiring movers",
+      "Changing your address"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Moving"
+    }
+  },
+  {
+    "id": "vocab_housing_neighbours_neighbour",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": {
+      "headword": "neighbour",
+      "search_forms": [
+        "neighbour",
+        "neighbours"
+      ]
+    },
+    "somali": {
+      "translation": "deris",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa neighbours ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to neighbours.",
+        "translation": "deris",
+        "examples": [
+          {
+            "english": "We discussed the neighbour with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The neighbour is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "neighbour inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "neighbour problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "neighbour service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Neighbours"
+    }
+  },
+  {
+    "id": "vocab_housing_safety_lock",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": {
+      "headword": "lock",
+      "search_forms": [
+        "lock",
+        "locks"
+      ]
+    },
+    "somali": {
+      "translation": "quful",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa safety ee guriga waxaana si joogto ah loogu isticmaalaa xaaladaha nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common housing term related to safety.",
+        "translation": "quful",
+        "examples": [
+          {
+            "english": "We discussed the lock with the landlord.",
+            "somali": "Waxaan kala hadalnay mulkiilaha arrintan."
+          },
+          {
+            "english": "The lock is important.",
+            "somali": "Tani waa muhiim."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "lock inspection",
+        "somali": "kormeer"
+      },
+      {
+        "english": "lock problem",
+        "somali": "dhibaato"
+      },
+      {
+        "english": "lock service",
+        "somali": "adeeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for accommodation",
+      "Talking to a landlord",
+      "Moving into a home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Safety"
+    }
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "id": "vocab_public_signs_road_signs_stop",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": {
+      "headword": "stop",
+      "search_forms": [
+        "stop",
+        "stops"
+      ]
+    },
+    "somali": {
+      "translation": "joogso",
+      "alternative_translations": [],
+      "explanation": "Amarka lagu farayo darawalka ama qofka inuu joogsado."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "An instruction telling someone to stop moving.",
+        "translation": "joogso",
+        "examples": [
+          {
+            "english": "Stop before the white line.",
+            "somali": "Joogso ka hor xariiqda cad."
+          },
+          {
+            "english": "Drivers must stop at the sign.",
+            "somali": "Darawalladu waa inay joogsadaan calaamadda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "stop sign",
+        "somali": "calaamadda joogsiga"
+      },
+      {
+        "english": "come to a stop",
+        "somali": "joogso"
+      },
+      {
+        "english": "stop here",
+        "somali": "halkan joogso"
+      }
+    ],
+    "related_words": [
+      "go",
+      "traffic",
+      "road"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Driving",
+      "Crossing a road",
+      "Following traffic signs"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Road Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_hospital_signs_reception",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": {
+      "headword": "reception",
+      "search_forms": [
+        "reception",
+        "receptions"
+      ]
+    },
+    "somali": {
+      "translation": "soo-dhoweyn",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "soo-dhoweyn",
+        "examples": [
+          {
+            "english": "Look for the reception sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The reception sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "reception sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "reception area",
+        "somali": "aagga"
+      },
+      {
+        "english": "reception symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Hospital Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_airport_signs_departure",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": {
+      "headword": "departure",
+      "search_forms": [
+        "departure",
+        "departures"
+      ]
+    },
+    "somali": {
+      "translation": "duulitaan baxaya",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "duulitaan baxaya",
+        "examples": [
+          {
+            "english": "Look for the departure sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The departure sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "departure sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "departure area",
+        "somali": "aagga"
+      },
+      {
+        "english": "departure symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Airport Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_school_signs_classroom",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": {
+      "headword": "classroom",
+      "search_forms": [
+        "classroom",
+        "classrooms"
+      ]
+    },
+    "somali": {
+      "translation": "fasal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "fasal",
+        "examples": [
+          {
+            "english": "Look for the classroom sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The classroom sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "classroom sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "classroom area",
+        "somali": "aagga"
+      },
+      {
+        "english": "classroom symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs School Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_safety_signs_danger",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": {
+      "headword": "danger",
+      "search_forms": [
+        "danger",
+        "dangers"
+      ]
+    },
+    "somali": {
+      "translation": "khatar",
+      "alternative_translations": [],
+      "explanation": "Calaamad muujinaysa khatar ama meel aan ammaan ahayn."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A sign warning that a place or situation is dangerous.",
+        "translation": "khatar",
+        "examples": [
+          {
+            "english": "Danger! Keep out.",
+            "somali": "Khatar! Ha soo gelin."
+          },
+          {
+            "english": "The sign warns of danger.",
+            "somali": "Calaamaddu waxay ka digaysaa khatar."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "danger area",
+        "somali": "aagga khatarta"
+      },
+      {
+        "english": "danger sign",
+        "somali": "calaamadda khatarta"
+      },
+      {
+        "english": "in danger",
+        "somali": "khatar ku jira"
+      }
+    ],
+    "related_words": [
+      "warning",
+      "risk",
+      "hazard"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Construction sites",
+      "Electrical areas",
+      "Industrial zones"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Safety Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_office_signs_entrance",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": {
+      "headword": "entrance",
+      "search_forms": [
+        "entrance",
+        "entrances"
+      ]
+    },
+    "somali": {
+      "translation": "irid laga galo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "irid laga galo",
+        "examples": [
+          {
+            "english": "Look for the entrance sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The entrance sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "entrance sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "entrance area",
+        "somali": "aagga"
+      },
+      {
+        "english": "entrance symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Office Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_hotel_signs_vacancy",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": {
+      "headword": "vacancy",
+      "search_forms": [
+        "vacancy",
+        "vacancies"
+      ]
+    },
+    "somali": {
+      "translation": "qol bannaan",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "qol bannaan",
+        "examples": [
+          {
+            "english": "Look for the vacancy sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The vacancy sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "vacancy sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "vacancy area",
+        "somali": "aagga"
+      },
+      {
+        "english": "vacancy symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Hotel Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_shopping_signs_sale",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": {
+      "headword": "sale",
+      "search_forms": [
+        "sale",
+        "sales"
+      ]
+    },
+    "somali": {
+      "translation": "qiimo dhimis",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "qiimo dhimis",
+        "examples": [
+          {
+            "english": "Look for the sale sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The sale sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "sale sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "sale area",
+        "somali": "aagga"
+      },
+      {
+        "english": "sale symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Shopping Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_warning_signs_warning",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": {
+      "headword": "warning",
+      "search_forms": [
+        "warning",
+        "warnings"
+      ]
+    },
+    "somali": {
+      "translation": "digniin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu ka muuqdaa calaamadaha goobaha dadweynaha si uu u siiyo tilmaamo ama digniin."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common word found on public signs.",
+        "translation": "digniin",
+        "examples": [
+          {
+            "english": "Look for the warning sign.",
+            "somali": "Raadi calaamadda."
+          },
+          {
+            "english": "The warning sign is easy to see.",
+            "somali": "Calaamaddu way fududahay in la arko."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "warning sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "warning area",
+        "somali": "aagga"
+      },
+      {
+        "english": "warning symbol",
+        "somali": "astaanta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Reading public signs",
+      "Finding your way",
+      "Following safety instructions"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Warning Signs"
+    }
+  },
+  {
+    "id": "vocab_public_signs_emergency_signs_exit",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": {
+      "headword": "exit",
+      "search_forms": [
+        "exit",
+        "exits"
+      ]
+    },
+    "somali": {
+      "translation": "bixid",
+      "alternative_translations": [],
+      "explanation": "Meesha ama albaabka laga baxo dhisme ama goob."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A way out of a building or place.",
+        "translation": "bixid",
+        "examples": [
+          {
+            "english": "Follow the exit signs.",
+            "somali": "Raac calaamadaha bixidda."
+          },
+          {
+            "english": "The emergency exit is on the left.",
+            "somali": "Albaabka bixidda degdegga ah wuxuu ku yaal bidix."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "emergency exit",
+        "somali": "bixid degdeg ah"
+      },
+      {
+        "english": "exit door",
+        "somali": "albaabka bixidda"
+      },
+      {
+        "english": "exit sign",
+        "somali": "calaamadda bixidda"
+      }
+    ],
+    "related_words": [
+      "entrance",
+      "door",
+      "escape"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Leaving a building",
+      "Emergency evacuation",
+      "Airport terminal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Signs Emergency Signs"
+    }
+  }
+]

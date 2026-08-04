@@ -81,7 +81,7 @@ class _WordlistScreenState extends ConsumerState<WordlistScreen> {
                     end: Alignment.bottomRight,
                     colors: [
                       theme.phrasebook.headerStart,
-                      theme.phrasebook.headerEnd,
+                      theme.phrasebook.greenHeaderEnd,
                     ],
                   ),
                 ),

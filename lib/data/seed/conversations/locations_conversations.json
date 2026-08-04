@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "conversation_locations_asking_directions_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "title": "Asking the Way to the Pharmacy",
+    "somali_title": "Jidka farmashiyaha oo la weydiinayo",
+    "situation": "A visitor asks a passerby for simple directions to the nearest pharmacy.",
+    "somali_situation": "Soo booqde ayaa qof jidka maraya weydiinaya tilmaamo fudud oo ku saabsan farmashiyaha ugu dhow.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Passerby"
+    ],
+    "key_vocabulary": [
+      "pharmacy",
+      "street",
+      "corner",
+      "straight",
+      "near",
+      "directions"
+    ],
+    "key_phrases": [
+      "Excuse me, where is the pharmacy?",
+      "Go straight on this street.",
+      "It is near the corner.",
+      "Thank you for the directions.",
+      "You are welcome."
+    ],
+    "grammar_focus": [
+      "where is",
+      "imperatives",
+      "near + noun",
+      "on this street",
+      "thanks and replies"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Excuse me, where is the pharmacy?",
+        "somali": "Iga raalli ahow, farmashiyuhu xaggee buu ku yaal?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Passerby",
+        "somali_speaker": "Qof jidka maraya",
+        "english": "Go straight on this street.",
+        "somali": "Si toos ah u soco jidkan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Is it far?",
+        "somali": "Ma fog yahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Passerby",
+        "somali_speaker": "Qof jidka maraya",
+        "english": "No, it is near the corner.",
+        "somali": "Maya, wuxuu u dhow yahay geeska."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Which corner?",
+        "somali": "Geeskee?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Passerby",
+        "somali_speaker": "Qof jidka maraya",
+        "english": "The corner by the blue sign.",
+        "somali": "Geeska calaamadda buluugga ah agteeda."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Thank you for the directions.",
+        "somali": "Waad ku mahadsan tahay tilmaamaha."
+      },
+      {
+        "turn": 8,
+        "speaker": "Passerby",
+        "somali_speaker": "Qof jidka maraya",
+        "english": "You are welcome.",
+        "somali": "Adaa mudan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_buildings_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "title": "Finding the Right Building",
+    "somali_title": "Dhismaha saxda ah oo la helayo",
+    "situation": "A visitor arrives on a campus and asks security which building has the admissions office.",
+    "somali_situation": "Soo booqde ayaa yimaada xarun waxbarasho wuxuuna amniga weydiinayaa dhismaha uu ku yaal xafiiska oggolaanshaha.",
+    "cefr": "A2",
+    "participants": [
+      "Visitor",
+      "Security Guard"
+    ],
+    "key_vocabulary": [
+      "building",
+      "office",
+      "entrance",
+      "floor",
+      "elevator",
+      "reception",
+      "buildings"
+    ],
+    "key_phrases": [
+      "Which building has the admissions office?",
+      "Use the main entrance.",
+      "The reception desk is inside.",
+      "Take the elevator to the second floor.",
+      "These buildings look similar."
+    ],
+    "grammar_focus": [
+      "which + noun",
+      "imperatives",
+      "inside and to",
+      "ordinal numbers",
+      "look + adjective"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Which building has the admissions office?",
+        "somali": "Dhismahee ayuu ku yaal xafiiska oggolaanshuhu?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Security Guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "It is in the white building.",
+        "somali": "Wuxuu ku yaal dhismaha cad."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "These buildings look similar.",
+        "somali": "Dhismayaashani way isu eg yihiin."
+      },
+      {
+        "turn": 4,
+        "speaker": "Security Guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "Use the main entrance.",
+        "somali": "Isticmaal albaabka weyn."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Is the reception desk inside?",
+        "somali": "Miiska soo-dhoweyntu gudaha ma ku yaal?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Security Guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "Yes, the reception desk is inside.",
+        "somali": "Haa, miiska soo-dhoweyntu gudaha ayuu ku yaal."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Which floor do I need?",
+        "somali": "Dabaqee ayaan u baahanahay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Security Guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "Take the elevator to the second floor.",
+        "somali": "Qaado wiishka ilaa dabaqa labaad."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Thank you. I see the entrance now.",
+        "somali": "Mahadsanid. Hadda waxaan arkayaa albaabka."
+      },
+      {
+        "turn": 10,
+        "speaker": "Security Guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "You are welcome.",
+        "somali": "Adaa mudan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_rooms_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "title": "Finding a Room in a Clinic",
+    "somali_title": "Qol xarun caafimaad ku yaal oo la raadinayo",
+    "situation": "A patient asks how to find an examination room after checking in at reception.",
+    "somali_situation": "Bukaan ayaa weydiinaya sida loo helo qolka baaritaanka ka dib marka uu iska diiwaangeliyo soo-dhoweynta.",
+    "cefr": "B1",
+    "participants": [
+      "Patient",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "room",
+      "waiting area",
+      "corridor",
+      "door",
+      "exam room",
+      "number",
+      "rooms"
+    ],
+    "key_phrases": [
+      "Which room should I go to?",
+      "Wait in the waiting area first.",
+      "Walk down this corridor.",
+      "The exam room is behind the blue door.",
+      "The room number is twelve."
+    ],
+    "grammar_focus": [
+      "which room",
+      "imperatives in directions",
+      "behind + noun",
+      "numbers",
+      "should for instructions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I have checked in. Which room should I go to?",
+        "somali": "Waan is diiwaangeliyay. Qolkee ayaan aadaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Wait in the waiting area first.",
+        "somali": "Marka hore sug aagga sugitaanka."
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Will someone call my name?",
+        "somali": "Qof magacayga ma yeeri doonaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, the nurse will call you.",
+        "somali": "Haa, kalkaaliyaha ayaa ku yeeri doona."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Where are the exam rooms?",
+        "somali": "Qolalka baaritaanku xaggee bay ku yaallaan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Walk down this corridor.",
+        "somali": "Hoos u raac marin-kan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Is it the door on the left?",
+        "somali": "Ma albaabka bidixda ku yaal baa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The exam room is behind the blue door.",
+        "somali": "Qolka baaritaanku wuxuu ka dambeeyaa albaabka buluugga ah."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "What is the room number?",
+        "somali": "Lambarka qolku waa imisa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The room number is twelve.",
+        "somali": "Lambarka qolku waa laba iyo toban."
+      },
+      {
+        "turn": 11,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you. I will wait there.",
+        "somali": "Mahadsanid. Halkaas ayaan ku sugi doonaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The nurse will come soon.",
+        "somali": "Kalkaaliyaha ayaa dhowaan iman doona."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_furniture_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "title": "Moving Furniture in a New Room",
+    "somali_title": "Alaab qol cusub lagu rarayo",
+    "situation": "A tenant and a mover decide where to put furniture so the room stays comfortable and clear.",
+    "somali_situation": "Kirayste iyo qof raraya ayaa go'aaminaya meesha alaabta la dhigo si qolku u ahaado raaxo leh oo bannaan.",
+    "cefr": "B2",
+    "participants": [
+      "Tenant",
+      "Mover"
+    ],
+    "key_vocabulary": [
+      "furniture",
+      "sofa",
+      "table",
+      "chair",
+      "bed",
+      "wall",
+      "space"
+    ],
+    "key_phrases": [
+      "Can we put the sofa against this wall?",
+      "The table blocks the door there.",
+      "Leave enough space for a chair.",
+      "The bed should face the window.",
+      "This furniture fits better now."
+    ],
+    "grammar_focus": [
+      "can for suggestions",
+      "should for arrangement",
+      "against and beside",
+      "enough + noun",
+      "comparatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Can we put the sofa against this wall?",
+        "somali": "Fadhiga ma dhigi karnaa derbigan agtiisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "Yes, but the table blocks the door there.",
+        "somali": "Haa, laakiin miisku halkaas ayuu albaabka xannibayaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Then move the table near the kitchen.",
+        "somali": "Markaa miiska u rar jikada agteeda."
+      },
+      {
+        "turn": 4,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "That gives us more space.",
+        "somali": "Taasi waxay na siinaysaa meel badan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Leave enough space for a chair.",
+        "somali": "Meel ku filan uga tag kursi."
+      },
+      {
+        "turn": 6,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "One chair can go beside the table.",
+        "somali": "Hal kursi wuxuu tegi karaa miiska agtiisa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Where should the bed go?",
+        "somali": "Sariirtu xaggee bay tagtaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "The bed should face the window.",
+        "somali": "Sariirtu waa inay u jeeddaa daaqadda."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Will that make the room feel narrow?",
+        "somali": "Taasi qolku ma ka dhigi doontaa mid cidhiidhi ah?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "No, the walkway stays clear.",
+        "somali": "Maya, marinku wuu bannaanaanayaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Please keep the small shelf by the bed.",
+        "somali": "Fadlan shelf-ka yar sariirta agteeda dhig."
+      },
+      {
+        "turn": 12,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "I can do that.",
+        "somali": "Waan samayn karaa."
+      },
+      {
+        "turn": 13,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "The room already feels easier to use.",
+        "somali": "Qolku hadda durba wuu fududaaday in la isticmaalo."
+      },
+      {
+        "turn": 14,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "This furniture fits better now.",
+        "somali": "Alaabtan hadda si ka fiican bay u habboon tahay."
+      },
+      {
+        "turn": 15,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Great. Please leave it like this.",
+        "somali": "Waa fiican tahay. Fadlan sidaan uga tag."
+      },
+      {
+        "turn": 16,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "All set.",
+        "somali": "Waa diyaar."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_position_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "title": "Finding a Bag's Position",
+    "somali_title": "Meesha boorso taallo oo la helayo",
+    "situation": "A student asks where a bag is and understands simple position words.",
+    "somali_situation": "Arday ayaa weydiinaya meesha boorso taallo wuxuuna fahmayaa erayo fudud oo meesha tilmaama.",
+    "cefr": "A1",
+    "participants": [
+      "Student",
+      "Classmate"
+    ],
+    "key_vocabulary": [
+      "bag",
+      "under",
+      "on",
+      "next to",
+      "table",
+      "position"
+    ],
+    "key_phrases": [
+      "Where is my bag?",
+      "It is under the table.",
+      "Is it next to the chair?",
+      "No, it is on the floor.",
+      "Now I know the position."
+    ],
+    "grammar_focus": [
+      "where is",
+      "prepositions of place",
+      "it is",
+      "yes/no questions",
+      "short corrections"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Where is my bag?",
+        "somali": "Boorsadaydu xaggee bay taallaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Classmate",
+        "somali_speaker": "Arday kale",
+        "english": "It is under the table.",
+        "somali": "Waxay ku hoos jirtaa miiska."
+      },
+      {
+        "turn": 3,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Is it next to the chair?",
+        "somali": "Ma waxay ku xigtaa kursiga?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Classmate",
+        "somali_speaker": "Arday kale",
+        "english": "No, it is on the floor.",
+        "somali": "Maya, waxay saaran tahay dhulka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "I see it now.",
+        "somali": "Hadda waan arkay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Classmate",
+        "somali_speaker": "Arday kale",
+        "english": "Your notebook is on the table.",
+        "somali": "Buuggaagu miiska ayuu saaran yahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Now I know the position.",
+        "somali": "Hadda waan garanayaa meesha ay taallo."
+      },
+      {
+        "turn": 8,
+        "speaker": "Classmate",
+        "somali_speaker": "Arday kale",
+        "english": "Good. Class is starting.",
+        "somali": "Waa fiican tahay. Fasalku wuu bilaabanayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_left_right_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "title": "Turning Left and Right",
+    "somali_title": "Bidix iyo midig loo leexanayo",
+    "situation": "A passenger follows simple left and right directions from a taxi driver.",
+    "somali_situation": "Rakaab ayaa raacaya tilmaamo fudud oo bidix iyo midig ah oo ka imanaya darawal taksi.",
+    "cefr": "A2",
+    "participants": [
+      "Passenger",
+      "Taxi Driver"
+    ],
+    "key_vocabulary": [
+      "left",
+      "right",
+      "turn",
+      "traffic light",
+      "crossroad",
+      "straight",
+      "left and right"
+    ],
+    "key_phrases": [
+      "Please turn left at the traffic light.",
+      "Then go straight to the crossroad.",
+      "Is the hotel on the right?",
+      "No, it is on the left.",
+      "I mix up left and right."
+    ],
+    "grammar_focus": [
+      "imperatives",
+      "at + place",
+      "on the left/right",
+      "then for sequence",
+      "simple corrections"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Please turn left at the traffic light.",
+        "somali": "Fadlan bidix u leexo nalka taraafikada agtiisa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Taxi Driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "All right, I will turn left there.",
+        "somali": "Hagaag, halkaas ayaan bidix uga leexanayaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Then go straight to the crossroad.",
+        "somali": "Kadib si toos ah u soco ilaa isgoyska."
+      },
+      {
+        "turn": 4,
+        "speaker": "Taxi Driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Do I turn right at the crossroad?",
+        "somali": "Isgoyska ma midig baan uga leexdaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "Yes, turn right there.",
+        "somali": "Haa, halkaas midig uga leexo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Taxi Driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Is the hotel on the right?",
+        "somali": "Hoteelku ma midigta ayuu ku yaal?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "No, it is on the left.",
+        "somali": "Maya, bidixda ayuu ku yaal."
+      },
+      {
+        "turn": 8,
+        "speaker": "Taxi Driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "Thanks. I mix up left and right.",
+        "somali": "Mahadsanid. Bidix iyo midig waan isku khaldaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Passenger",
+        "somali_speaker": "Rakaab",
+        "english": "No problem. We are close now.",
+        "somali": "Dhib ma leh. Hadda waan dhow nahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Taxi Driver",
+        "somali_speaker": "Darawal taksi",
+        "english": "I see the hotel sign.",
+        "somali": "Waxaan arkayaa calaamadda hoteelka."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_maps_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "title": "Reading a Map at the Station",
+    "somali_title": "Khariidad saldhig lagu akhrinayo",
+    "situation": "A traveler uses a station map to find the correct platform and exit.",
+    "somali_situation": "Socdaale ayaa adeegsanaya khariidadda saldhigga si uu u helo barxadda saxda ah iyo meesha laga baxo.",
+    "cefr": "B1",
+    "participants": [
+      "Traveler",
+      "Station Worker"
+    ],
+    "key_vocabulary": [
+      "map",
+      "station",
+      "platform",
+      "exit",
+      "route",
+      "symbol",
+      "maps"
+    ],
+    "key_phrases": [
+      "Can you help me read this map?",
+      "The blue symbol shows the exit.",
+      "Your route goes through platform three.",
+      "Follow the signs inside the station.",
+      "These maps are easier than I expected."
+    ],
+    "grammar_focus": [
+      "can for requests",
+      "present simple for routes",
+      "through + place",
+      "imperatives",
+      "comparatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Can you help me read this map?",
+        "somali": "Khariidaddan ma iga caawin kartaa inaan akhriyo?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "Yes. Which station do you need?",
+        "somali": "Haa. Saldhiggee ayaad u baahan tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "I need Central Station.",
+        "somali": "Waxaan u baahanahay Saldhigga Dhexe."
+      },
+      {
+        "turn": 4,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "Your route goes through platform three.",
+        "somali": "Jidkaagu wuxuu maraa barxadda saddexaad."
+      },
+      {
+        "turn": 5,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Where is the exit after that?",
+        "somali": "Intaas ka dib meesha laga baxo xaggee bay ku taal?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "The blue symbol shows the exit.",
+        "somali": "Astaanta buluugga ah ayaa muujinaysa meesha laga baxo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Should I cross the bridge?",
+        "somali": "Ma inaan buundada gudbaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "Yes, then follow the signs inside the station.",
+        "somali": "Haa, kadib raac calaamadaha gudaha saldhigga."
+      },
+      {
+        "turn": 9,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "These maps are easier than I expected.",
+        "somali": "Khariidadahani way ka fudud yihiin intii aan filayay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "They are clear once you know the symbols.",
+        "somali": "Way cad yihiin markaad astaamaha barato."
+      },
+      {
+        "turn": 11,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Thank you. I can find platform three now.",
+        "somali": "Mahadsanid. Hadda waan heli karaa barxadda saddexaad."
+      },
+      {
+        "turn": 12,
+        "speaker": "Station Worker",
+        "somali_speaker": "Shaqaale saldhig",
+        "english": "You are going the right way.",
+        "somali": "Jidka saxda ah ayaad ku socotaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_lost_items_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "title": "Finding a Lost Wallet",
+    "somali_title": "Boorsada lacagta oo luntay oo la raadinayo",
+    "situation": "A customer reports a lost wallet at a cafe and retraces where it was last seen.",
+    "somali_situation": "Macmiil ayaa kafeega ka sheegaya boorso lacag oo luntay wuxuuna dib u raacayaa meeshii ugu dambeysay ee lagu arkay.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Cafe Worker"
+    ],
+    "key_vocabulary": [
+      "lost",
+      "wallet",
+      "counter",
+      "seat",
+      "receipt",
+      "found",
+      "lost items"
+    ],
+    "key_phrases": [
+      "I think I lost my wallet.",
+      "Where did you last have it?",
+      "I paid at the counter.",
+      "Maybe it fell beside my seat.",
+      "Someone found it near the window."
+    ],
+    "grammar_focus": [
+      "past simple questions",
+      "maybe for uncertainty",
+      "beside and near",
+      "reported possession",
+      "past simple sequence"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Excuse me, I think I lost my wallet.",
+        "somali": "Iga raalli ahow, waxaan u malaynayaa in boorsadaydii lacagtu luntay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "I am sorry. Where did you last have it?",
+        "somali": "Waan ka xumahay. Xaggee ayaad ugu dambaysay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I paid at the counter.",
+        "somali": "Miiska lacag-bixinta ayaan ku bixiyay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Did you keep the receipt?",
+        "somali": "Rasiidka ma haysataa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, the receipt is in my coat pocket.",
+        "somali": "Haa, rasiidku wuxuu ku jiraa jeebka jaakaddayda."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Which seat were you using?",
+        "somali": "Kursigee ayaad isticmaalaysay?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The seat by the window.",
+        "somali": "Kursiga daaqadda agtiisa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Maybe it fell beside my seat.",
+        "somali": "Waxaa laga yaabaa inay kursigayga agtiisa ku dhacday."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can we check there first?",
+        "somali": "Halkaas marka hore ma hubin karnaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Yes, I will look under the table.",
+        "somali": "Haa, waxaan ka eegi doonaa miiska hoostiisa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It is not there.",
+        "somali": "Halkaas kuma jirto."
+      },
+      {
+        "turn": 12,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Let me ask about lost items at the front.",
+        "somali": "Aan hore ka weydiiyo waxyaabaha lumay."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you. It has my bank card inside.",
+        "somali": "Mahadsanid. Kaarka bangigayga ayaa ku jira."
+      },
+      {
+        "turn": 14,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Someone found it near the window.",
+        "somali": "Qof ayaa ka helay daaqadda agteeda."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That is a relief.",
+        "somali": "Taasi waa nasasho."
+      },
+      {
+        "turn": 16,
+        "speaker": "Cafe Worker",
+        "somali_speaker": "Shaqaale kafeega",
+        "english": "Please check that everything is still inside.",
+        "somali": "Fadlan hubi in wax walba weli ku jiraan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_locations_nearby_places_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "title": "Finding a Nearby Cafe",
+    "somali_title": "Kafee dhow oo la helayo",
+    "situation": "A visitor asks for a nearby cafe and learns where it is in relation to the bus stop.",
+    "somali_situation": "Soo booqde ayaa weydiinaya kafee dhow wuxuuna ogaanayaa meesha uu kaga yaal joogsiga baska.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Local Person"
+    ],
+    "key_vocabulary": [
+      "nearby",
+      "cafe",
+      "bus stop",
+      "next to",
+      "across from",
+      "places"
+    ],
+    "key_phrases": [
+      "Is there a nearby cafe?",
+      "It is next to the bus stop.",
+      "Is it across from the bank?",
+      "Yes, it is across from the bank.",
+      "There are many places nearby."
+    ],
+    "grammar_focus": [
+      "is there",
+      "nearby + noun",
+      "next to",
+      "across from",
+      "there are"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Is there a nearby cafe?",
+        "somali": "Kafee dhow ma jiraa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is next to the bus stop.",
+        "somali": "Haa, wuxuu ku xigaa joogsiga baska."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Is it across from the bank?",
+        "somali": "Ma bangiga ka soo horjeedaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is across from the bank.",
+        "somali": "Haa, bangiga ayuu ka soo horjeedaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Can I walk there?",
+        "somali": "Ma u socon karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "Yes, it is very close.",
+        "somali": "Haa, aad buu u dhow yahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Soo booqde",
+        "english": "Are there other places nearby?",
+        "somali": "Meelo kale oo dhow ma jiraan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Local Person",
+        "somali_speaker": "Qof deegaanka ah",
+        "english": "There are many places nearby.",
+        "somali": "Meelo badan ayaa dhow."
+      }
+    ]
+  }
+]

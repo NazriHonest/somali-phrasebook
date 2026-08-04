@@ -1,0 +1,666 @@
+[
+  {
+    "id": "vocab_jobs_job_search_job",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": {
+      "headword": "job",
+      "search_forms": [
+        "job",
+        "jobs"
+      ]
+    },
+    "somali": {
+      "translation": "shaqo",
+      "alternative_translations": [],
+      "explanation": "Shaqo ama xil qof lagu siiyo si uu u qabto hawl gaar ah isagoo mushahar qaata."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Paid work that a person does for an employer.",
+        "translation": "shaqo",
+        "examples": [
+          {
+            "english": "I'm looking for a new job.",
+            "somali": "Waxaan raadinayaa shaqo cusub."
+          },
+          {
+            "english": "She found a job in a bank.",
+            "somali": "Waxay shaqo ka heshay bangi."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "apply for a job",
+        "somali": "codso shaqo"
+      },
+      {
+        "english": "full-time job",
+        "somali": "shaqo waqti buuxa"
+      },
+      {
+        "english": "job interview",
+        "somali": "wareysi shaqo"
+      }
+    ],
+    "related_words": [
+      "career",
+      "work",
+      "employer",
+      "employee"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Searching for a job",
+      "Reading job adverts",
+      "Talking about employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Job Search"
+    }
+  },
+  {
+    "id": "vocab_jobs_applications_application",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": {
+      "headword": "application",
+      "search_forms": [
+        "application",
+        "applications"
+      ]
+    },
+    "somali": {
+      "translation": "codsi",
+      "alternative_translations": [],
+      "explanation": "Codsi rasmi ah oo loo gudbiyo loo-shaqeeye si shaqo loo helo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A formal request for a job.",
+        "translation": "codsi",
+        "examples": [
+          {
+            "english": "I submitted my job application yesterday.",
+            "somali": "Waxaan gudbiyay codsigaygii shaqo shalay."
+          },
+          {
+            "english": "Please complete the application form.",
+            "somali": "Fadlan buuxi foomka codsiga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "job application",
+        "somali": "codsi shaqo"
+      },
+      {
+        "english": "application form",
+        "somali": "foomka codsiga"
+      },
+      {
+        "english": "submit an application",
+        "somali": "gudbi codsi"
+      }
+    ],
+    "related_words": [
+      "CV",
+      "interview",
+      "employer",
+      "vacancy"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Applying for a job",
+      "Completing an application form",
+      "Sending an online application"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Applications"
+    }
+  },
+  {
+    "id": "vocab_jobs_cv_cv",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": {
+      "headword": "CV",
+      "search_forms": [
+        "CV"
+      ]
+    },
+    "somali": {
+      "translation": "taariikh shaqo",
+      "alternative_translations": [],
+      "explanation": "Dukumenti kooban oo muujinaya waxbarashada, khibradda iyo xirfadaha qofka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A document summarising your education, skills and work experience.",
+        "translation": "taariikh shaqo",
+        "examples": [
+          {
+            "english": "Please attach your CV.",
+            "somali": "Fadlan ku lifaaq CV-gaaga."
+          },
+          {
+            "english": "My CV is up to date.",
+            "somali": "CV-gaygu waa mid cusub."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "update your CV",
+        "somali": "cusboonaysii CV-ga"
+      },
+      {
+        "english": "send a CV",
+        "somali": "dir CV"
+      },
+      {
+        "english": "CV template",
+        "somali": "qaabka CV-ga"
+      }
+    ],
+    "related_words": [
+      "resume",
+      "application",
+      "experience",
+      "skills"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Preparing a CV",
+      "Applying online",
+      "Meeting a recruiter"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Cv"
+    }
+  },
+  {
+    "id": "vocab_jobs_interviews_interview",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": {
+      "headword": "interview",
+      "search_forms": [
+        "interview",
+        "interviews"
+      ]
+    },
+    "somali": {
+      "translation": "wareysi",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa interviews ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to interviews.",
+        "translation": "wareysi",
+        "examples": [
+          {
+            "english": "We discussed the interview at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The interview is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "interview policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "interview meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "interview process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Interviews"
+    }
+  },
+  {
+    "id": "vocab_jobs_office_office",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": {
+      "headword": "office",
+      "search_forms": [
+        "office",
+        "offices"
+      ]
+    },
+    "somali": {
+      "translation": "xafiis",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa office ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to office.",
+        "translation": "xafiis",
+        "examples": [
+          {
+            "english": "We discussed the office at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The office is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "office policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "office meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "office process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Office"
+    }
+  },
+  {
+    "id": "vocab_jobs_meetings_agenda",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": {
+      "headword": "agenda",
+      "search_forms": [
+        "agenda",
+        "agendas"
+      ]
+    },
+    "somali": {
+      "translation": "ajende",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa meetings ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to meetings.",
+        "translation": "ajende",
+        "examples": [
+          {
+            "english": "We discussed the agenda at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The agenda is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "agenda policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "agenda meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "agenda process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Meetings"
+    }
+  },
+  {
+    "id": "vocab_jobs_salary_salary",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": {
+      "headword": "salary",
+      "search_forms": [
+        "salary",
+        "salaries"
+      ]
+    },
+    "somali": {
+      "translation": "mushahar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa salary ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to salary.",
+        "translation": "mushahar",
+        "examples": [
+          {
+            "english": "We discussed the salary at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The salary is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "salary policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "salary meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "salary process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Salary"
+    }
+  },
+  {
+    "id": "vocab_jobs_leave_leave",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": {
+      "headword": "leave",
+      "search_forms": [
+        "leave",
+        "leaves"
+      ]
+    },
+    "somali": {
+      "translation": "fasax shaqo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa leave ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to leave.",
+        "translation": "fasax shaqo",
+        "examples": [
+          {
+            "english": "We discussed the leave at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The leave is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "leave policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "leave meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "leave process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Leave"
+    }
+  },
+  {
+    "id": "vocab_jobs_safety_helmet",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": {
+      "headword": "helmet",
+      "search_forms": [
+        "helmet",
+        "helmets"
+      ]
+    },
+    "somali": {
+      "translation": "koofiyad badbaado",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa safety ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to safety.",
+        "translation": "koofiyad badbaado",
+        "examples": [
+          {
+            "english": "We discussed the helmet at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The helmet is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "helmet policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "helmet meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "helmet process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Safety"
+    }
+  },
+  {
+    "id": "vocab_jobs_promotions_promotion",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": {
+      "headword": "promotion",
+      "search_forms": [
+        "promotion",
+        "promotions"
+      ]
+    },
+    "somali": {
+      "translation": "dalacsiin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa promotions ee goobta shaqada waxaana si joogto ah loogu isticmaalaa xaaladaha shaqo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A workplace term related to promotions.",
+        "translation": "dalacsiin",
+        "examples": [
+          {
+            "english": "We discussed the promotion at work.",
+            "somali": "Waxaan shaqada kaga hadalnay arrintan."
+          },
+          {
+            "english": "The promotion is important for employees.",
+            "somali": "Tani waxay muhiim u tahay shaqaalaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "promotion policy",
+        "somali": "xeerka"
+      },
+      {
+        "english": "promotion meeting",
+        "somali": "kulanka"
+      },
+      {
+        "english": "promotion process",
+        "somali": "habka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Working in an office",
+      "Talking to a manager",
+      "Applying for employment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Promotions"
+    }
+  }
+]

@@ -1,0 +1,673 @@
+[
+  {
+    "id": "vocab_daily_activities_home_routines_wake_up",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "english": {
+      "headword": "wake up",
+      "search_forms": [
+        "wake up"
+      ]
+    },
+    "somali": {
+      "translation": "toos",
+      "alternative_translations": [],
+      "explanation": "Waxay ka dhigan tahay hurdada oo laga kaco si loo bilaabo maalinta."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To stop sleeping and become awake.",
+        "translation": "toos",
+        "examples": [
+          {
+            "english": "I wake up at six every morning.",
+            "somali": "Waxaan toosaa lixda subax kasta."
+          },
+          {
+            "english": "She woke up early for work.",
+            "somali": "Waxay goor hore u toostay shaqada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "wake up early",
+        "somali": "goor hore toos"
+      },
+      {
+        "english": "wake up late",
+        "somali": "daah toos"
+      },
+      {
+        "english": "wake up to an alarm",
+        "somali": "ku toos gambaleelka"
+      }
+    ],
+    "related_words": [
+      "sleep",
+      "alarm",
+      "bed",
+      "morning"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Getting ready for work",
+      "Waking children for school",
+      "Starting the day"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Home Routines"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_cooking_cook",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "english": {
+      "headword": "cook",
+      "search_forms": [
+        "cook",
+        "cooks",
+        "cooked",
+        "cooking"
+      ]
+    },
+    "somali": {
+      "translation": "kari",
+      "alternative_translations": [],
+      "explanation": "Diyaarinta cuntada iyadoo la karinayo ama la dubayo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To prepare food by heating it.",
+        "translation": "kari",
+        "examples": [
+          {
+            "english": "I cook dinner every evening.",
+            "somali": "Waxaan cashada kariyaa fiid kasta."
+          },
+          {
+            "english": "Can you cook rice?",
+            "somali": "Ma karin kartaa bariis?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "cook dinner",
+        "somali": "kari casho"
+      },
+      {
+        "english": "cook rice",
+        "somali": "kari bariis"
+      },
+      {
+        "english": "cook a meal",
+        "somali": "kari cunto"
+      }
+    ],
+    "related_words": [
+      "kitchen",
+      "food",
+      "recipe",
+      "chef"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Preparing dinner",
+      "Following a recipe",
+      "Cooking for guests"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Cooking"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_cleaning_clean",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "english": {
+      "headword": "clean",
+      "search_forms": [
+        "clean",
+        "cleans",
+        "cleaned",
+        "cleaning"
+      ]
+    },
+    "somali": {
+      "translation": "nadiifi",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'clean' is commonly used in everyday life.",
+        "translation": "nadiifi",
+        "examples": [
+          {
+            "english": "I usually clean every day.",
+            "somali": "Caadi ahaan maalin kasta waan sameeyaa."
+          },
+          {
+            "english": "She likes to clean.",
+            "somali": "Waxay jeceshahay inay sameyso tan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "clean now",
+        "somali": "hadda nadiifi"
+      },
+      {
+        "english": "clean carefully",
+        "somali": "si taxaddar leh nadiifi"
+      },
+      {
+        "english": "clean again",
+        "somali": "mar kale nadiifi"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Daily use of clean",
+      "Talking about clean with friends",
+      "Learning clean in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Cleaning"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_shopping_shop",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "english": {
+      "headword": "shop",
+      "search_forms": [
+        "shop",
+        "shops",
+        "shopped",
+        "shopping"
+      ]
+    },
+    "somali": {
+      "translation": "dukaameyso",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'shop' is commonly used in everyday life.",
+        "translation": "dukaameyso",
+        "examples": [
+          {
+            "english": "I usually shop every day.",
+            "somali": "Caadi ahaan maalin kasta waan sameeyaa."
+          },
+          {
+            "english": "She likes to shop.",
+            "somali": "Waxay jeceshahay inay sameyso tan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "shop now",
+        "somali": "hadda dukaameyso"
+      },
+      {
+        "english": "shop carefully",
+        "somali": "si taxaddar leh dukaameyso"
+      },
+      {
+        "english": "shop again",
+        "somali": "mar kale dukaameyso"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Daily use of shop",
+      "Talking about shop with friends",
+      "Learning shop in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Shopping"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_working_work",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "english": {
+      "headword": "work",
+      "search_forms": [
+        "work",
+        "works",
+        "worked",
+        "working"
+      ]
+    },
+    "somali": {
+      "translation": "shaqee",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'work' is commonly used in everyday life.",
+        "translation": "shaqee",
+        "examples": [
+          {
+            "english": "I usually work every day.",
+            "somali": "Caadi ahaan maalin kasta waan sameeyaa."
+          },
+          {
+            "english": "She likes to work.",
+            "somali": "Waxay jeceshahay inay sameyso tan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "work now",
+        "somali": "hadda shaqee"
+      },
+      {
+        "english": "work carefully",
+        "somali": "si taxaddar leh shaqee"
+      },
+      {
+        "english": "work again",
+        "somali": "mar kale shaqee"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Daily use of work",
+      "Talking about work with friends",
+      "Learning work in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Working"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_studying_study",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "english": {
+      "headword": "study",
+      "search_forms": [
+        "study",
+        "studies",
+        "studied",
+        "studying"
+      ]
+    },
+    "somali": {
+      "translation": "wax baro",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'study' is commonly used in everyday life.",
+        "translation": "wax baro",
+        "examples": [
+          {
+            "english": "I usually study every day.",
+            "somali": "Caadi ahaan maalin kasta waan sameeyaa."
+          },
+          {
+            "english": "She likes to study.",
+            "somali": "Waxay jeceshahay inay sameyso tan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "study now",
+        "somali": "hadda wax baro"
+      },
+      {
+        "english": "study carefully",
+        "somali": "si taxaddar leh wax baro"
+      },
+      {
+        "english": "study again",
+        "somali": "mar kale wax baro"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Daily use of study",
+      "Talking about study with friends",
+      "Learning study in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Studying"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_travelling_travel",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "english": {
+      "headword": "travel",
+      "search_forms": [
+        "travel",
+        "travels",
+        "traveled",
+        "traveling"
+      ]
+    },
+    "somali": {
+      "translation": "safar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'travel' is commonly used in everyday life.",
+        "translation": "safar",
+        "examples": [
+          {
+            "english": "I usually travel every day.",
+            "somali": "Caadi ahaan maalin kasta waan sameeyaa."
+          },
+          {
+            "english": "She likes to travel.",
+            "somali": "Waxay jeceshahay inay sameyso tan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "travel now",
+        "somali": "hadda safar"
+      },
+      {
+        "english": "travel carefully",
+        "somali": "si taxaddar leh safar"
+      },
+      {
+        "english": "travel again",
+        "somali": "mar kale safar"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Daily use of travel",
+      "Talking about travel with friends",
+      "Learning travel in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Travelling"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_exercise_exercise",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "english": {
+      "headword": "exercise",
+      "search_forms": [
+        "exercise",
+        "exercises"
+      ]
+    },
+    "somali": {
+      "translation": "jimicsi",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'exercise' is commonly used in everyday life.",
+        "translation": "jimicsi",
+        "examples": [
+          {
+            "english": "This exercise is important.",
+            "somali": "Tani waa muhiim."
+          },
+          {
+            "english": "I use this exercise every day.",
+            "somali": "Waxaan isticmaalaa tan maalin kasta."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about exercise",
+        "somali": "weydii jimicsi"
+      },
+      {
+        "english": "check the exercise",
+        "somali": "hubi jimicsi"
+      },
+      {
+        "english": "write the exercise",
+        "somali": "qor jimicsi"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Daily use of exercise",
+      "Talking about exercise with friends",
+      "Learning exercise in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Exercise"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_hobbies_hobby",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "english": {
+      "headword": "hobby",
+      "search_forms": [
+        "hobby",
+        "hobbies"
+      ]
+    },
+    "somali": {
+      "translation": "hiwaayad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'hobby' is commonly used in everyday life.",
+        "translation": "hiwaayad",
+        "examples": [
+          {
+            "english": "This hobby is important.",
+            "somali": "Tani waa muhiim."
+          },
+          {
+            "english": "I use this hobby every day.",
+            "somali": "Waxaan isticmaalaa tan maalin kasta."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about hobby",
+        "somali": "weydii hiwaayad"
+      },
+      {
+        "english": "check the hobby",
+        "somali": "hubi hiwaayad"
+      },
+      {
+        "english": "write the hobby",
+        "somali": "qor hiwaayad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Daily use of hobby",
+      "Talking about hobby with friends",
+      "Learning hobby in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Hobbies"
+    }
+  },
+  {
+    "id": "vocab_daily_activities_technology_password",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "english": {
+      "headword": "password",
+      "search_forms": [
+        "password",
+        "passwords"
+      ]
+    },
+    "somali": {
+      "translation": "eray sir ah",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hawl maalmeedka waxaana loo adeegsadaa xaalado nololeed oo caadi ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'password' is commonly used in everyday life.",
+        "translation": "eray sir ah",
+        "examples": [
+          {
+            "english": "This password is important.",
+            "somali": "Tani waa muhiim."
+          },
+          {
+            "english": "I use this password every day.",
+            "somali": "Waxaan isticmaalaa tan maalin kasta."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about password",
+        "somali": "weydii eray sir ah"
+      },
+      {
+        "english": "check the password",
+        "somali": "hubi eray sir ah"
+      },
+      {
+        "english": "write the password",
+        "somali": "qor eray sir ah"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Daily use of password",
+      "Talking about password with friends",
+      "Learning password in English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Activities Technology"
+    }
+  }
+]

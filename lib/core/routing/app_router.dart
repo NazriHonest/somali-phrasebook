@@ -99,6 +99,13 @@ final routerProvider = Provider<GoRouter>((ref) {
             CategoryDetailScreen(id: state.pathParameters['id']!),
       ),
       GoRoute(
+        path: CategoriesFeature.subcategoryRoute,
+        builder: (_, state) => SubcategoryContentScreen(
+          categoryId: state.pathParameters['categoryId']!,
+          subcategoryId: state.pathParameters['subcategoryId']!,
+        ),
+      ),
+      GoRoute(
         path: ExpressionsFeature.listRoute,
         builder: (_, state) => CategoryExpressionsScreen(
           categoryId: state.pathParameters['categoryId']!,
@@ -148,6 +155,17 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(
         path: ProgressFeature.route,
         builder: (_, _) => const ProgressScreen(),
+      ),
+      GoRoute(
+        path: ReferenceFeature.route,
+        builder: (_, _) => const ReferenceLibraryScreen(),
+      ),
+      GoRoute(
+        path: ReferenceFeature.detailRoute,
+        builder: (_, state) => ReferenceDetailScreen(
+          type: state.pathParameters['type']!,
+          id: state.pathParameters['id']!,
+        ),
       ),
       GoRoute(
         path: ReferenceFeature.signsRoute,

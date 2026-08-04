@@ -1,0 +1,452 @@
+[
+  {
+    "id": "reference_phrasal_verb_001",
+    "english": "wake up",
+    "somali": "toosid",
+    "explanation": "To stop sleeping.",
+    "example_english": "I wake up at seven every morning.",
+    "example_somali": "Subax kasta toddobada ayaan toosaa.",
+    "context": "daily routine",
+    "tags": ["morning", "routine", "home"]
+  },
+  {
+    "id": "reference_phrasal_verb_002",
+    "english": "get up",
+    "somali": "sariirta ka kacid",
+    "explanation": "To leave your bed after sleeping.",
+    "example_english": "She gets up early for work.",
+    "example_somali": "Waxay shaqada awgeed goor hore sariirta uga kacdaa.",
+    "context": "daily routine",
+    "tags": ["morning", "work", "routine"]
+  },
+  {
+    "id": "reference_phrasal_verb_003",
+    "english": "turn on",
+    "somali": "shidid",
+    "explanation": "To start a machine, light, or device.",
+    "example_english": "Please turn on the light.",
+    "example_somali": "Fadlan nalka shid.",
+    "context": "home and technology",
+    "tags": ["technology", "home", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_004",
+    "english": "turn off",
+    "somali": "dammin",
+    "explanation": "To stop a machine, light, or device.",
+    "example_english": "Turn off the stove before you leave.",
+    "example_somali": "Shooladda dami ka hor intaadan bixin.",
+    "context": "home safety",
+    "tags": ["safety", "home", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_005",
+    "english": "pick up",
+    "somali": "qaadid ama soo qaadid",
+    "explanation": "To collect someone or something.",
+    "example_english": "Can you pick up the medicine on your way home?",
+    "example_somali": "Daawada ma soo qaadi kartaa markaad guriga u socoto?",
+    "context": "errands",
+    "tags": ["health", "shopping", "travel"]
+  },
+  {
+    "id": "reference_phrasal_verb_006",
+    "english": "drop off",
+    "somali": "geynid oo ka tagid",
+    "explanation": "To take someone or something to a place and leave them there.",
+    "example_english": "I will drop off the documents at the office.",
+    "example_somali": "Dukumentiyada ayaan xafiiska geyn doonaa oo ka tagi doonaa.",
+    "context": "transport and errands",
+    "tags": ["transport", "office", "documents"]
+  },
+  {
+    "id": "reference_phrasal_verb_007",
+    "english": "look for",
+    "somali": "raadin",
+    "explanation": "To try to find someone or something.",
+    "example_english": "I am looking for my wallet.",
+    "example_somali": "Waxaan raadinayaa boorsadayda lacagta.",
+    "context": "lost items",
+    "tags": ["lost", "shopping", "daily"]
+  },
+  {
+    "id": "reference_phrasal_verb_008",
+    "english": "look after",
+    "somali": "daryeelid",
+    "explanation": "To take care of someone or something.",
+    "example_english": "My sister looks after the children after school.",
+    "example_somali": "Walaashay carruurta ayay daryeeshaa dugsiga ka dib.",
+    "context": "family",
+    "tags": ["family", "children", "care"]
+  },
+  {
+    "id": "reference_phrasal_verb_009",
+    "english": "put on",
+    "somali": "xirasho",
+    "explanation": "To place clothes, shoes, or accessories on your body.",
+    "example_english": "Put on your coat; it is cold outside.",
+    "example_somali": "Jaakaddaada xiro; bannaanka waa qabow.",
+    "context": "clothing",
+    "tags": ["clothing", "weather", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_010",
+    "english": "take off",
+    "somali": "iska bixin",
+    "explanation": "To remove clothes, shoes, or accessories from your body.",
+    "example_english": "Please take off your shoes before you come in.",
+    "example_somali": "Fadlan kabaha iska bixi ka hor intaadan gudaha iman.",
+    "context": "home etiquette",
+    "tags": ["clothing", "home", "polite"]
+  },
+  {
+    "id": "reference_phrasal_verb_011",
+    "english": "find out",
+    "somali": "ogaansho",
+    "explanation": "To learn information you did not know before.",
+    "example_english": "I need to find out when the clinic opens.",
+    "example_somali": "Waxaan u baahanahay inaan ogaado goorta xarunta caafimaadku furanto.",
+    "context": "information",
+    "tags": ["questions", "clinic", "time"]
+  },
+  {
+    "id": "reference_phrasal_verb_012",
+    "english": "give up",
+    "somali": "ka harid",
+    "explanation": "To stop trying to do something.",
+    "example_english": "Do not give up; your English is improving.",
+    "example_somali": "Ha ka harin; Ingiriisigaagu wuu soo hagaagayaa.",
+    "context": "encouragement",
+    "tags": ["learning", "support", "motivation"]
+  },
+  {
+    "id": "reference_phrasal_verb_013",
+    "english": "carry on",
+    "somali": "sii wadid",
+    "explanation": "To continue doing something.",
+    "example_english": "Carry on with the exercise after the break.",
+    "example_somali": "Nasashada ka dib layliga sii wad.",
+    "context": "classroom",
+    "tags": ["school", "instruction", "practice"]
+  },
+  {
+    "id": "reference_phrasal_verb_014",
+    "english": "come in",
+    "somali": "soo gelid",
+    "explanation": "To enter a room or building.",
+    "example_english": "Please come in and take a seat.",
+    "example_somali": "Fadlan soo gal oo kursi fadhiiso.",
+    "context": "welcome",
+    "tags": ["home", "office", "polite"]
+  },
+  {
+    "id": "reference_phrasal_verb_015",
+    "english": "go out",
+    "somali": "bixid",
+    "explanation": "To leave a place, often to do something outside.",
+    "example_english": "We can go out for tea after class.",
+    "example_somali": "Fasalka ka dib shaah ayaan u bixi karnaa.",
+    "context": "social plans",
+    "tags": ["social", "plans", "daily"]
+  },
+  {
+    "id": "reference_phrasal_verb_016",
+    "english": "come back",
+    "somali": "soo noqosho",
+    "explanation": "To return to a place.",
+    "example_english": "Please come back tomorrow morning.",
+    "example_somali": "Fadlan berri subax soo noqo.",
+    "context": "appointments",
+    "tags": ["time", "office", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_017",
+    "english": "go back",
+    "somali": "dib ugu noqosho",
+    "explanation": "To return to a previous place.",
+    "example_english": "I need to go back to the shop for my receipt.",
+    "example_somali": "Waxaan u baahanahay inaan dukaanka ugu noqdo rasiidkayga.",
+    "context": "shopping",
+    "tags": ["shopping", "receipt", "return"]
+  },
+  {
+    "id": "reference_phrasal_verb_018",
+    "english": "sit down",
+    "somali": "fariisasho",
+    "explanation": "To move into a sitting position.",
+    "example_english": "Please sit down in the waiting area.",
+    "example_somali": "Fadlan fariiso aagga sugitaanka.",
+    "context": "clinic or office",
+    "tags": ["waiting", "instruction", "public"]
+  },
+  {
+    "id": "reference_phrasal_verb_019",
+    "english": "stand up",
+    "somali": "istaagid",
+    "explanation": "To rise to your feet.",
+    "example_english": "Stand up slowly if you feel dizzy.",
+    "example_somali": "Si tartiib ah u istaag haddii aad wareer dareento.",
+    "context": "health",
+    "tags": ["health", "movement", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_020",
+    "english": "write down",
+    "somali": "qorid si loo xasuusto",
+    "explanation": "To write information so you can remember it.",
+    "example_english": "Write down the address before you leave.",
+    "example_somali": "Cinwaanka qor ka hor intaadan bixin.",
+    "context": "remembering information",
+    "tags": ["writing", "address", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_021",
+    "english": "fill in",
+    "somali": "buuxin",
+    "explanation": "To complete a form by writing information in it.",
+    "example_english": "Please fill in this form at reception.",
+    "example_somali": "Fadlan foomkan ku buuxi soo-dhoweynta.",
+    "context": "forms",
+    "tags": ["forms", "office", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_022",
+    "english": "sign in",
+    "somali": "is diiwaangelin marka la yimaado",
+    "explanation": "To write your name or enter your details when you arrive.",
+    "example_english": "You need to sign in before the meeting.",
+    "example_somali": "Waxaad u baahan tahay inaad is diiwaangeliso ka hor shirka.",
+    "context": "arrival",
+    "tags": ["work", "meeting", "forms"]
+  },
+  {
+    "id": "reference_phrasal_verb_023",
+    "english": "check in",
+    "somali": "is diiwaangelin ama imaansho xaqiijin",
+    "explanation": "To tell a hotel, clinic, airport, or event that you have arrived.",
+    "example_english": "We need to check in at the hotel before dinner.",
+    "example_somali": "Waxaan u baahanahay inaan hoteelka iska diiwaangelinno cashada ka hor.",
+    "context": "travel and services",
+    "tags": ["hotel", "travel", "arrival"]
+  },
+  {
+    "id": "reference_phrasal_verb_024",
+    "english": "check out",
+    "somali": "ka bixid hoteel ama hubin",
+    "explanation": "To leave a hotel officially or to look at something.",
+    "example_english": "We check out of the hotel at eleven.",
+    "example_somali": "Hoteelka waxaan ka baxnaa kow iyo tobanka.",
+    "context": "travel",
+    "tags": ["hotel", "time", "travel"]
+  },
+  {
+    "id": "reference_phrasal_verb_025",
+    "english": "try on",
+    "somali": "tijaabin dhar ama kabo",
+    "explanation": "To put on clothing or shoes to see if they fit.",
+    "example_english": "Can I try on these shoes?",
+    "example_somali": "Kabahan ma tijaabin karaa?",
+    "context": "shopping",
+    "tags": ["clothing", "shoes", "shopping"]
+  },
+  {
+    "id": "reference_phrasal_verb_026",
+    "english": "pay back",
+    "somali": "lacag celin",
+    "explanation": "To return money that you borrowed.",
+    "example_english": "I will pay you back on Friday.",
+    "example_somali": "Jimcaha ayaan lacagta kuu celin doonaa.",
+    "context": "money",
+    "tags": ["money", "borrowing", "promise"]
+  },
+  {
+    "id": "reference_phrasal_verb_027",
+    "english": "run out of",
+    "somali": "ka dhammaadid",
+    "explanation": "To have no more of something left.",
+    "example_english": "We ran out of milk this morning.",
+    "example_somali": "Caanihii ayaa naga dhammaaday subaxdan.",
+    "context": "home and shopping",
+    "tags": ["food", "shopping", "home"]
+  },
+  {
+    "id": "reference_phrasal_verb_028",
+    "english": "wait for",
+    "somali": "sugid",
+    "explanation": "To stay somewhere until someone or something arrives.",
+    "example_english": "Please wait for the doctor in this room.",
+    "example_somali": "Fadlan qolka kan ku sug dhakhtarka.",
+    "context": "appointments",
+    "tags": ["health", "waiting", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_029",
+    "english": "ask for",
+    "somali": "codsan",
+    "explanation": "To request something.",
+    "example_english": "Ask for a receipt when you pay.",
+    "example_somali": "Rasiid codso markaad lacag bixiso.",
+    "context": "requests",
+    "tags": ["shopping", "receipt", "request"]
+  },
+  {
+    "id": "reference_phrasal_verb_030",
+    "english": "listen to",
+    "somali": "dhageysi",
+    "explanation": "To give attention to a sound or person speaking.",
+    "example_english": "Listen to the teacher's example first.",
+    "example_somali": "Marka hore dhageyso tusaalaha macallinka.",
+    "context": "learning",
+    "tags": ["school", "listening", "instruction"]
+  },
+  {
+    "id": "reference_phrasal_verb_031",
+    "english": "talk about",
+    "somali": "ka hadlid",
+    "explanation": "To discuss a subject.",
+    "example_english": "Can we talk about my work schedule?",
+    "example_somali": "Jadwalkayga shaqada ma ka hadli karnaa?",
+    "context": "discussion",
+    "tags": ["work", "schedule", "question"]
+  },
+  {
+    "id": "reference_phrasal_verb_032",
+    "english": "care for",
+    "somali": "daryeelid",
+    "explanation": "To look after someone who needs help.",
+    "example_english": "She cares for her mother at home.",
+    "example_somali": "Hooyadeed ayay guriga ku daryeeshaa.",
+    "context": "family care",
+    "tags": ["family", "health", "care"]
+  },
+  {
+    "id": "reference_phrasal_verb_033",
+    "english": "bring back",
+    "somali": "soo celin",
+    "explanation": "To return something to a place or person.",
+    "example_english": "Bring back the library book next week.",
+    "example_somali": "Buugga maktabadda soo celi toddobaadka dambe.",
+    "context": "returning items",
+    "tags": ["school", "library", "return"]
+  },
+  {
+    "id": "reference_phrasal_verb_034",
+    "english": "send back",
+    "somali": "dib u dirid",
+    "explanation": "To return something by sending it.",
+    "example_english": "I need to send back the wrong size.",
+    "example_somali": "Waxaan u baahanahay inaan dib u diro cabbirka khaldan.",
+    "context": "returns",
+    "tags": ["shopping", "return", "clothing"]
+  },
+  {
+    "id": "reference_phrasal_verb_035",
+    "english": "call back",
+    "somali": "dib u wicid",
+    "explanation": "To phone someone again later.",
+    "example_english": "The nurse will call back this afternoon.",
+    "example_somali": "Kalkaaliyaha ayaa galabta dib u wici doona.",
+    "context": "phone calls",
+    "tags": ["phone", "health", "time"]
+  },
+  {
+    "id": "reference_phrasal_verb_036",
+    "english": "slow down",
+    "somali": "gaabin",
+    "explanation": "To reduce speed.",
+    "example_english": "Please slow down when you speak.",
+    "example_somali": "Fadlan hadalkaaga gaabi.",
+    "context": "language barrier",
+    "tags": ["speaking", "listening", "polite"]
+  },
+  {
+    "id": "reference_phrasal_verb_037",
+    "english": "hurry up",
+    "somali": "degdegid",
+    "explanation": "To do something more quickly.",
+    "example_english": "We need to hurry up or we will miss the bus.",
+    "example_somali": "Waa inaan degdegnaa haddii kale baska ayaan seegi doonnaa.",
+    "context": "being late",
+    "tags": ["time", "transport", "warning"]
+  },
+  {
+    "id": "reference_phrasal_verb_038",
+    "english": "move in",
+    "somali": "guri cusub degid",
+    "explanation": "To start living in a new home.",
+    "example_english": "We move in on Saturday morning.",
+    "example_somali": "Sabti subax ayaan guriga cusub degaynaa.",
+    "context": "housing",
+    "tags": ["housing", "moving", "home"]
+  },
+  {
+    "id": "reference_phrasal_verb_039",
+    "english": "move out",
+    "somali": "guri ka guurid",
+    "explanation": "To stop living in a home and leave it.",
+    "example_english": "They will move out at the end of the month.",
+    "example_somali": "Waxay ka guuri doonaan dhammaadka bisha.",
+    "context": "housing",
+    "tags": ["housing", "moving", "rent"]
+  },
+  {
+    "id": "reference_phrasal_verb_040",
+    "english": "clean up",
+    "somali": "nadiifin",
+    "explanation": "To make a place clean and tidy.",
+    "example_english": "Let's clean up the kitchen before guests arrive.",
+    "example_somali": "Aan nadiifinno jikada ka hor inta martidu imaan.",
+    "context": "home",
+    "tags": ["cleaning", "home", "guests"]
+  },
+  {
+    "id": "reference_phrasal_verb_041",
+    "english": "set up",
+    "somali": "diyaarin",
+    "explanation": "To prepare equipment or arrange something so it can be used.",
+    "example_english": "Can you set up the microphone for the online class?",
+    "example_somali": "Makarafoonka ma u diyaarin kartaa fasalka internetka?",
+    "context": "technology",
+    "tags": ["online", "technology", "school"]
+  },
+  {
+    "id": "reference_phrasal_verb_042",
+    "english": "log in",
+    "somali": "galid akoon ama nidaam",
+    "explanation": "To enter a website or app with your username and password.",
+    "example_english": "Log in before the online lesson starts.",
+    "example_somali": "Gal nidaamka ka hor inta casharka internetku bilaaban.",
+    "context": "online learning",
+    "tags": ["technology", "online", "school"]
+  },
+  {
+    "id": "reference_phrasal_verb_043",
+    "english": "log out",
+    "somali": "ka bixid akoon ama nidaam",
+    "explanation": "To leave a website or app safely.",
+    "example_english": "Log out when you finish using the computer.",
+    "example_somali": "Ka bax nidaamka markaad dhamayso isticmaalka kombiyuutarka.",
+    "context": "technology",
+    "tags": ["technology", "safety", "computer"]
+  },
+  {
+    "id": "reference_phrasal_verb_044",
+    "english": "print out",
+    "somali": "daabacid",
+    "explanation": "To produce a paper copy from a computer or phone.",
+    "example_english": "Please print out the application form.",
+    "example_somali": "Fadlan daabac foomka codsiga.",
+    "context": "forms",
+    "tags": ["office", "forms", "technology"]
+  },
+  {
+    "id": "reference_phrasal_verb_045",
+    "english": "hold on",
+    "somali": "sugid",
+    "explanation": "To wait for a short time, especially on the phone.",
+    "example_english": "Hold on, I will check your appointment.",
+    "example_somali": "Sug, ballantaada ayaan hubinayaa.",
+    "context": "phone calls",
+    "tags": ["phone", "waiting", "service"]
+  }
+]

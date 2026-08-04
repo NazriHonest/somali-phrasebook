@@ -1,12 +1,12 @@
 import 'package:path/path.dart' as p;
 import 'package:sqflite/sqflite.dart';
 
-import '../../data/seed/seed_factory.dart';
+import '../../data/seed/json_seed_loader.dart';
 
 class PhrasebookDatabase {
   PhrasebookDatabase({this._databasePath});
 
-  static const schemaVersion = 1;
+  static const schemaVersion = 2;
   final String? _databasePath;
   Database? _db;
 
@@ -47,43 +47,36 @@ class PhrasebookDatabase {
     final currentVersion = current.isEmpty
         ? 0
         : int.tryParse('${current.first['value']}') ?? 0;
-    if (currentVersion >= SeedFactory.seedVersion) return;
+    if (currentVersion >= JsonSeedLoader.seedVersion) return;
+
+    final seedBundle = await JsonSeedLoader.load();
+    final signRows = await JsonSeedLoader.signRows();
+    final unitRows = await JsonSeedLoader.unitsRows();
 
     await db.transaction((txn) async {
       await _clearSeedTables(txn);
       final batch = txn.batch();
-      _insertAll(batch, 'categories', SeedFactory.categoryRows());
-      _insertAll(batch, 'subcategories', SeedFactory.subcategoryRows());
-      _insertAll(batch, 'expressions', SeedFactory.expressionRows());
-      _insertAll(
-        batch,
-        'expression_examples',
-        SeedFactory.expressionExampleRows(),
-      );
-      _insertAll(batch, 'dialogues', SeedFactory.dialogueRows());
-      _insertAll(batch, 'dialogue_lines', SeedFactory.dialogueLineRows());
-      _insertAll(batch, 'question_answer_pairs', SeedFactory.qaRows());
-      _insertAll(batch, 'vocabulary_entries', SeedFactory.vocabularyRows());
+      _insertAll(batch, 'categories', seedBundle.categories);
+      _insertAll(batch, 'subcategories', seedBundle.subcategories);
+      _insertAll(batch, 'expressions', seedBundle.expressions);
+      _insertAll(batch, 'expression_examples', seedBundle.expressionExamples);
+      _insertAll(batch, 'dialogues', seedBundle.dialogues);
+      _insertAll(batch, 'dialogue_lines', seedBundle.dialogueLines);
+      _insertAll(batch, 'question_answer_pairs', JsonSeedLoader.qaRows());
+      _insertAll(batch, 'vocabulary_entries', seedBundle.vocabularyEntries);
       _insertAll(
         batch,
         'vocabulary_translations',
-        SeedFactory.vocabularyTranslationRows(),
+        seedBundle.vocabularyTranslations,
       );
-      _insertAll(
-        batch,
-        'vocabulary_examples',
-        SeedFactory.vocabularyExampleRows(),
-      );
-      _insertAll(
-        batch,
-        'category_vocabulary',
-        SeedFactory.vocabularyCategoryRows(),
-      );
-      _insertAll(batch, 'signs', SeedFactory.signRows());
-      _insertAll(batch, 'units_of_measure', SeedFactory.unitsRows());
+      _insertAll(batch, 'vocabulary_examples', seedBundle.vocabularyExamples);
+      _insertAll(batch, 'category_vocabulary', seedBundle.categoryVocabulary);
+      _insertAll(batch, 'reference_entries', seedBundle.referenceEntries);
+      _insertAll(batch, 'signs', signRows);
+      _insertAll(batch, 'units_of_measure', unitRows);
       batch.insert('app_metadata', {
         'key': 'seed_version',
-        'value': '${SeedFactory.seedVersion}',
+        'value': '${JsonSeedLoader.seedVersion}',
         'updated_at': DateTime.now().toIso8601String(),
       }, conflictAlgorithm: ConflictAlgorithm.replace);
       batch.insert('app_metadata', {
@@ -108,6 +101,7 @@ class PhrasebookDatabase {
   static Future<void> _clearSeedTables(DatabaseExecutor db) async {
     for (final table in const [
       'category_vocabulary',
+      'reference_entries',
       'expression_examples',
       'dialogue_lines',
       'question_answer_pairs',
@@ -327,6 +321,24 @@ class PhrasebookDatabase {
       )
       ''',
       '''
+      CREATE TABLE IF NOT EXISTS reference_entries(
+        id TEXT PRIMARY KEY,
+        type TEXT NOT NULL,
+        english TEXT NOT NULL,
+        somali TEXT NOT NULL,
+        explanation TEXT NOT NULL,
+        example_english TEXT NOT NULL DEFAULT '',
+        example_somali TEXT NOT NULL DEFAULT '',
+        answer_example_english TEXT NOT NULL DEFAULT '',
+        answer_example_somali TEXT NOT NULL DEFAULT '',
+        context TEXT NOT NULL DEFAULT '',
+        register TEXT NOT NULL DEFAULT '',
+        tags_json TEXT NOT NULL DEFAULT '[]',
+        search_text TEXT NOT NULL,
+        sort_order INTEGER NOT NULL
+      )
+      ''',
+      '''
       CREATE TABLE IF NOT EXISTS number_lessons(
         id TEXT PRIMARY KEY,
         english_title TEXT NOT NULL,
@@ -416,6 +428,7 @@ class PhrasebookDatabase {
       'CREATE INDEX IF NOT EXISTS idx_qa_category ON question_answer_pairs(category_id, sort_order)',
       'CREATE INDEX IF NOT EXISTS idx_vocab_alpha ON vocabulary_entries(alphabetical_key)',
       'CREATE INDEX IF NOT EXISTS idx_vocab_translation ON vocabulary_translations(somali_headword)',
+      'CREATE INDEX IF NOT EXISTS idx_reference_type ON reference_entries(type, sort_order)',
       'CREATE INDEX IF NOT EXISTS idx_recent_time ON recent_items(viewed_at)',
     ]) {
       await db.execute(index);

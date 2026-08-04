@@ -1,0 +1,663 @@
+[
+  {
+    "id": "vocab_school_classroom_desk",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": {
+      "headword": "desk",
+      "search_forms": [
+        "desk",
+        "desks"
+      ]
+    },
+    "somali": {
+      "translation": "miis",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "miis",
+        "examples": [
+          {
+            "english": "We used the desk during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The desk is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "desk class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "desk activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "desk materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Classroom"
+    }
+  },
+  {
+    "id": "vocab_school_subjects_subject",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": {
+      "headword": "subject",
+      "search_forms": [
+        "subject",
+        "subjects"
+      ]
+    },
+    "somali": {
+      "translation": "maaddo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "maaddo",
+        "examples": [
+          {
+            "english": "We used the subject during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The subject is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "subject class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "subject activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "subject materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Subjects"
+    }
+  },
+  {
+    "id": "vocab_school_homework_homework",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": {
+      "headword": "homework",
+      "search_forms": [
+        "homework"
+      ]
+    },
+    "somali": {
+      "translation": "shaqo guri",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "shaqo guri",
+        "examples": [
+          {
+            "english": "We used the homework during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The homework is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "homework class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "homework activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "homework materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Homework"
+    }
+  },
+  {
+    "id": "vocab_school_teachers_teacher",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": {
+      "headword": "teacher",
+      "search_forms": [
+        "teacher",
+        "teachers"
+      ]
+    },
+    "somali": {
+      "translation": "macallin",
+      "alternative_translations": [],
+      "explanation": "Qof wax bara ardayda dugsi ama jaamacad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A person whose job is to teach students.",
+        "translation": "macallin",
+        "examples": [
+          {
+            "english": "Our teacher explained the lesson clearly.",
+            "somali": "Macallinkeenna si cad ayuu u sharxay casharka."
+          },
+          {
+            "english": "The teacher gave us homework.",
+            "somali": "Macallinku wuxuu na siiyay shaqo guri."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "class teacher",
+        "somali": "macallinka fasalka"
+      },
+      {
+        "english": "science teacher",
+        "somali": "macallinka sayniska"
+      },
+      {
+        "english": "ask the teacher",
+        "somali": "weydii macallinka"
+      }
+    ],
+    "related_words": [
+      "student",
+      "classroom",
+      "lesson"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending class",
+      "Asking questions",
+      "Meeting a teacher"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Teachers"
+    }
+  },
+  {
+    "id": "vocab_school_students_student",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": {
+      "headword": "student",
+      "search_forms": [
+        "student",
+        "students"
+      ]
+    },
+    "somali": {
+      "translation": "arday",
+      "alternative_translations": [],
+      "explanation": "Qof wax ka barta dugsi, kulliyad ama jaamacad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A person who is studying at a school or university.",
+        "translation": "arday",
+        "examples": [
+          {
+            "english": "The students are taking an exam.",
+            "somali": "Ardaydu waxay qaadayaan imtixaan."
+          },
+          {
+            "english": "She is a university student.",
+            "somali": "Waa arday jaamacadeed."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "university student",
+        "somali": "arday jaamacadeed"
+      },
+      {
+        "english": "student ID",
+        "somali": "aqoonsiga ardayga"
+      },
+      {
+        "english": "student loan",
+        "somali": "amaah arday"
+      }
+    ],
+    "related_words": [
+      "teacher",
+      "class",
+      "school"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Registering for classes",
+      "Taking exams"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Students"
+    }
+  },
+  {
+    "id": "vocab_school_exams_exam",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": {
+      "headword": "exam",
+      "search_forms": [
+        "exam",
+        "exams"
+      ]
+    },
+    "somali": {
+      "translation": "imtixaan",
+      "alternative_translations": [],
+      "explanation": "Imtixaan lagu qiimeeyo aqoonta ama xirfadda ardayga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A formal test of a student's knowledge or ability.",
+        "translation": "imtixaan",
+        "examples": [
+          {
+            "english": "My exam starts tomorrow.",
+            "somali": "Imtixaankaygu wuxuu bilaabmayaa berri."
+          },
+          {
+            "english": "She passed the exam.",
+            "somali": "Way ku baasday imtixaanka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "final exam",
+        "somali": "imtixaanka kama dambaysta ah"
+      },
+      {
+        "english": "exam results",
+        "somali": "natiijada imtixaanka"
+      },
+      {
+        "english": "take an exam",
+        "somali": "qaad imtixaan"
+      }
+    ],
+    "related_words": [
+      "test",
+      "grade",
+      "student"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Exam day",
+      "Preparing for exams",
+      "Checking results"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Exams"
+    }
+  },
+  {
+    "id": "vocab_school_attendance_attendance",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": {
+      "headword": "attendance",
+      "search_forms": [
+        "attendance",
+        "attendances"
+      ]
+    },
+    "somali": {
+      "translation": "imaansho",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "imaansho",
+        "examples": [
+          {
+            "english": "We used the attendance during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The attendance is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "attendance class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "attendance activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "attendance materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Attendance"
+    }
+  },
+  {
+    "id": "vocab_school_school_supplies_notebook",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": {
+      "headword": "notebook",
+      "search_forms": [
+        "notebook",
+        "notebooks"
+      ]
+    },
+    "somali": {
+      "translation": "buug-qoris",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "buug-qoris",
+        "examples": [
+          {
+            "english": "We used the notebook during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The notebook is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "notebook class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "notebook activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "notebook materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "School Supplies"
+    }
+  },
+  {
+    "id": "vocab_school_university_university",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": {
+      "headword": "university",
+      "search_forms": [
+        "university",
+        "universities"
+      ]
+    },
+    "somali": {
+      "translation": "jaamacad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "jaamacad",
+        "examples": [
+          {
+            "english": "We used the university during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The university is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "university class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "university activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "university materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "University"
+    }
+  },
+  {
+    "id": "vocab_school_online_learning_lesson",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": {
+      "headword": "lesson",
+      "search_forms": [
+        "lesson",
+        "lessons"
+      ]
+    },
+    "somali": {
+      "translation": "cashar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waxbarashada, dugsiga ama jaamacadda waxaana si joogto ah loogu isticmaalaa deegaanka waxbarashada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common education-related term used in schools and universities.",
+        "translation": "cashar",
+        "examples": [
+          {
+            "english": "We used the lesson during class.",
+            "somali": "Waxaan u adeegsanay fasalka."
+          },
+          {
+            "english": "The lesson is important for learning.",
+            "somali": "Waxay muhiim u tahay waxbarashada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "lesson class",
+        "somali": "fasalka"
+      },
+      {
+        "english": "lesson activity",
+        "somali": "hawsha"
+      },
+      {
+        "english": "lesson materials",
+        "somali": "agabka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Attending school",
+      "Studying in class",
+      "Completing school work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Online Learning"
+    }
+  }
+]

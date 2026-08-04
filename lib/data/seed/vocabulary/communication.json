@@ -1,0 +1,596 @@
+[
+  {
+    "id": "vocab_communication_phone_calls_call",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": {
+      "headword": "call",
+      "search_forms": [
+        "call",
+        "calls",
+        "called",
+        "calling"
+      ]
+    },
+    "somali": {
+      "translation": "wac",
+      "alternative_translations": [],
+      "explanation": "Waxay ka dhigan tahay inaad qof kula xiriirto taleefan ama aalad kale oo isgaarsiineed."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To contact someone by telephone.",
+        "translation": "wac",
+        "examples": [
+          {
+            "english": "I'll call you this evening.",
+            "somali": "Waxaan ku soo wici doonaa caawa."
+          },
+          {
+            "english": "Please call the hotel before you arrive.",
+            "somali": "Fadlan wac hoteelka ka hor intaadan imaan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "make a phone call",
+        "somali": "samee wicitaan"
+      },
+      {
+        "english": "call back",
+        "somali": "dib u wac"
+      },
+      {
+        "english": "call someone",
+        "somali": "qof wac"
+      }
+    ],
+    "related_words": [
+      "phone",
+      "ring",
+      "answer",
+      "caller"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Calling a hotel reception",
+      "Calling a doctor for an appointment",
+      "Calling a family member"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Phone Calls"
+    }
+  },
+  {
+    "id": "vocab_communication_text_messages_text_message",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": {
+      "headword": "text message",
+      "search_forms": [
+        "text message"
+      ]
+    },
+    "somali": {
+      "translation": "farriin qoraal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira text messages waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'text message' commonly appears in everyday communication.",
+        "translation": "farriin qoraal",
+        "examples": [
+          {
+            "english": "I need more information about the text message.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan farriin qoraal."
+          },
+          {
+            "english": "Can you explain this text message?",
+            "somali": "Ma sharxi kartaa farriin qoraal-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "text message information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "text message details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "text message clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using text message at work",
+      "Using text message while travelling",
+      "Using text message in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Text Messages"
+    }
+  },
+  {
+    "id": "vocab_communication_emails_email",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": {
+      "headword": "email",
+      "search_forms": [
+        "email",
+        "emails"
+      ]
+    },
+    "somali": {
+      "translation": "iimayl",
+      "alternative_translations": [],
+      "explanation": "Farriin elektaroonig ah oo lagu diro internetka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "An electronic message sent over the internet.",
+        "translation": "iimayl",
+        "examples": [
+          {
+            "english": "I sent you an email yesterday.",
+            "somali": "Waxaan kuu diray iimayl shalay."
+          },
+          {
+            "english": "Please check your email.",
+            "somali": "Fadlan eeg iimaylkaaga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "send an email",
+        "somali": "dir iimayl"
+      },
+      {
+        "english": "receive an email",
+        "somali": "hel iimayl"
+      },
+      {
+        "english": "email address",
+        "somali": "cinwaanka iimaylka"
+      }
+    ],
+    "related_words": [
+      "message",
+      "attachment",
+      "inbox",
+      "reply"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Sending documents by email",
+      "Checking your inbox",
+      "Applying for a job online"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Emails"
+    }
+  },
+  {
+    "id": "vocab_communication_meetings_meeting",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": {
+      "headword": "meeting",
+      "search_forms": [
+        "meeting",
+        "meetings"
+      ]
+    },
+    "somali": {
+      "translation": "shir",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira meetings waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'meeting' commonly appears in everyday communication.",
+        "translation": "shir",
+        "examples": [
+          {
+            "english": "I need more information about the meeting.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan shir."
+          },
+          {
+            "english": "Can you explain this meeting?",
+            "somali": "Ma sharxi kartaa shir-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "meeting information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "meeting details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "meeting clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using meeting at work",
+      "Using meeting while travelling",
+      "Using meeting in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Meetings"
+    }
+  },
+  {
+    "id": "vocab_communication_instructions_instruction",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": {
+      "headword": "instruction",
+      "search_forms": [
+        "instruction",
+        "instructions"
+      ]
+    },
+    "somali": {
+      "translation": "tilmaan",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira instructions waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'instruction' commonly appears in everyday communication.",
+        "translation": "tilmaan",
+        "examples": [
+          {
+            "english": "I need more information about the instruction.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan tilmaan."
+          },
+          {
+            "english": "Can you explain this instruction?",
+            "somali": "Ma sharxi kartaa tilmaan-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "instruction information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "instruction details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "instruction clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using instruction at work",
+      "Using instruction while travelling",
+      "Using instruction in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Instructions"
+    }
+  },
+  {
+    "id": "vocab_communication_asking_questions_question",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": {
+      "headword": "question",
+      "search_forms": [
+        "question",
+        "questions"
+      ]
+    },
+    "somali": {
+      "translation": "su'aal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira asking questions waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'question' commonly appears in everyday communication.",
+        "translation": "su'aal",
+        "examples": [
+          {
+            "english": "I need more information about the question.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan su'aal."
+          },
+          {
+            "english": "Can you explain this question?",
+            "somali": "Ma sharxi kartaa su'aal-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "question information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "question details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "question clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using question at work",
+      "Using question while travelling",
+      "Using question in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Asking Questions"
+    }
+  },
+  {
+    "id": "vocab_communication_giving_information_information",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": {
+      "headword": "information",
+      "search_forms": [
+        "information"
+      ]
+    },
+    "somali": {
+      "translation": "xog",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira giving information waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'information' commonly appears in everyday communication.",
+        "translation": "xog",
+        "examples": [
+          {
+            "english": "I need more information about the information.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan xog."
+          },
+          {
+            "english": "Can you explain this information?",
+            "somali": "Ma sharxi kartaa xog-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "information information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "information details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "information clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using information at work",
+      "Using information while travelling",
+      "Using information in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Giving Information"
+    }
+  },
+  {
+    "id": "vocab_communication_confirming_communication_confirmation",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": {
+      "headword": "confirmation",
+      "search_forms": [
+        "confirmation",
+        "confirmations"
+      ]
+    },
+    "somali": {
+      "translation": "xaqiijin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira confirming communication waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'confirmation' commonly appears in everyday communication.",
+        "translation": "xaqiijin",
+        "examples": [
+          {
+            "english": "I need more information about the confirmation.",
+            "somali": "Waxaan u baahanahay xog dheeraad ah oo ku saabsan xaqiijin."
+          },
+          {
+            "english": "Can you explain this confirmation?",
+            "somali": "Ma sharxi kartaa xaqiijin-kan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "confirmation information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "confirmation details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "confirmation clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using confirmation at work",
+      "Using confirmation while travelling",
+      "Using confirmation in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Confirming Communication"
+    }
+  },
+  {
+    "id": "vocab_communication_online_communication_online",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": {
+      "headword": "online",
+      "search_forms": [
+        "online"
+      ]
+    },
+    "somali": {
+      "translation": "khadka internetka",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu si joogto ah uga muuqdaa xaaladaha la xiriira online communication waxaana uu ka caawiyaa qofka inuu si cad ula xiriiro dadka kale."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'online' commonly appears in everyday communication.",
+        "translation": "khadka internetka",
+        "examples": [
+          {
+            "english": "Please online me later.",
+            "somali": "Fadlan dib iila soo xiriir."
+          },
+          {
+            "english": "I will online tomorrow.",
+            "somali": "Berri ayaan sameyn doonaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "online information",
+        "somali": "xog la xiriirta"
+      },
+      {
+        "english": "online details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "online clearly",
+        "somali": "si cad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Using online at work",
+      "Using online while travelling",
+      "Using online in everyday conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Online Communication"
+    }
+  }
+]

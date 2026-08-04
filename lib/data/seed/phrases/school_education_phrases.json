@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_school_classroom_001",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Where is the classroom?",
+    "somali": "Fasalku xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_002",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Is this my classroom?",
+    "somali": "Kani ma fasalkaygii baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_003",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "The classroom is full.",
+    "somali": "Fasalku wuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_004",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Please close the classroom door.",
+    "somali": "Fadlan albaabka fasalka xir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_005",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "May I leave the classroom?",
+    "somali": "Fasalka ma ka bixi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_006",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "The lesson is in this classroom.",
+    "somali": "Casharku fasalkan ayuu ka dhacayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_007",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Please keep the classroom quiet.",
+    "somali": "Fadlan fasalka aamusnaan ku ilaali.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_008",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "I left my book in the classroom.",
+    "somali": "Buuggaygii fasalka ayaan uga tagay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_009",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Is there another classroom?",
+    "somali": "Fasal kale ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_010",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "The classroom is downstairs.",
+    "somali": "Fasalku dabaqa hoose ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_011",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "What time does class start?",
+    "somali": "Fasalku imisa ayuu bilaabmaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_012",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "I have a question for the teacher.",
+    "somali": "Macallinka su'aal ayaan u hayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_013",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_014",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_015",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_016",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_017",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_018",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_019",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_classroom_020",
+    "category_code": "school",
+    "subcategory_code": "school_classroom",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "classroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_001",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "What subjects are you studying?",
+    "somali": "Maaddooyinkee ayaad baranaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_002",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "My favourite subject is English.",
+    "somali": "Maaddada aan ugu jeclahay waa Ingiriis.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_003",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "This subject is difficult for me.",
+    "somali": "Maaddadan way igu adag tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_004",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Which subject is next?",
+    "somali": "Maaddadee ayaa xigta?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_005",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "I need help with science.",
+    "somali": "Sayniska caawin ayaan uga baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_006",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "We have maths after lunch.",
+    "somali": "Qadada ka dib xisaab ayaan leenahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_007",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Do we have history today?",
+    "somali": "Maanta taariikh ma leenahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_008",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "The subject list is on the wall.",
+    "somali": "Liiska maaddooyinka darbiga ayuu ku dheggan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_009",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "I want to improve my English.",
+    "somali": "Waxaan rabaa inaan Ingiriisigayga hagaajiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_010",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Which subject do you teach?",
+    "somali": "Maaddadee ayaad dhigtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_011",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "I enjoy this subject.",
+    "somali": "Maaddadan waan ka helaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_012",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "This subject has a lot of homework.",
+    "somali": "Maaddadani laylis badan ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_013",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_014",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_015",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_016",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_017",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_018",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_019",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_subjects_020",
+    "category_code": "school",
+    "subcategory_code": "school_subjects",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "subjects"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_001",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Do we have homework today?",
+    "somali": "Maanta laylis ma leenahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_002",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I finished my homework last night.",
+    "somali": "Xalay layliskaygii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_003",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "When is the homework due?",
+    "somali": "Laylisku goorma ayuu ku egyahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_004",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I forgot my homework at home.",
+    "somali": "Layliskaygii guriga ayaan ku illaaway.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_005",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Can I hand it in tomorrow?",
+    "somali": "Berri ma soo gudbin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_006",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "This homework is difficult.",
+    "somali": "Layliskani wuu adag yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_007",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Please check my homework.",
+    "somali": "Fadlan layliskayga eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_008",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I need more time for the homework.",
+    "somali": "Layliska waqti dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_009",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Which page is the homework on?",
+    "somali": "Laylisku boggee ayuu ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_010",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I did the wrong exercise.",
+    "somali": "Layliskii khaldan ayaan sameeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_011",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Can we do the homework together?",
+    "somali": "Layliska ma wada samayn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_012",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "The homework is online.",
+    "somali": "Laylisku internetka ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_013",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_014",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_015",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_016",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_017",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_018",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_019",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_homework_020",
+    "category_code": "school",
+    "subcategory_code": "school_homework",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "homework"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_001",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Where is the teacher?",
+    "somali": "Macallinku xaggee ku sugan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_002",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Can I speak to the teacher?",
+    "somali": "Macallinka ma la hadli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_003",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "The teacher is in the office.",
+    "somali": "Macallinku xafiiska ayuu joogaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_004",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Our teacher is absent today.",
+    "somali": "Macallinkeennii maanta wuu maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_005",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Please ask the teacher.",
+    "somali": "Fadlan macallinka weydii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_006",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "The teacher explained it clearly.",
+    "somali": "Macallinku si cad ayuu u sharxay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_007",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "I want to thank the teacher.",
+    "somali": "Waxaan rabaa inaan macallinka u mahadceliyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_008",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Which teacher teaches this class?",
+    "somali": "Macallinkee fasalkan dhiga?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_009",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "The teacher gave us notes.",
+    "somali": "Macallinku qoraallo ayuu na siiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_010",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Can the teacher repeat that?",
+    "somali": "Macallinku taas ma ku celin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_011",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "The teacher is marking our work.",
+    "somali": "Macallinku shaqadayada ayuu saxayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_012",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Please give this to the teacher.",
+    "somali": "Fadlan tan macallinka sii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_013",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_014",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_015",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_016",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_017",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_018",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_019",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_teachers_020",
+    "category_code": "school",
+    "subcategory_code": "school_teachers",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "teachers"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_001",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "How many students are in this class?",
+    "somali": "Immisa arday ayaa fasalkan ku jira?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_002",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "The students are waiting outside.",
+    "somali": "Ardaydu bannaanka ayay ku sugayaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_003",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Are you a new student?",
+    "somali": "Ma arday cusub baad tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_004",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "I am a student here.",
+    "somali": "Halkan ayaan arday ka ahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_005",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "The students are working in groups.",
+    "somali": "Ardaydu kooxo ayay u shaqaynayaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_006",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Please help the new student.",
+    "somali": "Fadlan ardayga cusub caawi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_007",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Which student answered?",
+    "somali": "Ardaygee ayaa jawaabay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_008",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "The students have a test today.",
+    "somali": "Ardaydu maanta imtixaan ayay leeyihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_009",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "I know some students in this class.",
+    "somali": "Fasalkan arday qaar ayaan garanayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_010",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Students must bring their books.",
+    "somali": "Ardaydu waa inay buugaagtooda keenaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_011",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "The student card is required.",
+    "somali": "Kaarka ardayga waa loo baahan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_012",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Please join your group.",
+    "somali": "Fadlan kooxdaada ku biir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_013",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_014",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_015",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_016",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_017",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_018",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_019",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_students_020",
+    "category_code": "school",
+    "subcategory_code": "school_students",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "students"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_001",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "When is the exam?",
+    "somali": "Imtixaanku goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_002",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I have an exam tomorrow.",
+    "somali": "Berri imtixaan ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_003",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "How long is the exam?",
+    "somali": "Imtixaanku intee ayuu soconayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_004",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I need to study for the exam.",
+    "somali": "Imtixaanka ayaan u baahanahay inaan u barto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_005",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Is the exam written or oral?",
+    "somali": "Imtixaanku ma qoraal baa mise afka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_006",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "The exam was difficult.",
+    "somali": "Imtixaanku wuu adkaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_007",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "When will we get the results?",
+    "somali": "Natiijada goorma ayaan helaynaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_008",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Can I use a calculator?",
+    "somali": "Kalkuleytar ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_009",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Please read the exam instructions.",
+    "somali": "Fadlan akhri tilmaamaha imtixaanka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_010",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I passed the exam.",
+    "somali": "Imtixaankii waan baasay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_011",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I need more time for the exam.",
+    "somali": "Imtixaanka waqti dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_012",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "The exam starts at nine.",
+    "somali": "Imtixaanku sagaalka ayuu bilaabmaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_013",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_014",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_015",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_016",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_017",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_018",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_019",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_exams_020",
+    "category_code": "school",
+    "subcategory_code": "school_exams",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "exams"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_001",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Do I need to sign the attendance sheet?",
+    "somali": "Ma inaan saxiixo xaashida xaadiriska baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_002",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I was absent yesterday.",
+    "somali": "Shalay waan maqnaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_003",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I am present today.",
+    "somali": "Maanta waan joogaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_004",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Please mark me present.",
+    "somali": "Fadlan ii calaamadee inaan joogo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_005",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Why were you absent?",
+    "somali": "Maxaad u maqneyd?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_006",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "My attendance is good.",
+    "somali": "Xaadiriskaygu wuu fiican yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_007",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I came late this morning.",
+    "somali": "Saaka waan soo daahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_008",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Do we take attendance every day?",
+    "somali": "Maalin kasta xaadiris ma la qaadaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_009",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "The attendance list is missing my name.",
+    "somali": "Liiska xaadiriska magacayga kuma jiro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_010",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Please correct my attendance.",
+    "somali": "Fadlan xaadiriskayga sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_011",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I was sick last week.",
+    "somali": "Toddobaadkii hore waan xanuunsanaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_012",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Do I need a note for my absence?",
+    "somali": "Maqnaanshahayga qoraal ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_013",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_014",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_015",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_016",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_017",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_018",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_019",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_attendance_020",
+    "category_code": "school",
+    "subcategory_code": "school_attendance",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "attendance"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_001",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Where can I buy school supplies?",
+    "somali": "Xaggee ka iibsan karaa qalabka iskuulka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_002",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "I need a notebook.",
+    "somali": "Buug-qore ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_003",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Do you have an extra pencil?",
+    "somali": "Qalin qori dheeraad ah ma haysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_004",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "My bag is too heavy.",
+    "somali": "Boorsadaydu aad bay u culus tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_005",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "I forgot my ruler.",
+    "somali": "Taliyahaygii waan illoobay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_006",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Please bring your books tomorrow.",
+    "somali": "Fadlan berrito buugaagtaada keen.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_007",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "The calculator is in my bag.",
+    "somali": "Kalkuleytarku boorsadayda ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_008",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Can I borrow your eraser?",
+    "somali": "Tirtirahaaga ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_009",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "We need coloured pencils.",
+    "somali": "Qalimo midab leh ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_010",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "This notebook is for English class.",
+    "somali": "Buug-qorahan fasalka Ingiriiska ayaa loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_011",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "I need paper for the lesson.",
+    "somali": "Casharka warqad ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_012",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Please label your books.",
+    "somali": "Fadlan buugaagtaada magac ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_013",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_014",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_015",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_016",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_017",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_018",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_019",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_school_supplies_020",
+    "category_code": "school",
+    "subcategory_code": "school_school_supplies",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "supplies"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_001",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Which university do you attend?",
+    "somali": "Jaamacaddee ayaad dhigataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_002",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I study at the university.",
+    "somali": "Jaamacadda ayaan dhigtaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_003",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Where is the lecture hall?",
+    "somali": "Hoolka casharradu xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_004",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I have a lecture this afternoon.",
+    "somali": "Galabta cashar jaamacadeed ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_005",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "The campus is far from here.",
+    "somali": "Jaamacaddu halkan way ka fog tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_006",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "How do I register for this course?",
+    "somali": "Sideen isugu diiwaangeliyaa koorsadan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_007",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "The library is open late.",
+    "somali": "Maktabaddu ilaa goor dambe way furan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_008",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I am in my first year.",
+    "somali": "Sannadkaygii koowaad ayaan ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_009",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Do you live on campus?",
+    "somali": "Jaamacadda gudaheeda ma degan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_010",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I need my student card.",
+    "somali": "Kaarka ardayga ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_011",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Where is the admissions office?",
+    "somali": "Xafiiska oggolaanshuhu xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_012",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "The lecture has been cancelled.",
+    "somali": "Casharkii jaamacadda waa la baajiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_013",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_014",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_015",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_016",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_017",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_018",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_019",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_university_020",
+    "category_code": "school",
+    "subcategory_code": "school_university",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "university"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_001",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Is the class online today?",
+    "somali": "Maanta fasalku internetka ma ka dhacayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_002",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "I cannot hear the teacher.",
+    "somali": "Macallinka ma maqli karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_003",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Please turn on your microphone.",
+    "somali": "Fadlan makarafoonkaaga shid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_004",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "The internet connection is weak.",
+    "somali": "Xiriirka internetku wuu daciif yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_005",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Can you share the link again?",
+    "somali": "Linkiga mar kale ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_006",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "I joined the online lesson late.",
+    "somali": "Casharka internetka goor dambe ayaan galay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_007",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Please upload the assignment.",
+    "somali": "Fadlan hawsha ku soo geli internetka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_008",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "The video is not working.",
+    "somali": "Fiidiyowgu ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_009",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Can you see my screen?",
+    "somali": "Shaashaddayda ma arki kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_010",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "The recording will be available later.",
+    "somali": "Duubistu goor dambe ayay diyaar noqon doontaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_011",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Please mute your microphone.",
+    "somali": "Fadlan makarafoonkaaga dami.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_012",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "I will send the file online.",
+    "somali": "Faylka internetka ayaan ku soo dirayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_013",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Can you explain that again?",
+    "somali": "Taas mar kale ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_014",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "I do not understand this part.",
+    "somali": "Qaybtan ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_015",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Please write it on the board.",
+    "somali": "Fadlan sabuuradda ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_016",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Can I borrow a pen?",
+    "somali": "Qalin ma amaahan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_017",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Where should I sit?",
+    "somali": "Xaggee ayaan fariistaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_018",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "I finished my work.",
+    "somali": "Shaqadaydii waan dhammeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_019",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "When is the next class?",
+    "somali": "Fasalka xiga goorma ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_school_online_learning_020",
+    "category_code": "school",
+    "subcategory_code": "school_online_learning",
+    "english": "Can you check my answer?",
+    "somali": "Jawaabtayda ma eegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "school",
+      "online learning"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  }
+]

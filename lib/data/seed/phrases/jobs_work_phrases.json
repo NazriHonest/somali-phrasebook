@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_jobs_job_search_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I am looking for a job.",
+    "somali": "Shaqo ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Are there any vacancies?",
+    "somali": "Shaqooyin bannaan ma jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Where can I apply?",
+    "somali": "Xaggee ayaan ka codsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I need a full-time job.",
+    "somali": "Shaqo waqti-buuxa ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I am looking for part-time work.",
+    "somali": "Shaqo waqti-dhiman ah ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "What kind of work is available?",
+    "somali": "Shaqo noocee ah ayaa bannaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Do I need experience?",
+    "somali": "Khibrad ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I can start next week.",
+    "somali": "Toddobaadka dambe waan bilaabi karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Please let me know if there is work.",
+    "somali": "Fadlan ii sheeg haddii shaqo jirto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I saw the job online.",
+    "somali": "Shaqada internetka ayaan ku arkay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Is the job still available?",
+    "somali": "Shaqadu weli ma bannaan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I would like to apply for this position.",
+    "somali": "Jagadan ayaan rabaa inaan codsado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "What are the working hours?",
+    "somali": "Saacadaha shaqadu waa sidee?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Is training provided?",
+    "somali": "Tababar ma la bixiyaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I have worked in this field before.",
+    "somali": "Hore ayaan uga shaqeeyey qaybtaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_job_search_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_job_search",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "job search"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I want to submit an application.",
+    "somali": "Codsi ayaan rabaa inaan gudbiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Can I apply online?",
+    "somali": "Internetka ma ka codsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Where is the application form?",
+    "somali": "Foomka codsigu xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Please help me fill in this form.",
+    "somali": "Fadlan foomkan buuxintiisa iga caawi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "The application deadline is Friday.",
+    "somali": "Waqtiga codsigu Jimcaha ayuu ku egyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Do I need a cover letter?",
+    "somali": "Warqad hordhac ah ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I attached my CV.",
+    "somali": "CV-gayga waan ku lifaaqay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Can you check my application?",
+    "somali": "Codsigayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I made a mistake on the form.",
+    "somali": "Foomka qalad ayaan ku galay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Please send confirmation of my application.",
+    "somali": "Fadlan xaqiijinta codsigayga ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I have not received a reply.",
+    "somali": "Jawaab weli ma helin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "When will I hear back?",
+    "somali": "Goorma ayaan jawaab heli doonaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Can I update my application?",
+    "somali": "Codsigayga ma cusbooneysiin karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "The application asks for references.",
+    "somali": "Codsigu wuxuu weydiinayaa dad tixraac ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I need to upload my documents.",
+    "somali": "Dukumentiyadayda ayaan u baahanahay inaan soo geliyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_applications_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_applications",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "applications"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Can you check my CV?",
+    "somali": "CV-gayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "I need to update my CV.",
+    "somali": "CV-gayga ayaan u baahanahay inaan cusbooneysiiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Please add my latest job.",
+    "somali": "Fadlan shaqadaydii ugu dambaysay ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "My CV is two pages long.",
+    "somali": "CV-gaygu laba bog ayuu ka kooban yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Should I include this experience?",
+    "somali": "Khibraddan ma ku daraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "I need to print my CV.",
+    "somali": "CV-gayga ayaan u baahanahay inaan daabaco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Can I send my CV by email?",
+    "somali": "CV-gayga iimayl ma ku soo diri karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Please correct the spelling.",
+    "somali": "Fadlan higgaadda sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "My phone number is on my CV.",
+    "somali": "Lambarka taleefankaygu CV-ga ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "The employer asked for my CV.",
+    "somali": "Loo-shaqeeyuhu CV-gayga ayuu codsaday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "I need a simple CV template.",
+    "somali": "Qaab CV fudud ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Can you translate my CV into English?",
+    "somali": "CV-gayga Ingiriis ma iigu tarjumi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "My skills are listed here.",
+    "somali": "Xirfadahaygu halkan ayay ku qoran yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Please save the CV as a PDF.",
+    "somali": "Fadlan CV-ga PDF ahaan u kaydi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "I forgot to attach my CV.",
+    "somali": "CV-gaygii waan illoobay inaan lifaaqo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_cv_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_cv",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "cv"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I have a job interview tomorrow.",
+    "somali": "Berri wareysi shaqo ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "What time is the interview?",
+    "somali": "Wareysigu imisa ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Where will the interview take place?",
+    "somali": "Wareysigu xaggee ka dhacayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I am nervous about the interview.",
+    "somali": "Wareysiga waan ka walwalsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Please tell me about your experience.",
+    "somali": "Fadlan khibraddaada ii sheeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Why do you want this job?",
+    "somali": "Maxaad shaqadan u rabtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I can start immediately.",
+    "somali": "Isla markiiba waan bilaabi karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I worked in a shop before.",
+    "somali": "Hore ayaan dukaan uga shaqeeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Could we discuss the salary?",
+    "somali": "Mushaharka ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Thank you for inviting me.",
+    "somali": "Waad ku mahadsan tahay inaad i casuuntay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I did not understand the question.",
+    "somali": "Su'aasha ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Can you repeat the question?",
+    "somali": "Su'aasha ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "When will you make a decision?",
+    "somali": "Goorma ayaad go'aan gaari doontaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I look forward to hearing from you.",
+    "somali": "Waxaan rajaynayaa inaan war idinka helo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_interviews_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_interviews",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "interviews"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Where is the office?",
+    "somali": "Xafiisku xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "I work in an office.",
+    "somali": "Xafiis ayaan ka shaqeeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Please come to reception first.",
+    "somali": "Fadlan marka hore soo-dhoweynta imow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "My desk is near the window.",
+    "somali": "Miiskaygu daaqadda agteeda ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Can I use the printer?",
+    "somali": "Daabacaha ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "The office is closed today.",
+    "somali": "Xafiisku maanta wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "I need to speak to the manager.",
+    "somali": "Maamulaha ayaan u baahanahay inaan la hadlo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Please leave the file on my desk.",
+    "somali": "Fadlan faylka miiskayga saar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "The meeting room is busy.",
+    "somali": "Qolka shirku wuu mashquul yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Can you book a room?",
+    "somali": "Qol ma qabsan kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "The computer is not working.",
+    "somali": "Kombiyuutarku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Please answer the phone.",
+    "somali": "Fadlan taleefanka ka jawaab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "I will be in the office tomorrow.",
+    "somali": "Berri xafiiska ayaan joogi doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Where can I make copies?",
+    "somali": "Xaggee nuqullo ka samayn karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "The office is very quiet today.",
+    "somali": "Xafiisku maanta aad buu u deggan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_office_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_office",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "office"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "What time is the work meeting?",
+    "somali": "Shirka shaqadu imisa ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "The meeting starts in ten minutes.",
+    "somali": "Shirku toban daqiiqo gudahood ayuu bilaabmayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Please send the agenda.",
+    "somali": "Fadlan ajandaha soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Can we add one more item?",
+    "somali": "Hal qodob kale ma ku dari karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "I need to take notes.",
+    "somali": "Qoraallo ayaan u baahanahay inaan qaato.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "The manager will lead the meeting.",
+    "somali": "Maamulaha ayaa shirka hoggaamin doona.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Can everyone hear me?",
+    "somali": "Qof walba ma i maqli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Please mute your microphone.",
+    "somali": "Fadlan makarafoonkaaga dami.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Let us discuss the next steps.",
+    "somali": "Aan ka hadalno tallaabooyinka xiga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "I agree with this plan.",
+    "somali": "Qorshahan waan ku raacsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "I have a concern about the schedule.",
+    "somali": "Jadwalka walaac ayaan ka qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Can we finish early today?",
+    "somali": "Maanta goor hore ma dhamayn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "The meeting has been moved online.",
+    "somali": "Shirkii internetka ayaa loo wareejiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Please share the minutes after the meeting.",
+    "somali": "Fadlan qoraalka shirka ka dib nala wadaag.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Thank you for your time.",
+    "somali": "Waad ku mahadsan tihiin waqtigiinna.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_meetings_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_meetings",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "What is the salary for this job?",
+    "somali": "Mushaharka shaqadan waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "When do employees get paid?",
+    "somali": "Shaqaaluhu goorma ayay mushahar helaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "I am paid every month.",
+    "somali": "Bil kasta ayaan mushahar qaataa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "The salary is paid into my bank account.",
+    "somali": "Mushaharka akoontigayga bangiga ayaa lagu shubaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Can we discuss the salary?",
+    "somali": "Mushaharka ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "The pay is too low for me.",
+    "somali": "Mushaharku aad buu iigu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Does the salary include benefits?",
+    "somali": "Mushaharka faa'iidooyin ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "I did not receive my full pay.",
+    "somali": "Mushaharkaygii oo buuxa ma helin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Please check my payslip.",
+    "somali": "Fadlan warqadda mushaharkayga hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Is overtime paid separately?",
+    "somali": "Saacadaha dheeraadka ah si gaar ah ma loo bixiyaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "The salary date has changed.",
+    "somali": "Maalinta mushaharku way is beddeshay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "I need proof of income.",
+    "somali": "Caddayn dakhli ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Can I ask for a raise?",
+    "somali": "Mushahar kordhin ma codsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "The tax is taken from my salary.",
+    "somali": "Canshuurta mushaharkayga ayaa laga jaraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "I want to understand my deductions.",
+    "somali": "Waxaan rabaa inaan fahmo jarista mushaharkayga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_salary_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_salary",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "salary"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I need a day off.",
+    "somali": "Maalin fasax ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Can I take leave next week?",
+    "somali": "Toddobaadka dambe fasax ma qaadan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I am sick today.",
+    "somali": "Maanta waan xanuunsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Please approve my leave request.",
+    "somali": "Fadlan codsigayga fasaxa oggolow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "How many leave days do I have?",
+    "somali": "Immisa maalmood oo fasax ah ayaan haystaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I will return to work on Monday.",
+    "somali": "Isniinta ayaan shaqada ku soo laaban doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "My child is ill.",
+    "somali": "Ilmahaygu wuu xanuunsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Can I leave work early today?",
+    "somali": "Maanta goor hore shaqada ma ka bixi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I have an appointment during work hours.",
+    "somali": "Saacadaha shaqada ballan ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Please record this as annual leave.",
+    "somali": "Fadlan tan fasax sannadeed ahaan u diiwaangeli.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I need emergency leave.",
+    "somali": "Fasax degdeg ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Who covers my shift?",
+    "somali": "Yaa daboolaya saacaddayda shaqada?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I sent my leave form yesterday.",
+    "somali": "Foomka fasaxa shalay ayaan diray.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "The leave was not approved.",
+    "somali": "Fasaxii lama oggolaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Thank you for understanding.",
+    "somali": "Waad ku mahadsan tahay fahamkaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_leave_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_leave",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "leave"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Please wear your safety shoes.",
+    "somali": "Fadlan kabaha badbaadada xiro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Is this area safe?",
+    "somali": "Meeshan ma ammaan baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "I need safety training.",
+    "somali": "Tababar badbaado ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Report the accident immediately.",
+    "somali": "Shilka isla markiiba soo sheeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "The floor is wet.",
+    "somali": "Dhulku wuu qoyan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Do not lift this alone.",
+    "somali": "Tan keligaa ha qaadin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Where is the first aid kit?",
+    "somali": "Sanduuqa gargaarka degdegga ah xaggee yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "The machine is not safe to use.",
+    "somali": "Mashiinku ammaan uma aha in la isticmaalo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Please turn off the power.",
+    "somali": "Fadlan korontada dami.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "I hurt my hand at work.",
+    "somali": "Shaqada ayaan gacanta iska dhaawacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Who is the safety officer?",
+    "somali": "Waa kuma sarkaalka badbaadada?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "We need to follow the safety rules.",
+    "somali": "Waa inaan raacnaa xeerarka badbaadada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "This cable is dangerous.",
+    "somali": "Fiiladani waa khatar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Please keep the exit clear.",
+    "somali": "Fadlan albaabka laga baxo bannaan ha ahaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "I do not feel safe here.",
+    "somali": "Halkan ammaan kuma dareemayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_safety_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_safety",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_001",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I would like to discuss my progress.",
+    "somali": "Waxaan rabaa inaan ka hadlo horumarkayga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_002",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Is there a chance for promotion?",
+    "somali": "Fursad dalacsiin ma jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_003",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "What skills do I need to improve?",
+    "somali": "Xirfado noocee ah ayaan u baahanahay inaan hagaajiyo?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_004",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I have taken on more responsibility.",
+    "somali": "Mas'uuliyad dheeraad ah ayaan qaatay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_005",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Can we review my performance?",
+    "somali": "Waxqabadkayga ma dib u eegi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_006",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I am ready for a new role.",
+    "somali": "Doorka cusub diyaar ayaan u ahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_007",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Please give me feedback.",
+    "somali": "Fadlan jawaab-celin i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_008",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "What are the next steps?",
+    "somali": "Tallaabooyinka xiga waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_009",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I want to grow in this company.",
+    "somali": "Shirkaddan ayaan rabaa inaan ku horumaro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_010",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "The promotion has not been confirmed.",
+    "somali": "Dalacsiinta weli lama xaqiijin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_011",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Can I apply for the team leader role?",
+    "somali": "Doorka hoggaamiyaha kooxda ma codsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_012",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I need more training first.",
+    "somali": "Marka hore tababar dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_013",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "My manager supports my promotion.",
+    "somali": "Maamulahaygu dalacsiintayda wuu taageerayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_014",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "The new role has more responsibility.",
+    "somali": "Doorka cusub mas'uuliyad badan ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_015",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Thank you for considering me.",
+    "somali": "Waad ku mahadsan tahay inaad iga fiirsatay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_016",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Can you help me with this?",
+    "somali": "Tan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_017",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Please send me the details.",
+    "somali": "Fadlan faahfaahinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_018",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "I need more information.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_019",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Can we discuss this tomorrow?",
+    "somali": "Berri tan ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_jobs_promotions_020",
+    "category_code": "jobs",
+    "subcategory_code": "jobs_promotions",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "jobs",
+      "promotions"
+    ],
+    "notes": "Editorial rewrite: natural work and job phrase with directly aligned Somali meaning."
+  }
+]

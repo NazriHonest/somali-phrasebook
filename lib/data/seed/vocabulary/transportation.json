@@ -1,0 +1,663 @@
+[
+  {
+    "id": "vocab_transportation_bus_bus",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": {
+      "headword": "bus",
+      "search_forms": [
+        "bus",
+        "buses"
+      ]
+    },
+    "somali": {
+      "translation": "bas",
+      "alternative_translations": [],
+      "explanation": "Gaadiid dadweyne oo dadka lagu qaado waddooyinka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A large road vehicle that carries passengers.",
+        "translation": "bas",
+        "examples": [
+          {
+            "english": "The bus arrives every thirty minutes.",
+            "somali": "Basku wuxuu yimaadaa soddonkii daqiiqo kasta."
+          },
+          {
+            "english": "We took the bus to the city centre.",
+            "somali": "Waxaan bas ku tagnay bartamaha magaalada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "bus stop",
+        "somali": "joogsiga baska"
+      },
+      {
+        "english": "bus ticket",
+        "somali": "tigidhka baska"
+      },
+      {
+        "english": "catch a bus",
+        "somali": "raac bas"
+      }
+    ],
+    "related_words": [
+      "station",
+      "driver",
+      "route"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Waiting at a bus stop",
+      "Buying a ticket",
+      "Travelling to work"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Bus"
+    }
+  },
+  {
+    "id": "vocab_transportation_taxi_taxi",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": {
+      "headword": "taxi",
+      "search_forms": [
+        "taxi",
+        "taxis"
+      ]
+    },
+    "somali": {
+      "translation": "tagsi",
+      "alternative_translations": [],
+      "explanation": "Gaari kiraysi ah oo rakaabka u qaada meesha ay rabaan."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A vehicle for hire that takes passengers to their destination.",
+        "translation": "tagsi",
+        "examples": [
+          {
+            "english": "Let's take a taxi.",
+            "somali": "Aan tagsi raacno."
+          },
+          {
+            "english": "The taxi driver helped with my luggage.",
+            "somali": "Darawalka tagsiga ayaa iga caawiyay shandaddayda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "taxi driver",
+        "somali": "darawalka tagsiga"
+      },
+      {
+        "english": "taxi fare",
+        "somali": "qiimaha tagsiga"
+      },
+      {
+        "english": "call a taxi",
+        "somali": "u yeer tagsi"
+      }
+    ],
+    "related_words": [
+      "driver",
+      "fare",
+      "airport"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling from the airport",
+      "Going to a hotel",
+      "Night travel"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Taxi"
+    }
+  },
+  {
+    "id": "vocab_transportation_train_train",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": {
+      "headword": "train",
+      "search_forms": [
+        "train",
+        "trains"
+      ]
+    },
+    "somali": {
+      "translation": "tareen",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "tareen",
+        "examples": [
+          {
+            "english": "We used the train during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The train was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "train service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "train station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "train route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Train"
+    }
+  },
+  {
+    "id": "vocab_transportation_airport_airport",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": {
+      "headword": "airport",
+      "search_forms": [
+        "airport",
+        "airports"
+      ]
+    },
+    "somali": {
+      "translation": "garoon diyaaradeed",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "garoon diyaaradeed",
+        "examples": [
+          {
+            "english": "We used the airport during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The airport was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "airport service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "airport station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "airport route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Airport"
+    }
+  },
+  {
+    "id": "vocab_transportation_tickets_ticket",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": {
+      "headword": "ticket",
+      "search_forms": [
+        "ticket",
+        "tickets"
+      ]
+    },
+    "somali": {
+      "translation": "tigidh",
+      "alternative_translations": [],
+      "explanation": "Warqad ama tigidh kuu oggolaanaya inaad safarto."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A document that allows you to travel or enter a service.",
+        "translation": "tigidh",
+        "examples": [
+          {
+            "english": "I bought my train ticket online.",
+            "somali": "Waxaan tigidhka tareenka ka iibsaday internetka."
+          },
+          {
+            "english": "Please show your ticket.",
+            "somali": "Fadlan muuji tigidhkaaga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "one-way ticket",
+        "somali": "tigidh hal-jid ah"
+      },
+      {
+        "english": "return ticket",
+        "somali": "tigidh soo-noqosho"
+      },
+      {
+        "english": "ticket office",
+        "somali": "xafiiska tigidhada"
+      }
+    ],
+    "related_words": [
+      "fare",
+      "station",
+      "travel"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying tickets",
+      "Boarding transport",
+      "Ticket inspection"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Tickets"
+    }
+  },
+  {
+    "id": "vocab_transportation_driving_driver",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": {
+      "headword": "driver",
+      "search_forms": [
+        "driver",
+        "drivers"
+      ]
+    },
+    "somali": {
+      "translation": "darawal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "darawal",
+        "examples": [
+          {
+            "english": "We used the driver during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The driver was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "driver service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "driver station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "driver route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Driving"
+    }
+  },
+  {
+    "id": "vocab_transportation_fuel_fuel",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": {
+      "headword": "fuel",
+      "search_forms": [
+        "fuel",
+        "fuels"
+      ]
+    },
+    "somali": {
+      "translation": "shidaal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "shidaal",
+        "examples": [
+          {
+            "english": "We used the fuel during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The fuel was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "fuel service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "fuel station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "fuel route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Fuel"
+    }
+  },
+  {
+    "id": "vocab_transportation_parking_parking",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": {
+      "headword": "parking",
+      "search_forms": [
+        "parking"
+      ]
+    },
+    "somali": {
+      "translation": "baarkin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "baarkin",
+        "examples": [
+          {
+            "english": "We used the parking during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The parking was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "parking service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "parking station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "parking route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Parking"
+    }
+  },
+  {
+    "id": "vocab_transportation_route_directions_route",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": {
+      "headword": "route",
+      "search_forms": [
+        "route",
+        "routes"
+      ]
+    },
+    "somali": {
+      "translation": "waddo la maro",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "waddo la maro",
+        "examples": [
+          {
+            "english": "We used the route during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The route was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "route service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "route station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "route route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Route Directions"
+    }
+  },
+  {
+    "id": "vocab_transportation_ride_sharing_ride",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": {
+      "headword": "ride",
+      "search_forms": [
+        "ride",
+        "rides"
+      ]
+    },
+    "somali": {
+      "translation": "raacid",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa gaadiidka iyo safarka waxaana si joogto ah loogu isticmaalaa socdaalka maalinlaha ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common transportation term used in everyday travel.",
+        "translation": "raacid",
+        "examples": [
+          {
+            "english": "We used the ride during our journey.",
+            "somali": "Waxaan adeegsanay intii safarku socday."
+          },
+          {
+            "english": "The ride was easy to find.",
+            "somali": "Way fududayd in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ride service",
+        "somali": "adeegga"
+      },
+      {
+        "english": "ride station",
+        "somali": "saldhigga"
+      },
+      {
+        "english": "ride route",
+        "somali": "waddada"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Travelling between cities",
+      "Using public transport",
+      "Planning a journey"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Ride Sharing"
+    }
+  }
+]

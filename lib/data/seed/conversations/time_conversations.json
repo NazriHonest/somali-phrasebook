@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "conversation_time_telling_time_001",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "title": "Checking the Time for a Lesson",
+    "somali_title": "Waqtiga casharka oo la hubinayo",
+    "situation": "A student checks the clock and confirms the exact time of an English lesson.",
+    "somali_situation": "Arday ayaa eegaya saacadda oo xaqiijinaya waqtiga saxda ah ee casharka Ingiriisiga.",
+    "cefr": "A1",
+    "participants": [
+      "Student",
+      "Teacher"
+    ],
+    "key_vocabulary": [
+      "clock",
+      "half past",
+      "quarter to",
+      "schedule",
+      "appointment",
+      "telling",
+      "time"
+    ],
+    "key_phrases": [
+      "What time is it?",
+      "The clock says half past nine.",
+      "My appointment is at quarter to ten.",
+      "Is that on the schedule?",
+      "I am still learning telling time."
+    ],
+    "grammar_focus": [
+      "what time is it",
+      "it is + time",
+      "at + clock time",
+      "present simple schedules",
+      "short confirmations"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "What time is it?",
+        "somali": "Waa imisa saacaddu?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "The clock says half past nine.",
+        "somali": "Saacaddu waxay leedahay sagaal iyo bar."
+      },
+      {
+        "turn": 3,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "My appointment is at quarter to ten.",
+        "somali": "Ballantaydu waa tobanka rubuc la'aan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "Yes, you have time.",
+        "somali": "Haa, waqti ayaad haysataa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Is that on the schedule?",
+        "somali": "Jadwalka ma ku qoran tahay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "Yes, the schedule says ten o'clock.",
+        "somali": "Haa, jadwalku wuxuu leeyahay tobanka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "I am still learning telling time.",
+        "somali": "Weli waxaan baranayaa sheegidda waqtiga."
+      },
+      {
+        "turn": 8,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "You said the time correctly.",
+        "somali": "Waqtiga si sax ah ayaad u sheegtay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_days_001",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "title": "Choosing a Day for a Visit",
+    "somali_title": "Maalin booqasho loo dooranayo",
+    "situation": "Two friends choose a day for a short visit and avoid a busy weekday.",
+    "somali_situation": "Laba saaxiib ayaa dooranaya maalin ay booqasho gaaban sameeyaan waxayna ka fogaanayaan maalin shaqo oo mashquul ah.",
+    "cefr": "A2",
+    "participants": [
+      "Friend",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "Monday",
+      "Friday",
+      "weekend",
+      "weekday",
+      "tomorrow",
+      "days"
+    ],
+    "key_phrases": [
+      "Which day is good for you?",
+      "Monday is too busy for me.",
+      "Can we meet on Friday?",
+      "The weekend is better.",
+      "Tomorrow is only a weekday."
+    ],
+    "grammar_focus": [
+      "on + days",
+      "too + adjective",
+      "can for suggestions",
+      "comparatives",
+      "short reasons"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Which day is good for you?",
+        "somali": "Maalintee adiga kuu fiican?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Monday is too busy for me.",
+        "somali": "Isniintu aad bay iigu mashquul badan tahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Can we meet on Friday?",
+        "somali": "Jimcaha ma kulmi karnaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Friday evening may work.",
+        "somali": "Fiidnimada Jimcaha way suurtagal noqon kartaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "The weekend is better.",
+        "somali": "Dhammaadka toddobaadka ayaa ka fiican."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, Saturday is calm.",
+        "somali": "Haa, Sabtida way deggan tahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Tomorrow is only a weekday.",
+        "somali": "Berri waa maalin shaqo oo keliya."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Then Saturday is best.",
+        "somali": "Markaa Sabtida ayaa ugu fiican."
+      },
+      {
+        "turn": 9,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Good. I will come after lunch.",
+        "somali": "Waa fiican tahay. Qadada ka dib ayaan imanayaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Weekends are good days for visits.",
+        "somali": "Dhammaadka toddobaadku waa maalmo fiican oo booqasho ah."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_months_001",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "title": "Choosing a Month to Travel",
+    "somali_title": "Bil safar loo dooranayo",
+    "situation": "A traveler and an agent compare months and choose a better month for a family trip.",
+    "somali_situation": "Socdaale iyo wakiil safar ayaa isbarbar dhigaya bilo waxayna dooranayaan bil ka fiican safar qoys.",
+    "cefr": "B1",
+    "participants": [
+      "Traveler",
+      "Agent"
+    ],
+    "key_vocabulary": [
+      "January",
+      "April",
+      "August",
+      "month",
+      "season",
+      "holiday",
+      "months"
+    ],
+    "key_phrases": [
+      "Which month is cheaper for travel?",
+      "January is busy because of the holiday.",
+      "April is in a quieter season.",
+      "August is too hot for my children.",
+      "Let us choose April."
+    ],
+    "grammar_focus": [
+      "which + noun questions",
+      "because clauses",
+      "comparatives",
+      "too + adjective",
+      "let us for decisions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Which month is cheaper for travel?",
+        "somali": "Bilkee ayaa safarka uga jaban?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "January is busy because of the holiday.",
+        "somali": "Janaayo way mashquul badan tahay fasaxa awgiis."
+      },
+      {
+        "turn": 3,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "What about April?",
+        "somali": "Ka warran Abriil?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "April is in a quieter season.",
+        "somali": "Abriil waxay ku jirtaa xilli ka deggan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Do many people travel in August?",
+        "somali": "Dad badan ma safraan Agoosto?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "Yes, many families travel in August.",
+        "somali": "Haa, qoysas badan ayaa safra Agoosto."
+      },
+      {
+        "turn": 7,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "August is too hot for my children.",
+        "somali": "Agoosto carruurtayda aad bay ugu kulushahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "Then April may be better.",
+        "somali": "Markaa Abriil ayaa ka fiicnaan karta."
+      },
+      {
+        "turn": 9,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Are the hotels open in that month?",
+        "somali": "Hoteelladu ma furnaanayaan bishaas?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "Yes, most hotels are open all year.",
+        "somali": "Haa, hoteellada badankoodu sannadka oo dhan way furan yihiin."
+      },
+      {
+        "turn": 11,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Let us choose April.",
+        "somali": "Aan dooranno Abriil."
+      },
+      {
+        "turn": 12,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "Good choice. I will check flights for those months.",
+        "somali": "Doorasho fiican. Waxaan hubinayaa duulimaadyada bilahaas."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_appointments_001",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "title": "Rescheduling a Doctor's Appointment",
+    "somali_title": "Ballan dhakhtar oo dib loo dhigay",
+    "situation": "A patient calls a clinic to move an appointment from the morning to a later time and confirms the new slot.",
+    "somali_situation": "Bukaan ayaa wacaya xarun caafimaad si uu ballan subaxnimo uga wareejiyo waqti dambe, wuxuuna xaqiijinayaa booska cusub.",
+    "cefr": "B2",
+    "participants": [
+      "Patient",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "appointment",
+      "reschedule",
+      "available",
+      "slot",
+      "calendar",
+      "confirmation",
+      "appointments"
+    ],
+    "key_phrases": [
+      "I need to reschedule my appointment.",
+      "Do you have an available slot this afternoon?",
+      "Let me check the doctor's calendar.",
+      "Please send me a confirmation.",
+      "Your appointment has been moved."
+    ],
+    "grammar_focus": [
+      "need to + verb",
+      "present perfect passive",
+      "available + noun",
+      "polite requests",
+      "future arrangements"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Good morning. I need to reschedule my appointment.",
+        "somali": "Subax wanaagsan. Waxaan u baahanahay inaan dib u dhigo ballantayda."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I can help with that. What name is the appointment under?",
+        "somali": "Waan kaa caawin karaa. Ballantu magacee bay ku qoran tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "It is under Ahmed Ali.",
+        "somali": "Waxay ku qoran tahay Axmed Cali."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I see two appointments for you this month.",
+        "somali": "Waxaan kuu arkaa laba ballamood bishan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I mean the appointment for today at ten.",
+        "somali": "Waxaan ula jeedaa ballanta maanta tobanka ah."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Let me check the doctor's calendar.",
+        "somali": "Aan hubiyo jadwalka dhakhtarka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Do you have an available slot this afternoon?",
+        "somali": "Galabta boos bannaan ma haysaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "There is an available slot at three fifteen.",
+        "somali": "Waxaa jira boos bannaan saddex iyo rubuc."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "That works better than the morning.",
+        "somali": "Taasi subaxda way ka fiican tahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I will move it to three fifteen.",
+        "somali": "Waxaan u wareejinayaa saddex iyo rubuc."
+      },
+      {
+        "turn": 11,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Please send me a confirmation.",
+        "somali": "Fadlan ii soo dir xaqiijin."
+      },
+      {
+        "turn": 12,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I will send the confirmation by text.",
+        "somali": "Xaqiijinta waxaan kuugu soo dirayaa farriin."
+      },
+      {
+        "turn": 13,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I arrive early?",
+        "somali": "Ma inaan hore u imaadaa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Please arrive ten minutes early.",
+        "somali": "Fadlan imow toban daqiiqo ka hor."
+      },
+      {
+        "turn": 15,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you for changing it.",
+        "somali": "Waad ku mahadsan tahay inaad beddeshay."
+      },
+      {
+        "turn": 16,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Your appointment has been moved.",
+        "somali": "Ballantaadii waa la wareejiyay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_opening_hours_001",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "title": "Checking Opening Hours",
+    "somali_title": "Saacadaha furitaanka oo la hubinayo",
+    "situation": "A customer asks when a shop opens and closes and learns that service stops before closing time.",
+    "somali_situation": "Macmiil ayaa weydiinaya goorta dukaanku furmo oo xirmo, wuxuuna ogaanayaa in adeeggu istaago ka hor waqtiga xiritaanka.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop Worker"
+    ],
+    "key_vocabulary": [
+      "open",
+      "close",
+      "opening hours",
+      "service",
+      "morning",
+      "evening",
+      "hours"
+    ],
+    "key_phrases": [
+      "What are your opening hours?",
+      "We open at nine in the morning.",
+      "We close at six in the evening.",
+      "Service stops at five thirty.",
+      "I will come before five."
+    ],
+    "grammar_focus": [
+      "present simple for hours",
+      "at + time",
+      "in the morning",
+      "in the evening",
+      "will for plans"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What are your opening hours?",
+        "somali": "Saacadaha furitaankaagu waa goorma?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "We open at nine in the morning.",
+        "somali": "Waxaan furnaa sagaalka subaxnimo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What time do you close?",
+        "somali": "Goormaad xirmaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "We close at six in the evening.",
+        "somali": "Waxaan xirmaa lixda fiidnimo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I get service at five forty?",
+        "somali": "Shan iyo afartan adeeg ma heli karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Service stops at five thirty.",
+        "somali": "Adeeggu wuxuu istaagaa shan iyo bar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I will come before five.",
+        "somali": "Waxaan imanayaa ka hor shanta."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "That is a good time.",
+        "somali": "Waqtigaas wuu fiican yahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_scheduling_001",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "title": "Scheduling a Repair Visit",
+    "somali_title": "Booqasho dayactir oo la jadwalaynayo",
+    "situation": "A tenant schedules a repair visit and chooses a time window that fits a workday.",
+    "somali_situation": "Kirayste ayaa jadwalaynaya booqasho dayactir wuxuuna dooranayaa waqti ku habboon maalinta shaqada.",
+    "cefr": "A2",
+    "participants": [
+      "Tenant",
+      "Repair Office"
+    ],
+    "key_vocabulary": [
+      "schedule",
+      "available",
+      "time window",
+      "morning",
+      "afternoon",
+      "confirm",
+      "scheduling"
+    ],
+    "key_phrases": [
+      "I need to schedule a repair.",
+      "Are you available in the morning?",
+      "The afternoon time window is better.",
+      "Can you confirm the visit?",
+      "The scheduling is complete."
+    ],
+    "grammar_focus": [
+      "need to + verb",
+      "available in + time period",
+      "comparatives",
+      "can for requests",
+      "present simple confirmation"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I need to schedule a repair.",
+        "somali": "Waxaan u baahanahay inaan jadwaleeyo dayactir."
+      },
+      {
+        "turn": 2,
+        "speaker": "Repair Office",
+        "somali_speaker": "Xafiiska dayactirka",
+        "english": "Are you available in the morning?",
+        "somali": "Subaxdii ma diyaar baad tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "No, I work in the morning.",
+        "somali": "Maya, subaxdii waan shaqeeyaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Repair Office",
+        "somali_speaker": "Xafiiska dayactirka",
+        "english": "We have a time window from two to four.",
+        "somali": "Waxaan haynaa waqti u dhexeeya laba ilaa afar."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "The afternoon time window is better.",
+        "somali": "Waqtiga galabnimo ayaa ka fiican."
+      },
+      {
+        "turn": 6,
+        "speaker": "Repair Office",
+        "somali_speaker": "Xafiiska dayactirka",
+        "english": "Good. I can schedule it for tomorrow afternoon.",
+        "somali": "Waa fiican tahay. Berri galab ayaan u jadwalayn karaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Can you confirm the visit?",
+        "somali": "Booqashada ma xaqiijin kartaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Repair Office",
+        "somali_speaker": "Xafiiska dayactirka",
+        "english": "Yes, I will confirm it by text.",
+        "somali": "Haa, farriin ayaan ku xaqiijinayaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Thank you. I will be home.",
+        "somali": "Mahadsanid. Guriga ayaan joogi doonaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Repair Office",
+        "somali_speaker": "Xafiiska dayactirka",
+        "english": "The scheduling is complete.",
+        "somali": "Jadwalayntii way dhammaatay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_being_late_001",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "title": "Calling Because You Are Late",
+    "somali_title": "Wicitaan sababtoo ah waad soo daahaysaa",
+    "situation": "A customer calls ahead because a bus delay will make them late for an appointment.",
+    "somali_situation": "Macmiil ayaa hore u wacaya sababtoo ah dib-u-dhac bas ayaa ka dhigi doona inuu ka daaho ballan.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "late",
+      "delay",
+      "appointment",
+      "traffic",
+      "wait",
+      "arrive",
+      "being late"
+    ],
+    "key_phrases": [
+      "I am calling because I am late.",
+      "There is a delay on the bus route.",
+      "How late will you arrive?",
+      "Can the doctor wait ten minutes?",
+      "Thank you for calling ahead."
+    ],
+    "grammar_focus": [
+      "because clauses",
+      "future with will",
+      "how late questions",
+      "can for possibility",
+      "apologizing politely"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. I am calling because I am late.",
+        "somali": "Hallow. Waxaan wacayaa sababtoo ah waan soo daahayaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Thank you for calling ahead.",
+        "somali": "Waad ku mahadsan tahay inaad hore u wacday."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "There is a delay on the bus route.",
+        "somali": "Waddada basku dib-u-dhac baa ka jira."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Is it because of traffic?",
+        "somali": "Ma taraafikada awgeed baa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, traffic is moving slowly.",
+        "somali": "Haa, taraafikadu si tartiib ah bay u socotaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "How late will you arrive?",
+        "somali": "Immisa daqiiqo ayaad soo daahaysaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I will arrive about ten minutes late.",
+        "somali": "Waxaan imanayaa qiyaastii toban daqiiqo anigoo daahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Your appointment is still okay.",
+        "somali": "Ballantaadu weli waa hagaag."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can the doctor wait ten minutes?",
+        "somali": "Dhakhtarku toban daqiiqo ma sugi karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, but please arrive as soon as you can.",
+        "somali": "Haa, laakiin fadlan sida ugu dhakhsaha badan u imow."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I understand. I am sorry for being late.",
+        "somali": "Waan fahmay. Waan ka xumahay soo daahitaanka."
+      },
+      {
+        "turn": 12,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "That is all right. We will wait.",
+        "somali": "Waa hagaag. Waan sugi doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_frequency_001",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "title": "Talking About How Often",
+    "somali_title": "Inta jeer ee wax la sameeyo oo laga hadlayo",
+    "situation": "A patient explains how often symptoms happen and agrees on a simple daily routine.",
+    "somali_situation": "Bukaan ayaa sharxaya inta jeer ee calaamado dhacaan wuxuuna oggolaanayaa nidaam maalinle ah oo fudud.",
+    "cefr": "B2",
+    "participants": [
+      "Patient",
+      "Nurse"
+    ],
+    "key_vocabulary": [
+      "frequency",
+      "often",
+      "daily",
+      "weekly",
+      "twice",
+      "rarely",
+      "routine"
+    ],
+    "key_phrases": [
+      "How often does the pain come back?",
+      "It happens twice a week.",
+      "I rarely feel it in the morning.",
+      "A daily routine may help.",
+      "We will review the frequency next week."
+    ],
+    "grammar_focus": [
+      "how often questions",
+      "adverbs of frequency",
+      "twice a week",
+      "may for possibility",
+      "future review plans"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "How often does the pain come back?",
+        "somali": "Xanuunku inta jeer ayuu soo noqdaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "It happens twice a week.",
+        "somali": "Wuxuu dhacaa laba jeer toddobaadkii."
+      },
+      {
+        "turn": 3,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Is the frequency the same every week?",
+        "somali": "Inta jeer ma isku mid bay tahay toddobaad kasta?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "No, some weeks are better.",
+        "somali": "Maya, toddobaadyada qaar way ka fiican yihiin."
+      },
+      {
+        "turn": 5,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Do you feel it daily?",
+        "somali": "Maalin kasta ma dareentaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "No, I rarely feel it in the morning.",
+        "somali": "Maya, subaxdii dhif ayaan u dareemaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Does it happen after heavy meals?",
+        "somali": "Ma dhacdaa cunto culus ka dib?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Often, yes. Dinner is the worst time.",
+        "somali": "Badanaa, haa. Cashadu waa waqtiga ugu xun."
+      },
+      {
+        "turn": 9,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "A daily routine may help.",
+        "somali": "Nidaam maalinle ah ayaa laga yaabaa inuu caawiyo."
+      },
+      {
+        "turn": 10,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I write it down weekly?",
+        "somali": "Toddobaad kasta ma qortaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Yes, write the day and time.",
+        "somali": "Haa, qor maalinta iyo waqtiga."
+      },
+      {
+        "turn": 12,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "That will make the pattern clear.",
+        "somali": "Taasi waxay caddayn doontaa qaabka."
+      },
+      {
+        "turn": 13,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "We will review the frequency next week.",
+        "somali": "Toddobaadka dambe ayaan dib u eegi doonnaa inta jeer."
+      },
+      {
+        "turn": 14,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you. I can do that.",
+        "somali": "Mahadsanid. Taas waan samayn karaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliye",
+        "english": "Bring the notes to your next visit.",
+        "somali": "Qoraallada keen booqashadaada xigta."
+      },
+      {
+        "turn": 16,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I will bring them.",
+        "somali": "Waan keeni doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_time_holidays_001",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "title": "Asking About a Holiday",
+    "somali_title": "Fasax laga weydiinayo",
+    "situation": "A customer asks whether a shop is open during a holiday and chooses to come after the holiday.",
+    "somali_situation": "Macmiil ayaa weydiinaya haddii dukaanku furan yahay xilliga fasaxa wuxuuna dooranayaa inuu yimaado fasaxa ka dib.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop Worker"
+    ],
+    "key_vocabulary": [
+      "holiday",
+      "closed",
+      "open",
+      "tomorrow",
+      "today",
+      "holidays"
+    ],
+    "key_phrases": [
+      "Are you open today?",
+      "Today is a holiday.",
+      "We are closed tomorrow.",
+      "Do holidays change your hours?",
+      "I will come after the holiday."
+    ],
+    "grammar_focus": [
+      "are you open",
+      "present simple",
+      "today and tomorrow",
+      "after + noun",
+      "will for plans"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Are you open today?",
+        "somali": "Maanta ma furan tihiin?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, but today is a holiday.",
+        "somali": "Haa, laakiin maanta waa fasax."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do holidays change your hours?",
+        "somali": "Fasaxyadu saacadihiinna ma beddelaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, we close early on holidays.",
+        "somali": "Haa, fasaxyada goor hore ayaan xirmaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Are you open tomorrow?",
+        "somali": "Berri ma furan tihiin?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "No, we are closed tomorrow.",
+        "somali": "Maya, berri waan xiranahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I will come after the holiday.",
+        "somali": "Fasaxa ka dib ayaan imanayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop Worker",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "That is better. We open normally then.",
+        "somali": "Taasi way fiican tahay. Markaas si caadi ah ayaan u furnaa."
+      }
+    ]
+  }
+]

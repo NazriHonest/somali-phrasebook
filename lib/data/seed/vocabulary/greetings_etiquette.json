@@ -1,0 +1,790 @@
+[
+  {
+    "id": "vocab_greetings_etiquette_greetings_greeting",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "english": {
+      "headword": "greeting",
+      "search_forms": [
+        "greeting",
+        "greetings"
+      ]
+    },
+    "somali": {
+      "translation": "salaan",
+      "alternative_translations": [],
+      "explanation": "Erey ama hadal lagu salaamo qof marka la kulmayo ama la kala tagayo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A word or phrase used to welcome or acknowledge someone.",
+        "translation": "salaan",
+        "examples": [
+          {
+            "english": "She greeted us with a warm smile.",
+            "somali": "Waxay nagu salaantay dhoolla-caddayn diiran."
+          },
+          {
+            "english": "A polite greeting makes a good first impression.",
+            "somali": "Salaan edeb leh waxay reebtaa aragti wanaagsan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "warm greeting",
+        "somali": "salaan diiran"
+      },
+      {
+        "english": "formal greeting",
+        "somali": "salaan rasmi ah"
+      },
+      {
+        "english": "greeting card",
+        "somali": "kaarka salaanta"
+      }
+    ],
+    "related_words": [
+      "hello",
+      "welcome",
+      "goodbye",
+      "farewell"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting someone for the first time",
+      "Greeting visitors",
+      "Welcoming guests"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Greetings"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_introductions_introduction",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "english": {
+      "headword": "introduction",
+      "search_forms": [
+        "introduction",
+        "introductions"
+      ]
+    },
+    "somali": {
+      "translation": "isbarasho",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'introduction' is commonly used in polite social interaction.",
+        "translation": "isbarasho",
+        "examples": [
+          {
+            "english": "We used this introduction during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This introduction sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about introduction",
+        "somali": "weydii isbarasho"
+      },
+      {
+        "english": "check the introduction",
+        "somali": "hubi isbarasho"
+      },
+      {
+        "english": "write the introduction",
+        "somali": "qor isbarasho"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Introductions"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_goodbye_goodbye",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "english": {
+      "headword": "goodbye",
+      "search_forms": [
+        "goodbye",
+        "goodbyes"
+      ]
+    },
+    "somali": {
+      "translation": "nabadgelyo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'goodbye' is commonly used in polite social interaction.",
+        "translation": "nabadgelyo",
+        "examples": [
+          {
+            "english": "We used this goodbye during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This goodbye sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about goodbye",
+        "somali": "weydii nabadgelyo"
+      },
+      {
+        "english": "check the goodbye",
+        "somali": "hubi nabadgelyo"
+      },
+      {
+        "english": "write the goodbye",
+        "somali": "qor nabadgelyo"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Goodbye"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_thanking_thanks",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "english": {
+      "headword": "thanks",
+      "search_forms": [
+        "thanks"
+      ]
+    },
+    "somali": {
+      "translation": "mahadsanid",
+      "alternative_translations": [],
+      "explanation": "Erey lagu muujiyo mahadnaq qof kuu sameeyay wanaag ama ku caawiyay."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Words used to express gratitude.",
+        "translation": "mahadsanid",
+        "examples": [
+          {
+            "english": "Thanks for your help.",
+            "somali": "Waad ku mahadsan tahay caawimadaada."
+          },
+          {
+            "english": "Many thanks for coming.",
+            "somali": "Aad baad ugu mahadsan tahay imaanshahaaga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "say thanks",
+        "somali": "mahadnaq"
+      },
+      {
+        "english": "thanks a lot",
+        "somali": "aad baad u mahadsan tahay"
+      },
+      {
+        "english": "many thanks",
+        "somali": "mahadsanid badan"
+      }
+    ],
+    "related_words": [
+      "thank you",
+      "gratitude",
+      "appreciation"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Thanking someone",
+      "Writing a thank-you note",
+      "Receiving help"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Thanking"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_apologizing_apology",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "english": {
+      "headword": "apology",
+      "search_forms": [
+        "apology",
+        "apologies"
+      ]
+    },
+    "somali": {
+      "translation": "raalligelin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'apology' is commonly used in polite social interaction.",
+        "translation": "raalligelin",
+        "examples": [
+          {
+            "english": "We used this apology during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This apology sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about apology",
+        "somali": "weydii raalligelin"
+      },
+      {
+        "english": "check the apology",
+        "somali": "hubi raalligelin"
+      },
+      {
+        "english": "write the apology",
+        "somali": "qor raalligelin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Apologizing"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_congratulations_congratulations",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "english": {
+      "headword": "congratulations",
+      "search_forms": [
+        "congratulations",
+        "congratulationses"
+      ]
+    },
+    "somali": {
+      "translation": "hambalyo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'congratulations' is commonly used in polite social interaction.",
+        "translation": "hambalyo",
+        "examples": [
+          {
+            "english": "We used this congratulations during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This congratulations sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about congratulations",
+        "somali": "weydii hambalyo"
+      },
+      {
+        "english": "check the congratulations",
+        "somali": "hubi hambalyo"
+      },
+      {
+        "english": "write the congratulations",
+        "somali": "qor hambalyo"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Congratulations"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_invitations_invitation",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "english": {
+      "headword": "invitation",
+      "search_forms": [
+        "invitation",
+        "invitations"
+      ]
+    },
+    "somali": {
+      "translation": "casuumaad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'invitation' is commonly used in polite social interaction.",
+        "translation": "casuumaad",
+        "examples": [
+          {
+            "english": "We used this invitation during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This invitation sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about invitation",
+        "somali": "weydii casuumaad"
+      },
+      {
+        "english": "check the invitation",
+        "somali": "hubi casuumaad"
+      },
+      {
+        "english": "write the invitation",
+        "somali": "qor casuumaad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Invitations"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_accepting_invitations_acceptance",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "english": {
+      "headword": "acceptance",
+      "search_forms": [
+        "acceptance",
+        "acceptances"
+      ]
+    },
+    "somali": {
+      "translation": "aqbalid",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'acceptance' is commonly used in polite social interaction.",
+        "translation": "aqbalid",
+        "examples": [
+          {
+            "english": "We used this acceptance during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This acceptance sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about acceptance",
+        "somali": "weydii aqbalid"
+      },
+      {
+        "english": "check the acceptance",
+        "somali": "hubi aqbalid"
+      },
+      {
+        "english": "write the acceptance",
+        "somali": "qor aqbalid"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Accepting Invitations"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_declining_politely_decline",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "english": {
+      "headword": "decline",
+      "search_forms": [
+        "decline",
+        "declines"
+      ]
+    },
+    "somali": {
+      "translation": "diidmo edeb leh",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'decline' is commonly used in polite social interaction.",
+        "translation": "diidmo edeb leh",
+        "examples": [
+          {
+            "english": "We used this decline during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This decline sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about decline",
+        "somali": "weydii diidmo edeb leh"
+      },
+      {
+        "english": "check the decline",
+        "somali": "hubi diidmo edeb leh"
+      },
+      {
+        "english": "write the decline",
+        "somali": "qor diidmo edeb leh"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Declining Politely"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_telephone_etiquette_caller",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "english": {
+      "headword": "caller",
+      "search_forms": [
+        "caller",
+        "callers"
+      ]
+    },
+    "somali": {
+      "translation": "wacaha",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'caller' is commonly used in polite social interaction.",
+        "translation": "wacaha",
+        "examples": [
+          {
+            "english": "We used this caller during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This caller sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about caller",
+        "somali": "weydii wacaha"
+      },
+      {
+        "english": "check the caller",
+        "somali": "hubi wacaha"
+      },
+      {
+        "english": "write the caller",
+        "somali": "qor wacaha"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Telephone Etiquette"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_showing_respect_respect",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "english": {
+      "headword": "respect",
+      "search_forms": [
+        "respect",
+        "respects"
+      ]
+    },
+    "somali": {
+      "translation": "xushmad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'respect' is commonly used in polite social interaction.",
+        "translation": "xushmad",
+        "examples": [
+          {
+            "english": "We used this respect during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This respect sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about respect",
+        "somali": "weydii xushmad"
+      },
+      {
+        "english": "check the respect",
+        "somali": "hubi xushmad"
+      },
+      {
+        "english": "write the respect",
+        "somali": "qor xushmad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Showing Respect"
+    }
+  },
+  {
+    "id": "vocab_greetings_etiquette_offering_help_help",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "english": {
+      "headword": "help",
+      "search_forms": [
+        "help",
+        "helps"
+      ]
+    },
+    "somali": {
+      "translation": "caawin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa edebta iyo is dhexgalka bulshada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'help' is commonly used in polite social interaction.",
+        "translation": "caawin",
+        "examples": [
+          {
+            "english": "We used this help during the conversation.",
+            "somali": "Waxaan adeegsanay eraygan intii wada hadalku socday."
+          },
+          {
+            "english": "This help sounds polite.",
+            "somali": "Eraygani wuxuu u muuqdaa edeb leh."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about help",
+        "somali": "weydii caawin"
+      },
+      {
+        "english": "check the help",
+        "somali": "hubi caawin"
+      },
+      {
+        "english": "write the help",
+        "somali": "qor caawin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Meeting new people",
+      "Speaking politely",
+      "Everyday social conversations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Etiquette Offering Help"
+    }
+  }
+]

@@ -59,7 +59,7 @@ class _DialogueDetailScreenState extends ConsumerState<DialogueDetailScreen> {
                   end: Alignment.bottomRight,
                   colors: [
                     theme.phrasebook.headerStart,
-                    theme.phrasebook.headerEnd,
+                    theme.phrasebook.greenHeaderEnd,
                   ],
                 ),
               ),

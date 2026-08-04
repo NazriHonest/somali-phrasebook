@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_public_signs_road_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Does this road sign mean one way?",
+    "somali": "Calaamaddan waddadu ma hal jiho ayay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Can I park on this street?",
+    "somali": "Waddadan ma dhigan karaa gaariga?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "This road is closed ahead.",
+    "somali": "Waddadan hore way ka xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Please slow down here.",
+    "somali": "Fadlan halkan tartiib u soco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Do not cross the road here.",
+    "somali": "Halkan waddada ha ka gudbin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Turn left at the next sign.",
+    "somali": "Calaamadda xigta bidix u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "The speed limit is thirty.",
+    "somali": "Xadka xawaaruhu waa soddon.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Pedestrians should use the crossing.",
+    "somali": "Dadka lugaynaya ha isticmaalaan meesha laga gudbo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "This lane is for buses only.",
+    "somali": "Laankan basaska oo keliya ayaa isticmaala.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "The road sign is hard to see.",
+    "somali": "Calaamadda waddada si fiican looma arki karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_road_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "road signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Where is the emergency entrance?",
+    "somali": "Albaabka gurmadka xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Visitors must check in here.",
+    "somali": "Booqdayaashu halkan ha iska diiwaangeliyaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "This area is for patients only.",
+    "somali": "Meeshan bukaanka oo keliya ayaa loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Please keep quiet in this area.",
+    "somali": "Fadlan meeshan aamusnaan ku ilaali.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Where is the pharmacy sign?",
+    "somali": "Calaamadda farmashiyaha xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Follow the signs to reception.",
+    "somali": "Raac calaamadaha taga soo-dhoweynta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "This ward is closed to visitors.",
+    "somali": "Qaybtan booqdayaasha way ka xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Please wash your hands here.",
+    "somali": "Fadlan halkan gacmaha ku dhaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "The clinic entrance is upstairs.",
+    "somali": "Albaabka rugtu dabaqa sare ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Is this the waiting area?",
+    "somali": "Tani ma meesha lagu sugo baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hospital_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hospital signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Where is passport control?",
+    "somali": "Kontoroolka baasaboorka xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "This way to baggage claim.",
+    "somali": "Jidkan ayaa lagu tagaa meesha boorsooyinka laga qaato.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Passengers only beyond this point.",
+    "somali": "Meeshan wixii ka dambeeya rakaab keliya ayaa geli kara.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Please have your boarding pass ready.",
+    "somali": "Fadlan tigidhka diyaaradda diyaarso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Which sign shows gate twelve?",
+    "somali": "Calaamaddee muujinaysa albaabka laba iyo tobnaad?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Follow the signs to arrivals.",
+    "somali": "Raac calaamadaha taga imaanshaha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "The departure gate has changed.",
+    "somali": "Albaabkii bixitaanka waa la beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Security is straight ahead.",
+    "somali": "Baaritaanka amnigu toos ayuu u yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "This queue is for families.",
+    "somali": "Safkan qoysaska ayaa loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Is this the sign for customs?",
+    "somali": "Tani ma calaamadda kastamka baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_airport_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "airport signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Where is the school office?",
+    "somali": "Xafiiska iskuulka xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Visitors must report to reception.",
+    "somali": "Booqdayaashu waa inay tagaan soo-dhoweynta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Students should line up here.",
+    "somali": "Ardaydu halkan ha safnaadaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "This door is for staff only.",
+    "somali": "Albaabkan shaqaalaha oo keliya ayaa isticmaala.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "The library sign is near the stairs.",
+    "somali": "Calaamadda maktabaddu jaranjarada agteeda ayay taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Please keep the corridor clear.",
+    "somali": "Fadlan marinka ha bannaano.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "This classroom is closed today.",
+    "somali": "Fasalkan maanta wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Where is the exam room sign?",
+    "somali": "Calaamadda qolka imtixaanka xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Parents should wait here.",
+    "somali": "Waalidku halkan ha sugaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "The playground is outside.",
+    "somali": "Garoonka ciyaartu bannaanka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_school_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "school signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Wear a helmet in this area.",
+    "somali": "Meeshan koofiyadda badbaadada xiro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "The floor is wet.",
+    "somali": "Dhulku wuu qoyan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Please use the handrail.",
+    "somali": "Fadlan qabsada birta jaranjarada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Do not touch this equipment.",
+    "somali": "Qalabkan ha taaban.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "There is danger ahead.",
+    "somali": "Khatar ayaa hore jirta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Keep away from the edge.",
+    "somali": "Cidhifka ka fogow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Protective glasses are required.",
+    "somali": "Muraayadaha badbaadada waa khasab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "This area is not safe.",
+    "somali": "Meeshan ammaan ma aha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Please report hazards immediately.",
+    "somali": "Fadlan khataraha isla markiiba soo sheeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Use the emergency exit if needed.",
+    "somali": "Haddii loo baahdo isticmaal albaabka gurmadka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_safety_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "safety signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Where is reception?",
+    "somali": "Soo-dhoweyntu xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Please sign in at the front desk.",
+    "somali": "Fadlan miiska hore iska diiwaangeli.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Meeting rooms are upstairs.",
+    "somali": "Qolalka shirarka dabaqa sare ayay ku yaallaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "This desk is not open today.",
+    "somali": "Miiskan maanta ma furna.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Staff only beyond this door.",
+    "somali": "Albaabkan wixii ka dambeeya shaqaalaha oo keliya ayaa geli kara.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Please wait until you are called.",
+    "somali": "Fadlan sug ilaa lagu yeero.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "The lift is on the right.",
+    "somali": "Wiishku midig ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Where is the waiting area?",
+    "somali": "Meesha lagu sugo xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Please keep your visitor badge visible.",
+    "somali": "Fadlan calaamadda booqdaha muuqata ha ahaato.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "The office is closed for lunch.",
+    "somali": "Xafiisku qadada awgeed wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_office_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "office signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Where is the lift?",
+    "somali": "Wiishku xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Breakfast is served downstairs.",
+    "somali": "Quraacda waxaa lagu bixiyaa dabaqa hoose.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Guests only beyond this point.",
+    "somali": "Meeshan wixii ka dambeeya martida hoteelka oo keliya ayaa geli karta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Please leave your key at reception.",
+    "somali": "Fadlan furahaaga uga tag soo-dhoweynta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "The pool is closed at night.",
+    "somali": "Barkadda habeenkii way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Check-out is at eleven.",
+    "somali": "Ka bixitaanka hoteelku waa kow iyo toban.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Follow the signs to your room.",
+    "somali": "Raac calaamadaha taga qolkaaga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Where is the restaurant sign?",
+    "somali": "Calaamadda maqaayadda xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Please do not disturb.",
+    "somali": "Fadlan ha qasin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Emergency exits are marked in green.",
+    "somali": "Albaabbada gurmadka cagaar ayaa lagu calaamadeeyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_hotel_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "hotel signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Where is the checkout?",
+    "somali": "Meesha lacagta lagu bixiyo xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "This item is on sale.",
+    "somali": "Shaygan qiimo-dhimis ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Please queue here.",
+    "somali": "Fadlan halkan saf ka gal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Returns are handled at customer service.",
+    "somali": "Soo celinta alaabta waxaa lagu qabtaa adeegga macaamiisha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "This aisle is closed.",
+    "somali": "Marinkan dukaanka wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "The fitting rooms are upstairs.",
+    "somali": "Qolalka dharka lagu tijaabiyo dabaqa sare ayay ku yaallaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Ask staff for another size.",
+    "somali": "Shaqaalaha weydii cabbir kale.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "The price is on the shelf label.",
+    "somali": "Qiimuhu calaamadda shelf-ka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Card payments only at this till.",
+    "somali": "Miiskan kaar keliya ayaa lagu bixin karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Where is the sale section?",
+    "somali": "Qaybta qiimo-dhimistu xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_shopping_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "shopping signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Is this warning serious?",
+    "somali": "Digniintan ma mid culus baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Do not cross this line.",
+    "somali": "Khadkan ha dhaafin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Please keep away from this area.",
+    "somali": "Fadlan meeshan ka fogow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "This sign warns about electricity.",
+    "somali": "Calaamaddani waxay ka digaysaa koronto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "There may be falling objects.",
+    "somali": "Waxyaabo soo dhici kara ayaa jiri kara.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "The surface may be slippery.",
+    "somali": "Dusha sare way simbiriirixi kartaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Do not use open flames here.",
+    "somali": "Halkan dab furan ha isticmaalin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Children must stay with adults.",
+    "somali": "Carruurtu waa inay dadka waaweyn la joogaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "This warning is for drivers.",
+    "somali": "Digniintan darawallada ayaa loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Please take the warning seriously.",
+    "somali": "Fadlan digniinta si dhab ah u qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_warning_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "warning signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Where is the emergency exit?",
+    "somali": "Albaabka gurmadka xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_002",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Call emergency services now.",
+    "somali": "Hadda wac adeegyada gurmadka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_003",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "The first aid kit is here.",
+    "somali": "Sanduuqa gargaarka degdegga ah halkan ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_004",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Use the stairs in an emergency.",
+    "somali": "Xaalad gurmad ah isticmaal jaranjarada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_005",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "The alarm button is beside the door.",
+    "somali": "Badhanka digniintu albaabka agtiisa ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_006",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Go to the assembly point.",
+    "somali": "Tag meesha dadka lagu ururiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_007",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Do not use the lift during a fire.",
+    "somali": "Marka dab jiro wiishka ha isticmaalin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_008",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Emergency phones are on this wall.",
+    "somali": "Taleefannada gurmadku darbigan ayay ku yaallaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_009",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Please stay calm and leave the building.",
+    "somali": "Fadlan deggenow oo dhismaha ka bax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_010",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Follow the emergency signs.",
+    "somali": "Raac calaamadaha gurmadka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_011",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "What does this sign mean?",
+    "somali": "Calaamaddan maxay ka dhigan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_012",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Can you explain this sign?",
+    "somali": "Calaamaddan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_013",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Please read the sign carefully.",
+    "somali": "Fadlan si taxaddar leh u akhri calaamadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_014",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Are we allowed to enter here?",
+    "somali": "Ma naloo oggol yahay inaan halkan galno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_015",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "This area is closed today.",
+    "somali": "Meeshan maanta way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_016",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Is there another entrance?",
+    "somali": "Albaab kale oo laga galo ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_017",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "The exit is on the left.",
+    "somali": "Albaabka laga baxo bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_018",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Which way should I go?",
+    "somali": "Jidkee ayaan maraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_019",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Please follow the arrow.",
+    "somali": "Fadlan fallaarta raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_public_signs_emergency_signs_020",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "english": "Ask staff if you are unsure.",
+    "somali": "Haddii aadan hubin, shaqaalaha weydii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "public_signs",
+      "emergency signs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  }
+]

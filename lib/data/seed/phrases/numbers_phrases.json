@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "phrase_numbers_counting_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Can you count these for me?",
+    "somali": "Kuwan ma ii tirin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "There are three bags.",
+    "somali": "Saddex boorso ayaa jira.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "I need two tickets.",
+    "somali": "Laba tigidh ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Please give me one more.",
+    "somali": "Fadlan mid kale i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "How many people are coming?",
+    "somali": "Immisa qof ayaa imanaya?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "We need six chairs.",
+    "somali": "Lix kursi ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "There are ten students in the room.",
+    "somali": "Qolka toban arday ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Please count the money.",
+    "somali": "Fadlan lacagta tiri.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "I counted it twice.",
+    "somali": "Laba jeer ayaan tiriyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "One is missing.",
+    "somali": "Mid ayaa maqan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Do we have enough for everyone?",
+    "somali": "Qof walba ma ku filan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Please take only one.",
+    "somali": "Fadlan hal keliya qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "There are too many people here.",
+    "somali": "Halkan dad aad u badan ayaa jooga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "There are not enough cups.",
+    "somali": "Koobab ku filan ma jiraan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Can you count from one to ten?",
+    "somali": "Hal ilaa toban ma tirin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_counting_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "counting"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "I am first in the queue.",
+    "somali": "Safka aniga ayaa koowaad ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "You are second.",
+    "somali": "Adigu waxaad tahay labaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Take the third door on the left.",
+    "somali": "Qaado albaabka saddexaad ee bidixda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "My room is on the fourth floor.",
+    "somali": "Qolkaygu dabaqa afraad ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "This is my first visit.",
+    "somali": "Tani waa booqashadaydii koowaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "The second bus goes downtown.",
+    "somali": "Baska labaad ayaa taga bartamaha magaalada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Please read the first sentence.",
+    "somali": "Fadlan jumladda koowaad akhri.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "The fifth question is difficult.",
+    "somali": "Su'aasha shanaad way adag tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Is this the last stop?",
+    "somali": "Kani ma joogsiga ugu dambeeya baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Who came first?",
+    "somali": "Yaa koowaad yimid?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "The next appointment is my third one.",
+    "somali": "Ballanta xigta waa tii saddexaad ee aan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Please go to the second window.",
+    "somali": "Fadlan tag daaqadda labaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "The first page is missing.",
+    "somali": "Bogga koowaad wuu maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "I live on the seventh floor.",
+    "somali": "Dabaqa toddobaad ayaan degganahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "The tenth item is on sale.",
+    "somali": "Shayga tobnaad qiimo-dhimis ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_ordinal_numbers_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "ordinal numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "How much is this?",
+    "somali": "Tani waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "It costs five dollars.",
+    "somali": "Waxay ku kacaysaa shan doollar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "The price is twenty pounds.",
+    "somali": "Qiimuhu waa labaatan pound.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Can you give me the total?",
+    "somali": "Wadarta ma ii sheegi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "That is too expensive.",
+    "somali": "Taasi aad bay qaali u tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Do you have anything cheaper?",
+    "somali": "Wax ka jaban ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "The discount is ten percent.",
+    "somali": "Qiimo-dhimistu waa boqolkiiba toban.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Please write the price here.",
+    "somali": "Fadlan qiimaha halkan ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "I only have fifteen dollars.",
+    "somali": "Shan iyo toban doollar oo keliya ayaan haystaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Is tax included?",
+    "somali": "Canshuurtu ma ku jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "The total is thirty-five.",
+    "somali": "Wadartu waa soddon iyo shan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Can I pay half now?",
+    "somali": "Kala bar hadda ma bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "The price went up.",
+    "somali": "Qiimuhu wuu kacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "The price went down.",
+    "somali": "Qiimuhu wuu dhacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "I paid forty dollars.",
+    "somali": "Afartan doollar ayaan bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_prices_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "prices"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "What is your phone number?",
+    "somali": "Lambarkaaga taleefanku waa maxay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "My number is written here.",
+    "somali": "Lambarkaygu halkan ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Can you say the number slowly?",
+    "somali": "Lambarka si tartiib ah ma u oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Please text me your number.",
+    "somali": "Fadlan lambarkaaga farriin iigu soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "I wrote one digit wrong.",
+    "somali": "Hal tiro ayaan si khaldan u qoray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Does the number start with zero?",
+    "somali": "Lambarku eber ma ku bilaabmaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "The last two digits are nine and four.",
+    "somali": "Labada tiro ee ugu dambeeya waa sagaal iyo afar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Can I call this number?",
+    "somali": "Lambarkan ma wici karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "This number is not working.",
+    "somali": "Lambarkan ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Please include the country code.",
+    "somali": "Fadlan koodhka dalka ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Is this your mobile number?",
+    "somali": "Kani ma lambarkaaga taleefanka gacanta baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "I lost your number.",
+    "somali": "Lambarkaagii waan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Can you save my number?",
+    "somali": "Lambarkayga ma kaydin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "The number has changed.",
+    "somali": "Lambarku wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Please do not share my number.",
+    "somali": "Fadlan lambarkayga ha la wadaagin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_telephone_numbers_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "telephone numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "What is today's date?",
+    "somali": "Taariikhda maanta waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "My appointment is on the fifth.",
+    "somali": "Ballantaydu waa maalinta shanaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The form needs your date of birth.",
+    "somali": "Foomku wuxuu u baahan yahay taariikhda dhalashadaada.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Please write the date here.",
+    "somali": "Fadlan taariikhda halkan ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Is the date correct?",
+    "somali": "Taariikhdu ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The meeting is on Monday the tenth.",
+    "somali": "Shirku waa Isniin tobanka bisha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The ticket is valid until the fifteenth.",
+    "somali": "Tigidhku wuxuu shaqaynayaa ilaa shan iyo tobanka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "I was born on the second of June.",
+    "somali": "Waxaan dhashay laba Juun.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Can we change the date?",
+    "somali": "Taariikhda ma beddeli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The date has already passed.",
+    "somali": "Taariikhdu hore ayay u dhaaftay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The deadline is the last day of the month.",
+    "somali": "Waqtiga kama dambaysta ahi waa maalinta ugu dambaysa ee bisha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Please confirm the date by message.",
+    "somali": "Fadlan taariikhda farriin ku xaqiiji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "I am not sure about the date.",
+    "somali": "Taariikhda si fiican uma hubo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "The receipt shows yesterday's date.",
+    "somali": "Rasiidku wuxuu muujinayaa taariikhda shalay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "What date did you arrive?",
+    "somali": "Taariikhdee ayaad timid?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_dates_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "dates"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "What year were you born?",
+    "somali": "Sannadkee ayaad dhalatay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "I was born in nineteen ninety.",
+    "somali": "Waxaan dhashay kun sagaal boqol sagaashan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "This passport expires next year.",
+    "somali": "Baasaboorkani sannadka dambe ayuu dhacayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "I have lived here for two years.",
+    "somali": "Laba sano ayaan halkan degganaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "The course lasts one year.",
+    "somali": "Koorsadu hal sano ayay socotaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "I moved here in twenty twenty-four.",
+    "somali": "Waxaan halkan u soo guuray laba kun afar iyo labaatan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "How many years of experience do you have?",
+    "somali": "Immisa sano oo khibrad ah ayaad leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "The building is ten years old.",
+    "somali": "Dhismahani toban sano ayuu jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "My child is starting school next year.",
+    "somali": "Ilmahaygu sannadka dambe ayuu iskuul bilaabayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "The agreement is for one year.",
+    "somali": "Heshiisku hal sano ayuu soconayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Which year is written on the document?",
+    "somali": "Sannadkee ayaa dukumentiga ku qoran?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "This happened last year.",
+    "somali": "Tani sannadkii hore ayay dhacday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "I will renew it this year.",
+    "somali": "Sannadkan ayaan cusbooneysiin doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "The car is from twenty eighteen.",
+    "somali": "Gaarigu waa sannadkii laba kun siddeed iyo toban.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Please write the full year.",
+    "somali": "Fadlan sannadka oo buuxa qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_years_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "years"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "I only need half.",
+    "somali": "Kala bar oo keliya ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Can I have half a kilo?",
+    "somali": "Kala kiilo ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Cut it into quarters, please.",
+    "somali": "Fadlan afar meelood u jar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "One third is enough.",
+    "somali": "Saddex meelood meel ayaa ku filan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "The glass is half full.",
+    "somali": "Koobku kala bar ayuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Use half of the onion.",
+    "somali": "Isticmaal basasha kala barkeed.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Add a quarter cup of water.",
+    "somali": "Ku dar rubuc koob oo biyo ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "I ate half of it.",
+    "somali": "Kala barkeed ayaan cunay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Can we share it equally?",
+    "somali": "Si siman ma u qaybsan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Two thirds of the seats are full.",
+    "somali": "Saddex meelood laba meel kuraasta way buuxaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "I paid half of the bill.",
+    "somali": "Kala bar biilka ayaan bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Please give me a small portion.",
+    "somali": "Fadlan qayb yar i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "This is more than half.",
+    "somali": "Tani way ka badan tahay kala bar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Is a quarter enough?",
+    "somali": "Rubuc ma ku filan yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Divide it into two equal parts.",
+    "somali": "Laba qaybood oo siman u qaybi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_fractions_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "fractions"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "What percentage is the discount?",
+    "somali": "Qiimo-dhimistu boqolkiiba imisa ayay tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "It is ten percent off.",
+    "somali": "Boqolkiiba toban ayaa laga dhimay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The battery is at twenty percent.",
+    "somali": "Batarigu boqolkiiba labaatan ayuu marayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "I need to charge my phone.",
+    "somali": "Taleefankayga ayaan u baahanahay inaan dallaco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The rent increased by five percent.",
+    "somali": "Kiradu boqolkiiba shan ayay korortay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The result is ninety percent.",
+    "somali": "Natiijadu waa boqolkiiba sagaashan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Can you calculate the percentage?",
+    "somali": "Boqolleyda ma xisaabin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Only fifty percent is paid.",
+    "somali": "Boqolkiiba konton oo keliya ayaa la bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The shop is offering twenty percent off.",
+    "somali": "Dukaanku wuxuu bixinayaa qiimo-dhimis boqolkiiba labaatan ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Is tax included in the percentage?",
+    "somali": "Canshuurtu boqolleyda ma ku jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The volume is at thirty percent.",
+    "somali": "Codku boqolkiiba soddon ayuu marayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Please reduce it by ten percent.",
+    "somali": "Fadlan boqolkiiba toban ka dhim.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "The chance of rain is forty percent.",
+    "somali": "Fursadda roobku waa boqolkiiba afartan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "I understood about seventy percent.",
+    "somali": "Qiyaastii boqolkiiba toddobaatan ayaan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Can you show the percentage on the screen?",
+    "somali": "Boqolleyda shaashadda ma ku muujin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_percentages_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "percentages"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "What is my room number?",
+    "somali": "Lambarka qolkaygu waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_002",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "My room number is two oh five.",
+    "somali": "Lambarka qolkaygu waa laba eber shan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_003",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Room twelve is on the left.",
+    "somali": "Qolka laba iyo tobnaad bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_004",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Please write the room number here.",
+    "somali": "Fadlan lambarka qolka halkan ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_005",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "I cannot find room thirty.",
+    "somali": "Qolka soddon ma heli karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_006",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Is this room one fifteen?",
+    "somali": "Kani ma qol kow shan iyo toban baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_007",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "The meeting is in room eight.",
+    "somali": "Shirku qolka siddeed ayuu ka dhacayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_008",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "The room number is on the key.",
+    "somali": "Lambarka qolka furaha ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_009",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Please go to room four.",
+    "somali": "Fadlan tag qolka afar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_010",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "My appointment is in room ten.",
+    "somali": "Ballantaydu qolka toban ayay ka dhacaysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_011",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Which floor is room twenty-one on?",
+    "somali": "Qolka kow iyo labaatan dabaqee ayuu ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_012",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "The room number is missing.",
+    "somali": "Lambarka qolka wuu maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_013",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Can you repeat the room number?",
+    "somali": "Lambarka qolka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_014",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "I went to the wrong room.",
+    "somali": "Qol khaldan ayaan galay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_015",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Room six is closed today.",
+    "somali": "Qolka lix maanta wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_016",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_017",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Please write the number clearly.",
+    "somali": "Fadlan lambarka si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_018",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "I think the number is wrong.",
+    "somali": "Waxaan u malaynayaa in lambarku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_019",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Please check the number again.",
+    "somali": "Fadlan lambarka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_numbers_room_numbers_020",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": "Now the number is correct.",
+    "somali": "Hadda lambarku waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "numbers",
+      "room numbers"
+    ],
+    "notes": "Editorial rewrite: natural number-use phrase with directly aligned Somali meaning."
+  }
+]

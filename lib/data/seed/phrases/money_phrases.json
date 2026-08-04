@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_money_cash_001",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Can I pay in cash?",
+    "somali": "Lacag caddaan ah ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_002",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I only have cash.",
+    "somali": "Lacag caddaan ah oo keliya ayaan haystaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_003",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Do you have change?",
+    "somali": "Lacag yar ma haysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_004",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I need smaller notes.",
+    "somali": "Lacag waraaqo yaryar ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_005",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Please give me the change.",
+    "somali": "Fadlan lacagta soo hartay i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_006",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I paid in cash.",
+    "somali": "Lacag caddaan ah ayaan ku bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_007",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I do not have enough cash.",
+    "somali": "Lacag caddaan ah oo igu filan ma haysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_008",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Can you break this note?",
+    "somali": "Lacagtan ma ii jajabin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_009",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Keep the change.",
+    "somali": "Lacagta soo hartay adigu qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_010",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "The cashier counted the cash.",
+    "somali": "Qasnajiigu lacagta caddaanka ah ayuu tiriyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_011",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Please count it again.",
+    "somali": "Fadlan mar kale tir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_012",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I need cash for the taxi.",
+    "somali": "Taksiga lacag caddaan ah ayaan ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_013",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Is cash accepted here?",
+    "somali": "Halkan lacag caddaan ah ma laga qaataa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_014",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "I left my cash at home.",
+    "somali": "Lacagtaydii caddaanka ahayd guriga ayaan uga tagay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_015",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Please put the cash in an envelope.",
+    "somali": "Fadlan lacagta caddaanka ah baqshad ku rid.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_016",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_017",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_018",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_019",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_cash_020",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "cash"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_001",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Can I pay by card?",
+    "somali": "Kaarka ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_002",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "My card was declined.",
+    "somali": "Kaarkayga waa la diiday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_003",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Please try the card again.",
+    "somali": "Fadlan kaarka mar kale isku day.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_004",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Do you accept credit cards?",
+    "somali": "Kaararka bangiga ma qaadataan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_005",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "I need to enter my PIN.",
+    "somali": "PIN-kayga ayaan u baahanahay inaan geliyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_006",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "The card machine is not working.",
+    "somali": "Mashiinka kaarku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_007",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Can I tap my card?",
+    "somali": "Kaarka ma taaban karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_008",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Please remove your card.",
+    "somali": "Fadlan kaarkaaga ka saar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_009",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "The payment has gone through.",
+    "somali": "Bixintii way dhacday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_010",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "I used the wrong card.",
+    "somali": "Kaar khaldan ayaan isticmaalay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_011",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Can you cancel the card payment?",
+    "somali": "Bixinta kaarka ma baajin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_012",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "The card expires next month.",
+    "somali": "Kaarku bisha dambe ayuu dhacayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_013",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "I forgot my card.",
+    "somali": "Kaarkaygii waan illoobay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_014",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Is there a card fee?",
+    "somali": "Kharash kaar ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_015",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Please give me the card receipt.",
+    "somali": "Fadlan rasiidka kaarka i sii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_016",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_017",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_018",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_019",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_credit_card_020",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "credit card"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_001",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Can I pay by phone?",
+    "somali": "Taleefan ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_002",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "I will send the money now.",
+    "somali": "Hadda lacagta ayaan soo dirayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_003",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Did you receive the mobile payment?",
+    "somali": "Bixintii taleefanka ma heshay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_004",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Please send me your payment number.",
+    "somali": "Fadlan lambarka lacag-bixinta ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_005",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "The payment is still pending.",
+    "somali": "Bixintu weli way sugaysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_006",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "I sent it to the wrong number.",
+    "somali": "Lambar khaldan ayaan u diray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_007",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Can you confirm the name before I pay?",
+    "somali": "Magaca ma xaqiijin kartaa ka hor inta aan bixin?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_008",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "The app is not opening.",
+    "somali": "App-ku ma furmayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_009",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Please show me the QR code.",
+    "somali": "Fadlan QR code-ka i tus.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_010",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "I need internet to pay.",
+    "somali": "Internet ayaan u baahanahay si aan u bixiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_011",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "The mobile payment failed.",
+    "somali": "Bixintii taleefanku way fashilantay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_012",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Can I pay half now and half later?",
+    "somali": "Kala bar hadda, kala barna mar dambe ma bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_013",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Please wait for the confirmation message.",
+    "somali": "Fadlan sug farriinta xaqiijinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_014",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "The payment reference is on my phone.",
+    "somali": "Tixraaca bixintu taleefankayga ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_015",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "I received the confirmation.",
+    "somali": "Xaqiijintii waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_016",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_017",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_018",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_019",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_mobile_payment_020",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "mobile payment"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_001",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Where is the nearest bank?",
+    "somali": "Bangiga ugu dhow xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_002",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "I need to open an account.",
+    "somali": "Waxaan u baahanahay inaan akoonti furo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_003",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Can I deposit money here?",
+    "somali": "Halkan lacag ma dhigi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_004",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "I want to withdraw money.",
+    "somali": "Lacag ayaan rabaa inaan kala baxo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_005",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "What documents do I need?",
+    "somali": "Dukumentiyo noocee ah ayaan u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_006",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Please help me fill in this form.",
+    "somali": "Fadlan foomkan buuxintiisa iga caawi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_007",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "I need to speak to the bank manager.",
+    "somali": "Maamulaha bangiga ayaan u baahanahay inaan la hadlo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_008",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "My account is blocked.",
+    "somali": "Akoontigaygii waa la xayiray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_009",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Can you check my balance?",
+    "somali": "Haraagayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_010",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "I want to transfer money.",
+    "somali": "Lacag ayaan rabaa inaan wareejiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_011",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "The bank is closed today.",
+    "somali": "Bangigu maanta wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_012",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Is there a service fee?",
+    "somali": "Kharash adeeg ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_013",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Please update my address.",
+    "somali": "Fadlan cinwaankayga cusbooneysii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_014",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "I lost my bank card.",
+    "somali": "Kaarkaygii bangiga waan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_015",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Can I make an appointment at the bank?",
+    "somali": "Bangiga ballan ma ka qabsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_016",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_017",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_018",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_019",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bank_020",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bank"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_001",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Where is the nearest ATM?",
+    "somali": "ATM-ka ugu dhow xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_002",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The ATM is not working.",
+    "somali": "ATM-ku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_003",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "I need to withdraw cash.",
+    "somali": "Lacag caddaan ah ayaan u baahanahay inaan kala baxo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_004",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The machine kept my card.",
+    "somali": "Mashiinku kaarkaygii wuu haystay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_005",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Can I check my balance here?",
+    "somali": "Halkan haraagayga ma ku eegi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_006",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Please stand back while I use the ATM.",
+    "somali": "Fadlan iga durug inta aan ATM-ka isticmaalayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_007",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The ATM charged a fee.",
+    "somali": "ATM-ku kharash ayuu iga jaray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_008",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "I entered the wrong PIN.",
+    "somali": "PIN khaldan ayaan geliyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_009",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Can I print a mini statement?",
+    "somali": "Warbixin kooban ma daabacan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_010",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The ATM has no cash.",
+    "somali": "ATM-ku lacag ma hayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_011",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "I need help with the machine.",
+    "somali": "Mashiinka caawin ayaan uga baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_012",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Please choose the withdrawal option.",
+    "somali": "Fadlan dooro ikhtiyaarka lacag-bixinta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_013",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The screen is not responding.",
+    "somali": "Shaashaddu ma jawaabayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_014",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Can I use this ATM at night?",
+    "somali": "ATM-kan habeenkii ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_015",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "The receipt did not print.",
+    "somali": "Rasiidkii ma soo bixin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_016",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_017",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_018",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_019",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_atm_020",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "atm"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_001",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Where can I exchange money?",
+    "somali": "Xaggee lacag ka sarrifan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_002",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "What is the exchange rate today?",
+    "somali": "Qiimaha sarrifka maanta waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_003",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "I want to change dollars into shillings.",
+    "somali": "Doollar ayaan rabaa inaan shilin u beddelo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_004",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Can you give me smaller notes?",
+    "somali": "Lacag waraaqo yaryar ah ma i siin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_005",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "The exchange rate is too low.",
+    "somali": "Qiimaha sarrifku aad buu u hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_006",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Is there a commission fee?",
+    "somali": "Kharash sarrif ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_007",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Please count the money in front of me.",
+    "somali": "Fadlan lacagta hortayda ku tir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_008",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "I need a receipt for the exchange.",
+    "somali": "Sarrifka rasiid ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_009",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Do you exchange euros?",
+    "somali": "Yuuro ma sarriftaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_010",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "I only want to exchange a small amount.",
+    "somali": "Lacag yar oo keliya ayaan rabaa inaan sarrifo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_011",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Can you write down the rate?",
+    "somali": "Qiimaha sarrifka ma qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_012",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "This note is damaged.",
+    "somali": "Lacagtan waraaqda ahi way dhaawacantay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_013",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Please give me local currency.",
+    "somali": "Fadlan lacagta dalka i sii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_014",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "The rate changed this morning.",
+    "somali": "Qiimuhu saaka ayuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_015",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Can I exchange money at the airport?",
+    "somali": "Garoonka lacag ma ka sarrifan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_016",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_017",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_018",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_019",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_exchange_020",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "exchange"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_001",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "I need to pay the electricity bill.",
+    "somali": "Biilka korontada ayaan u baahanahay inaan bixiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_002",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "When is the bill due?",
+    "somali": "Biilku goorma ayuu ku egyahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_003",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "The water bill is too high.",
+    "somali": "Biilka biyuhu aad buu u sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_004",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Can I pay this bill online?",
+    "somali": "Biilkan internetka ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_005",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Please show me the bill.",
+    "somali": "Fadlan biilka i tus.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_006",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "I have already paid this bill.",
+    "somali": "Biilkan hore ayaan u bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_007",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "The bill has my old address.",
+    "somali": "Biilku cinwaankaygii hore ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_008",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Can you explain these charges?",
+    "somali": "Kharashyadan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_009",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "I need more time to pay.",
+    "somali": "Waqti dheeraad ah ayaan u baahanahay inaan bixiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_010",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Please send the bill by email.",
+    "somali": "Fadlan biilka iimayl ku soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_011",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Is there a late fee?",
+    "somali": "Kharash daahitaan ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_012",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "The gas bill arrived today.",
+    "somali": "Biilka gaasku maanta ayuu yimid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_013",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Can we split the bill?",
+    "somali": "Biilka ma qaybsan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_014",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "This bill is not mine.",
+    "somali": "Biilkani kayga ma aha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_015",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Please keep the payment record.",
+    "somali": "Fadlan diiwaanka bixinta hay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_016",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_017",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_018",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_019",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_bills_020",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "bills"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_001",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Can I have a receipt?",
+    "somali": "Rasiid ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_002",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Please keep the receipt.",
+    "somali": "Fadlan rasiidka hay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_003",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "I lost the receipt.",
+    "somali": "Rasiidkii waan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_004",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "The receipt shows the wrong amount.",
+    "somali": "Rasiidku lacag khaldan ayuu muujinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_005",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Can you print another receipt?",
+    "somali": "Rasiid kale ma daabici kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_006",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "I need the receipt for my records.",
+    "somali": "Rasiidka diiwaankayga ayaan ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_007",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "The receipt is in the bag.",
+    "somali": "Rasiidku boorsada ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_008",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Can you email me the receipt?",
+    "somali": "Rasiidka iimayl ma iigu soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_009",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Please write the date on the receipt.",
+    "somali": "Fadlan taariikhda rasiidka ku qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_010",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "The receipt is faded.",
+    "somali": "Rasiidku wuu libdhay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_011",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "I need a receipt with the shop name.",
+    "somali": "Rasiid magaca dukaanka leh ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_012",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Can I return this without a receipt?",
+    "somali": "Tan rasiid la'aan ma soo celin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_013",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "The receipt proves I paid.",
+    "somali": "Rasiidku wuxuu caddeynayaa inaan bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_014",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Please staple the receipt to the form.",
+    "somali": "Fadlan rasiidka foomka ku dheji.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_015",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "I found the receipt in my pocket.",
+    "somali": "Rasiidka jeebkayga ayaan ka helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_016",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_017",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_018",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_019",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_receipts_020",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "receipts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_001",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Can I get a refund?",
+    "somali": "Lacag-celin ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_002",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "I would like to return this item.",
+    "somali": "Shaygan ayaan rabaa inaan soo celiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_003",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "The item is damaged.",
+    "somali": "Shaygu wuu dhaawacmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_004",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Do I need the receipt for a refund?",
+    "somali": "Lacag-celin rasiid ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_005",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "How long does the refund take?",
+    "somali": "Lacag-celintu intee ayay qaadataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_006",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Please refund the money to my card.",
+    "somali": "Fadlan lacagta kaarkayga ku celi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_007",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "I paid in cash.",
+    "somali": "Lacag caddaan ah ayaan ku bixiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_008",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Can I exchange it instead?",
+    "somali": "Halkii ma beddelan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_009",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "The refund has not arrived yet.",
+    "somali": "Lacag-celintii weli ma imaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_010",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "This is the wrong size.",
+    "somali": "Kani waa cabbir khaldan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_011",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "The shop refused the refund.",
+    "somali": "Dukaanku lacag-celintii wuu diiday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_012",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Please check the refund policy.",
+    "somali": "Fadlan xeerka lacag-celinta eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_013",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Can I speak to the manager?",
+    "somali": "Maamulaha ma la hadli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_014",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "I bought it yesterday.",
+    "somali": "Shalay ayaan iibsaday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_015",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "The refund amount is incorrect.",
+    "somali": "Lacagta la celiyey way khaldan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_016",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_017",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_018",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_019",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_refunds_020",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "refunds"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_001",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Is there a discount?",
+    "somali": "Qiimo-dhimis ma jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_002",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Can you give me a better price?",
+    "somali": "Qiimo ka fiican ma i siin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_003",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "This item is on sale.",
+    "somali": "Shaygan qiimo-dhimis ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_004",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "How much is it after the discount?",
+    "somali": "Qiimo-dhimista ka dib waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_005",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Do students get a discount?",
+    "somali": "Ardaydu qiimo-dhimis ma helaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_006",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "The discount is only today.",
+    "somali": "Qiimo-dhimistu maanta oo keliya ayay jirtaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_007",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Can I use this coupon?",
+    "somali": "Kuubankan ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_008",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "The price is still too high.",
+    "somali": "Qiimuhu weli aad buu u sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_009",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Please apply the discount.",
+    "somali": "Fadlan qiimo-dhimista ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_010",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "The discount did not appear on the bill.",
+    "somali": "Qiimo-dhimistu biilka kama muuqan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_011",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Is this the final price?",
+    "somali": "Kani ma qiimaha ugu dambeeya baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_012",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "I will buy it if there is a discount.",
+    "somali": "Waan iibsan doonaa haddii qiimo-dhimis jirto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_013",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Can you match this price?",
+    "somali": "Qiimahan ma la mid dhigi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_014",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "The sale ends tomorrow.",
+    "somali": "Qiimo-dhimistu berri ayay dhammaanaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_015",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Thank you for the discount.",
+    "somali": "Waad ku mahadsan tahay qiimo-dhimista.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_016",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "How much is it?",
+    "somali": "Waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_017",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "That is too expensive for me.",
+    "somali": "Taasi aad bay iigu qaali tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_018",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Can I have a receipt, please?",
+    "somali": "Rasiid ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_019",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Please check the amount.",
+    "somali": "Fadlan lacagta hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_money_discounts_020",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": "Thank you. That is correct.",
+    "somali": "Mahadsanid. Taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "money",
+      "discounts"
+    ],
+    "notes": "Editorial rewrite: natural money and payment phrase with directly aligned Somali meaning."
+  }
+]

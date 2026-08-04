@@ -1,0 +1,657 @@
+[
+  {
+    "id": "vocab_descriptions_people_person",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": {
+      "headword": "person",
+      "search_forms": [
+        "person",
+        "persons"
+      ]
+    },
+    "somali": {
+      "translation": "qof",
+      "alternative_translations": [],
+      "explanation": "Eraygan wuxuu tilmaamayaa bini'aadam ama qof gaar ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A human being.",
+        "translation": "qof",
+        "examples": [
+          {
+            "english": "She is a friendly person.",
+            "somali": "Waa qof saaxiibtinimo leh."
+          },
+          {
+            "english": "There were many people at the market.",
+            "somali": "Dad badan ayaa joogay suuqa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "young person",
+        "somali": "qof dhalinyaro ah"
+      },
+      {
+        "english": "kind person",
+        "somali": "qof naxariis badan"
+      },
+      {
+        "english": "person's name",
+        "somali": "magaca qofka"
+      }
+    ],
+    "related_words": [
+      "people",
+      "man",
+      "woman",
+      "child"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about people",
+      "checking people details",
+      "using people in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "People"
+    }
+  },
+  {
+    "id": "vocab_descriptions_appearance_appearance",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": {
+      "headword": "appearance",
+      "search_forms": [
+        "appearance",
+        "appearances"
+      ]
+    },
+    "somali": {
+      "translation": "muuqaal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'appearance' is used to describe something in everyday English.",
+        "translation": "muuqaal",
+        "examples": [
+          {
+            "english": "This is a useful appearance.",
+            "somali": "Kani waa muhiim."
+          },
+          {
+            "english": "Can you describe the appearance?",
+            "somali": "Ma sharxi kartaa tan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about appearance",
+        "somali": "weydii muuqaal"
+      },
+      {
+        "english": "check the appearance",
+        "somali": "hubi muuqaal"
+      },
+      {
+        "english": "write the appearance",
+        "somali": "qor muuqaal"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about appearance",
+      "checking appearance details",
+      "using appearance in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Appearance"
+    }
+  },
+  {
+    "id": "vocab_descriptions_personality_kind",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": {
+      "headword": "kind",
+      "search_forms": [
+        "kind"
+      ]
+    },
+    "somali": {
+      "translation": "naxariis leh",
+      "alternative_translations": [],
+      "explanation": "Waxaa lagu tilmaamaa qof naxariis badan oo dadka si wanaagsan ula dhaqma."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Showing kindness and care towards other people.",
+        "translation": "naxariis leh",
+        "examples": [
+          {
+            "english": "She is very kind to everyone.",
+            "somali": "Waxay aad ugu naxariis badan tahay qof walba."
+          },
+          {
+            "english": "Thank you for being so kind.",
+            "somali": "Waad ku mahadsan tahay naxariistaada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "kind person",
+        "somali": "qof naxariis badan"
+      },
+      {
+        "english": "kind smile",
+        "somali": "dhoolla-caddayn naxariis leh"
+      },
+      {
+        "english": "kind words",
+        "somali": "erayo wanaagsan"
+      }
+    ],
+    "related_words": [
+      "friendly",
+      "helpful",
+      "polite"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about personality",
+      "checking personality details",
+      "using personality in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Personality"
+    }
+  },
+  {
+    "id": "vocab_descriptions_colour_words_colour",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": {
+      "headword": "colour",
+      "search_forms": [
+        "colour",
+        "colours"
+      ]
+    },
+    "somali": {
+      "translation": "midab",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'colour' is used to describe something in everyday English.",
+        "translation": "midab",
+        "examples": [
+          {
+            "english": "This is a useful colour.",
+            "somali": "Kani waa muhiim."
+          },
+          {
+            "english": "Can you describe the colour?",
+            "somali": "Ma sharxi kartaa tan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about colour",
+        "somali": "weydii midab"
+      },
+      {
+        "english": "check the colour",
+        "somali": "hubi midab"
+      },
+      {
+        "english": "write the colour",
+        "somali": "qor midab"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about colour words",
+      "checking colour words details",
+      "using colour words in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Colour Words"
+    }
+  },
+  {
+    "id": "vocab_descriptions_shapes_shape",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": {
+      "headword": "shape",
+      "search_forms": [
+        "shape",
+        "shapes"
+      ]
+    },
+    "somali": {
+      "translation": "qaab",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'shape' is used to describe something in everyday English.",
+        "translation": "qaab",
+        "examples": [
+          {
+            "english": "This is a useful shape.",
+            "somali": "Kani waa muhiim."
+          },
+          {
+            "english": "Can you describe the shape?",
+            "somali": "Ma sharxi kartaa tan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about shape",
+        "somali": "weydii qaab"
+      },
+      {
+        "english": "check the shape",
+        "somali": "hubi qaab"
+      },
+      {
+        "english": "write the shape",
+        "somali": "qor qaab"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about shapes",
+      "checking shapes details",
+      "using shapes in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Shapes"
+    }
+  },
+  {
+    "id": "vocab_descriptions_object_sizes_small",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": {
+      "headword": "small",
+      "search_forms": [
+        "small"
+      ]
+    },
+    "somali": {
+      "translation": "yar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'small' is used to describe something in everyday English.",
+        "translation": "yar",
+        "examples": [
+          {
+            "english": "The bag is small.",
+            "somali": "Boorsadu sidaas ayay tahay."
+          },
+          {
+            "english": "He looks small today.",
+            "somali": "Maanta sidaas ayuu u muuqdaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "small enough",
+        "somali": "yar ku filan"
+      },
+      {
+        "english": "small option",
+        "somali": "doorasho yar"
+      },
+      {
+        "english": "small size",
+        "somali": "cabbir yar"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about object sizes",
+      "checking object sizes details",
+      "using object sizes in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Object Sizes"
+    }
+  },
+  {
+    "id": "vocab_descriptions_feelings_tired",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": {
+      "headword": "tired",
+      "search_forms": [
+        "tired"
+      ]
+    },
+    "somali": {
+      "translation": "daalan",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'tired' is used to describe something in everyday English.",
+        "translation": "daalan",
+        "examples": [
+          {
+            "english": "The bag is tired.",
+            "somali": "Boorsadu sidaas ayay tahay."
+          },
+          {
+            "english": "He looks tired today.",
+            "somali": "Maanta sidaas ayuu u muuqdaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "tired enough",
+        "somali": "daalan ku filan"
+      },
+      {
+        "english": "tired option",
+        "somali": "doorasho daalan"
+      },
+      {
+        "english": "tired size",
+        "somali": "cabbir daalan"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about feelings",
+      "checking feelings details",
+      "using feelings in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Feelings"
+    }
+  },
+  {
+    "id": "vocab_descriptions_emotions_worried",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": {
+      "headword": "worried",
+      "search_forms": [
+        "worried"
+      ]
+    },
+    "somali": {
+      "translation": "walwalsan",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'worried' is used to describe something in everyday English.",
+        "translation": "walwalsan",
+        "examples": [
+          {
+            "english": "The bag is worried.",
+            "somali": "Boorsadu sidaas ayay tahay."
+          },
+          {
+            "english": "He looks worried today.",
+            "somali": "Maanta sidaas ayuu u muuqdaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "worried enough",
+        "somali": "walwalsan ku filan"
+      },
+      {
+        "english": "worried option",
+        "somali": "doorasho walwalsan"
+      },
+      {
+        "english": "worried size",
+        "somali": "cabbir walwalsan"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about emotions",
+      "checking emotions details",
+      "using emotions in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Emotions"
+    }
+  },
+  {
+    "id": "vocab_descriptions_weather_weather",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": {
+      "headword": "weather",
+      "search_forms": [
+        "weather",
+        "weathers"
+      ]
+    },
+    "somali": {
+      "translation": "cimilo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'weather' is used to describe something in everyday English.",
+        "translation": "cimilo",
+        "examples": [
+          {
+            "english": "This is a useful weather.",
+            "somali": "Kani waa muhiim."
+          },
+          {
+            "english": "Can you describe the weather?",
+            "somali": "Ma sharxi kartaa tan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about weather",
+        "somali": "weydii cimilo"
+      },
+      {
+        "english": "check the weather",
+        "somali": "hubi cimilo"
+      },
+      {
+        "english": "write the weather",
+        "somali": "qor cimilo"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about weather",
+      "checking weather details",
+      "using weather in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Weather"
+    }
+  },
+  {
+    "id": "vocab_descriptions_objects_object",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": {
+      "headword": "object",
+      "search_forms": [
+        "object",
+        "objects"
+      ]
+    },
+    "somali": {
+      "translation": "shay",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo isticmaalaa in lagu sharaxo qof, shay, dareen ama xaalad iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'object' is used to describe something in everyday English.",
+        "translation": "shay",
+        "examples": [
+          {
+            "english": "This is a useful object.",
+            "somali": "Kani waa muhiim."
+          },
+          {
+            "english": "Can you describe the object?",
+            "somali": "Ma sharxi kartaa tan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about object",
+        "somali": "weydii shay"
+      },
+      {
+        "english": "check the object",
+        "somali": "hubi shay"
+      },
+      {
+        "english": "write the object",
+        "somali": "qor shay"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about objects",
+      "checking objects details",
+      "using objects in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Objects"
+    }
+  }
+]

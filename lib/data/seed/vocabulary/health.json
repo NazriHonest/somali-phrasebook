@@ -1,0 +1,667 @@
+[
+  {
+    "id": "vocab_health_body_parts_head",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": {
+      "headword": "head",
+      "search_forms": [
+        "head",
+        "heads"
+      ]
+    },
+    "somali": {
+      "translation": "madax",
+      "alternative_translations": [],
+      "explanation": "Qaybta sare ee jirka oo ay ku yaalliin maskaxda, indhaha, dhegaha, sanka iyo afka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The upper part of the human body containing the brain, eyes, ears, nose and mouth.",
+        "translation": "madax",
+        "examples": [
+          {
+            "english": "I have a headache.",
+            "somali": "Madax ayaa i xanuunaya."
+          },
+          {
+            "english": "He hit his head on the door.",
+            "somali": "Madaxa ayuu albaabka ku dhuftay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "head injury",
+        "somali": "dhaawac madaxa"
+      },
+      {
+        "english": "head pain",
+        "somali": "madax xanuun"
+      },
+      {
+        "english": "shake your head",
+        "somali": "madaxa rux"
+      }
+    ],
+    "related_words": [
+      "brain",
+      "face",
+      "neck",
+      "hair"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Describing pain to a doctor",
+      "Talking about an injury",
+      "Medical examination"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Body Parts"
+    }
+  },
+  {
+    "id": "vocab_health_symptoms_pain",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": {
+      "headword": "pain",
+      "search_forms": [
+        "pain",
+        "pains"
+      ]
+    },
+    "somali": {
+      "translation": "xanuun",
+      "alternative_translations": [],
+      "explanation": "Dareen xanuun ama raaxo-darro oo laga dareemo qayb ka mid ah jirka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "An unpleasant physical feeling caused by illness or injury.",
+        "translation": "xanuun",
+        "examples": [
+          {
+            "english": "I have pain in my back.",
+            "somali": "Dhabarka ayaa i xanuunaya."
+          },
+          {
+            "english": "The pain is getting worse.",
+            "somali": "Xanuunku wuu sii xoogaysanayaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "severe pain",
+        "somali": "xanuun daran"
+      },
+      {
+        "english": "chest pain",
+        "somali": "xanuunka laabta"
+      },
+      {
+        "english": "pain relief",
+        "somali": "xanuun baabi'iye"
+      }
+    ],
+    "related_words": [
+      "ache",
+      "injury",
+      "fever",
+      "medicine"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Explaining symptoms",
+      "Visiting a clinic",
+      "Emergency treatment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Symptoms"
+    }
+  },
+  {
+    "id": "vocab_health_doctor_visit_doctor",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": {
+      "headword": "doctor",
+      "search_forms": [
+        "doctor",
+        "doctors"
+      ]
+    },
+    "somali": {
+      "translation": "dhakhtar",
+      "alternative_translations": [],
+      "explanation": "Qof caafimaadka ku takhasusay oo baara kana daaweeya bukaanka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A qualified medical professional who examines and treats patients.",
+        "translation": "dhakhtar",
+        "examples": [
+          {
+            "english": "The doctor examined my arm.",
+            "somali": "Dhakhtarku gacantayda ayuu baaray."
+          },
+          {
+            "english": "You should see a doctor.",
+            "somali": "Waa inaad dhakhtar la kulantaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "family doctor",
+        "somali": "dhakhtarka qoyska"
+      },
+      {
+        "english": "see a doctor",
+        "somali": "la kulan dhakhtar"
+      },
+      {
+        "english": "doctor's appointment",
+        "somali": "ballanta dhakhtarka"
+      }
+    ],
+    "related_words": [
+      "nurse",
+      "hospital",
+      "patient",
+      "clinic"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Booking an appointment",
+      "Medical consultation",
+      "Hospital visit"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Doctor Visit"
+    }
+  },
+  {
+    "id": "vocab_health_pharmacy_pharmacy",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": {
+      "headword": "pharmacy",
+      "search_forms": [
+        "pharmacy",
+        "pharmacies"
+      ]
+    },
+    "somali": {
+      "translation": "farmashiye",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa pharmacy waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to pharmacy.",
+        "translation": "farmashiye",
+        "examples": [
+          {
+            "english": "The doctor asked about my pharmacy.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my pharmacy.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "pharmacy treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "pharmacy problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "pharmacy care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Pharmacy"
+    }
+  },
+  {
+    "id": "vocab_health_hospital_hospital",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": {
+      "headword": "hospital",
+      "search_forms": [
+        "hospital",
+        "hospitals"
+      ]
+    },
+    "somali": {
+      "translation": "isbitaal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa hospital waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to hospital.",
+        "translation": "isbitaal",
+        "examples": [
+          {
+            "english": "The doctor asked about my hospital.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my hospital.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "hospital treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "hospital problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "hospital care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Hospital"
+    }
+  },
+  {
+    "id": "vocab_health_medicine_medicine",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": {
+      "headword": "medicine",
+      "search_forms": [
+        "medicine",
+        "medicines"
+      ]
+    },
+    "somali": {
+      "translation": "daawo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa medicine waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to medicine.",
+        "translation": "daawo",
+        "examples": [
+          {
+            "english": "The doctor asked about my medicine.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my medicine.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "medicine treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "medicine problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "medicine care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Medicine"
+    }
+  },
+  {
+    "id": "vocab_health_dental_care_tooth",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": {
+      "headword": "tooth",
+      "search_forms": [
+        "tooth",
+        "teeth"
+      ]
+    },
+    "somali": {
+      "translation": "ilig",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa dental care waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to dental care.",
+        "translation": "ilig",
+        "examples": [
+          {
+            "english": "The doctor asked about my tooth.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my tooth.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "tooth treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "tooth problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "tooth care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Dental Care"
+    }
+  },
+  {
+    "id": "vocab_health_emergency_emergency",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": {
+      "headword": "emergency",
+      "search_forms": [
+        "emergency",
+        "emergencies"
+      ]
+    },
+    "somali": {
+      "translation": "xaalad degdeg ah",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa emergency waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to emergency.",
+        "translation": "xaalad degdeg ah",
+        "examples": [
+          {
+            "english": "The doctor asked about my emergency.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my emergency.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "emergency treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "emergency problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "emergency care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Emergency"
+    }
+  },
+  {
+    "id": "vocab_health_pregnancy_pregnancy",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": {
+      "headword": "pregnancy",
+      "search_forms": [
+        "pregnancy",
+        "pregnancies"
+      ]
+    },
+    "somali": {
+      "translation": "uur",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa pregnancy waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to pregnancy.",
+        "translation": "uur",
+        "examples": [
+          {
+            "english": "The doctor asked about my pregnancy.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my pregnancy.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "pregnancy treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "pregnancy problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "pregnancy care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Pregnancy"
+    }
+  },
+  {
+    "id": "vocab_health_child_care_child",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": {
+      "headword": "child",
+      "search_forms": [
+        "child",
+        "children"
+      ]
+    },
+    "somali": {
+      "translation": "ilmo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa child care waxaana si joogto ah loogu isticmaalaa xaaladaha caafimaadka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common healthcare term related to child care.",
+        "translation": "ilmo",
+        "examples": [
+          {
+            "english": "The doctor asked about my child.",
+            "somali": "Dhakhtarku wuxuu i weydiiyay arrintan."
+          },
+          {
+            "english": "I need help with my child.",
+            "somali": "Waxaan u baahanahay caawimaad arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "child treatment",
+        "somali": "daaweynta"
+      },
+      {
+        "english": "child problem",
+        "somali": "dhibaatada"
+      },
+      {
+        "english": "child care",
+        "somali": "daryeelka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Visiting a doctor",
+      "Talking to a pharmacist",
+      "Receiving medical care"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Child Care"
+    }
+  }
+]

@@ -1,0 +1,601 @@
+[
+  {
+    "id": "vocab_numbers_counting_number",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "english": {
+      "headword": "number",
+      "search_forms": [
+        "number",
+        "numbers"
+      ]
+    },
+    "somali": {
+      "translation": "lambar",
+      "alternative_translations": [],
+      "explanation": "Calaamad ama tiro loo isticmaalo tirinta, aqoonsiga, cabbirka ama xisaabinta."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A symbol or figure used for counting, measuring or identifying something.",
+        "translation": "lambar",
+        "examples": [
+          {
+            "english": "What is your phone number?",
+            "somali": "Waa maxay lambarka taleefankaaga?"
+          },
+          {
+            "english": "Write the room number here.",
+            "somali": "Halkan ku qor lambarka qolka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "phone number",
+        "somali": "lambarka taleefanka"
+      },
+      {
+        "english": "room number",
+        "somali": "lambarka qolka"
+      },
+      {
+        "english": "lucky number",
+        "somali": "lambarka nasiibka"
+      }
+    ],
+    "related_words": [
+      "digit",
+      "count",
+      "figure",
+      "code"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing a form",
+      "Giving a phone number",
+      "Checking a room number"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Counting"
+    }
+  },
+  {
+    "id": "vocab_numbers_ordinal_numbers_first",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "english": {
+      "headword": "first",
+      "search_forms": [
+        "first"
+      ]
+    },
+    "somali": {
+      "translation": "koowaad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "koowaad",
+        "examples": [
+          {
+            "english": "Please check the first.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the first correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "first value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "first information",
+        "somali": "xogta"
+      },
+      {
+        "english": "first record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Ordinal Numbers"
+    }
+  },
+  {
+    "id": "vocab_numbers_prices_price",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "english": {
+      "headword": "price",
+      "search_forms": [
+        "price",
+        "prices"
+      ]
+    },
+    "somali": {
+      "translation": "qiime",
+      "alternative_translations": [],
+      "explanation": "Lacagta lagu iibiyo badeecad ama adeeg."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The amount of money required to buy something.",
+        "translation": "qiime",
+        "examples": [
+          {
+            "english": "What is the price of this bag?",
+            "somali": "Immisa ayuu yahay qiimaha boorsadan?"
+          },
+          {
+            "english": "The price has increased.",
+            "somali": "Qiimuhu wuu kordhay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "sale price",
+        "somali": "qiimaha dhimista"
+      },
+      {
+        "english": "total price",
+        "somali": "wadarta qiimaha"
+      },
+      {
+        "english": "price tag",
+        "somali": "summadda qiimaha"
+      }
+    ],
+    "related_words": [
+      "cost",
+      "discount",
+      "money",
+      "cash"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Comparing prices",
+      "Paying at a checkout"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Prices"
+    }
+  },
+  {
+    "id": "vocab_numbers_telephone_numbers_digit",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "english": {
+      "headword": "digit",
+      "search_forms": [
+        "digit",
+        "digits"
+      ]
+    },
+    "somali": {
+      "translation": "god lambar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "god lambar",
+        "examples": [
+          {
+            "english": "Please check the digit.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the digit correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "digit value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "digit information",
+        "somali": "xogta"
+      },
+      {
+        "english": "digit record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Telephone Numbers"
+    }
+  },
+  {
+    "id": "vocab_numbers_dates_date",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "english": {
+      "headword": "date",
+      "search_forms": [
+        "date",
+        "dates"
+      ]
+    },
+    "somali": {
+      "translation": "taariikh",
+      "alternative_translations": [],
+      "explanation": "Maalinta, bisha iyo sannadka dhacdo ay dhacdo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The day, month and year of an event.",
+        "translation": "taariikh",
+        "examples": [
+          {
+            "english": "What is today's date?",
+            "somali": "Waa maxay taariikhda maanta?"
+          },
+          {
+            "english": "Please write the date.",
+            "somali": "Fadlan qor taariikhda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "expiry date",
+        "somali": "taariikhda dhicitaanka"
+      },
+      {
+        "english": "birth date",
+        "somali": "taariikhda dhalashada"
+      },
+      {
+        "english": "today's date",
+        "somali": "taariikhda maanta"
+      }
+    ],
+    "related_words": [
+      "day",
+      "month",
+      "year",
+      "calendar"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Filling out forms",
+      "Booking appointments",
+      "Reading documents"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Dates"
+    }
+  },
+  {
+    "id": "vocab_numbers_years_year",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "english": {
+      "headword": "year",
+      "search_forms": [
+        "year",
+        "years"
+      ]
+    },
+    "somali": {
+      "translation": "sannad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "sannad",
+        "examples": [
+          {
+            "english": "Please check the year.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the year correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "year value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "year information",
+        "somali": "xogta"
+      },
+      {
+        "english": "year record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Years"
+    }
+  },
+  {
+    "id": "vocab_numbers_fractions_half",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "english": {
+      "headword": "half",
+      "search_forms": [
+        "half",
+        "halves"
+      ]
+    },
+    "somali": {
+      "translation": "nus",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "nus",
+        "examples": [
+          {
+            "english": "Please check the half.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the half correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "half value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "half information",
+        "somali": "xogta"
+      },
+      {
+        "english": "half record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Fractions"
+    }
+  },
+  {
+    "id": "vocab_numbers_percentages_percent",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "english": {
+      "headword": "percent",
+      "search_forms": [
+        "percent",
+        "percentage",
+        "%"
+      ]
+    },
+    "somali": {
+      "translation": "boqolkiiba",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "boqolkiiba",
+        "examples": [
+          {
+            "english": "Please check the percent.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the percent correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "percent value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "percent information",
+        "somali": "xogta"
+      },
+      {
+        "english": "percent record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Percentages"
+    }
+  },
+  {
+    "id": "vocab_numbers_room_numbers_room_number",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "english": {
+      "headword": "room number",
+      "search_forms": [
+        "room number"
+      ]
+    },
+    "somali": {
+      "translation": "lambarka qolka",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa tirooyin, taariikho ama cabbirro loo isticmaalo nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common number-related term used in everyday English.",
+        "translation": "lambarka qolka",
+        "examples": [
+          {
+            "english": "Please check the room number.",
+            "somali": "Fadlan hubi xogtan."
+          },
+          {
+            "english": "I wrote the room number correctly.",
+            "somali": "Si sax ah ayaan u qoray."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "room number value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "room number information",
+        "somali": "xogta"
+      },
+      {
+        "english": "room number record",
+        "somali": "diiwaanka"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Reading numbers",
+      "Giving information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Room Numbers"
+    }
+  }
+]

@@ -1,0 +1,1435 @@
+[
+  {
+    "id": "conversation_greetings_etiquette_greetings_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_greetings",
+    "title": "Greeting Someone at the Door",
+    "somali_title": "Qof albaabka lagu salaamayo",
+    "situation": "A visitor arrives at a friend's home and uses simple greetings before going inside.",
+    "somali_situation": "Booqde ayaa yimaada guriga saaxiib wuxuuna adeegsadaa salaamo fudud ka hor inta uusan gudaha gelin.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "thank you",
+      "good morning",
+      "how are you",
+      "nice to see you",
+      "welcome",
+      "come in"
+    ],
+    "key_phrases": [
+      "Good morning.",
+      "How are you?",
+      "I'm fine, thank you.",
+      "It is nice to see you.",
+      "Please come in."
+    ],
+    "grammar_focus": [
+      "Be: I am",
+      "How are you?",
+      "Short answers",
+      "Please + verb",
+      "Polite greetings"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Good morning.",
+        "somali": "Subax wanaagsan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Good morning. How are you?",
+        "somali": "Subax wanaagsan. Sidee tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I'm fine, thank you. How are you?",
+        "somali": "Waan fiicanahay, mahadsanid. Adiguna sidee tahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I'm well. It is nice to see you.",
+        "somali": "Waan fiicanahay. Waan ku faraxsanahay inaan ku arko."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "It is nice to see you too.",
+        "somali": "Anigana waan ku faraxsanahay inaan ku arko."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Welcome. Please come in.",
+        "somali": "Soo dhowow. Fadlan gudaha soo gal."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Thank you.",
+        "somali": "Mahadsanid."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Come in and sit down.",
+        "somali": "Soo gal oo fadhiiso."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_introductions_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_introductions",
+    "title": "Introducing a New Neighbor",
+    "somali_title": "Isbarashada deris cusub",
+    "situation": "A host introduces a visitor to a new neighbor and they exchange names politely.",
+    "somali_situation": "Martigeliye ayaa booqde u baraya deris cusub, waxayna si edeb leh isku weydaarsanayaan magacyo.",
+    "cefr": "A2",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "introduce",
+      "my name is",
+      "this is",
+      "nice to meet you",
+      "neighbor",
+      "neighborhood"
+    ],
+    "key_phrases": [
+      "Let me introduce you.",
+      "This is my new neighbor, Asha.",
+      "My name is Omar.",
+      "Nice to meet you, Omar.",
+      "How do you know each other?"
+    ],
+    "grammar_focus": [
+      "This is...",
+      "My name is...",
+      "Nice to meet you",
+      "How do you...?",
+      "Possessive adjectives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Come in. Let me introduce you.",
+        "somali": "Soo gal. Aan ku baro."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you. Who is here?",
+        "somali": "Mahadsanid. Yaa halkan jooga?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "This is my new neighbor, Asha.",
+        "somali": "Tani waa deriskayga cusub, Asha."
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Hello, Asha. My name is Omar.",
+        "somali": "Salaan, Asha. Magacaygu waa Omar."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Nice to meet you, Omar.",
+        "somali": "Waan ku faraxsanahay inaan ku barto, Omar."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Nice to meet you too.",
+        "somali": "Anigana waan ku faraxsanahay inaan ku barto."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "How do you know each other?",
+        "somali": "Sidee isku garanaysaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Omar and I work in the same building.",
+        "somali": "Omar iyo anigu waxaan ka shaqeynaa isla dhismaha."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "That's nice. I just moved here last week.",
+        "somali": "Taasi waa fiican tahay. Anigu toddobaadkii hore ayaan halkan u soo guuray."
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Welcome to the neighborhood.",
+        "somali": "Ku soo dhowow xaafadda."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_goodbye_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_goodbye",
+    "title": "Leaving After a Visit",
+    "somali_title": "Bixitaanka booqasho kadib",
+    "situation": "A visitor politely says goodbye after tea and makes a loose plan to speak again soon.",
+    "somali_situation": "Booqde ayaa si edeb leh u macasalaamaynaya shaah kadib wuxuuna sameynayaa qorshe fudud oo mar dhow lagu wada hadlo.",
+    "cefr": "B1",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "goodbye",
+      "see you",
+      "take care",
+      "speak soon",
+      "leave",
+      "visit",
+      "tea"
+    ],
+    "key_phrases": [
+      "I should leave now, but thank you for the tea.",
+      "Thank you for the tea.",
+      "It was lovely to see you.",
+      "Let's speak soon.",
+      "Take care."
+    ],
+    "grammar_focus": [
+      "Should for polite intention",
+      "Past simple: was",
+      "Let's...",
+      "Future with will",
+      "Polite closing phrases"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I should leave now, but thank you for the tea.",
+        "somali": "Hadda waa inaan baxaa, laakiin waad ku mahadsan tahay shaaha."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You're welcome. It was lovely to see you.",
+        "somali": "Adaa mudan. Waan ku faraxsanahay inaan ku arkay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "It was lovely to see you too.",
+        "somali": "Anigana waan ku faraxsanahay inaan ku arkay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Are you walking home?",
+        "somali": "Guriga ma lugeynaysaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Yes, it is only ten minutes from here.",
+        "somali": "Haa, halkan waxay ka jirtaa toban daqiiqo oo keliya."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Good. Message me when you arrive.",
+        "somali": "Waa fiican. Fariin ii soo dir markaad gaarto."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I will. Let's speak soon.",
+        "somali": "Waan soo diri doonaa. Aan mar dhow wada hadalno."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, let's speak at the weekend.",
+        "somali": "Haa, aan wada hadalno dhammaadka toddobaadka."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Goodbye, and thanks again for the visit.",
+        "somali": "Nabadgelyo, mar kalena waad ku mahadsan tahay booqashada."
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Goodbye. Take care.",
+        "somali": "Nabadgelyo. Is daryeel."
+      },
+      {
+        "turn": 11,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "You too. See you soon.",
+        "somali": "Adiguna sidaas oo kale. Mar dhow ayaan ku arki doonaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "See you soon.",
+        "somali": "Mar dhow ayaan ku arki doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_thanking_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_thanking",
+    "title": "Thanking a Neighbor for Help",
+    "somali_title": "Deris looga mahadcelinayo caawin",
+    "situation": "A visitor thanks a neighbor for helping with a delivery and making a difficult phone call.",
+    "somali_situation": "Booqde ayaa deris uga mahadcelinaya inuu ka caawiyay alaab la keenay iyo wicitaan telefoon oo adag.",
+    "cefr": "B2",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "thank you",
+      "appreciate",
+      "kind",
+      "help",
+      "you're welcome",
+      "delivery",
+      "phone call",
+      "favor"
+    ],
+    "key_phrases": [
+      "Thank you for helping me yesterday.",
+      "I really appreciate it.",
+      "It was very kind of you.",
+      "You're welcome.",
+      "Please let me return the favor sometime."
+    ],
+    "grammar_focus": [
+      "Thank you for + -ing",
+      "Really as intensifier",
+      "It was kind of you",
+      "Let me...",
+      "Past simple"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I came to say thank you for helping me yesterday.",
+        "somali": "Waxaan u imid inaan kaaga mahadceliyo caawintii shalay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You're welcome. I was glad to help.",
+        "somali": "Adaa mudan. Waan ku farxay inaan ku caawiyo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "The delivery driver was speaking so fast.",
+        "somali": "Darawalkii alaabta keenayay aad buu u degdeg u hadlayay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I noticed. That phone call was not easy.",
+        "somali": "Waan arkay. Wicitaankaas telefoonku ma fududayn."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I really appreciate it.",
+        "somali": "Runtii waan ka mahadcelinayaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "It was no trouble.",
+        "somali": "Wax dhib ah ma ahayn."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "It was very kind of you.",
+        "somali": "Aad bay naxariis kaaga ahayd."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you for saying that.",
+        "somali": "Waad ku mahadsan tahay inaad sidaas tiri."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Please let me return the favor sometime.",
+        "somali": "Fadlan ii oggolow inaan mar kuu gudo."
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "That's thoughtful, but you do not have to.",
+        "somali": "Taasi waa tixgelin, laakiin khasab kuguma aha."
+      },
+      {
+        "turn": 11,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I want to. Maybe I can help with your shopping next week.",
+        "somali": "Waan rabaa. Waxaa laga yaabaa inaan toddobaadka dambe kaa caawiyo dukaamaysiga."
+      },
+      {
+        "turn": 12,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "That would be lovely.",
+        "somali": "Taasi way fiicnaan lahayd."
+      },
+      {
+        "turn": 13,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Good. I will call you before I go.",
+        "somali": "Wanaagsan. Waan ku soo wici doonaa ka hor intaanan tegin."
+      },
+      {
+        "turn": 14,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you. That helps me too.",
+        "somali": "Mahadsanid. Taasi anigana way i caawinaysaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I'm happy we are neighbors.",
+        "somali": "Waan ku faraxsanahay inaan deris nahay."
+      },
+      {
+        "turn": 16,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Me too. Come by any time.",
+        "somali": "Anigana sidoo kale. Mar kasta soo gudub."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_apologizing_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_apologizing",
+    "title": "Apologizing for Being Late",
+    "somali_title": "Ka raalli-gelinta daahitaanka",
+    "situation": "A visitor arrives late and apologizes politely to the host.",
+    "somali_situation": "Booqde ayaa soo daahay wuxuuna si edeb leh uga raalli-gelinayaa martigeliyaha.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "sorry",
+      "mistake",
+      "late",
+      "traffic",
+      "no problem",
+      "wait"
+    ],
+    "key_phrases": [
+      "I'm sorry I'm late.",
+      "There was a lot of traffic.",
+      "No problem.",
+      "Thank you for waiting.",
+      "It was my mistake."
+    ],
+    "grammar_focus": [
+      "I'm sorry...",
+      "There was...",
+      "Past simple",
+      "Thank you for + -ing",
+      "My + noun"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I'm sorry I'm late.",
+        "somali": "Waan ka xumahay waan soo daahay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "No problem. Are you all right?",
+        "somali": "Dhib ma leh. Ma fiicantahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Yes. There was a lot of traffic.",
+        "somali": "Haa. Taraafik badan ayaa jiray."
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I understand. Please come in.",
+        "somali": "Waan fahmay. Fadlan gudaha soo gal."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Thank you for waiting.",
+        "somali": "Waad ku mahadsan tahay sugitaanka."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "It is fine. We just started.",
+        "somali": "Waa hagaag. Hadda uun ayaan bilownay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "It was my mistake. I left too late.",
+        "somali": "Khaladkayga ayuu ahaa. Aad baan u daahay markii aan baxay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Don't worry. Sit down and have some tea.",
+        "somali": "Ha welwelin. Fadhiiso oo shaah cab."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_congratulations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_congratulations",
+    "title": "Congratulating Someone on Good News",
+    "somali_title": "Qof loogu hambalyeynayo war wanaagsan",
+    "situation": "A friend congratulates someone who has passed an exam and offers best wishes.",
+    "somali_situation": "Saaxiib ayaa u hambalyeynaya qof imtixaan ka gudbay wuxuuna u dirayaa ducayn wanaagsan.",
+    "cefr": "A2",
+    "participants": [
+      "Friend",
+      "Student"
+    ],
+    "key_vocabulary": [
+      "congratulations",
+      "well done",
+      "celebrate",
+      "good news",
+      "best wishes",
+      "exam",
+      "passed"
+    ],
+    "key_phrases": [
+      "Congratulations on your good news.",
+      "I passed my exam.",
+      "Well done.",
+      "You worked very hard.",
+      "Best wishes for the next step."
+    ],
+    "grammar_focus": [
+      "Congratulations on + noun",
+      "Past simple",
+      "Well done",
+      "You worked...",
+      "Best wishes for..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "I heard your good news. Congratulations!",
+        "somali": "Warkaaga wanaagsan waan maqlay. Hambalyo!"
+      },
+      {
+        "turn": 2,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I passed my exam.",
+        "somali": "Mahadsanid. Imtixaankaygii waan ka gudbay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Well done. You worked very hard.",
+        "somali": "Si fiican baad u qabatay. Aad baad u dadaashay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "I was nervous, but I did it.",
+        "somali": "Waan walwalsanaa, laakiin waan sameeyay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Congratulations on your good news.",
+        "somali": "Hambalyo warkaaga wanaagsan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "That means a lot to me.",
+        "somali": "Taasi wax badan bay ii tahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Are you going to celebrate?",
+        "somali": "Ma dabaaldegaysaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Yes, my family is coming tonight.",
+        "somali": "Haa, qoyskaygu caawa ayuu imanayaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Best wishes for the next step.",
+        "somali": "Ducadayda wanaagsan tallaabada xigta."
+      },
+      {
+        "turn": 10,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I hope the next course goes well.",
+        "somali": "Mahadsanid. Waxaan rajeynayaa in koorsada xigta si fiican u socoto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_invitations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_invitations",
+    "title": "Inviting a Friend to Dinner",
+    "somali_title": "Saaxiib casho loogu casuumayo",
+    "situation": "A host invites a friend to dinner, explains the time and place, and asks for a reply.",
+    "somali_situation": "Martigeliye ayaa saaxiib casho ugu casuumaya, waqtiga iyo meesha sharxaya, kadibna jawaab codsanaya.",
+    "cefr": "B1",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "invite",
+      "available",
+      "dinner",
+      "join us",
+      "RSVP",
+      "Saturday",
+      "bring"
+    ],
+    "key_phrases": [
+      "Would you like to come to dinner at our home?",
+      "Are you available on Saturday evening?",
+      "Please join us at seven.",
+      "Do I need to bring anything?",
+      "Please RSVP by Friday, so I know how much food to make."
+    ],
+    "grammar_focus": [
+      "Would you like to...?",
+      "Are you available...?",
+      "Please + verb",
+      "Do I need to...?",
+      "By + day"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Are you available on Saturday evening?",
+        "somali": "Ma firaaqo leedahay Sabtida fiidkii?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I think so. Why?",
+        "somali": "Waxaan u maleynayaa haa. Maxaa jira?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Would you like to come to dinner at our home?",
+        "somali": "Ma rabtaa inaad gurigayaga casho ugu timaado?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "That sounds lovely. What time?",
+        "somali": "Taasi way fiican tahay. Saacaddee?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Please join us at seven.",
+        "somali": "Fadlan nagu soo biir toddobada."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Do I need to bring anything?",
+        "somali": "Wax ma soo qaataa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "No, just bring yourself.",
+        "somali": "Maya, adiga oo keliya imow."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you for the invite.",
+        "somali": "Waad ku mahadsan tahay casuumadda."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Please RSVP by Friday, so I know how much food to make.",
+        "somali": "Fadlan Jimcaha ka hor ii soo jawaab, si aan u ogaado inta cunto ee aan sameeyo."
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I will. I should know tomorrow.",
+        "somali": "Waan sameyn doonaa. Berri ayaan ogaan doonaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Great. I hope you can join us.",
+        "somali": "Wanaagsan. Waxaan rajeynayaa inaad nagu soo biiri karto."
+      },
+      {
+        "turn": 12,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Me too. I'll message you tomorrow.",
+        "somali": "Anigana sidoo kale. Berri ayaan fariin kuu soo diri doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_accepting_invitations_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_accepting_invitations",
+    "title": "Accepting a Wedding Invitation",
+    "somali_title": "Aqbalaadda casuumad aroos",
+    "situation": "A guest accepts a wedding invitation, confirms attendance, asks about bringing children, and says they are looking forward to it.",
+    "somali_situation": "Marti ayaa aqbalaya casuumad aroos, xaqiijinaya inuu imaanayo, weydiinaya carruur la keeni karo, wuxuuna sheegayaa inuu sugayo.",
+    "cefr": "B2",
+    "participants": [
+      "Guest",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "accept",
+      "I'd love to",
+      "attend",
+      "bring",
+      "looking forward",
+      "wedding",
+      "children"
+    ],
+    "key_phrases": [
+      "Thank you for the wedding invitation.",
+      "I'd love to attend.",
+      "Can I bring my children?",
+      "We are looking forward to it.",
+      "Please arrive before six."
+    ],
+    "grammar_focus": [
+      "I'd love to...",
+      "Can I bring...?",
+      "Present continuous for future feeling",
+      "Please + verb",
+      "Before + time"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Thank you for the wedding invitation.",
+        "somali": "Waad ku mahadsan tahay casuumadda arooska."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You're very welcome. Can you come?",
+        "somali": "Aad baad u mudan tahay. Ma iman kartaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Yes, I'd love to attend.",
+        "somali": "Haa, aad baan u jeclaan lahaa inaan ka soo qaybgalo."
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Wonderful. We will be happy to see you there.",
+        "somali": "Cajiib. Waan ku farxi doonnaa inaan halkaas kugu aragno."
+      },
+      {
+        "turn": 5,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Can I bring my children?",
+        "somali": "Carruurtayda ma keeni karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, children are welcome.",
+        "somali": "Haa, carruurtu way soo dhow yihiin."
+      },
+      {
+        "turn": 7,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "That's kind of you. What time should we arrive?",
+        "somali": "Taasi waa naxariis. Saacaddee ayaan nimaadnaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Please arrive before six.",
+        "somali": "Fadlan lixda ka hor imaada."
+      },
+      {
+        "turn": 9,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Should we bring anything for the family?",
+        "somali": "Qoyska wax ma u soo qaadnaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "No, your presence is enough.",
+        "somali": "Maya, joogitaankiinna ayaa nagu filan."
+      },
+      {
+        "turn": 11,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "We are looking forward to it.",
+        "somali": "Waan sugaynaa oo waan ku faraxsanahay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "So are we. I will send the address again.",
+        "somali": "Annaguna sidaas oo kale. Cinwaanka mar kale ayaan kuu soo diri doonaa."
+      },
+      {
+        "turn": 13,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Thank you. I accept with pleasure.",
+        "somali": "Mahadsanid. Farxad ayaan ku aqbalayaa."
+      },
+      {
+        "turn": 14,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "That makes us happy.",
+        "somali": "Taasi way naga farxinaysaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Guest",
+        "somali_speaker": "Booqde",
+        "english": "Please give my best wishes to the couple.",
+        "somali": "Fadlan ducadayda wanaagsan gaarsii lamaanaha."
+      },
+      {
+        "turn": 16,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I will. See you at the wedding.",
+        "somali": "Waan gaarsiin doonaa. Arooska ayaan kugu arki doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_declining_politely_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_declining_politely",
+    "title": "Declining Tea Politely",
+    "somali_title": "Shaah si edeb leh loo diidayo",
+    "situation": "A visitor politely declines tea because they need to leave soon.",
+    "somali_situation": "Booqde ayaa si edeb leh u diidaya shaah sababtoo ah waa inuu dhowaan baxaa.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "would you like",
+      "unfortunately",
+      "can't stay",
+      "another time",
+      "thank you for asking",
+      "tea",
+      "leave"
+    ],
+    "key_phrases": [
+      "Would you like some tea?",
+      "Thank you for asking.",
+      "Unfortunately, I can't stay.",
+      "Maybe another time.",
+      "I need to leave soon."
+    ],
+    "grammar_focus": [
+      "Would you like...?",
+      "Unfortunately...",
+      "Can't + verb",
+      "Need to",
+      "Maybe another time"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Would you like some tea?",
+        "somali": "Shaah ma rabtaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you for asking.",
+        "somali": "Waad ku mahadsan tahay inaad i weydiisay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "So, is that a yes?",
+        "somali": "Markaa, haa miyaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Unfortunately, I can't stay.",
+        "somali": "Nasiib darro, ma joogi karo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "No problem. Maybe another time.",
+        "somali": "Dhib ma leh. Waxaa laga yaabaa mar kale."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, maybe another time.",
+        "somali": "Haa, waxaa laga yaabaa mar kale."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Do you need to leave soon?",
+        "somali": "Ma u baahan tahay inaad dhowaan baxdo?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, I need to leave soon.",
+        "somali": "Haa, waa inaan dhowaan baxaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_telephone_etiquette_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_telephone_etiquette",
+    "title": "Speaking Politely on the Phone",
+    "somali_title": "Telefoonka si edeb leh looga hadlayo",
+    "situation": "A caller phones an office, introduces themselves, asks to speak to someone, leaves a message, and ends politely.",
+    "somali_situation": "Qof wacaya ayaa xafiis wacaya, is baraya, qof inuu la hadlo codsanaya, fariin reebaya, kadibna si edeb leh u dhammeeya.",
+    "cefr": "A2",
+    "participants": [
+      "Caller",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "phone call",
+      "message",
+      "hold",
+      "available",
+      "call me back",
+      "speaking",
+      "help"
+    ],
+    "key_phrases": [
+      "Good morning, this is Amina speaking.",
+      "May I speak to Mr. Hassan?",
+      "Could you hold for a moment?",
+      "Can I leave a message?",
+      "Thank you for your help."
+    ],
+    "grammar_focus": [
+      "This is... speaking",
+      "May I speak to...?",
+      "Could you hold...?",
+      "Can I leave...?",
+      "Polite closing"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Caller",
+        "somali_speaker": "Wace",
+        "english": "Good morning, this is Amina speaking.",
+        "somali": "Subax wanaagsan, waa Amina oo hadlaysa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Good morning. How can I help?",
+        "somali": "Subax wanaagsan. Sideen kuu caawin karaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Caller",
+        "somali_speaker": "Wace",
+        "english": "May I speak to Mr. Hassan?",
+        "somali": "Mudane Hassan ma la hadli karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Could you hold for a moment?",
+        "somali": "Cabbaar ma sugi kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Caller",
+        "somali_speaker": "Wace",
+        "english": "Yes, I can hold.",
+        "somali": "Haa, waan sugi karaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I'm sorry, he is not available.",
+        "somali": "Waan ka xumahay, hadda lama heli karo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Caller",
+        "somali_speaker": "Wace",
+        "english": "Can I leave a message?",
+        "somali": "Fariin ma reebi karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Of course. What is the message?",
+        "somali": "Dabcan. Fariintu waa maxay?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Caller",
+        "somali_speaker": "Wace",
+        "english": "Please ask him to call me back. Thank you for your help.",
+        "somali": "Fadlan u sheeg inuu dib ii soo waco. Waad ku mahadsan tahay caawintaada."
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I will. Thank you for your phone call.",
+        "somali": "Waan u sheegi doonaa. Waad ku mahadsan tahay wicitaankaaga."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_showing_respect_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_showing_respect",
+    "title": "Showing Respect to an Elder",
+    "somali_title": "Qof weyn si xushmad leh loola hadlayo",
+    "situation": "A young visitor greets an older neighbor respectfully, offers a seat, helps with bags, and listens before sitting down.",
+    "somali_situation": "Booqde dhalinyaro ah ayaa deris weyn si xushmad leh u salaamaya, kursi siinaya, bacaha ka caawinaya, kadibna si fiican u dhageysanaya.",
+    "cefr": "B1",
+    "participants": [
+      "Young Visitor",
+      "Older Neighbor"
+    ],
+    "key_vocabulary": [
+      "respect",
+      "elder",
+      "seat",
+      "listening",
+      "bags",
+      "help",
+      "Auntie Mary"
+    ],
+    "key_phrases": [
+      "Good afternoon, Auntie Mary.",
+      "Please take this seat.",
+      "I want to show respect to an elder.",
+      "May I help you with the bags first?",
+      "Respect is also shown by listening."
+    ],
+    "grammar_focus": [
+      "titles and names",
+      "May I...?",
+      "Please + verb",
+      "want to + verb",
+      "by + gerund"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "Good afternoon, Auntie Mary.",
+        "somali": "Galab wanaagsan, Eeddo Mary."
+      },
+      {
+        "turn": 2,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "Good afternoon, my child. How are you?",
+        "somali": "Galab wanaagsan, ilmahaygiiyow. Sidee tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "I am well, thank you. Please take this seat.",
+        "somali": "Waan fiicanahay, mahadsanid. Fadlan kursigan fadhiiso."
+      },
+      {
+        "turn": 4,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "I really appreciate that.",
+        "somali": "Runtii taas waan ka mahadcelinayaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "I want to show respect to an elder.",
+        "somali": "Waxaan rabaa inaan qof weyn xushmad u muujiyo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "Respect is also shown by listening.",
+        "somali": "Xushmaddu sidoo kale waxay ka muuqataa dhageysiga."
+      },
+      {
+        "turn": 7,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "I will listen carefully.",
+        "somali": "Si fiican ayaan u dhageysan doonaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "Good. Sit with me for a few minutes.",
+        "somali": "Waa wanaagsan tahay. Dhowr daqiiqo ila fadhiiso."
+      },
+      {
+        "turn": 9,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "May I help you with the bags first?",
+        "somali": "Marka hore bacaha ma kaa caawin karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "Yes, please put them by the door.",
+        "somali": "Haa, fadlan albaabka agtiisa dhig."
+      },
+      {
+        "turn": 11,
+        "speaker": "Young Visitor",
+        "somali_speaker": "Booqde dhalinyaro ah",
+        "english": "Of course. Thank you for listening to me too.",
+        "somali": "Dabcan. Adigana waad ku mahadsan tahay inaad i dhageysatay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Older Neighbor",
+        "somali_speaker": "Deris weyn",
+        "english": "You are welcome, and thank you for your help.",
+        "somali": "Waad mudan tahay, adigana waad ku mahadsan tahay caawintaada."
+      }
+    ]
+  },
+  {
+    "id": "conversation_greetings_etiquette_offering_help_001",
+    "category_code": "greetings_etiquette",
+    "subcategory_code": "greetings_etiquette_offering_help",
+    "title": "Offering Help After Dinner",
+    "somali_title": "Casho kadib caawimo la bixinayo",
+    "situation": "A guest notices the host is tired after dinner and offers specific help without being pushy.",
+    "somali_situation": "Marti ayaa arkaysa in martigeliyuhu casho kadib daalan yahay, kadibna si aan ku adkayn ayuu caawimo gaar ah u bixiyaa.",
+    "cefr": "B2",
+    "participants": [
+      "Guest",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "offer help",
+      "dishes",
+      "tired",
+      "table",
+      "rubbish",
+      "bother",
+      "appreciate",
+      "sink"
+    ],
+    "key_phrases": [
+      "Can I help with the dishes?",
+      "You look tired after dinner.",
+      "I can clear the table first.",
+      "I do not want to be a bother.",
+      "I appreciate the offer."
+    ],
+    "grammar_focus": [
+      "Can I...?",
+      "would like to",
+      "only if",
+      "do not want to",
+      "gerunds after with"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "You look tired after dinner.",
+        "somali": "Cashada kadib waxaad u muuqataa qof daalan."
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "A little, but I am fine.",
+        "somali": "Wax yar, laakiin waan fiicanahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Can I help with the dishes?",
+        "somali": "Suxuunta ma kaa caawin karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You are a guest. You do not have to.",
+        "somali": "Marti baad tahay. Khasab kuguma aha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "I know, but I would like to offer help.",
+        "somali": "Waan ogahay, laakiin waxaan jeclaan lahaa inaan caawimo bixiyo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "That is kind of you.",
+        "somali": "Taasi waa naxariis aad leedahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "I can clear the table first.",
+        "somali": "Marka hore miiska waan nadiifin karaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "All right, please put the plates by the sink.",
+        "somali": "Waa hagaag, fadlan saxamada dhig saxanka agtiisa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Should I take out the rubbish too?",
+        "somali": "Qashinkana ma bannaanka u saaraa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Only if you really do not mind.",
+        "somali": "Kaliya haddii aadan dhibsanayn."
+      },
+      {
+        "turn": 11,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "I do not mind at all.",
+        "somali": "Marnaba dhib iguma aha."
+      },
+      {
+        "turn": 12,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "I appreciate the offer.",
+        "somali": "Waan ka mahadcelinayaa caawimada aad bixisay."
+      },
+      {
+        "turn": 13,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "I do not want to be a bother.",
+        "somali": "Ma doonayo inaan culays kugu noqdo."
+      },
+      {
+        "turn": 14,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You are helping, not bothering.",
+        "somali": "Waad caawinaysaa, culaysna ma tihid."
+      },
+      {
+        "turn": 15,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Then I will finish the table and leave the dishes soaking.",
+        "somali": "Markaa miiska ayaan dhammeystirayaa, suxuuntana biyo ayaan ku reebayaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Thank you. That gives me a quiet evening.",
+        "somali": "Mahadsanid. Taasi waxay ii siinaysaa fiid deggan."
+      }
+    ]
+  }
+]

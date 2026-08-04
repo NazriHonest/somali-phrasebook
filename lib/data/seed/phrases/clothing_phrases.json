@@ -1,0 +1,3574 @@
+[
+  {
+    "id": "phrase_clothing_shirts_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "I'm looking for a white shirt.",
+    "somali": "Waxaan raadinayaa shaati cad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "looking",
+      "for",
+      "white",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Do you have this shirt in blue?",
+    "somali": "Ma haysaan shaatigan oo buluug ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "you",
+      "shirt",
+      "blue"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Can I try this shirt on?",
+    "somali": "Ma tijaabin karaa shaatigan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "try",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Where is the fitting room?",
+    "somali": "Xaggee ayuu ku yaal qolka tijaabadu?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "fitting",
+      "room"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "This shirt is too small.",
+    "somali": "Shaatigan wuu igu yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "too",
+      "small"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "This shirt is too large.",
+    "somali": "Shaatigan wuu igu weyn yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "too",
+      "large"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Do you have a medium size?",
+    "somali": "Ma haysaan cabbir dhexdhexaad ah?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "you",
+      "medium",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "I need a long-sleeved shirt.",
+    "somali": "Waxaan u baahanahay shaati gacmo-dheer.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "need",
+      "long-sleeved",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Do you have short-sleeved shirts?",
+    "somali": "Ma haysaan shaatiyo gacmo-gaaban?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "you",
+      "short-sleeved"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Is this shirt made of cotton?",
+    "somali": "Shaatigan ma suuf baa laga sameeyay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "made",
+      "cotton"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "The collar is too tight.",
+    "somali": "Qoortu aad bay iigu cidhiidhi tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "collar",
+      "too",
+      "tight"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "The sleeves are too long.",
+    "somali": "Gacmaha shaarku aad bay u dheer yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "sleeves",
+      "are",
+      "too",
+      "long"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "This shirt fits me well.",
+    "somali": "Shaatigan si fiican ayuu ii le'eg yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "confirmation",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "fits",
+      "well"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "I like the pattern on this shirt.",
+    "somali": "Waxaan jeclahay naqshadda shaatigan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "like",
+      "pattern",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Does this shirt shrink when washed?",
+    "somali": "Shaatigan ma yaraadaa marka la dhaqo?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "shrink",
+      "washed"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Can you show me another style?",
+    "somali": "Ma i tusi kartaa qaab kale?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "you",
+      "show",
+      "style"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Is this shirt on sale?",
+    "somali": "Shaatigan qiimo-dhimis ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "shirt",
+      "sale"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "I'll take this shirt.",
+    "somali": "Shaatigan waan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "ill",
+      "take",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Can I exchange it if it doesn't fit?",
+    "somali": "Ma beddeli karaa haddii uusan ii le'ekaan?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "exchange",
+      "doesnt",
+      "fit"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shirts_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": "Please fold the shirt for me.",
+    "somali": "Fadlan shaatiga ii laab.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shirts",
+      "fold",
+      "shirt",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "I'm looking for a pair of trousers.",
+    "somali": "Waxaan raadinayaa surwaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "looking",
+      "for",
+      "pair",
+      "trousers"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Do you have these in black?",
+    "somali": "Ma ku haysaan kuwan midabka madow?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "you",
+      "black"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Can I try these trousers on?",
+    "somali": "Ma tijaabin karaa surwaalkan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "try",
+      "trousers"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "These trousers are too tight.",
+    "somali": "Surwaalkani aad buu iigu cidhiidhi yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "pants",
+      "trousers",
+      "are",
+      "too",
+      "tight"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "These trousers are too loose.",
+    "somali": "Surwaalkani aad buu iigu dabacsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "pants",
+      "trousers",
+      "are",
+      "too",
+      "loose"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "The waist is too small.",
+    "somali": "Dhexdu way igu yar tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "pants",
+      "waist",
+      "too",
+      "small"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "The legs are too long.",
+    "somali": "Lugaha surwaalku aad bay u dheer yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "pants",
+      "legs",
+      "are",
+      "too",
+      "long"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Do you have a shorter length?",
+    "somali": "Ma haysaan mid ka gaaban?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "you",
+      "shorter",
+      "length"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "I need size 34.",
+    "somali": "Waxaan u baahanahay cabbirka 34.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "need",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Are these trousers made of denim?",
+    "somali": "Surwaalkan denim ma laga sameeyay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "are",
+      "trousers",
+      "made",
+      "denim"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Do these have pockets?",
+    "somali": "Kuwani jeebab ma leeyihiin?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "pockets"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "The zip is broken.",
+    "somali": "Siibku wuu jaban yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "pants",
+      "zip",
+      "broken"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "These trousers fit perfectly.",
+    "somali": "Surwaalkani si fiican ayuu ii le'eg yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "confirmation",
+    "keywords": [
+      "clothing",
+      "pants",
+      "trousers",
+      "fit",
+      "perfectly"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Can you show me a formal pair?",
+    "somali": "Ma i tusi kartaa surwaal rasmi ah?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "you",
+      "show",
+      "formal",
+      "pair"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "I need something comfortable for work.",
+    "somali": "Waxaan u baahanahay wax raaxo leh oo shaqada ku habboon.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "need",
+      "comfortable",
+      "for",
+      "work"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Do you have matching trousers?",
+    "somali": "Ma haysaan surwaal la jaanqaadaya?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "you",
+      "matching",
+      "trousers"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Are these on sale?",
+    "somali": "Kuwani qiimo-dhimis ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "are",
+      "sale"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "I'll take this pair.",
+    "somali": "Lammaanahan waan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "pants",
+      "ill",
+      "take",
+      "pair"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Can I return them if they're too long?",
+    "somali": "Ma soo celin karaa haddii ay aad u dheer yihiin?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "pants",
+      "return",
+      "theyre",
+      "too",
+      "long"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_pants_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": "Please put these trousers in a bag.",
+    "somali": "Fadlan surwaalkan boorso ku rid.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "pants",
+      "put",
+      "trousers",
+      "bag"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "I'm looking for comfortable shoes.",
+    "somali": "Waxaan raadinayaa kabo raaxo leh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "looking",
+      "for",
+      "comfortable"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "I wear size 42.",
+    "somali": "Waxaan xirtaa cabbirka 42.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "wear",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Do you have these in my size?",
+    "somali": "Ma ku haysaan kuwan cabbirkayga?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "you",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Can I try these shoes on?",
+    "somali": "Ma tijaabin karaa kabahan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "try"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "These shoes are too tight.",
+    "somali": "Kabahani aad bay iigu cidhiidhi yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "are",
+      "too",
+      "tight"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "These shoes are too loose.",
+    "somali": "Kabahani aad bay iigu dabacsan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "are",
+      "too",
+      "loose"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Do you have a larger size?",
+    "somali": "Ma haysaan cabbir ka weyn?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "you",
+      "larger",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Do you have a smaller size?",
+    "somali": "Ma haysaan cabbir ka yar?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "you",
+      "smaller",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "I'm looking for running shoes.",
+    "somali": "Waxaan raadinayaa kabo orod.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "looking",
+      "for",
+      "running"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "I need waterproof shoes.",
+    "somali": "Waxaan u baahanahay kabo aan biyuhu gelin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "need",
+      "waterproof"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Are these shoes made of leather?",
+    "somali": "Kabahani maqaar ma laga sameeyay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "are",
+      "made",
+      "leather"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "These shoes feel comfortable.",
+    "somali": "Kabahani way raaxo badan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "feel",
+      "comfortable"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "The heel is too high.",
+    "somali": "Ciribtu aad bay u dheer tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "heel",
+      "too",
+      "high"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Do you have these in black?",
+    "somali": "Ma ku haysaan kuwan midabka madow?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "you",
+      "black"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Can I walk around in them?",
+    "somali": "Ma ku dhex socon karaa si aan u tijaabiyo?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "walk",
+      "around"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Do these shoes have a warranty?",
+    "somali": "Kabahani dammaanad ma leeyihiin?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "warranty"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Are they on sale?",
+    "somali": "Qiimo-dhimis ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "are",
+      "sale"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "I'll take this pair.",
+    "somali": "Lammaanahan waan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "ill",
+      "take",
+      "pair"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Can I exchange them later?",
+    "somali": "Ma beddeli karaa mar dambe?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "exchange",
+      "later"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shoes_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": "Please pack the shoes separately.",
+    "somali": "Fadlan kabaha si gooni ah u xirxir.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shoes",
+      "pack",
+      "separately"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Where are the belts?",
+    "somali": "Xaggee suumamadu yaallaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "are",
+      "belts"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "I'm looking for a black belt.",
+    "somali": "Waxaan raadinayaa suun madow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "looking",
+      "for",
+      "black",
+      "belt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Do you sell hats?",
+    "somali": "Koofiyado ma iibisaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "you",
+      "sell",
+      "hats"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Can I try this hat on?",
+    "somali": "Ma tijaabin karaa koofiyaddan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "try",
+      "hat"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Do you have a smaller bag?",
+    "somali": "Ma haysaan boorso ka yar?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "you",
+      "smaller",
+      "bag"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "I need a scarf for cold weather.",
+    "somali": "Waxaan u baahanahay masar cimilo qabow ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "need",
+      "scarf",
+      "for",
+      "cold"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Does this watch come with a warranty?",
+    "somali": "Saacaddan dammaanad ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "watch",
+      "come",
+      "warranty"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "I'm looking for a simple necklace.",
+    "somali": "Waxaan raadinayaa silsilad fudud.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "looking",
+      "for",
+      "simple",
+      "necklace"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Do you have silver earrings?",
+    "somali": "Ma haysaan hilqado qalin ah?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "you",
+      "silver",
+      "earrings"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "This belt is too short.",
+    "somali": "Suumankani aad buu ii gaaban yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "belt",
+      "too",
+      "short"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Can you show me a longer belt?",
+    "somali": "Ma i tusi kartaa suun ka dheer?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "you",
+      "show",
+      "longer",
+      "belt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Does this bag have a zip?",
+    "somali": "Boorsadani siib ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "bag",
+      "zip"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Is this wallet made of leather?",
+    "somali": "Boorsadan yar maqaar ma laga sameeyay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "wallet",
+      "made",
+      "leather"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "I like this colour.",
+    "somali": "Midabkan waan jeclahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "like",
+      "colour"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Do these sunglasses protect against UV light?",
+    "somali": "Muraayadahan qorraxdu ma ka difaacaan iftiinka UV?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "sunglasses",
+      "protect",
+      "against",
+      "light"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Can you gift-wrap this?",
+    "somali": "Ma hadiyad ahaan u duubi kartaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "you",
+      "gift-wrap"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Is there a matching set?",
+    "somali": "Ma jiraa set la jaanqaadaya?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "there",
+      "matching",
+      "set"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "How much is this scarf?",
+    "somali": "Immisa ayay tahay masartan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "how",
+      "much",
+      "scarf"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "I'll take the black one.",
+    "somali": "Midka madow ayaan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "ill",
+      "take",
+      "black",
+      "one"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_accessories_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": "Can I return this accessory?",
+    "somali": "Ma soo celin karaa agabkan?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "accessories",
+      "return",
+      "accessory"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Do you have this in black?",
+    "somali": "Ma ku haysaan kan midabka madow?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "you",
+      "black"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "I prefer blue.",
+    "somali": "Waxaan doorbidayaa buluug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "prefer",
+      "blue"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Is there a white one?",
+    "somali": "Ma jiraa mid cad?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "there",
+      "white",
+      "one"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "This colour is too bright.",
+    "somali": "Midabkani aad buu u dhalaalayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "too",
+      "bright"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Do you have a darker shade?",
+    "somali": "Ma haysaan midab ka madow?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "you",
+      "darker",
+      "shade"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Can you show me a lighter colour?",
+    "somali": "Ma i tusi kartaa midab ka khafiifsan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "colours",
+      "you",
+      "show",
+      "lighter",
+      "colour"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Red is my favourite colour.",
+    "somali": "Casaanku waa midabka aan ugu jeclahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "red",
+      "favourite",
+      "colour"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "This colour suits you.",
+    "somali": "Midabkani wuu kugu habboon yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "suits",
+      "you"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "The colours don't match.",
+    "somali": "Midabbadu isma waafaqayaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "colours",
+      "dont",
+      "match"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "I need something in a neutral colour.",
+    "somali": "Waxaan u baahanahay wax midab dhexdhexaad ah leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "colours",
+      "need",
+      "neutral",
+      "colour"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Does this come in green?",
+    "somali": "Kani cagaar ma ku yimaadaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "come",
+      "green"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "I don't like this shade.",
+    "somali": "Hooskan midab ma jecli.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "dont",
+      "like",
+      "shade"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Do you have navy blue?",
+    "somali": "Ma haysaan buluug madow?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "you",
+      "navy",
+      "blue"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "The colour looks different in daylight.",
+    "somali": "Midabku iftiinka maalinta si kale ayuu u muuqdaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "observation",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "looks",
+      "different",
+      "daylight"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Will the colour fade after washing?",
+    "somali": "Midabku ma libdhi doonaa marka la dhaqo?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "fade",
+      "after",
+      "washing"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "I want the same colour in another size.",
+    "somali": "Waxaan rabaa isla midabkan cabbir kale.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "colours",
+      "want",
+      "same",
+      "colour",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Which colour is most popular?",
+    "somali": "Midabkee ayaa ugu caansan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "most",
+      "popular"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "This colour goes well with my trousers.",
+    "somali": "Midabkani si fiican ayuu ula jaanqaadayaa surwaalkayga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "colours",
+      "colour",
+      "goes",
+      "well",
+      "trousers"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "Please show me all the available colours.",
+    "somali": "Fadlan i tus dhammaan midabbada la heli karo.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "colours",
+      "show",
+      "all",
+      "available"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_clothing_colours_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": "I'll choose the grey one.",
+    "somali": "Midka cawlka ah ayaan dooranayaa.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "colours",
+      "ill",
+      "choose",
+      "grey",
+      "one"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "What size is this?",
+    "somali": "Cabbirkee ayuu kani yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Do you have this in medium?",
+    "somali": "Ma ku haysaan kan cabbir dhexdhexaad ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "you",
+      "medium"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "I need a larger size.",
+    "somali": "Waxaan u baahanahay cabbir ka weyn.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "need",
+      "larger",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "I need a smaller size.",
+    "somali": "Waxaan u baahanahay cabbir ka yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "need",
+      "smaller",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "This is too small for me.",
+    "somali": "Kani wuu igu yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "too",
+      "small",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "This is too big for me.",
+    "somali": "Kani wuu igu weyn yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "too",
+      "big",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "What is your largest size?",
+    "somali": "Cabbirka idiinku weyn waa kee?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "largest",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Do you have children's sizes?",
+    "somali": "Ma haysaan cabbirrada carruurta?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "you",
+      "childrens"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Is this a European size?",
+    "somali": "Kani ma cabbir Yurub ah baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "european",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "What is the equivalent UK size?",
+    "somali": "Waa maxay cabbirka UK ee u dhigma?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "equivalent",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Can you measure me?",
+    "somali": "Ma i cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "you",
+      "measure"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "The shoulders fit well.",
+    "somali": "Garbuhu si fiican ayay ii le'eg yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "confirmation",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "shoulders",
+      "fit",
+      "well"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "The waist is too tight.",
+    "somali": "Dhexdu aad bay iigu cidhiidhi tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "waist",
+      "too",
+      "tight"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "The sleeves are the right length.",
+    "somali": "Gacmuhu dherer sax ah ayay leeyihiin.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "confirmation",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "sleeves",
+      "are",
+      "right",
+      "length"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Do sizes run small here?",
+    "somali": "Cabbirradu halkan ma yaraadaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "run",
+      "small",
+      "here"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Can I compare two sizes?",
+    "somali": "Ma isbarbar dhigi karaa laba cabbir?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "compare",
+      "two"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "This size fits better.",
+    "somali": "Cabbirkan ayaa si fiican ii le'eg.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "opinion",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "size",
+      "fits",
+      "better"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "I usually wear a large.",
+    "somali": "Caadi ahaan waxaan xirtaa cabbir weyn.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "usually",
+      "wear",
+      "large"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Please check the size label.",
+    "somali": "Fadlan eeg summadda cabbirka.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "check",
+      "size",
+      "label"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_sizes_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": "Can I exchange it for another size?",
+    "somali": "Ma ku beddeli karaa cabbir kale?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "sizes",
+      "exchange",
+      "for",
+      "size"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "I'm just looking, thank you.",
+    "somali": "Kaliya waan eegayaa, mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "just",
+      "looking",
+      "thank",
+      "you"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "I'm looking for a jacket.",
+    "somali": "Waxaan raadinayaa jaakad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "looking",
+      "for",
+      "jacket"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "How much is this?",
+    "somali": "Immisa ayuu kani yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "how",
+      "much"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Is this on sale?",
+    "somali": "Kani qiimo-dhimis ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "sale"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Do you have anything cheaper?",
+    "somali": "Ma haysaan wax ka jaban?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "you",
+      "anything",
+      "cheaper"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Can I try this on?",
+    "somali": "Ma tijaabin karaa kan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "try"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Where is the fitting room?",
+    "somali": "Xaggee ayuu ku yaal qolka tijaabadu?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "fitting",
+      "room"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "This doesn't fit me.",
+    "somali": "Kani si fiican iiguma le'eka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "doesnt",
+      "fit"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Do you have another colour?",
+    "somali": "Ma haysaan midab kale?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "you",
+      "colour"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "I'll take it.",
+    "somali": "Waan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "ill",
+      "take"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Can I pay by card?",
+    "somali": "Ma ku bixin karaa kaar?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "pay",
+      "card"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Do you accept cash?",
+    "somali": "Ma aqbashaan lacag caddaan ah?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "you",
+      "accept",
+      "cash"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Can I have a receipt?",
+    "somali": "Ma heli karaa rasiid?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "receipt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "What is your return policy?",
+    "somali": "Waa maxay xeerkiinna soo-celintu?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "return",
+      "policy"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Can I return this if it doesn't fit?",
+    "somali": "Ma soo celin karaa haddii uusan ii le'ekaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "return",
+      "doesnt",
+      "fit"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Can you hold this for me?",
+    "somali": "Ma ii hayn kartaa kan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "you",
+      "hold",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Is there a discount if I buy two?",
+    "somali": "Qiimo-dhimis ma jiraa haddii aan laba iibsado?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "there",
+      "discount",
+      "buy",
+      "two"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "Please put it in a bag.",
+    "somali": "Fadlan boorso ku rid.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "put",
+      "bag"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "The price on the label is different.",
+    "somali": "Qiimaha summaddu wuu ka duwan yahay.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "price",
+      "label",
+      "different"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_shopping_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": "I'd like to exchange this item.",
+    "somali": "Waxaan jeclaan lahaa inaan beddelo alaabtan.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "shopping",
+      "like",
+      "exchange",
+      "item"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Can you wash these clothes?",
+    "somali": "Ma dhaqi kartaa dharkan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "you",
+      "wash",
+      "clothes"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "How much does laundry cost?",
+    "somali": "Immisa ayay ku kacaysaa dhaqidda dharku?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "how",
+      "much",
+      "cost"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "When will the clothes be ready?",
+    "somali": "Goorma ayuu dharku diyaar noqonayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "clothes",
+      "ready"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Please wash these separately.",
+    "somali": "Fadlan kuwan si gooni ah u dhaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "wash",
+      "separately"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Do you offer dry cleaning?",
+    "somali": "Ma bixisaan nadiifin qalalan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "you",
+      "offer",
+      "dry",
+      "cleaning"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Can you remove this stain?",
+    "somali": "Ma ka saari kartaa wasakhdan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "you",
+      "remove",
+      "stain"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Please don't use bleach.",
+    "somali": "Fadlan ha isticmaalin warankiilo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "dont",
+      "use",
+      "bleach"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Wash this in cold water.",
+    "somali": "Kan biyo qabow ku dhaq.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "wash",
+      "cold",
+      "water"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Please iron this shirt.",
+    "somali": "Fadlan feeree shaatigan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "iron",
+      "shirt"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Don't iron the printed area.",
+    "somali": "Ha feerayn meesha daabacan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "dont",
+      "iron",
+      "printed",
+      "area"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "This fabric is delicate.",
+    "somali": "Dharkani waa jilicsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "warning",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "fabric",
+      "delicate"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Can I get express service?",
+    "somali": "Ma heli karaa adeeg degdeg ah?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "get",
+      "express",
+      "service"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "I need these clothes by tomorrow.",
+    "somali": "Dharkan waxaan u baahanahay berri.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "need",
+      "clothes",
+      "tomorrow"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "One shirt is missing.",
+    "somali": "Hal shaati ayaa maqan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "one",
+      "shirt",
+      "missing"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "This stain is still here.",
+    "somali": "Wasakhdani weli way saaran tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "stain",
+      "still",
+      "here"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "The colour has faded.",
+    "somali": "Midabku wuu libdhay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "colour",
+      "has",
+      "faded"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "These clothes shrank after washing.",
+    "somali": "Dharkani wuu yaraaday markii la dhaqay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "clothes",
+      "shrank",
+      "after",
+      "washing"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Can you wash this by hand?",
+    "somali": "Ma gacanta ku dhaqi kartaa kan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "you",
+      "wash",
+      "hand"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "Please fold everything neatly.",
+    "somali": "Fadlan dhammaan si hagaagsan u laab.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "fold",
+      "everything",
+      "neatly"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_laundry_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": "I'd like to collect my laundry.",
+    "somali": "Waxaan rabaa inaan qaato dharkaygii la dhaqay.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "laundry",
+      "like",
+      "collect"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you shorten these trousers?",
+    "somali": "Ma gaabin kartaa surwaalkan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "shorten",
+      "trousers"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you make the waist smaller?",
+    "somali": "Ma yareyn kartaa dhexda?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "make",
+      "waist",
+      "smaller"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Please make the sleeves shorter.",
+    "somali": "Fadlan gaabi gacmaha shaarka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "make",
+      "sleeves",
+      "shorter"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you replace this zip?",
+    "somali": "Ma beddeli kartaa siibkan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "replace",
+      "zip"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "This button is missing.",
+    "somali": "Badhankan waa maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "button",
+      "missing"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you sew this tear?",
+    "somali": "Ma toli kartaa jeexan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "sew",
+      "tear"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "I need this altered.",
+    "somali": "Waxaan u baahanahay in kan la hagaajiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "need",
+      "altered"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you take it in a little?",
+    "somali": "Ma yara cidhiidhi ka dhigi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "take",
+      "little"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you let it out a little?",
+    "somali": "Ma yara ballaadhin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "let",
+      "out",
+      "little"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Please keep the original hem.",
+    "somali": "Fadlan hay qaabkii hoose ee asalka ahaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "keep",
+      "original",
+      "hem"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "How long will the alteration take?",
+    "somali": "Intee ayay qaadanaysaa hagaajintu?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "how",
+      "long",
+      "alteration",
+      "take"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "How much will it cost?",
+    "somali": "Immisa ayay ku kacaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "how",
+      "much",
+      "cost"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "I need it by Friday.",
+    "somali": "Waxaan u baahanahay Jimcaha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "need",
+      "friday"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you copy this design?",
+    "somali": "Ma koobiyeeyn kartaa naqshaddan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "copy",
+      "design"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Please use matching thread.",
+    "somali": "Fadlan isticmaal dun la jaanqaadaysa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "use",
+      "matching",
+      "thread"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "The shoulders are too wide.",
+    "somali": "Garbuhu aad bay u ballaaran yihiin.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "shoulders",
+      "are",
+      "too",
+      "wide"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "The dress is too long.",
+    "somali": "Goonnadu aad bay u dheer tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "dress",
+      "too",
+      "long"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "Can you add a pocket?",
+    "somali": "Ma ku dari kartaa jeeb?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "you",
+      "add",
+      "pocket"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "I'd like to try it on again.",
+    "somali": "Waxaan jeclaan lahaa inaan mar kale tijaabiyo.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "like",
+      "try",
+      "again"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_tailoring_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": "The alteration looks good.",
+    "somali": "Hagaajintu si fiican ayay u muuqataa.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "confirmation",
+    "keywords": [
+      "clothing",
+      "tailoring",
+      "alteration",
+      "looks",
+      "good"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need a warm coat.",
+    "somali": "Waxaan u baahanahay jaakad diirran.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "warm",
+      "coat"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_002",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Do you have a rain jacket?",
+    "somali": "Ma haysaan jaakad roobaad?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "you",
+      "rain",
+      "jacket"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_003",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "This coat is waterproof.",
+    "somali": "Jaakaddani biyaha ma gudbiso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "coat",
+      "waterproof"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_004",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need light clothes for hot weather.",
+    "somali": "Waxaan u baahanahay dhar khafiif ah oo cimilo kulul ku habboon.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "light",
+      "clothes",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_005",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Do you sell winter gloves?",
+    "somali": "Galoofyada jiilaalka ma iibisaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "you",
+      "sell",
+      "winter",
+      "gloves"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_006",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need a scarf and a hat.",
+    "somali": "Waxaan u baahanahay masar iyo koofiyad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "scarf",
+      "and",
+      "hat"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_007",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Is this jacket windproof?",
+    "somali": "Jaakaddani dabaysha ma celisaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "jacket",
+      "windproof"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_008",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "These boots are good for rain.",
+    "somali": "Kabahan waxay ku fiican yihiin roobka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "boots",
+      "are",
+      "good",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_009",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need clothes for very cold weather.",
+    "somali": "Waxaan u baahanahay dhar cimilo aad u qabow ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "clothes",
+      "for",
+      "very"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_010",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "This sweater is too heavy.",
+    "somali": "Funaanaddani aad bay u culus tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "sweater",
+      "too",
+      "heavy"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_011",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Do you have a lighter jacket?",
+    "somali": "Ma haysaan jaakad ka khafiifsan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "you",
+      "lighter",
+      "jacket"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_012",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Cotton is better in hot weather.",
+    "somali": "Suufku wuxuu ku fiican yahay cimilo kulul.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "cotton",
+      "better",
+      "hot",
+      "weather"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_013",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need something that dries quickly.",
+    "somali": "Waxaan u baahanahay wax dhaqso u qalala.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "dries",
+      "quickly"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_014",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Will this keep me warm?",
+    "somali": "Kani ma i diirin doonaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "keep",
+      "warm"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_015",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Do I need thermal clothing?",
+    "somali": "Ma u baahanahay dhar kulayl haynaya?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "thermal"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_016",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "This hood protects me from the rain.",
+    "somali": "Koofiyaddani waxay iga ilaalisaa roobka.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "statement",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "hood",
+      "protects",
+      "rain"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_017",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I need a sun hat.",
+    "somali": "Waxaan u baahanahay koofiyad qorraxeed.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "need",
+      "sun",
+      "hat"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_018",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "These clothes are suitable for summer.",
+    "somali": "Dharkani wuxuu ku habboon yahay xagaaga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "statement",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "clothes",
+      "are",
+      "suitable",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_019",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "Can you recommend clothes for snow?",
+    "somali": "Ma ii soo jeedin kartaa dhar baraf ku habboon?",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "request",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "you",
+      "recommend",
+      "clothes",
+      "for"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  },
+  {
+    "id": "phrase_clothing_weather_clothing_020",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": "I'll take the waterproof coat.",
+    "somali": "Jaakadda biyaha celisa ayaan qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B2",
+    "type": "response",
+    "keywords": [
+      "clothing",
+      "weather clothing",
+      "ill",
+      "take",
+      "waterproof",
+      "coat"
+    ],
+    "notes": "Natural phrase for a real clothing-related situation."
+  }
+]

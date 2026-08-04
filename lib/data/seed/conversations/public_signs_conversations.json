@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "conversation_public_signs_road_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_road_signs",
+    "title": "Asking About Road Signs",
+    "somali_title": "Calaamadaha waddada oo la weydiinayo",
+    "situation": "A pedestrian asks a traffic officer what the road signs mean before crossing the street.",
+    "somali_situation": "Qof lugaynaya ayaa sarkaal taraafiko weydiinaya macnaha calaamadaha waddada ka hor inta uusan waddada goyn.",
+    "cefr": "A1",
+    "participants": [
+      "Pedestrian",
+      "Traffic Officer"
+    ],
+    "key_vocabulary": [
+      "traffic",
+      "driving",
+      "warning",
+      "direction",
+      "speed limit",
+      "road",
+      "signs"
+    ],
+    "key_phrases": [
+      "What do these road signs mean?",
+      "The warning sign means slow down.",
+      "Is this road safe to cross?",
+      "I see the speed limit sign.",
+      "Which direction should I walk?"
+    ],
+    "grammar_focus": [
+      "imperatives",
+      "must/must not",
+      "negative commands",
+      "prepositions of movement",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Pedestrian",
+        "somali_speaker": "Qof lugaynaya",
+        "english": "Excuse me, what do these road signs mean?",
+        "somali": "Raalli ahow, calaamadahan waddadu maxay ka dhigan yihiin?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Traffic Officer",
+        "somali_speaker": "Sarkaal taraafiko",
+        "english": "The warning sign means slow down.",
+        "somali": "Calaamadda digniintu waxay ka dhigan tahay in la gaabiyo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Pedestrian",
+        "somali_speaker": "Qof lugaynaya",
+        "english": "Is this road safe to cross?",
+        "somali": "Waddadan ma ammaan baa in la gooyo?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Traffic Officer",
+        "somali_speaker": "Sarkaal taraafiko",
+        "english": "Not yet. Traffic is still moving.",
+        "somali": "Weli maya. Taraafikadu weli way socotaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Pedestrian",
+        "somali_speaker": "Qof lugaynaya",
+        "english": "I see the speed limit sign.",
+        "somali": "Waxaan arkayaa calaamadda xadka xawaaraha."
+      },
+      {
+        "turn": 6,
+        "speaker": "Traffic Officer",
+        "somali_speaker": "Sarkaal taraafiko",
+        "english": "Yes, the speed limit is twenty miles per hour.",
+        "somali": "Haa, xadka xawaaruhu waa labaatan mayl saacaddii."
+      },
+      {
+        "turn": 7,
+        "speaker": "Pedestrian",
+        "somali_speaker": "Qof lugaynaya",
+        "english": "Which direction should I walk?",
+        "somali": "Jihadee ayaan u socdaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Traffic Officer",
+        "somali_speaker": "Sarkaal taraafiko",
+        "english": "Walk left, away from the driving lane.",
+        "somali": "Bidix u soco, kana fogow haadka baabuurta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_hospital_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hospital_signs",
+    "title": "Finding the Right Hospital Area",
+    "somali_title": "Meesha saxda ah ee isbitaalka oo la helayo",
+    "situation": "A patient asks a hospital volunteer what the reception, waiting area, quiet zone, and restricted signs mean.",
+    "somali_situation": "Bukaan ayaa mutadawac isbitaal weydiinaya macnaha calaamadaha soo-dhoweynta, goobta sugitaanka, aagga aamusan, iyo meelaha xaddidan.",
+    "cefr": "A2",
+    "participants": [
+      "Patient",
+      "Volunteer"
+    ],
+    "key_vocabulary": [
+      "hospital",
+      "reception",
+      "waiting area",
+      "quiet zone",
+      "restricted",
+      "visitors"
+    ],
+    "key_phrases": [
+      "Does this hospital sign point to reception?",
+      "The waiting area is through that door.",
+      "What does quiet zone mean?",
+      "Visitors should speak softly here.",
+      "Restricted means patients cannot enter."
+    ],
+    "grammar_focus": [
+      "does this mean...?",
+      "should for advice",
+      "cannot for prohibition",
+      "prepositions of place",
+      "polite questions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Excuse me, does this hospital sign point to reception?",
+        "somali": "Raalli ahow, calaamaddan isbitaalku ma waxay tilmaamaysaa soo-dhoweynta?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Volunteer",
+        "somali_speaker": "Mutadawac",
+        "english": "Yes. Reception is straight ahead.",
+        "somali": "Haa. Soo-dhoweyntu waa si toos ah hore."
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Where should I sit after I check in?",
+        "somali": "Xaggee ayaan fadhiistaa marka aan is diiwaangeliyo kadib?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Volunteer",
+        "somali_speaker": "Mutadawac",
+        "english": "The waiting area is through that door.",
+        "somali": "Goobta sugitaanku waxay ka dambeysaa albaabkaas."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "What does quiet zone mean?",
+        "somali": "Maxay ka dhigan tahay aag aamusan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Volunteer",
+        "somali_speaker": "Mutadawac",
+        "english": "Visitors should speak softly here.",
+        "somali": "Booqdayaashu waa inay halkan si hoose ugu hadlaan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "And that red sign says restricted.",
+        "somali": "Calaamaddaas casna waxay leedahay xaddidan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Volunteer",
+        "somali_speaker": "Mutadawac",
+        "english": "Restricted means patients cannot enter.",
+        "somali": "Xaddidan waxay ka dhigan tahay in bukaanku geli karin."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you. I will go to reception first.",
+        "somali": "Mahadsanid. Marka hore soo-dhoweynta ayaan tegi doonaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Volunteer",
+        "somali_speaker": "Mutadawac",
+        "english": "You're welcome. The nurse will call your name.",
+        "somali": "Waad mudan tahay. Kalkaalisadu magacaaga way yeeri doontaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_airport_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_airport_signs",
+    "title": "Following Airport Signs",
+    "somali_title": "Calaamadaha garoonka oo la raacayo",
+    "situation": "A traveler asks an airport assistant how to follow departure, security, gate, and baggage claim signs.",
+    "somali_situation": "Socdaale ayaa caawiye garoon weydiinaya sida loo raaco calaamadaha bixitaanka, amniga, albaabka diyaaradda, iyo meesha boorsooyinka laga qaato.",
+    "cefr": "B1",
+    "participants": [
+      "Traveler",
+      "Airport Assistant"
+    ],
+    "key_vocabulary": [
+      "airport",
+      "departures",
+      "security",
+      "gate",
+      "baggage claim",
+      "arrivals"
+    ],
+    "key_phrases": [
+      "Does this airport sign mean departures?",
+      "Follow departures first, then security.",
+      "Your gate number will appear after security.",
+      "Baggage claim is for arrivals.",
+      "Will the signs show my gate?"
+    ],
+    "grammar_focus": [
+      "will for future information",
+      "imperatives for directions",
+      "after and then",
+      "does this mean...?",
+      "prepositions of movement"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Excuse me, does this airport sign mean departures?",
+        "somali": "Raalli ahow, calaamaddan garoonku ma waxay ka dhigan tahay bixitaanka?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "Yes. Follow departures first, then security.",
+        "somali": "Haa. Marka hore raac bixitaanka, kadibna amniga."
+      },
+      {
+        "turn": 3,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Will the signs show my gate?",
+        "somali": "Calaamaduhu ma muujin doonaan albaabka diyaaraddayda?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "Your gate number will appear after security.",
+        "somali": "Lambarka albaabkaaga wuxuu soo muuqan doonaa amniga kadib."
+      },
+      {
+        "turn": 5,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "I also see a sign for baggage claim.",
+        "somali": "Waxaan kaloo arkayaa calaamad meesha boorsooyinka laga qaato."
+      },
+      {
+        "turn": 6,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "Baggage claim is for arrivals.",
+        "somali": "Meesha boorsooyinka laga qaato waxaa loogu talagalay dadka soo degaya."
+      },
+      {
+        "turn": 7,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "So I should not go there now?",
+        "somali": "Markaa hadda halkaas ma tegin?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "No, not unless you are meeting someone from arrivals.",
+        "somali": "Maya, ilaa aad qof ka imanaya meesha soo-degista la kulmayso mooyaane."
+      },
+      {
+        "turn": 9,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Where is the security line?",
+        "somali": "Safkii amnigu xaggee buu yaal?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "Turn right and follow the blue airport signs.",
+        "somali": "Midig u leexo oo raac calaamadaha buluugga ah ee garoonka."
+      },
+      {
+        "turn": 11,
+        "speaker": "Traveler",
+        "somali_speaker": "Socdaale",
+        "english": "Thank you. I was walking toward the wrong sign.",
+        "somali": "Mahadsanid. Waxaan u socday calaamad khaldan."
+      },
+      {
+        "turn": 12,
+        "speaker": "Airport Assistant",
+        "somali_speaker": "Caawiye garoon",
+        "english": "You're on the right path now.",
+        "somali": "Hadda jidka saxda ah ayaad ku socotaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_school_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_school_signs",
+    "title": "Reading School Signs at Pickup",
+    "somali_title": "Calaamadaha dugsiga oo la akhrinayo marka ilmo la qaadayo",
+    "situation": "A parent follows school signs during afternoon pickup and asks a staff member about the main office, visitor badge, cafeteria, staff-only hallway, and evacuation map.",
+    "somali_situation": "Waalid ayaa raacaya calaamadaha dugsiga marka ilmaha la qaadayo galabtii, wuxuuna shaqaale weydiinayaa xafiiska weyn, calaamadda booqdaha, maqaayadda dugsiga, marin shaqaalaha keliya ah, iyo khariidadda daadgureynta.",
+    "cefr": "B2",
+    "participants": [
+      "Parent",
+      "School Staff"
+    ],
+    "key_vocabulary": [
+      "school",
+      "main office",
+      "visitor badge",
+      "pickup",
+      "cafeteria",
+      "staff only",
+      "evacuation map"
+    ],
+    "key_phrases": [
+      "I am here for pickup.",
+      "The school sign says main office.",
+      "Please wear this visitor badge.",
+      "That hallway is staff only.",
+      "The evacuation map shows emergency exits."
+    ],
+    "grammar_focus": [
+      "present simple for signs",
+      "please + imperative",
+      "must for rules",
+      "that hallway / this badge",
+      "shows for explaining signs"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Excuse me, I am here for pickup.",
+        "somali": "Raalli ahow, waxaan u imid inaan ilmo qaado."
+      },
+      {
+        "turn": 2,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Welcome. The school sign says main office.",
+        "somali": "Soo dhowow. Calaamadda dugsigu waxay leedahay xafiiska weyn."
+      },
+      {
+        "turn": 3,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Should I go there first?",
+        "somali": "Ma halkaas ayaan marka hore tagaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Yes. Please wear this visitor badge.",
+        "somali": "Haa. Fadlan xidho calaamaddan booqdaha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "The pickup sign points to the cafeteria.",
+        "somali": "Calaamadda qaadistu waxay tilmaamaysaa maqaayadda dugsiga."
+      },
+      {
+        "turn": 6,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Correct. Parents meet children by the cafeteria doors.",
+        "somali": "Waa sax. Waalidiintu carruurta waxay kula kulmaan albaabbada maqaayadda dugsiga."
+      },
+      {
+        "turn": 7,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Can I use that hallway?",
+        "somali": "Ma isticmaali karaa marinkaas?"
+      },
+      {
+        "turn": 8,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "No, that hallway is staff only.",
+        "somali": "Maya, marinkaas waa shaqaalaha oo keliya."
+      },
+      {
+        "turn": 9,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "I also see an evacuation map on the wall.",
+        "somali": "Waxaan sidoo kale derbiga ku arkayaa khariidad daadgureyn."
+      },
+      {
+        "turn": 10,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "The evacuation map shows emergency exits.",
+        "somali": "Khariidadda daadgureyntu waxay muujisaa albaabbada degdegga ah."
+      },
+      {
+        "turn": 11,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Do visitors need to know that?",
+        "somali": "Booqdayaashu ma u baahan yihiin inay taas ogaadaan?"
+      },
+      {
+        "turn": 12,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Yes, in case the alarm sounds.",
+        "somali": "Haa, haddii qaylo-dhaantu dhawaaqdo."
+      },
+      {
+        "turn": 13,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Thank you. The signs make more sense now.",
+        "somali": "Mahadsanid. Calaamaduhu hadda way ii caddaadeen."
+      },
+      {
+        "turn": 14,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Good. Follow the blue pickup arrows.",
+        "somali": "Waa wanaagsan tahay. Raac fallaadhaha buluugga ah ee qaadista."
+      },
+      {
+        "turn": 15,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "I will check out at the main office after pickup.",
+        "somali": "Qaadista kadib waxaan ka bixi doonaa xafiiska weyn."
+      },
+      {
+        "turn": 16,
+        "speaker": "School Staff",
+        "somali_speaker": "Shaqaale dugsi",
+        "english": "Thank you. That keeps the school record correct.",
+        "somali": "Mahadsanid. Taasi waxay diiwaanka dugsiga ka dhigaysaa mid sax ah."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_safety_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_safety_signs",
+    "title": "Noticing a Safety Sign",
+    "somali_title": "Calaamad badbaado oo la arkayo",
+    "situation": "A shopper asks a staff member about wet floor, danger, and exit safety signs.",
+    "somali_situation": "Qof wax iibsanaya ayaa shaqaale weydiinaya calaamadaha badbaadada ee sagxad qoyan, khatar, iyo albaabka laga baxo.",
+    "cefr": "A1",
+    "participants": [
+      "Shopper",
+      "Staff Member"
+    ],
+    "key_vocabulary": [
+      "safety",
+      "wet floor",
+      "danger",
+      "exit",
+      "do not",
+      "careful"
+    ],
+    "key_phrases": [
+      "What does this safety sign mean?",
+      "It says wet floor.",
+      "Please be careful.",
+      "Does danger mean do not enter?",
+      "The exit is on the left."
+    ],
+    "grammar_focus": [
+      "What does... mean?",
+      "imperatives",
+      "do not",
+      "be + adjective",
+      "on the left"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Excuse me, what does this safety sign mean?",
+        "somali": "Raalli ahow, calaamaddan badbaadadu maxay ka dhigan tahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff Member",
+        "somali_speaker": "Shaqaale",
+        "english": "It says wet floor.",
+        "somali": "Waxay leedahay sagxad qoyan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Should I walk around it?",
+        "somali": "Ma inaan hareer maraa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff Member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, please be careful.",
+        "somali": "Haa, fadlan taxaddar."
+      },
+      {
+        "turn": 5,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Does danger mean do not enter?",
+        "somali": "Khatar ma waxay ka dhigan tahay ha gelin?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff Member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, do not go past that sign.",
+        "somali": "Haa, ha dhaafin calaamaddaas."
+      },
+      {
+        "turn": 7,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Where is the exit?",
+        "somali": "Albaabka laga baxo xaggee buu yaal?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff Member",
+        "somali_speaker": "Shaqaale",
+        "english": "The exit is on the left.",
+        "somali": "Albaabka laga baxo wuxuu ku yaal bidixda."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_office_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_office_signs",
+    "title": "Finding a Meeting Room",
+    "somali_title": "Qolka kulanka oo la helayo",
+    "situation": "A visitor asks a receptionist how to read office signs for reception, a meeting room, staff entrance, and waiting area.",
+    "somali_situation": "Booqde ayaa soo-dhoweeye weydiinaya sida loo akhriyo calaamadaha xafiiska ee soo-dhoweynta, qolka kulanka, albaabka shaqaalaha, iyo goobta sugitaanka.",
+    "cefr": "A2",
+    "participants": [
+      "Visitor",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "office",
+      "reception",
+      "meeting room",
+      "staff entrance",
+      "waiting area",
+      "visitors"
+    ],
+    "key_phrases": [
+      "Does this office sign mean reception?",
+      "The meeting room is upstairs.",
+      "That door is the staff entrance.",
+      "Visitors should wait in the waiting area.",
+      "Please sign in at reception first."
+    ],
+    "grammar_focus": [
+      "should for instructions",
+      "please + imperative",
+      "that door / this sign",
+      "upstairs",
+      "at reception"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Excuse me, does this office sign mean reception?",
+        "somali": "Raalli ahow, calaamaddan xafiisku ma waxay ka dhigan tahay soo-dhoweyn?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes. Please sign in at reception first.",
+        "somali": "Haa. Fadlan marka hore soo-dhoweynta iska saxiix."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I have a meeting in Room 204.",
+        "somali": "Waxaan kulan ku leeyahay Qolka 204."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The meeting room is upstairs.",
+        "somali": "Qolka kulanku wuxuu ku yaal dabaqa kore."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Can I use that door?",
+        "somali": "Ma isticmaali karaa albaabkaas?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "No, that door is the staff entrance.",
+        "somali": "Maya, albaabkaasi waa albaabka shaqaalaha."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Where should visitors wait?",
+        "somali": "Booqdayaashu xaggee bay ku sugaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Visitors should wait in the waiting area.",
+        "somali": "Booqdayaashu waa inay ku sugaan goobta sugitaanka."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Thank you. I will follow the signs upstairs.",
+        "somali": "Mahadsanid. Waxaan raaci doonaa calaamadaha dabaqa kore."
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Good. Room 204 is on the right.",
+        "somali": "Waa fiican tahay. Qolka 204 wuxuu ku yaal midigta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_hotel_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_hotel_signs",
+    "title": "Reading Hotel Signs After Check-In",
+    "somali_title": "Calaamadaha hoteelka oo la akhrinayo isdiiwaangelin kadib",
+    "situation": "A guest asks hotel reception about signs for the lift, breakfast room, housekeeping, and do not disturb.",
+    "somali_situation": "Marti hoteel joogta ayaa soo-dhoweynta weydiinaysa calaamadaha wiishka, qolka quraacda, nadiifinta qolka, iyo ha la carqaladeyn.",
+    "cefr": "B1",
+    "participants": [
+      "Guest",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "hotel",
+      "lift",
+      "breakfast room",
+      "housekeeping",
+      "do not disturb",
+      "check-in"
+    ],
+    "key_phrases": [
+      "I just finished check-in.",
+      "Does this hotel sign point to the lift?",
+      "The breakfast room is on the ground floor.",
+      "Housekeeping starts after nine.",
+      "Do not disturb means no one will knock."
+    ],
+    "grammar_focus": [
+      "just + past simple",
+      "does this point to...?",
+      "after + time",
+      "means + clause",
+      "on the ground floor"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "I just finished check-in.",
+        "somali": "Hadda ayaan dhammeeyey isdiiwaangelinta."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Great. Your room is on the fourth floor.",
+        "somali": "Waa fiican tahay. Qolkaagu wuxuu ku yaal dabaqa afraad."
+      },
+      {
+        "turn": 3,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Does this hotel sign point to the lift?",
+        "somali": "Calaamaddan hoteelku ma waxay tilmaamaysaa wiishka?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, the lift is past the lobby.",
+        "somali": "Haa, wiishku wuxuu ka dambeeyaa hoolka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Where is the breakfast room?",
+        "somali": "Qolka quraacdu xaggee buu ku yaal?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "The breakfast room is on the ground floor.",
+        "somali": "Qolka quraacdu wuxuu ku yaal dabaqa hoose."
+      },
+      {
+        "turn": 7,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "The sign on my door says housekeeping.",
+        "somali": "Calaamadda albaabkayga ku taal waxay leedahay nadiifinta qolka."
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Housekeeping starts after nine.",
+        "somali": "Nadiifinta qolalku waxay bilaabataa sagaalka kadib."
+      },
+      {
+        "turn": 9,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "What if I hang the do not disturb sign?",
+        "somali": "Haddii aan sudho calaamadda ha la carqaladeyn maxaa dhacaya?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Do not disturb means no one will knock.",
+        "somali": "Ha la carqaladeyn waxay ka dhigan tahay qofna ma garaaci doono."
+      },
+      {
+        "turn": 11,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "That helps. I will use it tonight.",
+        "somali": "Taasi way i caawisay. Caawa ayaan isticmaali doonaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Of course. Enjoy your stay at the hotel.",
+        "somali": "Dabcan. Ku raaxayso joogitaankaaga hoteelka."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_shopping_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_shopping_signs",
+    "title": "Understanding Sale and Return Signs",
+    "somali_title": "Calaamadaha qiimo-dhimista iyo celinta oo la fahmayo",
+    "situation": "A shopper asks a sales assistant about sale, fitting room, final sale, returns, checkout, and out of stock signs before buying a jacket.",
+    "somali_situation": "Qof wax iibsanaya ayaa kaaliyaha dukaanka weydiinaya calaamadaha qiimo-dhimista, qolka cabbirka, iibka kama dambaysta ah, celinta, bixinta lacagta, iyo alaab dhammaatay ka hor inta uusan jaakad iibsan.",
+    "cefr": "B2",
+    "participants": [
+      "Shopper",
+      "Sales Assistant"
+    ],
+    "key_vocabulary": [
+      "receipt",
+      "sale",
+      "fitting room",
+      "final sale",
+      "returns",
+      "checkout",
+      "out of stock"
+    ],
+    "key_phrases": [
+      "Does this sale sign include jackets?",
+      "The fitting room is at the back.",
+      "Final sale means you cannot return it.",
+      "Returns are accepted within fourteen days.",
+      "Checkout is near the front door."
+    ],
+    "grammar_focus": [
+      "does this include...?",
+      "passive voice for rules",
+      "within + time period",
+      "cannot for policy",
+      "near / at the back"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Excuse me, does this sale sign include jackets?",
+        "somali": "Raalli ahow, calaamaddan qiimo-dhimistu ma ku jirtaa jaakadaha?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Yes, all blue jackets are on sale.",
+        "somali": "Haa, dhammaan jaakadaha buluugga ah qiimo-dhimis bay ku jiraan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Can I try this one on?",
+        "somali": "Kan ma cabbiri karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Of course. The fitting room is at the back.",
+        "somali": "Dabcan. Qolka cabbirku wuxuu ku yaal gadaasha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "This tag says final sale.",
+        "somali": "Kaarkan wuxuu leeyahay iib kama dambays ah."
+      },
+      {
+        "turn": 6,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Final sale means you cannot return it.",
+        "somali": "Iib kama dambays ah waxay ka dhigan tahay inaadan celin karin."
+      },
+      {
+        "turn": 7,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "What about the green jacket?",
+        "somali": "Jaakadda cagaaran se?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "That size is out of stock.",
+        "somali": "Cabbirkaas wuu naga dhammaaday."
+      },
+      {
+        "turn": 9,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "If I buy a regular item, can I return it?",
+        "somali": "Haddii aan alaab caadi ah iibsado, ma celin karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Yes. Returns are accepted within fourteen days.",
+        "somali": "Haa. Celinta waa la aqbalaa afar iyo toban maalmood gudahood."
+      },
+      {
+        "turn": 11,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Where is checkout?",
+        "somali": "Meesha lacagta lagu bixiyo xaggee bay ku taallaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Checkout is near the front door.",
+        "somali": "Meesha lacagta lagu bixiyo waxay ku dhowdahay albaabka hore."
+      },
+      {
+        "turn": 13,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Thank you. I will take the blue jacket.",
+        "somali": "Mahadsanid. Jaakadda buluugga ah ayaan qaadanayaa."
+      },
+      {
+        "turn": 14,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Good choice. Keep the receipt with you.",
+        "somali": "Doorasho fiican. Rasiidkaaga hayso."
+      },
+      {
+        "turn": 15,
+        "speaker": "Shopper",
+        "somali_speaker": "Qof wax iibsanaya",
+        "english": "Even for sale items?",
+        "somali": "Xataa alaabta qiimo-dhimista ku jirta?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Sales Assistant",
+        "somali_speaker": "Kaaliye iib",
+        "english": "Yes, the receipt explains the return rules.",
+        "somali": "Haa, rasiidku wuxuu sharxayaa xeerarka celinta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_warning_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_warning_signs",
+    "title": "Reading a Warning Sign",
+    "somali_title": "Calaamad digniin ah oo la akhrinayo",
+    "situation": "A visitor asks a worker about a warning sign near a closed sidewalk.",
+    "somali_situation": "Booqde ayaa shaqaale weydiinaya calaamad digniin ah oo ku dhow laami dadka lugeeya oo xiran.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Worker"
+    ],
+    "key_vocabulary": [
+      "warning",
+      "closed",
+      "sidewalk",
+      "falling",
+      "safe path"
+    ],
+    "key_phrases": [
+      "What does this warning sign mean?",
+      "The sidewalk is closed.",
+      "Something could be falling.",
+      "Where is the safe path?",
+      "Follow the orange signs."
+    ],
+    "grammar_focus": [
+      "What does... mean?",
+      "could for danger",
+      "imperatives",
+      "where questions",
+      "be + adjective"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Excuse me, what does this warning sign mean?",
+        "somali": "Raalli ahow, calaamaddan digniintu maxay ka dhigan tahay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Worker",
+        "somali_speaker": "Shaqaale",
+        "english": "The sidewalk is closed.",
+        "somali": "Laamiga dadka lugeeya wuu xiran yahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Is it dangerous?",
+        "somali": "Ma khatar baa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Worker",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. Something could be falling.",
+        "somali": "Haa. Wax ayaa soo dhici kara."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Where is the safe path?",
+        "somali": "Jidka ammaanka ah xaggee buu yaal?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Worker",
+        "somali_speaker": "Shaqaale",
+        "english": "Follow the orange signs.",
+        "somali": "Raac calaamadaha liimiga ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Thank you. I will not use this sidewalk.",
+        "somali": "Mahadsanid. Laamigan ma isticmaali doono."
+      },
+      {
+        "turn": 8,
+        "speaker": "Worker",
+        "somali_speaker": "Shaqaale",
+        "english": "Good. Please stay behind the barrier.",
+        "somali": "Waa fiican tahay. Fadlan xayndaabka gadaashiisa joog."
+      }
+    ]
+  },
+  {
+    "id": "conversation_public_signs_emergency_signs_001",
+    "category_code": "public_signs",
+    "subcategory_code": "public_signs_emergency_signs",
+    "title": "Following Emergency Signs",
+    "somali_title": "Calaamadaha gurmadka oo la raacayo",
+    "situation": "A visitor asks a security guard what to do if the alarm sounds and how to follow emergency exit, assembly point, and first aid signs.",
+    "somali_situation": "Booqde ayaa ilaaliye weydiinaya waxa la sameeyo haddii qaylo-dhaantu dhawaaqdo iyo sida loo raaco calaamadaha albaabka degdegga ah, goobta la isugu yimaado, iyo gargaarka degdegga ah.",
+    "cefr": "A2",
+    "participants": [
+      "Visitor",
+      "Security guard"
+    ],
+    "key_vocabulary": [
+      "emergency",
+      "alarm",
+      "emergency exit",
+      "assembly point",
+      "first aid",
+      "emergency services"
+    ],
+    "key_phrases": [
+      "What should I do if the alarm sounds?",
+      "Follow the emergency exit sign.",
+      "The assembly point is outside, near the car park.",
+      "First aid is beside reception.",
+      "Call emergency services if someone is hurt."
+    ],
+    "grammar_focus": [
+      "if clauses",
+      "should for advice",
+      "imperatives",
+      "beside / outside",
+      "call + service"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Excuse me, what should I do if the alarm sounds?",
+        "somali": "Raalli ahow, maxaan sameeyaa haddii qaylo-dhaantu dhawaaqdo?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Security guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "Follow the emergency exit sign.",
+        "somali": "Raac calaamadda albaabka degdegga ah."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Where does it lead?",
+        "somali": "Xaggee bay ku geynaysaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Security guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "It leads to the stairs and then outside.",
+        "somali": "Waxay ku geynaysaa jaranjarada kadibna bannaanka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "What is the assembly point?",
+        "somali": "Goobta la isugu yimaado waa maxay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Security guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "The assembly point is outside, near the car park.",
+        "somali": "Goobta la isugu yimaado waa bannaanka, meel u dhow baarkinka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "I see a first aid sign too.",
+        "somali": "Waxaan sidoo kale arkaa calaamad gargaar degdeg ah."
+      },
+      {
+        "turn": 8,
+        "speaker": "Security guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "First aid is beside reception.",
+        "somali": "Gargaarka degdegga ah wuxuu ku yaal soo-dhoweynta agteeda."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "And if someone is hurt?",
+        "somali": "Haddii qof dhaawacmo se?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Security guard",
+        "somali_speaker": "Ilaaliye",
+        "english": "Call emergency services if someone is hurt.",
+        "somali": "Wac adeegyada gurmadka haddii qof dhaawacmo."
+      }
+    ]
+  }
+]

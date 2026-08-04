@@ -1,0 +1,596 @@
+[
+  {
+    "id": "vocab_time_telling_time_clock",
+    "category_code": "time",
+    "subcategory_code": "time_telling_time",
+    "english": {
+      "headword": "clock",
+      "search_forms": [
+        "clock",
+        "clocks"
+      ]
+    },
+    "somali": {
+      "translation": "saacad",
+      "alternative_translations": [],
+      "explanation": "Qalab lagu ogaado ama lagu muujiyo waqtiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A device used to show or measure time.",
+        "translation": "saacad",
+        "examples": [
+          {
+            "english": "The clock says it's three o'clock.",
+            "somali": "Saacaddu waxay muujinaysaa saddexda."
+          },
+          {
+            "english": "Look at the clock on the wall.",
+            "somali": "Fiiri saacadda gidaarka ku taalla."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "wall clock",
+        "somali": "saacadda gidaarka"
+      },
+      {
+        "english": "alarm clock",
+        "somali": "saacadda digniinta"
+      },
+      {
+        "english": "clock face",
+        "somali": "wejiga saacadda"
+      }
+    ],
+    "related_words": [
+      "watch",
+      "time",
+      "alarm"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Checking the time",
+      "Arriving on time",
+      "At home"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Telling Time"
+    }
+  },
+  {
+    "id": "vocab_time_days_weekday",
+    "category_code": "time",
+    "subcategory_code": "time_days",
+    "english": {
+      "headword": "weekday",
+      "search_forms": [
+        "weekday",
+        "weekdays"
+      ]
+    },
+    "somali": {
+      "translation": "maalin shaqo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "maalin shaqo",
+        "examples": [
+          {
+            "english": "We talked about the weekday.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the weekday.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "weekday schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "weekday time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "weekday reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Days"
+    }
+  },
+  {
+    "id": "vocab_time_months_month",
+    "category_code": "time",
+    "subcategory_code": "time_months",
+    "english": {
+      "headword": "month",
+      "search_forms": [
+        "month",
+        "months"
+      ]
+    },
+    "somali": {
+      "translation": "bil",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "bil",
+        "examples": [
+          {
+            "english": "We talked about the month.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the month.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "month schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "month time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "month reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Months"
+    }
+  },
+  {
+    "id": "vocab_time_appointments_appointment",
+    "category_code": "time",
+    "subcategory_code": "time_appointments",
+    "english": {
+      "headword": "appointment",
+      "search_forms": [
+        "appointment",
+        "appointments"
+      ]
+    },
+    "somali": {
+      "translation": "ballan",
+      "alternative_translations": [],
+      "explanation": "Ballan horay loo qorsheeyay oo lala yeesho qof ama hay'ad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "An arrangement to meet someone at a particular time.",
+        "translation": "ballan",
+        "examples": [
+          {
+            "english": "I have a doctor's appointment tomorrow.",
+            "somali": "Berri waxaan leeyahay ballan dhakhtar."
+          },
+          {
+            "english": "Can we change the appointment?",
+            "somali": "Ma beddeli karnaa ballanta?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "make an appointment",
+        "somali": "qabo ballan"
+      },
+      {
+        "english": "appointment time",
+        "somali": "waqtiga ballanta"
+      },
+      {
+        "english": "cancel an appointment",
+        "somali": "jooji ballan"
+      }
+    ],
+    "related_words": [
+      "schedule",
+      "meeting",
+      "doctor"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Hospital visits",
+      "Business meetings",
+      "Booking services"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Appointments"
+    }
+  },
+  {
+    "id": "vocab_time_opening_hours_opening_hours",
+    "category_code": "time",
+    "subcategory_code": "time_opening_hours",
+    "english": {
+      "headword": "opening hours",
+      "search_forms": [
+        "opening hours"
+      ]
+    },
+    "somali": {
+      "translation": "saacadaha furitaanka",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "saacadaha furitaanka",
+        "examples": [
+          {
+            "english": "We talked about the opening hours.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the opening hours.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "opening hours schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "opening hours time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "opening hours reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Opening Hours"
+    }
+  },
+  {
+    "id": "vocab_time_scheduling_schedule",
+    "category_code": "time",
+    "subcategory_code": "time_scheduling",
+    "english": {
+      "headword": "schedule",
+      "search_forms": [
+        "schedule",
+        "schedules"
+      ]
+    },
+    "somali": {
+      "translation": "jadwal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "jadwal",
+        "examples": [
+          {
+            "english": "We talked about the schedule.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the schedule.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "schedule schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "schedule time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "schedule reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Scheduling"
+    }
+  },
+  {
+    "id": "vocab_time_being_late_late",
+    "category_code": "time",
+    "subcategory_code": "time_being_late",
+    "english": {
+      "headword": "late",
+      "search_forms": [
+        "late"
+      ]
+    },
+    "somali": {
+      "translation": "daahay",
+      "alternative_translations": [],
+      "explanation": "Inaad timaaddo ama dhacdo waqtigii ka dambeeya."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Arriving or happening after the expected time.",
+        "translation": "daahay",
+        "examples": [
+          {
+            "english": "Sorry I'm late.",
+            "somali": "Waan ka xumahay waan daahay."
+          },
+          {
+            "english": "The train was late.",
+            "somali": "Tareenku wuu daahay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "arrive late",
+        "somali": "soo daah"
+      },
+      {
+        "english": "late for work",
+        "somali": "shaqada uga daah"
+      },
+      {
+        "english": "too late",
+        "somali": "aad u daahay"
+      }
+    ],
+    "related_words": [
+      "early",
+      "delay",
+      "time"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Going to work",
+      "School",
+      "Appointments"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Being Late"
+    }
+  },
+  {
+    "id": "vocab_time_frequency_often",
+    "category_code": "time",
+    "subcategory_code": "time_frequency",
+    "english": {
+      "headword": "often",
+      "search_forms": [
+        "often"
+      ]
+    },
+    "somali": {
+      "translation": "badanaa",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "badanaa",
+        "examples": [
+          {
+            "english": "We talked about the often.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the often.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "often schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "often time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "often reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "frequency adverbs",
+      "present simple",
+      "how often questions"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Frequency"
+    }
+  },
+  {
+    "id": "vocab_time_holidays_holiday",
+    "category_code": "time",
+    "subcategory_code": "time_holidays",
+    "english": {
+      "headword": "holiday",
+      "search_forms": [
+        "holiday",
+        "holidays"
+      ]
+    },
+    "somali": {
+      "translation": "fasax",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa waqtiga, jadwalka ama taariikhaha waxaana si joogto ah loogu isticmaalaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common time-related term used in everyday English.",
+        "translation": "fasax",
+        "examples": [
+          {
+            "english": "We talked about the holiday.",
+            "somali": "Waxaan ka wada hadalnay arrintan."
+          },
+          {
+            "english": "Please check the holiday.",
+            "somali": "Fadlan hubi arrintan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "holiday schedule",
+        "somali": "jadwalka"
+      },
+      {
+        "english": "holiday time",
+        "somali": "waqtiga"
+      },
+      {
+        "english": "holiday reminder",
+        "somali": "xusuusin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Making appointments",
+      "Planning a schedule",
+      "Talking about time"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Holidays"
+    }
+  }
+]

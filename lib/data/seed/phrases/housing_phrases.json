@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_housing_renting_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "I am looking for a room to rent.",
+    "somali": "Waxaan raadinayaa qol aan kireysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "How much is the rent each month?",
+    "somali": "Kiradu bishii waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Is the rent paid weekly or monthly?",
+    "somali": "Kirada toddobaadle ma la bixiyaa mise bille?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Does the rent include bills?",
+    "somali": "Kirada biilasha ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "When can I see the flat?",
+    "somali": "Goorma ayaan guriga arki karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Is a deposit required?",
+    "somali": "Debaaji ma loo baahan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "How long is the rental agreement?",
+    "somali": "Heshiiska kiradu intee ayuu soconayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Can I move in next week?",
+    "somali": "Toddobaadka dambe ma soo guuri karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "The room is too small for me.",
+    "somali": "Qolku aad buu iigu yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "I would like to rent this place.",
+    "somali": "Waxaan rabaa inaan meeshan kireysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Is the neighbourhood quiet?",
+    "somali": "Xaafaddu ma deggan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Can I pay the rent by bank transfer?",
+    "somali": "Kirada bangi ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_renting_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "renting"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "I am thinking about buying a house.",
+    "somali": "Waxaan ka fikirayaa inaan guri iibsado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "How much is the asking price?",
+    "somali": "Qiimaha la weydiinayo waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Can I view the house this week?",
+    "somali": "Toddobaadkan guriga ma daawan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "How many bedrooms does it have?",
+    "somali": "Immisa qol jiif ayuu leeyahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Is the house near public transport?",
+    "somali": "Gurigu gaadiidka dadweynaha ma u dhow yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Does the house need repairs?",
+    "somali": "Gurigu dayactir ma u baahan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Can you show me the kitchen?",
+    "somali": "Jikada ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Is there a garden?",
+    "somali": "Beer yar ma jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "The price is too high for me.",
+    "somali": "Qiimuhu aad buu iigu sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Can we discuss the price?",
+    "somali": "Qiimaha ma ka wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "I need time to think about it.",
+    "somali": "Waqti ayaan u baahanahay inaan ka fikiro.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Who should I contact about the sale?",
+    "somali": "Yaan kala xiriiraa iibka?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_buying_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "buying"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "I need a bed for the room.",
+    "somali": "Qolka sariir ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Where can I buy a sofa?",
+    "somali": "Xaggee ka iibsan karaa kursi fadhiga?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "This table is too large.",
+    "somali": "Miiskani aad buu u weyn yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Can you deliver the furniture?",
+    "somali": "Alaabta guriga ma keeni kartaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "How much is this chair?",
+    "somali": "Kursigan waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "I need a wardrobe for my clothes.",
+    "somali": "Dharkayga armaajo ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Does this bed come with a mattress?",
+    "somali": "Sariirtan furaash ma la socdaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "The sofa does not fit through the door.",
+    "somali": "Kursiga fadhigu albaabka kama gudbayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Can you assemble the furniture?",
+    "somali": "Alaabta guriga ma isku xiri kartaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "I want simple furniture.",
+    "somali": "Alaab guri oo fudud ayaan rabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Is this furniture new or used?",
+    "somali": "Alaabtani ma cusub tahay mise waa la isticmaalay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Please put the table by the window.",
+    "somali": "Fadlan miiska daaqadda agteeda dhig.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_furniture_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Where is the kitchen?",
+    "somali": "Jikadu xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Can I use the kitchen?",
+    "somali": "Jikada ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "The sink is blocked.",
+    "somali": "Saxanka biyaha lagu dhaqo wuu xirmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "The cooker is not working.",
+    "somali": "Makiinadda cuntada ma shaqaynayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Where should I put the dishes?",
+    "somali": "Suxuunta xaggee ayaan dhigaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Please clean the kitchen after cooking.",
+    "somali": "Fadlan karinta ka dib jikada nadiifi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Is there a fridge in the kitchen?",
+    "somali": "Jikada qaboojiye ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "I need a sharp knife.",
+    "somali": "Mindi fiiqan ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "The kitchen light is broken.",
+    "somali": "Nalalka jikadu way jaban yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Can you show me how to use the oven?",
+    "somali": "Foornada sida loo isticmaalo ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Please do not leave food out.",
+    "somali": "Fadlan cuntada bannaanka ha uga tagin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "The kitchen is shared.",
+    "somali": "Jikada waa la wada isticmaalaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_kitchen_room_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "kitchen room"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Where is the bathroom?",
+    "somali": "Musqushu xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Can I use the bathroom?",
+    "somali": "Musqusha ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "The shower is not working.",
+    "somali": "Qubaysku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "There is no hot water.",
+    "somali": "Biyo kulul ma jiraan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "The toilet is blocked.",
+    "somali": "Suuligu wuu xirmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Please clean the bathroom after use.",
+    "somali": "Fadlan isticmaalka ka dib musqusha nadiifi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Where are the towels?",
+    "somali": "Tuwaalladu xaggee yaallaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "The bathroom floor is wet.",
+    "somali": "Dhulka musqushu wuu qoyan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Can someone fix the tap?",
+    "somali": "Qof ma hagaajin karaa qasabadda?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "I need soap, please.",
+    "somali": "Saabuun ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "The bathroom door does not lock.",
+    "somali": "Albaabka musqushu ma xirmayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Is this bathroom private?",
+    "somali": "Musqushani ma gaar baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_bathroom_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "bathroom"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "The light is not working.",
+    "somali": "Nalku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Can someone repair the door?",
+    "somali": "Qof ma hagaajin karaa albaabka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "The window is broken.",
+    "somali": "Daaqaddu way jaban tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "There is water leaking.",
+    "somali": "Biyo ayaa daadanaya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "The heating is not working.",
+    "somali": "Kulayliyuhu ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "When can the repair person come?",
+    "somali": "Qofka dayactirka goorma ayuu iman karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Please fix this as soon as possible.",
+    "somali": "Fadlan tan sida ugu dhaqsaha badan u hagaaji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Do I need to pay for the repair?",
+    "somali": "Dayactirka lacag ma bixinayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "The problem started yesterday.",
+    "somali": "Dhibaatadu shalay ayay bilaabatay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "I reported the repair this morning.",
+    "somali": "Dayactirka saaka ayaan soo sheegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "The lock needs to be changed.",
+    "somali": "Qufulku wuxuu u baahan yahay in la beddelo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Can you send a plumber?",
+    "somali": "Tuubiste ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_repairs_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "repairs"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "How much is the electricity bill?",
+    "somali": "Biilka korontadu waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Is water included in the rent?",
+    "somali": "Biyaha kirada ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "The internet is not working.",
+    "somali": "Internetku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "When is the bill due?",
+    "somali": "Biilku goorma ayuu ku egyahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Can I pay the bill online?",
+    "somali": "Biilka internetka ma ku bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "The gas has been turned off.",
+    "somali": "Gaaskii waa la damiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "I need to set up electricity.",
+    "somali": "Koronto ayaan u baahanahay inaan furo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "The water pressure is low.",
+    "somali": "Cadaadiska biyuhu wuu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Who provides the internet service?",
+    "somali": "Yaa bixiya adeegga internetka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Please send me the account number.",
+    "somali": "Fadlan lambarka akoontiga ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "The bill looks too high.",
+    "somali": "Biilku aad buu u sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Can you explain these charges?",
+    "somali": "Kharashyadan ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_utilities_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "utilities"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I am moving next week.",
+    "somali": "Toddobaadka dambe ayaan guurayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Can you help me move this table?",
+    "somali": "Miiskan ma iga caawin kartaa inaan raro?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I need moving boxes.",
+    "somali": "Sanduuqyo guurid ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "The movers will arrive at nine.",
+    "somali": "Rarayaashu sagaalka ayay imanayaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Please carry this carefully.",
+    "somali": "Fadlan tan si taxaddar leh u qaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "This box is fragile.",
+    "somali": "Sanduuqan wuu jab-jabi karaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Where should I put these boxes?",
+    "somali": "Sanduuqyadan xaggee ayaan dhigaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I need to change my address.",
+    "somali": "Cinwaankayga ayaan u baahanahay inaan beddelo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "The lift is too small for the sofa.",
+    "somali": "Wiishku aad buu ugu yar yahay kursiga fadhiga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Can we move the bed first?",
+    "somali": "Sariirta marka hore ma rari karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I have packed the kitchen things.",
+    "somali": "Alaabtii jikada waan xirtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Please label each box.",
+    "somali": "Fadlan sanduuq kasta calaamadee.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_moving_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "moving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "My neighbours are very friendly.",
+    "somali": "Deriskaygu aad bay u saaxiibtinimo badan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Can I speak to my neighbour?",
+    "somali": "Deriskayga ma la hadli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "The neighbours are making noise.",
+    "somali": "Derisku buuq ayay samaynayaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Please keep the noise down.",
+    "somali": "Fadlan buuqa yaree.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "I want to introduce myself to the neighbours.",
+    "somali": "Waxaan rabaa inaan deriska is baro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Do the neighbours share the garden?",
+    "somali": "Derisku beerta ma wada isticmaalaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "My neighbour helped me today.",
+    "somali": "Deriskaygu maanta wuu i caawiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Can you ask the neighbour politely?",
+    "somali": "Deriska si edeb leh ma u weydiin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "The neighbour has my package.",
+    "somali": "Deriska ayaa haysta xirmadaydii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "I do not want to disturb the neighbours.",
+    "somali": "Ma doonayo inaan deriska qaso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Are pets allowed in this building?",
+    "somali": "Xayawaanka guriga dhismahan ma lagu oggol yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "The neighbours are having a party.",
+    "somali": "Derisku xaflad ayay leeyihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_neighbours_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "neighbours"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Is this building safe?",
+    "somali": "Dhismahani ma ammaan baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_002",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Where is the fire exit?",
+    "somali": "Albaabka dabka looga baxo xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_003",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Please lock the front door.",
+    "somali": "Fadlan albaabka hore quful.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_004",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "The smoke alarm is beeping.",
+    "somali": "Qalabka digniinta qiiqu wuu dhawaaqayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_005",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Do not leave the door open.",
+    "somali": "Albaabka ha furnaanin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_006",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "The stairwell light is broken.",
+    "somali": "Nalalka jaranjaradu way jaban yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_007",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Who should I call in an emergency?",
+    "somali": "Xaalad degdeg ah yaan wacaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_008",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "There is a strange smell in the hallway.",
+    "somali": "Ur qariib ah ayaa marinka ka jira.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_009",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Please check the gas.",
+    "somali": "Fadlan gaaska hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_010",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Is there a security guard?",
+    "somali": "Ilaaliye amni ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_011",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "The back door does not lock.",
+    "somali": "Albaabka dambe ma qufulmayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_012",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "I need a spare key.",
+    "somali": "Fure dheeraad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_013",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Can you help me with this?",
+    "somali": "Arrintan ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_014",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "I need more information, please.",
+    "somali": "Macluumaad dheeraad ah ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_015",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "When can someone come to check it?",
+    "somali": "Goorma ayuu qof iman karaa si uu u eego?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_016",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Please write down the details.",
+    "somali": "Fadlan faahfaahinta qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_017",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "That works for me.",
+    "somali": "Taasi way ii shaqaynaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_018",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "I will call you tomorrow.",
+    "somali": "Berri ayaan ku soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_019",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Can you send me a message?",
+    "somali": "Farriin ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_housing_safety_020",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "housing",
+      "safety"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  }
+]

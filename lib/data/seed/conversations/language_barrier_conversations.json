@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "conversation_language_barrier_repeat_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "title": "Asking Someone to Repeat",
+    "somali_title": "Codsiga in hadalka lagu celiyo",
+    "situation": "A learner at a clinic desk misses the appointment time and politely asks the staff member to repeat it.",
+    "somali_situation": "Arday jooga miiska rug caafimaad ayaa seegaya waqtiga ballanta wuxuuna si xushmad leh u codsanayaa in lagu celiyo.",
+    "cefr": "A1",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "say it again",
+      "listen",
+      "again",
+      "missed",
+      "appointment",
+      "ten thirty",
+      "slowly"
+    ],
+    "key_phrases": [
+      "I missed part of what you said.",
+      "Could you say it again more slowly?",
+      "Of course. I said the appointment is at ten thirty, not eleven.",
+      "Did you say ten thirty?",
+      "Yes, ten thirty."
+    ],
+    "grammar_focus": [
+      "Could you...?",
+      "Past simple: missed",
+      "Did you say...?",
+      "Short confirmation",
+      "Time expressions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Sorry, I missed part of what you said.",
+        "somali": "Waan ka xumahay, qayb ka mid ah hadalkaaga waan seegay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "That's okay. The appointment is at ten thirty.",
+        "somali": "Dhib ma leh. Ballantu waa tobanka iyo bar."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Could you say it again more slowly?",
+        "somali": "Si tartiib ah mar kale ma u oran kartaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Of course. I said the appointment is at ten thirty, not eleven.",
+        "somali": "Dabcan. Waxaan iri ballantu waa tobanka iyo bar, ma aha kow iyo tobanka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Did you say ten thirty?",
+        "somali": "Ma waxaad tiri tobanka iyo bar?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, ten thirty.",
+        "somali": "Haa, tobanka iyo bar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I am listening carefully now.",
+        "somali": "Mahadsanid. Hadda si taxaddar leh ayaan u dhageysanayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "No problem. Please come ten minutes early.",
+        "somali": "Dhib ma leh. Fadlan toban daqiiqo hore u imow."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_speak_slowly_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "title": "Asking Someone to Speak Slowly",
+    "somali_title": "Codsiga hadal tartiib ah",
+    "situation": "A learner at a bus ticket desk asks the staff member to speak slowly while explaining the route.",
+    "somali_situation": "Arday jooga miiska tigidhada baska ayaa shaqaalaha ka codsanaya inuu si tartiib ah u hadlo marka uu sharxayo jidka.",
+    "cefr": "A2",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "speak slowly",
+      "listen",
+      "instructions",
+      "bus ticket",
+      "number 12 bus",
+      "change",
+      "station",
+      "clear"
+    ],
+    "key_phrases": [
+      "Could you speak slowly, please?",
+      "I am still learning English.",
+      "Take the number 12 bus.",
+      "Do I need to change buses?",
+      "Thank you. That is clear now."
+    ],
+    "grammar_focus": [
+      "Could you...?",
+      "Present continuous",
+      "Imperatives",
+      "Do I need to...?",
+      "Adverbs of manner"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Excuse me. Could you speak slowly, please?",
+        "somali": "Iga raalli noqo. Si tartiib ah ma u hadli kartaa, fadlan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Of course. I will give you the instructions slowly.",
+        "somali": "Dabcan. Tilmaamaha si tartiib ah ayaan kuu siinayaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I am still learning English.",
+        "somali": "Mahadsanid. Weli Ingiriis ayaan baranayaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "No problem. Take the number 12 bus.",
+        "somali": "Dhib ma leh. Raac baska lambarkiisu yahay 12."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Do I need to change buses?",
+        "somali": "Ma u baahanahay inaan bas kale u wareego?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. Change at the main station.",
+        "somali": "Haa. Ka beddel saldhigga weyn."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can you say the station name again?",
+        "somali": "Magaca saldhigga mar kale ma sheegi kartaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Main Station. It is written on your bus ticket.",
+        "somali": "Saldhigga weyn. Wuxuu ku qoran yahay tigidhkaaga baska."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. That is clear now.",
+        "somali": "Mahadsanid. Hadda way ii caddahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "You're welcome. Listen for the driver to call the stop.",
+        "somali": "Adaa mudan. Dhageyso marka darawalku joogsiga sheego."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_meaning_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "title": "Asking What a Word Means",
+    "somali_title": "Weydiinta macnaha eray",
+    "situation": "A learner at a library asks what the word 'renew' means on a computer screen.",
+    "somali_situation": "Arday jooga maktabad ayaa weydiinaya macnaha erayga 'renew' oo shaashadda kumbuyuutarka ku qoran.",
+    "cefr": "B1",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "meaning",
+      "screen",
+      "due today",
+      "word",
+      "renew",
+      "library",
+      "book",
+      "example"
+    ],
+    "key_phrases": [
+      "What does this word mean?",
+      "Renew means to borrow the book for more time.",
+      "Could you give me an example?",
+      "The meaning is clear now.",
+      "Can I renew this book today?"
+    ],
+    "grammar_focus": [
+      "What does... mean?",
+      "Means to...",
+      "Could you give...?",
+      "Can I...?",
+      "Simple examples"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Excuse me. What does this word mean?",
+        "somali": "Iga raalli noqo. Eraygan macnihiisu waa maxay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Which word are you looking at?",
+        "somali": "Eraygee ayaad eegaysaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "The word is renew. It is on the library screen.",
+        "somali": "Eraygu waa renew. Wuxuu ku qoran yahay shaashadda maktabadda."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Renew means to borrow the book for more time.",
+        "somali": "Renew macnihiisu waa inaad buugga waqti dheeraad ah sii amaahato."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Could you give me an example?",
+        "somali": "Tusaale ma ii siin kartaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. If your book is due today, you can renew it for another week.",
+        "somali": "Haa. Haddii buuggaagu maanta dhacayo, toddobaad kale ayaad cusboonaysiin kartaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "So it does not mean I must return it today?",
+        "somali": "Markaa macnaheedu ma aha inaan maanta soo celiyo?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Right. It means you can keep it longer.",
+        "somali": "Sax. Waxay ka dhigan tahay inaad sii haysan karto muddo dheer."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "The meaning is clear now.",
+        "somali": "Macnuhu hadda wuu ii caddahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Good. Do you want help pressing the button?",
+        "somali": "Wanaagsan. Ma rabtaa caawin markaad badhanka riixayso?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, please. Can I renew this book today?",
+        "somali": "Haa, fadlan. Buuggan maanta ma cusboonaysiin karaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. Click renew, then confirm.",
+        "somali": "Haa. Guji renew, kadibna xaqiiji."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_spelling_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "title": "Asking for Spelling on the Phone",
+    "somali_title": "Telefoonka oo higgaad lagu weydiinayo",
+    "situation": "A learner books a class by phone and asks the staff member to spell the name and confirm an email address.",
+    "somali_situation": "Arday ayaa telefoon ku qabsanaya fasal wuxuuna shaqaalaha ka codsanayaa in magaca la higgaadiyo lana xaqiijiyo cinwaan email.",
+    "cefr": "B2",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "spelling",
+      "capital A",
+      "name",
+      "email",
+      "hyphen",
+      "dot",
+      "capital letter",
+      "confirm"
+    ],
+    "key_phrases": [
+      "Could you spell your name for me?",
+      "Is Amina with a capital letter?",
+      "Can you spell the email address slowly?",
+      "There is a hyphen between the two names, correct?",
+      "Could you read it back to me?"
+    ],
+    "grammar_focus": [
+      "Could you spell...?",
+      "Is that with...?",
+      "There is...",
+      "Can you...?",
+      "Read back for confirmation"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Good morning. I would like to book an English class.",
+        "somali": "Subax wanaagsan. Waxaan rabaa inaan qabsado fasal Ingiriisi ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Certainly. Could you spell your name for me?",
+        "somali": "Hubaal. Magacaaga ma ii higgaadin kartaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "It is Amina Yusuf.",
+        "somali": "Waa Amina Yusuf."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Could you spell the family name?",
+        "somali": "Magaca qoyska ma higgaadin kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Y-U-S-U-F.",
+        "somali": "Y-U-S-U-F."
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Thank you. Is Amina with a capital letter?",
+        "somali": "Mahadsanid. Amina xaraf weyn ma ku bilaabataa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, capital A.",
+        "somali": "Haa, A weyn."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Can you spell the email address slowly?",
+        "somali": "Cinwaanka email-ka si tartiib ah ma u higgaadin kartaa?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "It is amina-yusuf at mail dot com.",
+        "somali": "Waa amina-yusuf at mail dot com."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "There is a hyphen between the two names, correct?",
+        "somali": "Labada magac dhexdooda hyphen baa ku jira, sax miyaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, a hyphen, not an underscore.",
+        "somali": "Haa, hyphen, ma aha underscore."
+      },
+      {
+        "turn": 12,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Could you read it back to me?",
+        "somali": "Ma ii akhrin kartaa si aan u hubiyo?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Amina hyphen Yusuf at mail dot com.",
+        "somali": "Amina hyphen Yusuf at mail dot com."
+      },
+      {
+        "turn": 14,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, that is correct. Thank you for checking the spelling.",
+        "somali": "Haa, waa sax. Waad ku mahadsan tahay inaad higgaadda hubisay."
+      },
+      {
+        "turn": 15,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "No problem. I will send a confirmation email today.",
+        "somali": "Dhib ma leh. Maanta ayaan kuu soo diri doonaa email xaqiijin ah."
+      },
+      {
+        "turn": 16,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Great. I will check my inbox this afternoon.",
+        "somali": "Wanaagsan. Galabta ayaan sanduuqa email-kayga hubin doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_pronunciation_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "title": "Asking How to Pronounce a Word",
+    "somali_title": "Weydiinta sida eray loo dhawaaqo",
+    "situation": "A learner asks a staff member how to pronounce the word 'appointment' before speaking at reception.",
+    "somali_situation": "Arday ayaa shaqaale weydiinaya sida loo dhawaaqo erayga 'appointment' ka hor inta uusan ka hadlin soo-dhoweynta.",
+    "cefr": "A1",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "pronunciation",
+      "stress",
+      "try",
+      "word",
+      "repeat",
+      "appointment",
+      "slowly"
+    ],
+    "key_phrases": [
+      "How do you pronounce this word?",
+      "The word is appointment.",
+      "Please say it slowly.",
+      "Can I repeat it?",
+      "Your pronunciation is good."
+    ],
+    "grammar_focus": [
+      "How do you...?",
+      "Imperatives with please",
+      "Can I...?",
+      "Simple praise",
+      "Word stress"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Excuse me. How do you pronounce this word?",
+        "somali": "Iga raalli noqo. Eraygan sidee loo dhawaaqaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "The word is appointment.",
+        "somali": "Eraygu waa appointment."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Please say it slowly.",
+        "somali": "Fadlan si tartiib ah u dheh."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Appointment. The stress is on point.",
+        "somali": "Appointment. Culayska dhawaaqu wuxuu saaran yahay point."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can I repeat it?",
+        "somali": "Ma ku celin karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, please try.",
+        "somali": "Haa, fadlan isku day."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Appointment.",
+        "somali": "Appointment."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Good. Your pronunciation is good.",
+        "somali": "Wanaagsan. Dhawaaqaagu wuu fiican yahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_dont_understand_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "title": "Saying You Do Not Understand",
+    "somali_title": "Sheegidda inaadan fahmin",
+    "situation": "A learner at a pharmacy says they do not understand the medicine instructions and asks for a simpler explanation.",
+    "somali_situation": "Arday jooga farmashiye ayaa sheegaya inuusan fahmin tilmaamaha daawada wuxuuna codsanayaa sharaxaad ka fudud.",
+    "cefr": "A2",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "understand",
+      "instructions",
+      "medicine",
+      "dose",
+      "help",
+      "morning",
+      "evening",
+      "simple"
+    ],
+    "key_phrases": [
+      "I'm sorry, I do not understand.",
+      "Can you explain it in simple words?",
+      "Take one dose in the morning and one in the evening.",
+      "So I take the medicine twice a day?",
+      "Exactly, that is right."
+    ],
+    "grammar_focus": [
+      "I do not understand",
+      "Can you explain...?",
+      "Imperatives",
+      "Twice a day",
+      "Confirmation questions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I'm sorry, I do not understand.",
+        "somali": "Waan ka xumahay, ma fahmin."
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "That's okay. Which part is confusing?",
+        "somali": "Dhib ma leh. Qaybtee ayaa kugu wareertay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "The medicine instructions are difficult for me.",
+        "somali": "Tilmaamaha daawadu way igu adag yihiin."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "I can help. Take one dose in the morning and one in the evening.",
+        "somali": "Waan ku caawin karaa. Hal qiyaas qaado subaxdii, midna fiidkii."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can you explain it in simple words?",
+        "somali": "Erayo fudud ma iigu sharxi kartaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. Take the medicine after breakfast and after dinner.",
+        "somali": "Haa. Daawada qaado quraacda kadib iyo cashada kadib."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "So I take the medicine twice a day?",
+        "somali": "Markaa daawada laba jeer maalintii ayaan qaadanayaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Exactly, that is right.",
+        "somali": "Sidaas ayay tahay, waa sax."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I understand now.",
+        "somali": "Mahadsanid. Hadda waan fahmay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "You're welcome. Ask for help if you are unsure.",
+        "somali": "Adaa mudan. Caawimaad weydiiso haddii aadan hubin."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_interpreter_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "title": "Requesting an Interpreter",
+    "somali_title": "Codsashada turjubaan",
+    "situation": "A patient at a clinic asks for a Somali interpreter before discussing health information.",
+    "somali_situation": "Bukaan jooga rug caafimaad ayaa codsanaya turjubaan Soomaali ah ka hor inta aan xog caafimaad laga wada hadlin.",
+    "cefr": "B1",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "interpreter",
+      "Somali",
+      "language",
+      "appointment",
+      "consent",
+      "private",
+      "clinic",
+      "wait"
+    ],
+    "key_phrases": [
+      "Could I have a Somali interpreter?",
+      "I want to understand before I give consent.",
+      "The interpreter will join by phone.",
+      "Will the conversation be private?",
+      "Please wait in the clinic room on the left."
+    ],
+    "grammar_focus": [
+      "Could I have...?",
+      "Want to",
+      "Before + clause",
+      "Will for arrangements",
+      "Passive meaning: be private"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Hello. Could I have a Somali interpreter?",
+        "somali": "Salaan. Turjubaan Soomaali ah ma heli karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. Is this for your clinic appointment today?",
+        "somali": "Haa. Ma ballantaada rugta caafimaad ee maanta baa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes. I understand some English, but health words are difficult.",
+        "somali": "Haa. Ingiriis xoogaa waan fahmaa, laakiin erayada caafimaadku way adag yihiin."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "That is fine. The interpreter will join by phone.",
+        "somali": "Taasi waa hagaag. Turjubaanku telefoon ayuu kaga soo biiri doonaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "How long will I wait?",
+        "somali": "Intee ayaan sugayaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "About ten minutes.",
+        "somali": "Qiyaastii toban daqiiqo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Will the conversation be private?",
+        "somali": "Wadahadalku ma qarsoodi buu ahaanayaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, the interpreter keeps your information private.",
+        "somali": "Haa, turjubaanku xogtaada si qarsoodi ah ayuu u haynayaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Good. I want to understand before I give consent.",
+        "somali": "Wanaagsan. Waxaan rabaa inaan fahmo ka hor inta aanan oggolaansho bixin."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Of course. The nurse will wait for the language support.",
+        "somali": "Dabcan. Kalkaalisadu waxay sugi doontaa taageerada luqadda."
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. Where should I go now?",
+        "somali": "Mahadsanid. Hadda xaggee baan aadaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Please wait in the clinic room on the left.",
+        "somali": "Fadlan ku sug qolka rugta ee bidixda ku yaal."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_confirming_details_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "title": "Confirming Appointment Details",
+    "somali_title": "Xaqiijinta faahfaahinta ballanta",
+    "situation": "A learner confirms appointment details at reception to make sure the date, time, address, and phone number are correct.",
+    "somali_situation": "Arday ayaa soo-dhoweynta ku xaqiijinaya faahfaahinta ballanta si uu u hubiyo in taariikhda, waqtiga, cinwaanka, iyo lambarka telefoonku sax yihiin.",
+    "cefr": "B2",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "details",
+      "appointment",
+      "correction",
+      "date",
+      "time",
+      "address",
+      "phone number",
+      "correct"
+    ],
+    "key_phrases": [
+      "Can I confirm the appointment details?",
+      "The date is Tuesday the fifteenth.",
+      "Yes, two forty-five in the afternoon.",
+      "Could you check my phone number?",
+      "Yes, that is correct."
+    ],
+    "grammar_focus": [
+      "Can I confirm...?",
+      "The date is...",
+      "The time is...",
+      "Could you check...?",
+      "Corrections with not"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Before I leave, can I confirm the appointment details?",
+        "somali": "Ka hor intaanan bixin, faahfaahinta ballanta ma xaqiijin karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Of course. The date is Tuesday the fifteenth.",
+        "somali": "Dabcan. Taariikhdu waa Talaado shan iyo tobanka."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Tuesday the fifteenth. And the time is two forty-five?",
+        "somali": "Talaado shan iyo tobanka. Waqtiguna waa laba iyo afartan iyo shan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes, two forty-five in the afternoon.",
+        "somali": "Haa, laba iyo afartan iyo shan galabnimo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Is the address 20 Green Street?",
+        "somali": "Cinwaanku ma 20 Green Street baa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Almost. It is 20 Green Road, not Green Street.",
+        "somali": "Ku dhow. Waa 20 Green Road, ma aha Green Street."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you for the correction. Green Road.",
+        "somali": "Waad ku mahadsan tahay sixitaanka. Green Road."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "That's right. Please bring your photo ID.",
+        "somali": "Waa sax. Fadlan keen aqoonsigaaga sawirka leh."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Could you check my phone number?",
+        "somali": "Lambarka telefoonkayga ma hubin kartaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Yes. I have 07710 482 936.",
+        "somali": "Haa. Waxaan hayaa 07710 482 936."
+      },
+      {
+        "turn": 11,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, that is correct.",
+        "somali": "Haa, waa sax."
+      },
+      {
+        "turn": 12,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Would you like a text reminder?",
+        "somali": "Ma rabtaa fariin xusuusin ah?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, please send a reminder the day before.",
+        "somali": "Haa, fadlan maalin ka hor xusuusin ii soo dir."
+      },
+      {
+        "turn": 14,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "I will add that now.",
+        "somali": "Hadda ayaan taas ku dari doonaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Thank you. I have the correct details now.",
+        "somali": "Mahadsanid. Hadda faahfaahinta saxda ah waan hayaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "You're welcome. We will see you on Tuesday.",
+        "somali": "Adaa mudan. Talaadada ayaan ku arki doonnaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_write_it_down_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "title": "Asking Someone to Write It Down",
+    "somali_title": "Codsiga in wax la qoro",
+    "situation": "A learner asks a staff member to write down an address and phone number so they can read it later.",
+    "somali_situation": "Arday ayaa shaqaale ka codsanaya inuu qoro cinwaan iyo lambar telefoon si uu mar dambe u akhriyo.",
+    "cefr": "A1",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "write it down",
+      "note",
+      "address",
+      "phone number",
+      "paper",
+      "read",
+      "later"
+    ],
+    "key_phrases": [
+      "Could you write it down, please?",
+      "I'll write the address on this paper.",
+      "Can you add the phone number?",
+      "I can read it later.",
+      "Here is the note."
+    ],
+    "grammar_focus": [
+      "Could you...?",
+      "I'll...",
+      "Can you add...?",
+      "It as object",
+      "Here is..."
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Sorry, the address is difficult for me.",
+        "somali": "Waan ka xumahay, cinwaanku wuu igu adag yahay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "No problem. Could you write it down, please?",
+        "somali": "Dhib ma leh. Ma qori kartaa, fadlan?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes. I'll write the address on this paper.",
+        "somali": "Haa. Cinwaanka waxaan ku qori doonaa warqaddan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Thank you. Can you add the phone number?",
+        "somali": "Mahadsanid. Lambarka telefoonka ma ku dari kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Of course. I will add it under the address.",
+        "somali": "Dabcan. Cinwaanka hoostiisa ayaan ku dari doonaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Good. I can read it later.",
+        "somali": "Wanaagsan. Mar dambe waan akhriyi karaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Here is the note.",
+        "somali": "Waa kan qoraalkii."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Thank you for your help.",
+        "somali": "Waad ku mahadsan tahay caawintaada."
+      }
+    ]
+  },
+  {
+    "id": "conversation_language_barrier_english_level_001",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "title": "Explaining Your English Level",
+    "somali_title": "Sharaxaadda heerkaaga Ingiriisiga",
+    "situation": "A learner explains their English level before joining a class and asks the teacher to use simple words.",
+    "somali_situation": "Arday ayaa sharxaya heerkiisa Ingiriisiga ka hor inta uusan fasal ku biirin wuxuuna macallinka ka codsanayaa erayo fudud.",
+    "cefr": "A2",
+    "participants": [
+      "Learner",
+      "Staff member"
+    ],
+    "key_vocabulary": [
+      "English level",
+      "beginner",
+      "learning",
+      "simple words",
+      "teacher",
+      "class",
+      "practice",
+      "understand"
+    ],
+    "key_phrases": [
+      "My English level is beginner.",
+      "I am still learning.",
+      "Please use simple words with me.",
+      "I understand better when I practice.",
+      "Then you can join the beginner class on Monday."
+    ],
+    "grammar_focus": [
+      "My level is...",
+      "Present continuous",
+      "Please + verb",
+      "When clauses",
+      "Can for permission"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Hello. I want to join an English class.",
+        "somali": "Salaan. Waxaan rabaa inaan ku biiro fasal Ingiriisi ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Welcome. What is your English level?",
+        "somali": "Soo dhowow. Heerkaaga Ingiriisigu waa maxay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "My English level is beginner.",
+        "somali": "Heerka Ingiriisigaygu waa bilow."
+      },
+      {
+        "turn": 4,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "That's fine. Are you learning reading or speaking first?",
+        "somali": "Taasi waa hagaag. Akhriska miyaad marka hore baranaysaa mise hadalka?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Speaking first. I am still learning.",
+        "somali": "Hadalka marka hore. Weli waan baranayaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "No problem. The teacher will speak slowly.",
+        "somali": "Dhib ma leh. Macallinku si tartiib ah ayuu u hadli doonaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Please use simple words with me.",
+        "somali": "Fadlan erayo fudud ila isticmaal."
+      },
+      {
+        "turn": 8,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Of course. We also practice short conversations.",
+        "somali": "Dabcan. Waxaan sidoo kale ku tababbarannaa wada-sheekaysiyo gaagaaban."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Good. I understand better when I practice.",
+        "somali": "Wanaagsan. Si fiican ayaan u fahmaa marka aan tababarto."
+      },
+      {
+        "turn": 10,
+        "speaker": "Staff member",
+        "somali_speaker": "Shaqaale",
+        "english": "Then you can join the beginner class on Monday.",
+        "somali": "Markaa waxaad Isniinta ku biiri kartaa fasalka bilowga."
+      }
+    ]
+  }
+]

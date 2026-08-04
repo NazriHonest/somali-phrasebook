@@ -1,0 +1,4482 @@
+[
+  {
+    "id": "phrase_food_restaurant_001",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Can you recommend a popular dish?",
+    "somali": "Ma ii soo jeedin kartaa cunto caan ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_002",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "I'd like to book a table for two.",
+    "somali": "Waxaan jeclaan lahaa inaan qabsado miis laba qof ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_003",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Could I have the menu, please?",
+    "somali": "Ma heli karaa liiska cuntada, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_004",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Is this dish spicy?",
+    "somali": "Cuntadani ma basbaas badan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_005",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "I'll have the grilled fish.",
+    "somali": "Waxaan qaadanayaa kalluunka la dubay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_006",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Could we have some water for the table?",
+    "somali": "Miiska ma noo keeni kartaa biyo?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_007",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Do you have any vegetarian dishes?",
+    "somali": "Ma haysaan cuntooyin aan hilib lahayn?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_008",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Can you make it mild?",
+    "somali": "Ma ka dhigi kartaa mid aan basbaas badnayn?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_009",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "The food is delicious.",
+    "somali": "Cuntadu aad bay u macaan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_010",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Could I have another plate?",
+    "somali": "Ma heli karaa saxan kale?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_011",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Is service included?",
+    "somali": "Adeeggu biilka ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_012",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "We are ready to order.",
+    "somali": "Waxaan diyaar u nahay inaan dalbanno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_013",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Can we share this dish?",
+    "somali": "Cuntadan ma wadaagi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_014",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Please bring the bill when you can.",
+    "somali": "Fadlan biilka noo keen markaad awooddo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_015",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "The soup is too salty.",
+    "somali": "Maraqani cusbo badan ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_016",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Could you warm this up, please?",
+    "somali": "Tan ma ii kululeyn kartaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_017",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Everything was excellent, thank you.",
+    "somali": "Wax walba way fiicnaayeen, mahadsanid.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_018",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Do you have a table near the window?",
+    "somali": "Miis daaqadda u dhow ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_019",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "I would like tea after the meal.",
+    "somali": "Waxaan jeclaan lahaa shaah cuntada ka dib.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_restaurant_020",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": "Have a nice evening.",
+    "somali": "Fiid wanaagsan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "farewell",
+    "keywords": [
+      "food",
+      "dining",
+      "restaurant"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_001",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can I have a chicken burger?",
+    "somali": "Ma heli karaa burger digaag ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_002",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "I would like fries with that.",
+    "somali": "Waxaan taas la rabaa baradho shiilan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_003",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Make it a meal, please.",
+    "somali": "Fadlan ka dhig xirmo cunto ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_004",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "No onions, please.",
+    "somali": "Basal ha lagu darin, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_005",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can I have extra sauce?",
+    "somali": "Suugo dheeraad ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_006",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Is this available as a combo?",
+    "somali": "Tani xirmo ahaan ma loo heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_007",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "I would like a small drink.",
+    "somali": "Waxaan rabaa cabitaan yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_008",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can I change the drink?",
+    "somali": "Cabitaanka ma beddeli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_009",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Please make the fries fresh.",
+    "somali": "Fadlan baradhada shiilan cusub ka dhig.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_010",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Is this chicken halal?",
+    "somali": "Digaaggan ma xalaal baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_011",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can I get this without cheese?",
+    "somali": "Tan farmaajo la'aan ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_012",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "How long will the order take?",
+    "somali": "Dalabku intee ayuu qaadanayaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_013",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "My order is missing a drink.",
+    "somali": "Dalabkayga cabitaan ayaa ka maqan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_014",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "This is not what I ordered.",
+    "somali": "Tani ma aha waxa aan dalbaday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_015",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can you give me some napkins?",
+    "somali": "Fadlan ma i siin kartaa marooyin yar yar?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_016",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "I will eat here.",
+    "somali": "Halkan ayaan ku cunayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_017",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "I will take it away.",
+    "somali": "Waan sii qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_018",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Can I pay at the counter?",
+    "somali": "Miiska lacag-bixinta ma ka bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_019",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Please put the sauce on the side.",
+    "somali": "Fadlan suugada dhinac ii saar.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fast_food_020",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": "Thank you, that is everything.",
+    "somali": "Mahadsanid, intaas ayaa dhan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "food",
+      "dining",
+      "fast food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_001",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Where is the rice?",
+    "somali": "Xaggee bariisku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_002",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "How much is this bag of flour?",
+    "somali": "Immisa ayay tahay bacdan burka ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_003",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Do you have fresh milk?",
+    "somali": "Caano cusub ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_004",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "I need one kilogram of sugar.",
+    "somali": "Waxaan u baahanahay hal kiilo oo sonkor ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_005",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Can you weigh these tomatoes?",
+    "somali": "Yaanyadan ma miisaami kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_006",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Is this fruit sold by weight?",
+    "somali": "Midhahan miisaan ma lagu iibiyaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_007",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Do you have cooking oil?",
+    "somali": "Saliid wax lagu kariyo ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_008",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Please give me a small bag.",
+    "somali": "Fadlan bac yar i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_009",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "This item has no price tag.",
+    "somali": "Shaygani qiime kuma qorna.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_010",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Are these eggs fresh?",
+    "somali": "Ukumahani ma cusub yihiin?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_011",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "I am looking for tea leaves.",
+    "somali": "Waxaan raadinayaa caleenta shaaha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_012",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Can I buy half a kilo?",
+    "somali": "Nus kiilo ma iibsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_013",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Do you have a cheaper brand?",
+    "somali": "Nooc ka jaban ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_014",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Please check the total again.",
+    "somali": "Fadlan wadarta mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_015",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "I forgot to buy salt.",
+    "somali": "Waxaan illaaway inaan cusbo iibsado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_016",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Where are the frozen foods?",
+    "somali": "Xaggee cuntooyinka la qaboojiyey yaallaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_017",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "Can you pack the bread separately?",
+    "somali": "Rootiga gooni ma u xirxiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_018",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "This milk expires tomorrow.",
+    "somali": "Caanahani berri ayay dhacayaan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_019",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "I only need a few onions.",
+    "somali": "Waxaan u baahanahay dhowr basal oo keliya.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_grocery_shopping_020",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": "That is all for today.",
+    "somali": "Intaas ayaa maanta igu filan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "grocery shopping"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_001",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Are these mangoes ripe?",
+    "somali": "Cambahan ma bislaadeen?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_002",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "I would like six bananas.",
+    "somali": "Waxaan rabaa lix moos.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_003",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Can I taste an orange?",
+    "somali": "Liin ma dhadhamin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_004",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "These apples look fresh.",
+    "somali": "Tufaaxyadani waxay u muuqdaan kuwo cusub.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_005",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "How much is a kilo of grapes?",
+    "somali": "Kiilada canabka immisa ayay tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_006",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Please choose sweet watermelon for me.",
+    "somali": "Fadlan ii dooro qaraha macaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_007",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Do you have seedless grapes?",
+    "somali": "Canab aan iniin lahayn ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_008",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "This pineapple is too sour.",
+    "somali": "Cananaaskan aad buu u dhanaan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_009",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Can you cut the melon?",
+    "somali": "Qaraha ma jarjari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_010",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "I need fruit for the children.",
+    "somali": "Carruurta ayaan miro ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_011",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Which fruit is in season?",
+    "somali": "Midhaha xilligan la helo waa kuwee?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_012",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Please do not give me bruised fruit.",
+    "somali": "Fadlan ha i siin miro dhaawacmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_013",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "I want a small papaya.",
+    "somali": "Waxaan rabaa babaay yar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_014",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "The strawberries are too expensive.",
+    "somali": "Istarawberigu aad buu qaali u yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_015",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Can I mix different fruits?",
+    "somali": "Miro kala duwan ma isku dari karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_016",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "These dates are very sweet.",
+    "somali": "Timirtani aad bay u macaan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_017",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Please wash the fruit first.",
+    "somali": "Fadlan marka hore miraha dhaq.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_018",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Do you sell fruit juice?",
+    "somali": "Casiir miro ma iibisaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_019",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "I need lemons for tea.",
+    "somali": "Shaah ayaan liin ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_fruits_020",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": "Put the soft fruit on top, please.",
+    "somali": "Fadlan miraha jilicsan dusha saar.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "fruits"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_001",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Do you have fresh spinach?",
+    "somali": "Isbinaaj cusub ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_002",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "I need potatoes for dinner.",
+    "somali": "Cashada ayaan baradho ugu baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_003",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "How much are the carrots?",
+    "somali": "Karootadu immisa ayay tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_004",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Please give me two onions.",
+    "somali": "Fadlan i sii laba basal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_005",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Are these tomatoes local?",
+    "somali": "Yaanyadani ma kuwa gudaha ah baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_006",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "The lettuce looks fresh.",
+    "somali": "Saladhkani wuxuu u muuqdaa mid cusub.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_007",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Can you wash the vegetables?",
+    "somali": "Khudaarta ma dhaqi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_008",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "I need green peppers.",
+    "somali": "Waxaan u baahanahay basbaas cagaaran.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_009",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "This cucumber is soft.",
+    "somali": "Qajaarkani wuu jilicsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_010",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Do you sell garlic?",
+    "somali": "Toon ma iibisaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_011",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Please cut the cabbage in half.",
+    "somali": "Fadlan kaabashka kala bar ii jar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_012",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "I want vegetables for soup.",
+    "somali": "Waxaan rabaa khudaar maraq loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_013",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Are these peas frozen?",
+    "somali": "Digirtani ma la qaboojiyey?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_014",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Can I have a small bag of beans?",
+    "somali": "Bac yar oo digir ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_015",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "The broccoli is too expensive.",
+    "somali": "Brookoligu aad buu qaali u yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_016",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Which vegetables cook quickly?",
+    "somali": "Khudaartee si dhaqso ah u bislaata?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_017",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "I need fresh coriander.",
+    "somali": "Waxaan u baahanahay kabsar caleen cusub.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_018",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Please remove the bad leaves.",
+    "somali": "Fadlan caleemaha xun ka saar.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_019",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "This pumpkin is heavy.",
+    "somali": "Bocorkani wuu culus yahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_vegetables_020",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": "Pack the vegetables separately.",
+    "somali": "Khudaarta gooni ii xirxir.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "vegetables"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_001",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Is this meat fresh?",
+    "somali": "Hilibkani ma cusub yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_002",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "I need one kilo of beef.",
+    "somali": "Waxaan u baahanahay hal kiilo oo hilib lo'aad ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_003",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Do you have halal meat?",
+    "somali": "Hilib xalaal ah ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_004",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Please cut it into small pieces.",
+    "somali": "Fadlan qaybo yaryar u jar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_005",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "I would like chicken breast.",
+    "somali": "Waxaan rabaa feer digaag.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_006",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Is the lamb tender?",
+    "somali": "Wanka ma jilicsan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_007",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Can you remove the fat?",
+    "somali": "Baruurta ma ka saari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_008",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "This meat has too much bone.",
+    "somali": "Hilibkan laf badan ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_009",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Do you sell minced meat?",
+    "somali": "Hilib shiidan ma iibisaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_010",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Please weigh it again.",
+    "somali": "Fadlan mar kale miisaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_011",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "I need meat for stew.",
+    "somali": "Waxaan hilib ugu baahanahay maraq.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_012",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Can you slice it thinly?",
+    "somali": "Si khafiif ah ma u jarjari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_013",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Is this chicken frozen?",
+    "somali": "Digaaggani ma la qaboojiyey?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_014",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "I only want half a kilo.",
+    "somali": "Waxaan rabaa nus kiilo oo keliya.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_015",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "The price is too high.",
+    "somali": "Qiimuhu aad buu u sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_016",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Please pack the meat well.",
+    "somali": "Fadlan hilibka si fiican u xirxir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_017",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Do you have liver today?",
+    "somali": "Maanta beer ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_018",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "I do not want bones.",
+    "somali": "Laf ma rabo.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_019",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Can you clean the fish?",
+    "somali": "Kalluunka ma nadiifin kartaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_meat_020",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": "Thank you, that is enough.",
+    "somali": "Mahadsanid, intaas ayaa ku filan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "food",
+      "dining",
+      "meat"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_001",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Could I have a glass of water?",
+    "somali": "Koob biyo ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_002",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "I would like tea with milk.",
+    "somali": "Waxaan rabaa shaah caano leh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_003",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "No sugar, please.",
+    "somali": "Sonkor ha lagu darin, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_004",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Do you have fresh juice?",
+    "somali": "Casiir cusub ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_005",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Is the coffee strong?",
+    "somali": "Bunku ma xoog badan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_006",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Can I have a cold drink?",
+    "somali": "Cabitaan qabow ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_007",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "This juice is too sweet.",
+    "somali": "Casiirkani sonkor badan ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_008",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Please bring another bottle of water.",
+    "somali": "Fadlan dhalo kale oo biyo ah keen.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_009",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Do you have bottled water?",
+    "somali": "Biyo dhalo ku jira ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_010",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "I would like a small cup.",
+    "somali": "Waxaan rabaa koob yar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_011",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Can you make the tea stronger?",
+    "somali": "Shaaha ma ka dhigi kartaa mid xoog badan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_012",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "The drink is not cold.",
+    "somali": "Cabitaanku qabow ma aha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_013",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Do you serve smoothies?",
+    "somali": "Cabitaan miro la shiiday ma bixisaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_014",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "I need a straw, please.",
+    "somali": "Waxaan u baahanahay dhuun cabitaan, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_015",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Can I have lemon in my tea?",
+    "somali": "Shaahayga liin ma lagu dari karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_016",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "This milk tastes sour.",
+    "somali": "Caanahani waxay dhadhamiyaan dhanaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_017",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Please fill the cup halfway.",
+    "somali": "Fadlan koobka kala bar buuxi.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_018",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "I prefer hot drinks.",
+    "somali": "Waxaan doorbidaa cabitaanno kulul.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_019",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "Do you have decaf coffee?",
+    "somali": "Bun aan kafeyn lahayn ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_drinks_020",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": "That drink was refreshing.",
+    "somali": "Cabitaankaasi wuu nasinayay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "drinks"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_001",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "What desserts do you have?",
+    "somali": "Macmacaan noocee ah ayaad haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_002",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "I would like a slice of cake.",
+    "somali": "Waxaan rabaa gabal keeg ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_003",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Is this dessert very sweet?",
+    "somali": "Macmacaankani aad ma u macaan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_004",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Do you have ice cream?",
+    "somali": "Jalaato ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_005",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Can I have chocolate cake?",
+    "somali": "Keeg shukulaato ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_006",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Please bring two spoons.",
+    "somali": "Fadlan keen laba qaaddo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_007",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "This pudding is delicious.",
+    "somali": "Macmacaankani aad buu u macaan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_008",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Do you have fruit salad?",
+    "somali": "Saladh miro ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_009",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "I want something light.",
+    "somali": "Waxaan rabaa wax fudud.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_010",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Can we share one dessert?",
+    "somali": "Hal macmacaan ma wadaagi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_011",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Is there nuts in this cake?",
+    "somali": "Keeggan lows ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_012",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Please put the sauce on the side.",
+    "somali": "Fadlan suugada dhinac saar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_013",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "I am too full for dessert.",
+    "somali": "Aad baan u dheregsanahay, macmacaan ma qaadan karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_014",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Do you have a dessert menu?",
+    "somali": "Liiska macmacaanka ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_015",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "The ice cream is melting.",
+    "somali": "Jalaatadu way dhalaalaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_016",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Can I take this cake home?",
+    "somali": "Keeggan guriga ma u qaadan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_017",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "This is too sweet for me.",
+    "somali": "Tani aniga aad bay iigu macaan tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_018",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "I would like tea with dessert.",
+    "somali": "Macmacaanka waxaan la rabaa shaah.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_019",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "Please pack the remaining cake.",
+    "somali": "Fadlan xirxir keegga haray.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_desserts_020",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": "That was a lovely dessert.",
+    "somali": "Macmacaankaasi aad buu u fiicnaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "desserts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_001",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I am allergic to peanuts.",
+    "somali": "Waxaan xasaasiyad ka qabaa looska.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_002",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Does this contain milk?",
+    "somali": "Tani caano ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_003",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I cannot eat shellfish.",
+    "somali": "Ma cuni karo kalluun qolof leh.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_004",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Please make it without nuts.",
+    "somali": "Fadlan lows la'aan ka dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_005",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Is there gluten in this bread?",
+    "somali": "Rootigan gluten ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_006",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I have a serious food allergy.",
+    "somali": "Waxaan qabaa xasaasiyad cunto oo daran.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_007",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Can you check the ingredients?",
+    "somali": "Ma hubin kartaa waxyaabaha ku jira?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_008",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I need food without eggs.",
+    "somali": "Waxaan u baahanahay cunto ukun la'aan ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_009",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Does the sauce contain sesame?",
+    "somali": "Suugadu sisin ma ku jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_010",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Please tell the kitchen about my allergy.",
+    "somali": "Fadlan jikada u sheeg xasaasiyaddayda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_011",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I cannot eat spicy food.",
+    "somali": "Ma cuni karo cunto basbaas badan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_012",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Is this cooked with butter?",
+    "somali": "Tani subag ma lagu kariyey?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_013",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I need a separate clean spoon.",
+    "somali": "Waxaan u baahanahay qaaddo nadiif ah oo gooni ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_014",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Please do not mix it with seafood.",
+    "somali": "Fadlan ha ku darin cunto badeed.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_015",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "My child is allergic to milk.",
+    "somali": "Ilmahaygu caano ayuu xasaasiyad ka qabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_016",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Can you prepare it safely?",
+    "somali": "Si ammaan ah ma u diyaarin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_017",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I feel sick after eating this.",
+    "somali": "Cuntadan ka dib waan xanuunsaday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_018",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "I need to avoid wheat.",
+    "somali": "Waxaan u baahanahay inaan iska ilaaliyo qamadiga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_019",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Does this dish have hidden ingredients?",
+    "somali": "Cuntadani waxyaabo qarsoon ma ku jiraan?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_allergies_020",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": "Thank you for checking carefully.",
+    "somali": "Waad ku mahadsan tahay inaad si taxaddar leh u hubisay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "food",
+      "dining",
+      "allergies"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_001",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "How do I cook this rice?",
+    "somali": "Sideen u kariyaa bariiskan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_002",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Boil the water first.",
+    "somali": "Marka hore biyaha karkari.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_003",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Add a little salt.",
+    "somali": "Ku dar cusbo yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_004",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Stir the soup slowly.",
+    "somali": "Maraqda si tartiib ah u walaaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_005",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Fry the onions until soft.",
+    "somali": "Basasha shiil ilaa ay jilcayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_006",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Can you show me the recipe?",
+    "somali": "Cuntada karinteeda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_007",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "The food is not cooked yet.",
+    "somali": "Cuntadu weli ma bislaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_008",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Turn down the heat.",
+    "somali": "Dabka hoos u dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_009",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Leave it to cook for ten minutes.",
+    "somali": "U daa inay toban daqiiqo karsato.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_010",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Do I need more oil?",
+    "somali": "Saliid dheeraad ah ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_011",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Taste it before serving.",
+    "somali": "Dhadhamin ka hor intaadan bixin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_012",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "The sauce is too thick.",
+    "somali": "Suugadu aad bay u qaro weyn tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_013",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Add more water.",
+    "somali": "Biyo dheeraad ah ku dar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_014",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Chop the vegetables finely.",
+    "somali": "Khudaarta si yaryar u jarjar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_015",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "The meat needs more time.",
+    "somali": "Hilibku wuxuu u baahan yahay waqti dheeraad ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_016",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Do not burn the garlic.",
+    "somali": "Toonta ha gubin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_017",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Cover the pot, please.",
+    "somali": "Fadlan dabool dheriga.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_018",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "Can you teach me this dish?",
+    "somali": "Cuntadan ma i bari kartaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_019",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "It smells very good.",
+    "somali": "Aad bay u ur fiican tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_cooking_020",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": "The food is ready.",
+    "somali": "Cuntadii way diyaar tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "cooking"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_001",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Where is the knife?",
+    "somali": "Xaggee mindidu taallaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_002",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "I need a cutting board.",
+    "somali": "Waxaan u baahanahay loox wax lagu jarjaro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_003",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Can you pass me the pot?",
+    "somali": "Dheriga ma ii dhiibi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_004",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "The pan is too hot.",
+    "somali": "Birta wax lagu shiilo aad bay u kulushahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_005",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Use a clean spoon.",
+    "somali": "Isticmaal qaaddo nadiif ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_006",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Where do you keep the plates?",
+    "somali": "Xaggee saxamada dhigtaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_007",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Please wash the cups.",
+    "somali": "Fadlan koobabka dhaq.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_008",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "The blender is not working.",
+    "somali": "Mashiinka wax lagu shiido ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_009",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "I need a large bowl.",
+    "somali": "Waxaan u baahanahay baaquli weyn.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_010",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Put the food in the oven.",
+    "somali": "Cuntada geli foornada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_011",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Can I use this fork?",
+    "somali": "Fargeetadan ma isticmaali karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_012",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "The lid does not fit.",
+    "somali": "Daboolku ma le'eka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_013",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Please dry the dishes.",
+    "somali": "Fadlan weelasha qalaji.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_014",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Where is the kitchen towel?",
+    "somali": "Xaggee tuwaalka jikadu yaal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_015",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "The stove is on.",
+    "somali": "Shooladdu way shidan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "warning",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_016",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Turn off the gas.",
+    "somali": "Gaaska dami.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_017",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "This knife is sharp.",
+    "somali": "Mindidani way af badan tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "warning",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_018",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "I need a measuring cup.",
+    "somali": "Waxaan u baahanahay koob wax lagu cabbiro.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_019",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "Put the utensils in the drawer.",
+    "somali": "Qalabka ku rid khaanadda.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_kitchen_020",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": "The kitchen is clean now.",
+    "somali": "Jikadu hadda way nadiif tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "kitchen"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_001",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Can I have the bill, please?",
+    "somali": "Biilka ma heli karaa, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_002",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Is service included in the bill?",
+    "somali": "Adeeggu biilka ma ku jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_003",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Can we pay separately?",
+    "somali": "Gooni gooni ma u bixin karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_004",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "I will pay by card.",
+    "somali": "Kaarka ayaan ku bixinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_005",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Do you accept cash?",
+    "somali": "Lacag caddaan ah ma qaadataan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_006",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "The total seems too high.",
+    "somali": "Wadartu waxay u muuqataa mid aad u badan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_007",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Could you check the bill again?",
+    "somali": "Biilka mar kale ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_008",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "This item is not ours.",
+    "somali": "Shaygani annaga ma lihin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_009",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Please add a tip.",
+    "somali": "Fadlan ku dar abaalmarin adeeg.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_010",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "I need a receipt.",
+    "somali": "Waxaan u baahanahay rasiidh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_011",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Can you print the receipt?",
+    "somali": "Rasiidka ma daabici kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_012",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "My card was declined.",
+    "somali": "Kaarkayga waa la diiday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_013",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Can I try another card?",
+    "somali": "Kaarka kale ma isku dayi karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_014",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Please split the bill in half.",
+    "somali": "Fadlan biilka laba u qaybi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_015",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "I already paid for the drinks.",
+    "somali": "Cabitaannada horay ayaan u bixiyay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_016",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Keep the change.",
+    "somali": "Lacagta kuu hartay adigu hayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_017",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "How much do I owe?",
+    "somali": "Immisa ayaan bixinayaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_018",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "The payment went through.",
+    "somali": "Lacag-bixintu way dhacday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "confirmation",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_019",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Please charge this amount.",
+    "somali": "Fadlan lacagtaan ka qaad.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_paying_bill_020",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": "Thank you, everything is paid.",
+    "somali": "Mahadsanid, wax walba waa la bixiyay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "confirmation",
+    "keywords": [
+      "food",
+      "dining",
+      "paying bill"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_001",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I am ready to order.",
+    "somali": "Waxaan diyaar u ahay inaan dalbado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_002",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "What do you recommend?",
+    "somali": "Maxaad ii soo jeedinaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_003",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I would like chicken and rice.",
+    "somali": "Waxaan rabaa digaag iyo bariis.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_004",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Can I order without onions?",
+    "somali": "Basal la'aan ma dalban karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_005",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Please add extra sauce.",
+    "somali": "Fadlan suugo dheeraad ah ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_006",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I want the small portion.",
+    "somali": "Waxaan rabaa qaybta yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_007",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Can I change my order?",
+    "somali": "Dalabkayga ma beddeli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_008",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Please cancel the soup.",
+    "somali": "Fadlan maraqa ka saar dalabka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_009",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "How long will the food take?",
+    "somali": "Cuntadu intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_010",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Can I order for takeaway?",
+    "somali": "Cunto aan sii qaato ma dalban karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_011",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I ordered the fish, not the chicken.",
+    "somali": "Waxaan dalbaday kalluunka, ma aha digaagga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "correction",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_012",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Please make the rice plain.",
+    "somali": "Fadlan bariiska caadi ka dhig.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_013",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Can I have the sauce separately?",
+    "somali": "Suugada gooni ma u heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_014",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I would like the same order again.",
+    "somali": "Dalabkii hore oo kale ayaan mar kale rabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_015",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "This order is for three people.",
+    "somali": "Dalabkani wuxuu u yahay saddex qof.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_016",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Please do not make it spicy.",
+    "somali": "Fadlan basbaas ha ka dhigin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_017",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Can you bring the drinks first?",
+    "somali": "Cabitaannada marka hore ma keeni kartaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_018",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "I forgot to order bread.",
+    "somali": "Waxaan illaaway inaan rooti dalbado.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_019",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "That is all for now.",
+    "somali": "Intaas ayaa hadda igu filan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_ordering_food_020",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": "Thank you for taking my order.",
+    "somali": "Waad ku mahadsan tahay inaad dalabkayga qaadday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "food",
+      "dining",
+      "ordering food"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_001",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Keep this food in the fridge.",
+    "somali": "Cuntadan ku hay qaboojiyaha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_002",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Can I freeze this meat?",
+    "somali": "Hilibkan ma qaboojin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_003",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "This milk must stay cold.",
+    "somali": "Caanahan waa inay qabow ahaadaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_004",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Do not leave the food outside.",
+    "somali": "Cuntada bannaanka ha dhigin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_005",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "The leftovers are in the container.",
+    "somali": "Cuntadii hartay waxay ku jirtaa weelka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_006",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Please cover the pot.",
+    "somali": "Fadlan dabool dheriga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_007",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "This food has gone bad.",
+    "somali": "Cuntadani way xumaatay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_008",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Check the expiry date.",
+    "somali": "Hubi taariikhda dhicitaanka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_009",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "The bread is dry now.",
+    "somali": "Rootigu hadda wuu qallalay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_010",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Put the rice in a sealed container.",
+    "somali": "Bariiska geli weel si fiican u xiran.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_011",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Can I reheat this tomorrow?",
+    "somali": "Berri tan ma kululeyn karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_012",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Store the vegetables separately.",
+    "somali": "Khudaarta gooni u kaydi.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_013",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "The freezer is full.",
+    "somali": "Qaboojiyaha barafka wuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_014",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Do not mix raw meat with cooked food.",
+    "somali": "Hilibka cayriin ha ku darin cuntada bisil.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_015",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "This sauce needs to be refrigerated.",
+    "somali": "Suugadan waa in qaboojiye lagu rido.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_016",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Please label the container.",
+    "somali": "Fadlan weelka calaamad saar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_017",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "The food smells strange.",
+    "somali": "Cuntadu ur yaab leh ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_018",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "Throw away the spoiled food.",
+    "somali": "Tuur cuntada xumaatay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_019",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "How long can I keep this?",
+    "somali": "Intee ayaan tan hayn karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_food_food_storage_020",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": "The food is safe to eat.",
+    "somali": "Cuntadu waa ammaan in la cuno.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "confirmation",
+    "keywords": [
+      "food",
+      "dining",
+      "storage"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  }
+]

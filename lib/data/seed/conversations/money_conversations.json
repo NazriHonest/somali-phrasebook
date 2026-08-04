@@ -1,0 +1,1151 @@
+[
+  {
+    "id": "conversation_money_cash_001",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "title": "Paying with Cash",
+    "somali_title": "Lacag caddaan ah lagu bixinayo",
+    "situation": "A customer pays with cash, uses a note and coins, and checks the change.",
+    "somali_situation": "Macmiil ayaa lacag caddaan ah bixinaya, wuxuuna isticmaalayaa warqad lacag ah iyo qadaadiic kadibna wuxuu hubinayaa lacagta loo celiyo.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "cash",
+      "note",
+      "coin",
+      "change",
+      "exact amount"
+    ],
+    "key_phrases": [
+      "Can I pay in cash?",
+      "Do you have the exact amount?",
+      "I have a ten-dollar note.",
+      "I also have two coins.",
+      "No change today."
+    ],
+    "grammar_focus": [
+      "how much",
+      "have got",
+      "can I pay",
+      "countable money expressions",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I pay in cash?",
+        "somali": "Lacag caddaan ah ma ku bixin karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes. Do you have the exact amount?",
+        "somali": "Haa. Ma haysaa qadarka saxda ah?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I have a ten-dollar note.",
+        "somali": "Waxaan haystaa warqad toban doolar ah."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The total is nine dollars and fifty cents.",
+        "somali": "Wadartu waa sagaal doolar iyo konton senti."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I also have two coins.",
+        "somali": "Waxaan kaloo haystaa laba qadaadiic."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Thank you. That is the exact amount.",
+        "somali": "Mahadsanid. Taasi waa qadarka saxda ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do I get any change?",
+        "somali": "Wax lacag celin ah ma helayaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "No change today.",
+        "somali": "Maanta lacag celin ma jirto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_credit_card_001",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "title": "Paying by Credit Card",
+    "somali_title": "Kaarka deynta oo lacag lagu bixinayo",
+    "situation": "A customer pays by credit card, tries contactless payment, enters a PIN, and asks about a declined transaction.",
+    "somali_situation": "Macmiil ayaa kaarka deynta ku bixinaya lacag, wuxuu isku dayayaa bixinta taabashada, wuxuu gelinayaa PIN, kadibna wuxuu weydiinayaa macaamil diidmay.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "card",
+      "contactless",
+      "PIN",
+      "declined",
+      "transaction",
+      "credit"
+    ],
+    "key_phrases": [
+      "Can I pay by credit card?",
+      "You can use contactless.",
+      "Please enter your PIN.",
+      "The transaction was declined.",
+      "Please try the card again first."
+    ],
+    "grammar_focus": [
+      "can I pay by",
+      "passive payment messages",
+      "present perfect for charges",
+      "conditionals for retrying",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I pay by credit card?",
+        "somali": "Kaarka deynta ma ku bixin karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, you can use contactless.",
+        "somali": "Haa, waxaad isticmaali kartaa bixinta taabashada."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The card is not reading.",
+        "somali": "Kaarku ma akhrismayo."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Then please enter your PIN.",
+        "somali": "Markaa fadlan geli PIN-kaaga."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It says the transaction was declined.",
+        "somali": "Waxay leedahay macaamilka waa la diiday."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "That sometimes happens with a credit card.",
+        "somali": "Taasi mararka qaar way ku dhacdaa kaarka deynta."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I use another card?",
+        "somali": "Kaarka kale ma isticmaalaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Please try the card again first.",
+        "somali": "Fadlan marka hore kaarka mar kale isku day."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Now it says approved.",
+        "somali": "Hadda waxay leedahay waa la aqbalay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Good. Your payment is complete.",
+        "somali": "Waa fiican tahay. Lacag-bixintaadii way dhammaatay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_mobile_payment_001",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "title": "Sending a Mobile Payment",
+    "somali_title": "Lacag taleefan lagu dirayo",
+    "situation": "A customer sends a mobile payment to a shop, checks the recipient, and waits for confirmation after one failed transfer.",
+    "somali_situation": "Macmiil ayaa dukaanka lacag taleefan ugu diraya, wuxuu hubinayaa qofka qaata, wuxuuna sugayaa xaqiijin kadib markii hal dirid fashilanto.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "mobile payment",
+      "recipient",
+      "transfer",
+      "confirmation",
+      "failed",
+      "mobile",
+      "payment"
+    ],
+    "key_phrases": [
+      "Can I use mobile payment?",
+    "Check the recipient before you send it again.",
+      "The first transfer failed.",
+      "I have the confirmation now.",
+      "Your payment has arrived."
+    ],
+    "grammar_focus": [
+      "present perfect for transfers",
+      "imperatives in app instructions",
+      "numbers and amounts",
+      "conditionals",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I use mobile payment?",
+        "somali": "Lacag taleefan ma ku bixin karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes. The shop mobile number is on the screen.",
+        "somali": "Haa. Lambarka taleefanka dukaanku wuxuu ku yaal shaashadda."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Who is the recipient?",
+        "somali": "Yaa lacagta qaadanaya?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The recipient should say Green Market.",
+        "somali": "Qofka qaata waa inuu noqdaa Green Market."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It says the first transfer failed.",
+        "somali": "Waxay leedahay diriddii koowaad way fashilantay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Check the recipient before you send it again.",
+        "somali": "Hubi qofka qaata ka hor intaadan mar kale dirin."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Now the recipient is correct.",
+        "somali": "Hadda qofka qaata waa sax."
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Good. Send the mobile payment now.",
+        "somali": "Waa fiican tahay. Hadda dir lacagta taleefanka."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I have the confirmation now.",
+        "somali": "Hadda waxaan hayaa xaqiijinta."
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Please show me the confirmation code.",
+        "somali": "Fadlan i tus koodhka xaqiijinta."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Here it is on my mobile phone.",
+        "somali": "Waa kan taleefankayga ku jira."
+      },
+      {
+        "turn": 12,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Your payment has arrived.",
+        "somali": "Lacag-bixintaadii way timid."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_bank_001",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "title": "Making a Deposit at the Bank",
+    "somali_title": "Bangiga oo lacag lagu shubayo",
+    "situation": "A customer at a bank deposits cash, checks the account, asks about a later withdrawal, and confirms when the transaction will appear.",
+    "somali_situation": "Macmiil bangi jooga ayaa lacag caddaan ah dhigaya, wuxuu hubinayaa akoonka, wuxuu weydiinayaa lacag dambe oo la bixin karo, wuxuuna xaqiijinayaa goorta macaamilku muuqanayo.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Bank Teller"
+    ],
+    "key_vocabulary": [
+      "account",
+      "withdrawal",
+      "deposit",
+      "transaction",
+      "bank"
+    ],
+    "key_phrases": [
+      "I would like to make a deposit.",
+      "Which account should I use?",
+      "The transaction will appear today.",
+      "Can I make a withdrawal later?",
+      "This bank closes at five."
+    ],
+    "grammar_focus": [
+      "formal questions",
+      "conditionals",
+      "passive voice in notices",
+      "numbers and amounts",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I would like to make a deposit.",
+        "somali": "Waxaan rabaa inaan lacag dhigo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "Of course. Which account should I use?",
+        "somali": "Dabcan. Akoonkee ayaan isticmaalaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Use my savings account, please.",
+        "somali": "Fadlan isticmaal akoonkayga kaydka."
+      },
+      {
+        "turn": 4,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "How much are you depositing?",
+        "somali": "Immisa ayaad dhigaysaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Two hundred dollars in cash.",
+        "somali": "Laba boqol oo doolar oo caddaan ah."
+      },
+      {
+        "turn": 6,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "I will count it before I post the transaction.",
+        "somali": "Waan tirinayaa ka hor inta aan macaamilka gelin."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Will the transaction appear today?",
+        "somali": "Macaamilku maanta ma muuqan doonaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "Yes, the transaction will appear today.",
+        "somali": "Haa, macaamilku maanta wuu muuqan doonaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I make a withdrawal later?",
+        "somali": "Lacag ma la bixi karaa goor dambe?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "Yes, but bring your card and ID.",
+        "somali": "Haa, laakiin keen kaarkaaga iyo aqoonsigaaga."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is there a withdrawal limit?",
+        "somali": "Ma jiraa xad lacag-bixineed?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "There is a daily limit of five hundred dollars.",
+        "somali": "Waxaa jira xad maalinle ah oo ah shan boqol oo doolar."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good to know. What time does the bank close?",
+        "somali": "Waa fiican tahay inaan ogaado. Bangigu goormuu xirmayaa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "This bank closes at five.",
+        "somali": "Bangigan wuxuu xirmaa shanta."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then I will come back before five if I need cash.",
+        "somali": "Markaas waan soo noqon doonaa ka hor shanta haddii aan lacag caddaan ah u baahdo."
+      },
+      {
+        "turn": 16,
+        "speaker": "Bank Teller",
+        "somali_speaker": "Shaqaalaha bangiga",
+        "english": "That will be fine. Here is your deposit receipt.",
+        "somali": "Taasi waa hagaag. Waa kan rasiidka lacag dhigistaada."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_atm_001",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "title": "Using an ATM",
+    "somali_title": "Isticmaalka mashiinka lacagta",
+    "situation": "A customer uses an ATM, checks the balance, asks for a receipt, and reacts when the machine retains the card.",
+    "somali_situation": "Macmiil ayaa isticmaalaya mashiinka lacagta, wuxuu hubinayaa hadhaaga, wuxuu codsanayaa rasiid, wuxuuna la tacaalayaa marka mashiinku kaarka haysto.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Helper"
+    ],
+    "key_vocabulary": [
+      "withdraw",
+      "balance",
+      "PIN",
+      "receipt",
+      "card retained",
+      "atm"
+    ],
+    "key_phrases": [
+      "I want to withdraw cash.",
+      "Enter your PIN.",
+      "Check your balance first.",
+      "Do you want a receipt?",
+      "The ATM says card retained."
+    ],
+    "grammar_focus": [
+      "imperatives on screens",
+      "passive error messages",
+      "if clauses",
+      "amount questions",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I want to withdraw cash.",
+        "somali": "Waxaan rabaa inaan lacag caddaan ah la baxo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Helper",
+        "somali_speaker": "Caawiye",
+        "english": "Enter your PIN.",
+        "somali": "Geli lambarkaaga sirta ah."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I check my balance first?",
+        "somali": "Marka hore ma hubiyaa hadhaagayga?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Helper",
+        "somali_speaker": "Caawiye",
+        "english": "Yes, check your balance first.",
+        "somali": "Haa, marka hore hubi hadhaagaaga."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Now I can withdraw fifty dollars.",
+        "somali": "Hadda waxaan la bixi karaa konton doolar."
+      },
+      {
+        "turn": 6,
+        "speaker": "Helper",
+        "somali_speaker": "Caawiye",
+        "english": "Good. Do you want a receipt?",
+        "somali": "Waa fiican tahay. Rasiid ma rabtaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please. Wait, the ATM says card retained.",
+        "somali": "Haa, fadlan. Sug, mashiinku wuxuu leeyahay kaarkii waa la hayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Helper",
+        "somali_speaker": "Caawiye",
+        "english": "Stay here and call the bank number on the machine.",
+        "somali": "Halkan joog oo wac lambarka bangiga ee mashiinka ku yaal."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_exchange_001",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "title": "Exchanging Currency",
+    "somali_title": "Lacag qalaad oo la sarrifayo",
+    "situation": "A traveler asks to exchange dollars, checks the exchange rate and commission, and asks for a receipt.",
+    "somali_situation": "Socdaale ayaa codsanaya inuu doolar sarrifto, wuxuu hubinayaa qiimaha sarrifka iyo lacagta adeegga, wuxuuna codsanayaa rasiid.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "currency",
+      "exchange rate",
+      "commission",
+      "convert",
+      "receipt",
+      "exchange"
+    ],
+    "key_phrases": [
+      "I want to exchange dollars.",
+      "What is the exchange rate today?",
+      "Is there a commission?",
+      "Can you convert one hundred dollars?",
+      "Please give me a receipt."
+    ],
+    "grammar_focus": [
+      "how much will I get",
+      "comparatives",
+      "passive calculations",
+      "numbers and decimals",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I want to exchange dollars.",
+        "somali": "Waxaan rabaa inaan doolar sarrifto."
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Which currency do you need?",
+        "somali": "Lacagtee ayaad u baahan tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Somali shillings, please.",
+        "somali": "Shilin Soomaali ah, fadlan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The exchange rate is on the screen.",
+        "somali": "Qiimaha sarrifku wuxuu ku yaal shaashadda."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the exchange rate today?",
+        "somali": "Maanta qiimaha sarrifku waa imisa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "One dollar is this amount in shillings.",
+        "somali": "Hal doolar waa qaddarkan oo shilin ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is there a commission?",
+        "somali": "Lacag adeeg ma jirtaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, a small commission.",
+        "somali": "Haa, lacag adeeg oo yar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you convert one hundred dollars? Please give me a receipt.",
+        "somali": "Boqol doolar ma ii beddeli kartaa? Fadlan rasiid i sii."
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, I will exchange it now.",
+        "somali": "Haa, hadda ayaan kuu sarrifayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_bills_001",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "title": "Paying an Electricity Bill",
+    "somali_title": "Bixinta biilka korontada",
+    "situation": "A customer pays an electricity bill, checks the amount due and due date, and asks about a late charge.",
+    "somali_situation": "Macmiil ayaa bixinaya biilka korontada, wuxuu hubinayaa lacagta la rabo iyo taariikhda kama dambaysta ah, wuxuuna weydiinayaa ganaax dib-u-dhac ah.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "bill",
+      "amount due",
+      "due date",
+      "charge",
+      "payment",
+      "bills"
+    ],
+    "key_phrases": [
+      "I need to pay this bill.",
+      "What is the amount due?",
+      "The due date is Friday.",
+      "There is a late charge.",
+      "Your payment is recorded."
+    ],
+    "grammar_focus": [
+      "what is this charge for",
+      "present perfect for payment",
+      "must and need to",
+      "dates and amounts",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need to pay this bill.",
+        "somali": "Waxaan u baahanahay inaan biilkan bixiyo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Is it one of your electricity bills?",
+        "somali": "Ma mid ka mid ah biilashaada korontada baa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, it is the electricity bill.",
+        "somali": "Haa, waa biilka korontada."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "What is the account number?",
+        "somali": "Lambarka akoonku waa imisa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It is on the top of the bill.",
+        "somali": "Wuxuu ku yaal dusha biilka."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "I found it. What is the amount due?",
+        "somali": "Waan helay. Lacagta la rabo waa imisa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The amount due is eighty dollars.",
+        "somali": "Lacagta la rabo waa siddeetan doolar."
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The due date is Friday.",
+        "somali": "Taariikhda kama dambaysta ahi waa Jimce."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What happens after Friday?",
+        "somali": "Maxaa dhaca Jimcaha ka dib?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "There is a late charge.",
+        "somali": "Waxaa jira lacag ganaax dib-u-dhac ah."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then I will make the payment now.",
+        "somali": "Markaas hadda ayaan lacagta bixinayaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Your payment is recorded.",
+        "somali": "Lacag-bixintaada waa la diiwaangeliyay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_receipts_001",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "title": "Asking for a Receipt",
+    "somali_title": "Rasiid la codsanayo",
+    "situation": "A customer asks for a receipt after shopping, chooses a digital receipt, checks the total, and confirms proof of purchase.",
+    "somali_situation": "Macmiil ayaa dukaamaysi kadib rasiid codsanaya, wuxuu dooranayaa rasiid dijitaal ah, wuxuu hubinayaa wadarta, wuxuuna xaqiijinayaa caddeynta iibka.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "receipt",
+      "proof of purchase",
+      "item",
+      "total",
+      "digital receipt",
+      "receipts"
+    ],
+    "key_phrases": [
+      "Can I have a receipt?",
+    "I need proof of purchase for work.",
+      "The digital receipt can go to your email.",
+      "The total is on the bottom.",
+    "Which item was returned on my old receipt?"
+    ],
+    "grammar_focus": [
+      "can I have",
+      "past simple purchases",
+      "there is an error",
+      "present perfect",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I have a receipt?",
+        "somali": "Rasiid ma heli karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Of course. Do you want a paper receipt or a digital receipt?",
+        "somali": "Dabcan. Rasiid warqad ah mise rasiid dijitaal ah ayaad rabtaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "A digital receipt is fine.",
+        "somali": "Rasiid dijitaal ah waa hagaag."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The digital receipt can go to your email.",
+        "somali": "Rasiidka dijitaalka ah waxaa loo diri karaa iimaylkaaga."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need proof of purchase for work.",
+        "somali": "Waxaan shaqada ugu baahanahay caddeyn iib."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "This receipt is proof of purchase.",
+        "somali": "Rasiidkani waa caddeyn iib."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you show me the total?",
+        "somali": "Wadarta ma i tusi kartaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The total is on the bottom.",
+        "somali": "Wadartu waxay ku taallaa hoose."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I bought three items, correct?",
+        "somali": "Waxaan iibsaday saddex shay, sax miyaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, each item is listed here.",
+        "somali": "Haa, shay kasta halkan ayuu ku qoran yahay."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "If I return something later, do I need this receipt?",
+        "somali": "Haddii aan wax soo celiyo goor dambe, rasiidkan ma u baahanahay?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, returns are easier with receipts.",
+        "somali": "Haa, soo celintu way fududahay marka rasiidyo la haysto."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Which item was returned on my old receipt?",
+        "somali": "Shaygee ayaa lagu soo celiyay rasiidkaygii hore?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The blue bag was returned last week.",
+        "somali": "Bacda buluugga ah ayaa la soo celiyay toddobaadkii hore."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good, then this new receipt is clear.",
+        "somali": "Waa fiican tahay, markaas rasiidkan cusub wuu cad yahay."
+      },
+      {
+        "turn": 16,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "I sent it to your email now.",
+        "somali": "Hadda waxaan u diray iimaylkaaga."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_refunds_001",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "title": "Asking for a Refund",
+    "somali_title": "Lacag-celin la codsanayo",
+    "situation": "A customer returns a faulty item, asks about the return policy, and chooses a replacement instead of store credit.",
+    "somali_situation": "Macmiil ayaa soo celinaya shay ciladaysan, wuxuu weydiinayaa xeerka soo celinta, wuxuuna dooranayaa beddel halkii uu ka qaadan lahaa deyn dukaan.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "refund",
+      "faulty",
+      "return policy",
+      "store credit",
+      "replacement",
+      "refunds"
+    ],
+    "key_phrases": [
+      "I need a refund.",
+      "This item is faulty.",
+    "Our return policy allows refunds or store credit.",
+      "I do not want store credit.",
+      "I prefer a replacement."
+    ],
+    "grammar_focus": [
+      "would like a refund",
+      "past simple problem report",
+      "conditionals",
+      "passive refund timing",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need a refund.",
+        "somali": "Waxaan u baahanahay lacag-celin."
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "What is wrong with the item?",
+        "somali": "Maxaa ka khaldan shayga?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "This item is faulty.",
+        "somali": "Shaygani cilad ayuu leeyahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Our return policy allows refunds or store credit.",
+        "somali": "Xeerka soo celintayadu wuxuu oggol yahay lacag-celin ama deyn dukaan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I do not want store credit.",
+        "somali": "Ma rabo deyn dukaan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Do you prefer a replacement?",
+        "somali": "Ma doorbidaysaa beddel?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, I prefer a replacement.",
+        "somali": "Haa, waxaan doorbidayaa beddel."
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "I can give you a replacement today.",
+        "somali": "Maanta waxaan ku siin karaa beddel."
+      }
+    ]
+  },
+  {
+    "id": "conversation_money_discounts_001",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "title": "Using a Discount at the Shop",
+    "somali_title": "Dukaanka oo qiimo-dhimis lagu isticmaalayo",
+    "situation": "A shopper asks whether an item is on sale, checks eligibility, and uses one valid discount before it expires.",
+    "somali_situation": "Qof dukaamaysanaya ayaa weydiinaya in shaygu iib-dhimis ku jiro, wuxuu hubinayaa inuu xaq u leeyahay, wuxuuna isticmaalayaa hal qiimo-dhimis oo ansax ah ka hor inta uusan dhicin.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Cashier"
+    ],
+    "key_vocabulary": [
+      "discount",
+      "sale",
+    "ten percent off",
+      "eligible",
+      "expires",
+      "discounts"
+    ],
+    "key_phrases": [
+      "Is this item on sale?",
+      "The discount is ten percent off.",
+      "Am I eligible for the discount?",
+      "The offer expires tonight.",
+      "The discount is applied now."
+    ],
+    "grammar_focus": [
+      "how much is the discount",
+      "comparatives",
+      "conditionals for eligibility",
+      "dates",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is this item on sale?",
+        "somali": "Shaygani iib-dhimis ma ku jiraa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, the discount is ten percent off.",
+        "somali": "Haa, qiimo-dhimistu waa boqolkiiba toban."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Am I eligible for the discount?",
+        "somali": "Ma u qalmaa qiimo-dhimista?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "Yes, students are eligible today.",
+        "somali": "Haa, ardaydu maanta way u qalmaan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Does the offer expire soon?",
+        "somali": "Dalabku ma dhici doonaa dhowaan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The offer expires tonight.",
+        "somali": "Dalabku caawa ayuu dhacayaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I use two discounts?",
+        "somali": "Laba qiimo-dhimis ma isticmaali karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "No, only one discount at a time.",
+        "somali": "Maya, hal qiimo-dhimis oo keliya mar kasta."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "All right. Please apply it.",
+        "somali": "Hagaag. Fadlan ku dar."
+      },
+      {
+        "turn": 10,
+        "speaker": "Cashier",
+        "somali_speaker": "Qasnajiga",
+        "english": "The discount is applied now.",
+        "somali": "Qiimo-dhimistii hadda waa lagu daray."
+      }
+    ]
+  }
+]

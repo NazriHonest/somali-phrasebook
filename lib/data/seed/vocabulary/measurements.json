@@ -1,0 +1,598 @@
+[
+  {
+    "id": "vocab_measurements_length_length",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": {
+      "headword": "length",
+      "search_forms": [
+        "length",
+        "lengths"
+      ]
+    },
+    "somali": {
+      "translation": "dherer",
+      "alternative_translations": [],
+      "explanation": "Dhererka shay ama meel laga cabbiro hal daraf ilaa kan kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The measurement of something from one end to the other.",
+        "translation": "dherer",
+        "examples": [
+          {
+            "english": "What is the length of the table?",
+            "somali": "Immisa ayuu yahay dhererka miiska?"
+          },
+          {
+            "english": "Measure the length with a tape.",
+            "somali": "Ku cabbir dhererka mitir."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "measure the length",
+        "somali": "cabbir dhererka"
+      },
+      {
+        "english": "total length",
+        "somali": "wadarta dhererka"
+      },
+      {
+        "english": "length in metres",
+        "somali": "dherer mitir ahaan"
+      }
+    ],
+    "related_words": [
+      "width",
+      "height",
+      "metre"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Measuring furniture",
+      "Building work",
+      "Buying fabric"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Length"
+    }
+  },
+  {
+    "id": "vocab_measurements_weight_weight",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": {
+      "headword": "weight",
+      "search_forms": [
+        "weight",
+        "weights"
+      ]
+    },
+    "somali": {
+      "translation": "miisaan",
+      "alternative_translations": [],
+      "explanation": "Miisaanka qof ama shay."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "How heavy a person or object is.",
+        "translation": "miisaan",
+        "examples": [
+          {
+            "english": "What's the weight of this suitcase?",
+            "somali": "Immisa ayuu yahay miisaanka shandaddan?"
+          },
+          {
+            "english": "The package weighs two kilograms.",
+            "somali": "Baakaddu waxay miisaankeedu yahay laba kiilo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "body weight",
+        "somali": "miisaanka jirka"
+      },
+      {
+        "english": "lose weight",
+        "somali": "dhim miisaanka"
+      },
+      {
+        "english": "weight limit",
+        "somali": "xadka miisaanka"
+      }
+    ],
+    "related_words": [
+      "kilogram",
+      "scale",
+      "heavy"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Checking luggage",
+      "Visiting a clinic",
+      "Shipping parcels"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Weight"
+    }
+  },
+  {
+    "id": "vocab_measurements_volume_litre",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": {
+      "headword": "litre",
+      "search_forms": [
+        "litre",
+        "litres"
+      ]
+    },
+    "somali": {
+      "translation": "litir",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (volume) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "litir",
+        "examples": [
+          {
+            "english": "Can you tell me the litre?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the litre.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "litre measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "litre value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "litre unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Volume"
+    }
+  },
+  {
+    "id": "vocab_measurements_temperature_temperature",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": {
+      "headword": "temperature",
+      "search_forms": [
+        "temperature",
+        "temperatures"
+      ]
+    },
+    "somali": {
+      "translation": "heerkul",
+      "alternative_translations": [],
+      "explanation": "Heerka kulaylka ama qabowga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The degree of heat or cold.",
+        "translation": "heerkul",
+        "examples": [
+          {
+            "english": "The temperature is 30 degrees today.",
+            "somali": "Maanta heerkulku waa 30 darajo."
+          },
+          {
+            "english": "Take the patient's temperature.",
+            "somali": "Cabir heerkulka bukaanka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "high temperature",
+        "somali": "heerkul sare"
+      },
+      {
+        "english": "room temperature",
+        "somali": "heerkulka qolka"
+      },
+      {
+        "english": "temperature check",
+        "somali": "hubinta heerkulka"
+      }
+    ],
+    "related_words": [
+      "thermometer",
+      "fever",
+      "degree"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Weather forecast",
+      "Medical check",
+      "Cooking"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Temperature"
+    }
+  },
+  {
+    "id": "vocab_measurements_distance_distance",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": {
+      "headword": "distance",
+      "search_forms": [
+        "distance",
+        "distances"
+      ]
+    },
+    "somali": {
+      "translation": "masaafo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (distance) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "masaafo",
+        "examples": [
+          {
+            "english": "Can you tell me the distance?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the distance.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "distance measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "distance value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "distance unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Distance"
+    }
+  },
+  {
+    "id": "vocab_measurements_clothing_sizes_size",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": {
+      "headword": "size",
+      "search_forms": [
+        "size",
+        "sizes"
+      ]
+    },
+    "somali": {
+      "translation": "cabbir",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (clothing sizes) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "cabbir",
+        "examples": [
+          {
+            "english": "Can you tell me the size?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the size.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "size measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "size value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "size unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Clothing Sizes"
+    }
+  },
+  {
+    "id": "vocab_measurements_shoe_sizes_shoe_size",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": {
+      "headword": "shoe size",
+      "search_forms": [
+        "shoe size"
+      ]
+    },
+    "somali": {
+      "translation": "cabbirka kabaha",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (shoe sizes) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "cabbirka kabaha",
+        "examples": [
+          {
+            "english": "Can you tell me the shoe size?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the shoe size.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "shoe size measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "shoe size value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "shoe size unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Shoe Sizes"
+    }
+  },
+  {
+    "id": "vocab_measurements_cooking_measurements_spoon",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": {
+      "headword": "spoon",
+      "search_forms": [
+        "spoon",
+        "spoons"
+      ]
+    },
+    "somali": {
+      "translation": "qaaddo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (cooking measurements) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "qaaddo",
+        "examples": [
+          {
+            "english": "Can you tell me the spoon?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the spoon.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "spoon measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "spoon value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "spoon unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Cooking Measurements"
+    }
+  },
+  {
+    "id": "vocab_measurements_time_measurement_minute",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": {
+      "headword": "minute",
+      "search_forms": [
+        "minute",
+        "minutes"
+      ]
+    },
+    "somali": {
+      "translation": "daqiiqad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cabbirrada (time measurement) waxaana loo adeegsadaa nolol maalmeedka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common measurement term used in everyday situations.",
+        "translation": "daqiiqad",
+        "examples": [
+          {
+            "english": "Can you tell me the minute?",
+            "somali": "Ma ii sheegi kartaa?"
+          },
+          {
+            "english": "We measured the minute.",
+            "somali": "Waan cabbirnay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "minute measurement",
+        "somali": "cabbirka"
+      },
+      {
+        "english": "minute value",
+        "somali": "qiimaha"
+      },
+      {
+        "english": "minute unit",
+        "somali": "halbeegga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Cooking",
+      "Construction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Time Measurement"
+    }
+  }
+]

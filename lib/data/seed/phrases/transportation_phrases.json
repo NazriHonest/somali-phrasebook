@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_transportation_bus_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Where is the nearest bus stop?",
+    "somali": "Joogsiga baska ee ugu dhow xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Does this bus go to the city centre?",
+    "somali": "Baskani ma tagaa bartamaha magaalada?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "How much is the bus fare?",
+    "somali": "Lacagta baska waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Which bus goes to the hospital?",
+    "somali": "Baskee taga isbitaalka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "When is the next bus?",
+    "somali": "Baska xiga goorma ayuu imanayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Please stop at the next stop.",
+    "somali": "Fadlan joogsiga xiga ii jooji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "This is my stop.",
+    "somali": "Kani waa joogsigaygii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "The bus is very crowded.",
+    "somali": "Basku aad buu u buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Can I pay on the bus?",
+    "somali": "Baska dhexdiisa ma ku bixin karaa lacagta?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "I missed the bus.",
+    "somali": "Baskii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Is this seat free?",
+    "somali": "Kursigan ma bannaan yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Does this bus stop near the market?",
+    "somali": "Baskani suuqa agtiisa ma istaagaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Please move down the bus.",
+    "somali": "Fadlan gudaha baska u sii gudub.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "I need one bus ticket, please.",
+    "somali": "Hal tigidh bas ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "The bus is late.",
+    "somali": "Basku wuu soo daahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_bus_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_bus",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "bus"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Can I get a taxi here?",
+    "somali": "Halkan taksi ma ka heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please take me to this address.",
+    "somali": "Fadlan cinwaankan i gee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "How much will the taxi cost?",
+    "somali": "Taksigu immisa ayuu ku kacayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Can you use the meter?",
+    "somali": "Mitirka ma isticmaali kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please drive slowly.",
+    "somali": "Fadlan si tartiib ah u wad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Can you wait for me here?",
+    "somali": "Halkan ma igu sugi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please stop here.",
+    "somali": "Fadlan halkan istaag.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Do you accept card payments?",
+    "somali": "Kaarka ma ku qaadataa lacag?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "I will pay in cash.",
+    "somali": "Lacag caddaan ah ayaan bixinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Can I have a receipt?",
+    "somali": "Rasiid ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please follow the map.",
+    "somali": "Fadlan khariidadda raac.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "This is not the right address.",
+    "somali": "Kani ma aha cinwaankii saxda ahaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please drop me at the entrance.",
+    "somali": "Fadlan albaabka hore igu dejiso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "The fare is too high.",
+    "somali": "Qiimaha taksigu aad buu u sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Keep the change.",
+    "somali": "Lacagta soo hartay adigu qaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_taxi_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_taxi",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "taxi"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Where is the train station?",
+    "somali": "Saldhigga tareenka xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Which platform does the train leave from?",
+    "somali": "Tareenku madalkee ayuu ka baxayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "What time does the train leave?",
+    "somali": "Tareenku imisa ayuu baxayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Is this the train to London?",
+    "somali": "Kani ma tareenka London tagaya baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "I need a train ticket, please.",
+    "somali": "Tigidh tareen ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "The train has been delayed.",
+    "somali": "Tareenku wuu dib dhacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Do I need to change trains?",
+    "somali": "Ma inaan tareen kale u wareegaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Is this seat reserved?",
+    "somali": "Kursigan ma la sii qabsaday?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Can I get a return ticket?",
+    "somali": "Tigidh noqosho ah ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "I missed my train.",
+    "somali": "Tareenkaygii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Where is the exit from the station?",
+    "somali": "Meesha laga baxo saldhigga xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "The next train is on platform two.",
+    "somali": "Tareenka xiga madasha labaad ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "How long is the journey?",
+    "somali": "Safarku intee ayuu qaadanayaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Can I sit here?",
+    "somali": "Halkan ma fariisan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Please show me the timetable.",
+    "somali": "Fadlan jadwalka tareenka i tus.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_train_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_train",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "train"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Where is the check-in desk?",
+    "somali": "Miiska is-diiwaangelinta xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "I have a flight this morning.",
+    "somali": "Saaka duulimaad ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Can I see your passport?",
+    "somali": "Baasaboorkaaga ma arki karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Here is my boarding pass.",
+    "somali": "Waa kan tigidhkayga diyaaradda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Which gate is my flight?",
+    "somali": "Albaabkee ayuu duulimaadkaygu ka baxayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "My flight is delayed.",
+    "somali": "Duulimaadkaygii wuu dib dhacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Where is baggage claim?",
+    "somali": "Meesha boorsooyinka laga qaato xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "I need to check this bag.",
+    "somali": "Boorsadan waan dhiibayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Is this bag too heavy?",
+    "somali": "Boorsadani ma aad bay u culus tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Where is security?",
+    "somali": "Meesha baaritaanka amniga xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Please put your bag on the belt.",
+    "somali": "Fadlan boorsadaada saar suunka baaritaanka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "When does boarding start?",
+    "somali": "Fuulitaanka diyaaradda goorma ayuu bilaabmaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "The gate has changed.",
+    "somali": "Albaabkii duulimaadka waa la beddelay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "I cannot find my gate.",
+    "somali": "Albaabkaygii ma heli karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "My luggage is missing.",
+    "somali": "Shandaddaydii way maqan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Where can I get a taxi from the airport?",
+    "somali": "Garoonka xaggee taksi ka heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Is there a direct flight?",
+    "somali": "Duulimaad toos ah ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Do I need to remove my shoes?",
+    "somali": "Ma inaan kabahayga bixiyo?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Can you help me at the airport?",
+    "somali": "Garoonka ma igu caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_airport_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_airport",
+    "english": "Have a safe flight.",
+    "somali": "Duulimaad nabad ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "airport"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "I need one ticket, please.",
+    "somali": "Hal tigidh ayaan u baahanahay, fadlan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Can I buy a ticket here?",
+    "somali": "Halkan tigidh ma ka iibsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "How much is a return ticket?",
+    "somali": "Tigidhka noqoshadu waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Is this ticket still valid?",
+    "somali": "Tigidhkani weli ma shaqaynayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Please check my ticket.",
+    "somali": "Fadlan tigidhkayga eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "I lost my ticket.",
+    "somali": "Tigidhkaygii waan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Can I change this ticket?",
+    "somali": "Tigidhkan ma beddeli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "I booked the ticket online.",
+    "somali": "Tigidhka internetka ayaan ka qabsaday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Do I need to print the ticket?",
+    "somali": "Ma inaan tigidhka daabacaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Can you send the ticket to my phone?",
+    "somali": "Tigidhka taleefankayga ma iigu diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "The ticket machine is not working.",
+    "somali": "Mashiinka tigidhadu ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Which ticket do I need?",
+    "somali": "Tigidhkee ayaan u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "This is the wrong ticket.",
+    "somali": "Kani waa tigidh khaldan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Can I get a receipt for the ticket?",
+    "somali": "Tigidhka rasiid ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Please keep your ticket with you.",
+    "somali": "Fadlan tigidhkaaga hayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Where do I scan the ticket?",
+    "somali": "Xaggee ayaan tigidhka ku sawiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "The ticket price has changed.",
+    "somali": "Qiimaha tigidhku wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Can I pay for two tickets?",
+    "somali": "Laba tigidh ma bixin karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "The ticket includes one bag.",
+    "somali": "Tigidhku hal boorso ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_tickets_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_tickets",
+    "english": "Here is my ticket.",
+    "somali": "Waa kan tigidhkaygii.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "tickets"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Can I drive here?",
+    "somali": "Halkan ma wadi karaa gaari?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "I need to rent a car.",
+    "somali": "Waxaan u baahanahay inaan gaari kireysto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Please drive on the left.",
+    "somali": "Fadlan bidixda ka wad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Do I need an international licence?",
+    "somali": "Ma waxaan u baahanahay liisan caalami ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "The road is busy.",
+    "somali": "Waddadu way mashquul badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "There is traffic ahead.",
+    "somali": "Ciriiri waddo ayaa hore ka jira.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Please fasten your seat belt.",
+    "somali": "Fadlan suunka gaariga xiro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "The speed limit is thirty.",
+    "somali": "Xadka xawaaruhu waa soddon.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Can you show me the route?",
+    "somali": "Jidka ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "The car has broken down.",
+    "somali": "Gaarigii wuu ciladoobay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Can I turn right here?",
+    "somali": "Halkan midig ma u leexan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "This road is one way.",
+    "somali": "Waddadani waa hal jiho.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "I am learning to drive.",
+    "somali": "Waxaan baranayaa wadista gaariga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Drive carefully.",
+    "somali": "Si taxaddar leh u wad.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Where can I get the car repaired?",
+    "somali": "Xaggee gaariga ka dayactiran karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_driving_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_driving",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "driving"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Where is the nearest petrol station?",
+    "somali": "Kaalinta shidaalka ee ugu dhow xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "I need fuel for the car.",
+    "somali": "Gaariga shidaal ayuu u baahan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Please fill the tank.",
+    "somali": "Fadlan haanta buuxi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "How much is petrol per litre?",
+    "somali": "Litirka batroolka waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Do you have diesel?",
+    "somali": "Naafto ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "The fuel gauge is low.",
+    "somali": "Cabbirka shidaalku wuu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Can I pay at the pump?",
+    "somali": "Mashiinka agtiisa ma ku bixin karaa lacagta?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Please give me a receipt.",
+    "somali": "Fadlan rasiid i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "The pump is not working.",
+    "somali": "Mashiinka shidaalku ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Which pump should I use?",
+    "somali": "Mashiinkee ayaan isticmaalaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "I put in the wrong fuel.",
+    "somali": "Shidaal khaldan ayaan ku shubay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Is there an air pump here?",
+    "somali": "Halkan mashiinka hawada taayirrada ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "The car is almost out of fuel.",
+    "somali": "Gaarigu shidaal ayuu ku dhow yahay inuu ka dhammaado.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "I only need ten litres.",
+    "somali": "Toban litir oo keliya ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Thank you. The tank is full.",
+    "somali": "Mahadsanid. Haantii way buuxsantay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_fuel_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_fuel",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "fuel"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Where can I park?",
+    "somali": "Xaggee ayaan gaariga dhigan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Is parking free here?",
+    "somali": "Baarkinku halkan ma bilaash baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "How much is parking per hour?",
+    "somali": "Saacaddii baarkinku waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "I need a parking ticket.",
+    "somali": "Tigidh baarkin ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Can I park overnight?",
+    "somali": "Habeenkii gaariga ma dhigan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "This parking space is taken.",
+    "somali": "Meeshan baarkinka waa la qabsaday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Please do not block the entrance.",
+    "somali": "Fadlan albaabka ha xannibin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "The car park is full.",
+    "somali": "Baarkinku wuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Is there another car park nearby?",
+    "somali": "Baarkin kale oo dhow ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "I cannot find my car.",
+    "somali": "Gaarigaygii ma heli karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Which level did we park on?",
+    "somali": "Dabaqee ayaan gaariga dhignay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "The parking meter is broken.",
+    "somali": "Mitirka baarkinku wuu jaban yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Can I pay by phone?",
+    "somali": "Taleefan ma ku bixin karaa lacagta?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "My parking time has expired.",
+    "somali": "Waqtigii baarkinkaygu wuu dhammaaday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Please move your car.",
+    "somali": "Fadlan gaarigaaga dhaqaaji.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_parking_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_parking",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "parking"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Which route should I take?",
+    "somali": "Jidkee ayaan qaadaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Can you show me the route on the map?",
+    "somali": "Jidka khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Is this the fastest route?",
+    "somali": "Kani ma jidka ugu degdegga badan baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Please give me simple directions.",
+    "somali": "Fadlan tilmaamo fudud i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Go straight, then turn left.",
+    "somali": "Toos u soco, dabadeed bidix u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "How far is it from here?",
+    "somali": "Halkan intee ayay ka jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Is it within walking distance?",
+    "somali": "Lug ma lagu gaari karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "I think we are going the wrong way.",
+    "somali": "Waxaan u malaynayaa inaan jid khaldan marayno.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Can we avoid the motorway?",
+    "somali": "Jidka weyn ma ka leexan karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "The map says ten minutes.",
+    "somali": "Khariidaddu waxay leedahay toban daqiiqo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Turn right at the traffic lights.",
+    "somali": "Nalalka taraafikada agtooda midig u leexo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "The entrance is after the bridge.",
+    "somali": "Albaabku buundada ka dib ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Do we need to cross the road?",
+    "somali": "Ma inaan waddada ka gudubnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "This road is closed.",
+    "somali": "Waddadani way xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Take the next exit.",
+    "somali": "Qaado bixitaanka xiga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_route_directions_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_route_directions",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "route directions"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_001",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Can I book a ride?",
+    "somali": "Raacid ma dalban karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_002",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "The driver is five minutes away.",
+    "somali": "Darawalku shan daqiiqo ayuu inoo jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_003",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Is this my ride?",
+    "somali": "Kani ma raaciddaydii baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_004",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Please check the car number.",
+    "somali": "Fadlan lambarka gaariga hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_005",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "I booked the ride on the app.",
+    "somali": "App-ka ayaan raacidda ka dalbaday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_006",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Can you call the driver?",
+    "somali": "Darawalka ma wici kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_007",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "The driver cancelled the ride.",
+    "somali": "Darawalku raacidda wuu baajiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_008",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Where is the pick-up point?",
+    "somali": "Meesha la iga qaadayo xaggee ku taal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_009",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Please drop me at this address.",
+    "somali": "Fadlan cinwaankan igu deji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_010",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "The fare is shown in the app.",
+    "somali": "Qiimuhu app-ka ayuu ka muuqdaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_011",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Can I change the destination?",
+    "somali": "Meesha aan tagayo ma beddeli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_012",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "I am waiting outside.",
+    "somali": "Bannaanka ayaan ku sugayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_013",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "The car is a white Toyota.",
+    "somali": "Gaarigu waa Toyota cad.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_014",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Please share the ride details.",
+    "somali": "Fadlan faahfaahinta raacidda ila wadaag.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_015",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "The driver cannot find me.",
+    "somali": "Darawalku ima heli karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_016",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_017",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Is this the right way?",
+    "somali": "Kani ma jidkii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_018",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Please tell me when we arrive.",
+    "somali": "Fadlan ii sheeg marka aan gaarno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_019",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "I am in a hurry.",
+    "somali": "Waan degdegayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  },
+  {
+    "id": "phrase_transportation_ride_sharing_020",
+    "category_code": "transportation",
+    "subcategory_code": "transportation_ride_sharing",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawintaada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "transportation",
+      "ride sharing"
+    ],
+    "notes": "Editorial rewrite: English and Somali meanings reviewed for direct phrase alignment."
+  }
+]

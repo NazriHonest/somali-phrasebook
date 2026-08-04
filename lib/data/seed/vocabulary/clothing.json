@@ -1,0 +1,691 @@
+[
+  {
+    "id": "vocab_clothing_shirts_shirt",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "english": {
+      "headword": "shirt",
+      "search_forms": [
+        "shirt",
+        "shirts"
+      ]
+    },
+    "somali": {
+      "translation": "shaati",
+      "alternative_translations": [],
+      "explanation": "Dharka lagu xirto qaybta sare ee jirka. Waxaa badanaa lagu xidhaa shaqada, dugsiga ama munaasabadaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A piece of clothing worn on the upper part of the body.",
+        "translation": "shaati",
+        "examples": [
+          {
+            "english": "This shirt fits me well.",
+            "somali": "Shaatigan si fiican ayuu ii le'eg yahay."
+          },
+          {
+            "english": "Do you have this shirt in blue?",
+            "somali": "Ma haysaan shaatigan oo buluug ah?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "wear a shirt",
+        "somali": "xiro shaati"
+      },
+      {
+        "english": "cotton shirt",
+        "somali": "shaati suuf ah"
+      },
+      {
+        "english": "long-sleeved shirt",
+        "somali": "shaati gacmo-dheer"
+      }
+    ],
+    "related_words": [
+      "T-shirt",
+      "blouse",
+      "jacket",
+      "trousers",
+      "button"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying a shirt in a clothing shop",
+      "Choosing the correct size",
+      "Packing clothes for a trip"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Shirts"
+    }
+  },
+  {
+    "id": "vocab_clothing_pants_trousers",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "english": {
+      "headword": "trousers",
+      "search_forms": [
+        "trousers",
+        "trouserses"
+      ]
+    },
+    "somali": {
+      "translation": "surwaal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo surwaal."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "surwaal",
+        "examples": [
+          {
+            "english": "Where can I find the trousers?",
+            "somali": "Xagee ka heli karaa surwaal?"
+          },
+          {
+            "english": "Please write the trousers on the form.",
+            "somali": "Fadlan surwaal ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about trousers",
+        "somali": "weydii surwaal"
+      },
+      {
+        "english": "check the trousers",
+        "somali": "hubi surwaal"
+      },
+      {
+        "english": "write the trousers",
+        "somali": "qor surwaal"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about pants",
+      "checking pants details",
+      "using pants in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Pants"
+    }
+  },
+  {
+    "id": "vocab_clothing_shoes_shoes",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "english": {
+      "headword": "shoes",
+      "search_forms": [
+        "shoes",
+        "shoeses"
+      ]
+    },
+    "somali": {
+      "translation": "kabo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo kabo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "kabo",
+        "examples": [
+          {
+            "english": "Where can I find the shoes?",
+            "somali": "Xagee ka heli karaa kabo?"
+          },
+          {
+            "english": "Please write the shoes on the form.",
+            "somali": "Fadlan kabo ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about shoes",
+        "somali": "weydii kabo"
+      },
+      {
+        "english": "check the shoes",
+        "somali": "hubi kabo"
+      },
+      {
+        "english": "write the shoes",
+        "somali": "qor kabo"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about shoes",
+      "checking shoes details",
+      "using shoes in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Shoes"
+    }
+  },
+  {
+    "id": "vocab_clothing_accessories_bag",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "english": {
+      "headword": "bag",
+      "search_forms": [
+        "bag",
+        "bags"
+      ]
+    },
+    "somali": {
+      "translation": "boorso",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo boorso."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "boorso",
+        "examples": [
+          {
+            "english": "Where can I find the bag?",
+            "somali": "Xagee ka heli karaa boorso?"
+          },
+          {
+            "english": "Please write the bag on the form.",
+            "somali": "Fadlan boorso ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about bag",
+        "somali": "weydii boorso"
+      },
+      {
+        "english": "check the bag",
+        "somali": "hubi boorso"
+      },
+      {
+        "english": "write the bag",
+        "somali": "qor boorso"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about accessories",
+      "checking accessories details",
+      "using accessories in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Accessories"
+    }
+  },
+  {
+    "id": "vocab_clothing_clothing_colours_black",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "english": {
+      "headword": "black",
+      "search_forms": [
+        "black"
+      ]
+    },
+    "somali": {
+      "translation": "madow",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo madow."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common adjective used when buying, choosing, washing, and repairing clothes.",
+        "translation": "madow",
+        "examples": [
+          {
+            "english": "Is this black enough for the form?",
+            "somali": "Tani ma madow ku filan foomka?"
+          },
+          {
+            "english": "The assistant marked it as black.",
+            "somali": "Kaaliyuhu wuxuu ku calaamadeeyay madow."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "black enough",
+        "somali": "madow ku filan"
+      },
+      {
+        "english": "black option",
+        "somali": "doorasho madow"
+      },
+      {
+        "english": "black size",
+        "somali": "cabbir madow"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about clothing colours",
+      "checking clothing colours details",
+      "using clothing colours in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Clothing Colours"
+    }
+  },
+  {
+    "id": "vocab_clothing_sizes_medium",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "english": {
+      "headword": "medium",
+      "search_forms": [
+        "medium"
+      ]
+    },
+    "somali": {
+      "translation": "dhexdhexaad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo dhexdhexaad."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common adjective used when buying, choosing, washing, and repairing clothes.",
+        "translation": "dhexdhexaad",
+        "examples": [
+          {
+            "english": "Is this medium enough for the form?",
+            "somali": "Tani ma dhexdhexaad ku filan foomka?"
+          },
+          {
+            "english": "The assistant marked it as medium.",
+            "somali": "Kaaliyuhu wuxuu ku calaamadeeyay dhexdhexaad."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "medium enough",
+        "somali": "dhexdhexaad ku filan"
+      },
+      {
+        "english": "medium option",
+        "somali": "doorasho dhexdhexaad"
+      },
+      {
+        "english": "medium size",
+        "somali": "cabbir dhexdhexaad"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "asking about sizes",
+      "checking sizes details",
+      "using sizes in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Sizes"
+    }
+  },
+  {
+    "id": "vocab_clothing_shopping_changing_room",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "english": {
+      "headword": "changing room",
+      "search_forms": [
+        "changing room"
+      ]
+    },
+    "somali": {
+      "translation": "qolka tijaabada",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo qolka tijaabada."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "qolka tijaabada",
+        "examples": [
+          {
+            "english": "Where can I find the changing room?",
+            "somali": "Xagee ka heli karaa qolka tijaabada?"
+          },
+          {
+            "english": "Please write the changing room on the form.",
+            "somali": "Fadlan qolka tijaabada ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about changing room",
+        "somali": "weydii qolka tijaabada"
+      },
+      {
+        "english": "check the changing room",
+        "somali": "hubi qolka tijaabada"
+      },
+      {
+        "english": "write the changing room",
+        "somali": "qor qolka tijaabada"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about shopping",
+      "checking shopping details",
+      "using shopping in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Shopping"
+    }
+  },
+  {
+    "id": "vocab_clothing_laundry_laundry",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "english": {
+      "headword": "laundry",
+      "search_forms": [
+        "laundry",
+        "laundries"
+      ]
+    },
+    "somali": {
+      "translation": "dharka la dhaqayo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo dharka la dhaqayo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "dharka la dhaqayo",
+        "examples": [
+          {
+            "english": "Where can I find the laundry?",
+            "somali": "Xagee ka heli karaa dharka la dhaqayo?"
+          },
+          {
+            "english": "Please write the laundry on the form.",
+            "somali": "Fadlan dharka la dhaqayo ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about laundry",
+        "somali": "weydii dharka la dhaqayo"
+      },
+      {
+        "english": "check the laundry",
+        "somali": "hubi dharka la dhaqayo"
+      },
+      {
+        "english": "write the laundry",
+        "somali": "qor dharka la dhaqayo"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about laundry",
+      "checking laundry details",
+      "using laundry in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Laundry"
+    }
+  },
+  {
+    "id": "vocab_clothing_tailoring_tailor",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "english": {
+      "headword": "tailor",
+      "search_forms": [
+        "tailor",
+        "tailors"
+      ]
+    },
+    "somali": {
+      "translation": "dawaarle",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo dawaarle."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "dawaarle",
+        "examples": [
+          {
+            "english": "Where can I find the tailor?",
+            "somali": "Xagee ka heli karaa dawaarle?"
+          },
+          {
+            "english": "Please write the tailor on the form.",
+            "somali": "Fadlan dawaarle ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about tailor",
+        "somali": "weydii dawaarle"
+      },
+      {
+        "english": "check the tailor",
+        "somali": "hubi dawaarle"
+      },
+      {
+        "english": "write the tailor",
+        "somali": "qor dawaarle"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about tailoring",
+      "checking tailoring details",
+      "using tailoring in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Tailoring"
+    }
+  },
+  {
+    "id": "vocab_clothing_weather_clothing_jacket",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "english": {
+      "headword": "jacket",
+      "search_forms": [
+        "jacket",
+        "jackets"
+      ]
+    },
+    "somali": {
+      "translation": "jaakad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxaa loo adeegsadaa iibsashada, doorashada, dhaqidda, iyo hagaajinta dharka, gaar ahaan marka laga hadlayo jaakad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common noun used when buying, choosing, washing, and repairing clothes.",
+        "translation": "jaakad",
+        "examples": [
+          {
+            "english": "Where can I find the jacket?",
+            "somali": "Xagee ka heli karaa jaakad?"
+          },
+          {
+            "english": "Please write the jacket on the form.",
+            "somali": "Fadlan jaakad ku qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about jacket",
+        "somali": "weydii jaakad"
+      },
+      {
+        "english": "check the jacket",
+        "somali": "hubi jaakad"
+      },
+      {
+        "english": "write the jacket",
+        "somali": "qor jaakad"
+      }
+    ],
+    "related_words": [
+      "help",
+      "form",
+      "service"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "asking about weather clothing",
+      "checking weather clothing details",
+      "using weather clothing in a service conversation"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Weather Clothing"
+    }
+  }
+]

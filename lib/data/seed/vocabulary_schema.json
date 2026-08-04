@@ -1,0 +1,47 @@
+{
+  "id": "",
+  "category_code": "",
+  "subcategory_code": "",
+
+  "english": {
+    "headword": "",
+    "search_forms": []
+  },
+
+  "somali": {
+    "translation": "",
+    "alternative_translations": [],
+    "explanation": ""
+  },
+
+  "part_of_speech": "",
+  "cefr": "",
+
+  "senses": [
+    {
+      "definition": "",
+      "translation": "",
+      "examples": [
+        {
+          "english": "",
+          "somali": ""
+        }
+      ]
+    }
+  ],
+
+  "collocations": [],
+
+  "related_words": [],
+
+  "common_mistakes": [],
+
+  "grammar_topics": [],
+
+  "situations": [],
+
+  "source": {
+    "type": "",
+    "section": ""
+  }
+}

@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "conversation_health_body_parts_001",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "title": "Pointing to Where It Hurts",
+    "somali_title": "Tilmaamidda meesha ku xanuunaysa",
+    "situation": "A patient at a clinic uses simple body-part words to explain where the pain is.",
+    "somali_situation": "Bukaan jooga rug caafimaad ayaa adeegsanaya erayo fudud oo qaybaha jirka ah si uu u sharxo meesha xanuunku ka hayo.",
+    "cefr": "A1",
+    "participants": [
+      "Patient",
+      "Clinic staff"
+    ],
+    "key_vocabulary": [
+      "stomach",
+      "back",
+      "ribs",
+      "left side",
+      "right side",
+      "pain",
+      "body chart"
+    ],
+    "key_phrases": [
+      "My stomach hurts.",
+      "Is the pain on the left side or the right side?",
+      "Can you point to it on this body chart?",
+      "It is here, on the right side.",
+      "The nurse will check you next."
+    ],
+    "grammar_focus": [
+      "My + body part",
+      "Present simple",
+      "Left and right",
+      "Can you...?",
+      "Will for next step"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Hello. My stomach hurts.",
+        "somali": "Salaan. Caloosha ayaa i xanuunaysa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Clinic staff",
+        "somali_speaker": "Shaqaale caafimaad",
+        "english": "I'm sorry to hear that. Is the pain on the left side or the right side?",
+        "somali": "Waan ka xumahay. Xanuunku ma dhinaca bidix baa mise dhinaca midig?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "It is here, on the right side.",
+        "somali": "Waa halkan, dhinaca midig."
+      },
+      {
+        "turn": 4,
+        "speaker": "Clinic staff",
+        "somali_speaker": "Shaqaale caafimaad",
+        "english": "Can you point to it on this body chart?",
+        "somali": "Jaantuskan jirka ma ku tilmaami kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Yes. It is below my ribs.",
+        "somali": "Haa. Waxay ka hooseysaa feerahayga."
+      },
+      {
+        "turn": 6,
+        "speaker": "Clinic staff",
+        "somali_speaker": "Shaqaale caafimaad",
+        "english": "Do you also have pain in your back?",
+        "somali": "Dhabarkana xanuun ma ka dareemaysaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "No, only my stomach.",
+        "somali": "Maya, caloosha oo keliya."
+      },
+      {
+        "turn": 8,
+        "speaker": "Clinic staff",
+        "somali_speaker": "Shaqaale caafimaad",
+        "english": "Thank you. The nurse will check you next.",
+        "somali": "Mahadsanid. Kalkaalisada ayaa marka xigta ku eegi doonta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_symptoms_001",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "title": "Describing Symptoms at Reception",
+    "somali_title": "Sharxidda calaamadaha xanuunka",
+    "situation": "A patient describes fever, cough, and tiredness at a clinic reception desk.",
+    "somali_situation": "Bukaan ayaa miiska soo-dhoweynta rug caafimaad ku sharxaya qandho, qufac, iyo daal.",
+    "cefr": "A2",
+    "participants": [
+      "Patient",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "fever",
+      "cough",
+      "tired",
+      "throat",
+      "yesterday evening",
+      "temperature",
+      "nurse"
+    ],
+    "key_phrases": [
+      "I have a fever and a cough.",
+      "When did it start?",
+      "It started yesterday evening.",
+      "My throat is sore, and I feel very tired.",
+      "The nurse will take your temperature first."
+    ],
+    "grammar_focus": [
+      "Have + symptom",
+      "Past simple",
+      "Since/yesterday",
+      "When did...?",
+      "Will for next step"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Good morning. I have a fever and a cough.",
+        "somali": "Subax wanaagsan. Qandho iyo qufac ayaan qabaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "When did it start?",
+        "somali": "Goorma ayay bilaabatay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "It started yesterday evening.",
+        "somali": "Waxay bilaabatay fiidnimadii shalay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Do you have any other symptoms?",
+        "somali": "Calaamado kale ma leedahay?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "My throat is sore, and I feel very tired.",
+        "somali": "Cunahaygu wuu i xanuunayaa, aadna waan u daalanahay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Have you taken any medicine today?",
+        "somali": "Maanta wax daawo ah ma qaadatay?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Only paracetamol this morning.",
+        "somali": "Saaka kaliya paracetamol ayaan qaatay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "All right. Please sit near the nurse's room.",
+        "somali": "Waa hagaag. Fadlan fadhiiso meel u dhow qolka kalkaalisada."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Will someone check my temperature?",
+        "somali": "Qof ma hubin doonaa heerkulkayga?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Yes, the nurse will take your temperature first.",
+        "somali": "Haa, kalkaalisada ayaa marka hore heerkulkaaga cabbiri doonta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_doctor_visit_001",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "title": "Explaining Pain to the Doctor",
+    "somali_title": "Dhakhtarka oo xanuun loo sharxayo",
+    "situation": "A patient tells a doctor about stomach pain, answers follow-up questions, and hears the next steps.",
+    "somali_situation": "Bukaan ayaa dhakhtar u sheegaya calool xanuun, ka jawaabaya su'aalo dabagal ah, kadibna maqlaya tallaabooyinka xiga.",
+    "cefr": "B1",
+    "participants": [
+      "Patient",
+      "Doctor"
+    ],
+    "key_vocabulary": [
+      "stomach pain",
+      "sharp",
+      "comes and goes",
+      "eat",
+      "examine",
+      "blood test",
+      "rest",
+      "fluids"
+    ],
+    "key_phrases": [
+      "The pain comes and goes, but it is worse at night.",
+      "Is it worse after you eat?",
+      "I'll examine your stomach now.",
+      "You may need a blood test.",
+      "Drink plenty of fluids."
+    ],
+    "grammar_focus": [
+      "Present simple",
+      "After + clause",
+      "May for possibility",
+      "Imperatives",
+      "Health descriptions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "Tell me what brought you in today.",
+        "somali": "Ii sheeg waxa maanta kuu keenay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I have stomach pain. It started two days ago.",
+        "somali": "Calool xanuun ayaan qabaa. Laba maalmood ka hor ayuu bilaabmay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "Is the pain sharp, or does it come and go?",
+        "somali": "Xanuunku ma fiiqan yahay mise wuu yimaadaa oo tagaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "The pain comes and goes, but it is worse at night.",
+        "somali": "Xanuunku wuu yimaadaa oo tagaa, laakiin habeenkii ayuu ka daran yahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "Is it worse after you eat?",
+        "somali": "Ma wuu ka sii daraa markaad wax cunto?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Sometimes. I also feel a little sick.",
+        "somali": "Mararka qaar. Sidoo kale xoogaa lalabbo ayaan dareemaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "I'll examine your stomach now.",
+        "somali": "Hadda calooshaada ayaan baari doonaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "All right. Should I lie down here?",
+        "somali": "Waa hagaag. Halkan ma jiifsadaa?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "Yes, please. After that, you may need a blood test.",
+        "somali": "Haa, fadlan. Taas ka dib waxaa laga yaabaa inaad u baahato baaritaan dhiig."
+      },
+      {
+        "turn": 10,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Is it serious?",
+        "somali": "Ma arrin culus baa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "It may be a stomach infection, but we should check first.",
+        "somali": "Waxaa laga yaabaa inuu yahay caabuq caloosha ah, laakiin marka hore waa inaan hubinno."
+      },
+      {
+        "turn": 12,
+        "speaker": "Doctor",
+        "somali_speaker": "Dhakhtar",
+        "english": "For now, rest and drink plenty of fluids.",
+        "somali": "Hadda naso oo cab cabitaan badan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_pharmacy_001",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "title": "Collecting Medicine at the Pharmacy",
+    "somali_title": "Daawo ka qaadashada farmashiyaha",
+    "situation": "A customer brings a prescription, asks how to take the medicine, checks side effects, and confirms payment.",
+    "somali_situation": "Macmiil ayaa farmashiye keena warqad daawo, wuxuu weydiinayaa sida daawada loo qaato, waxyeellooyinka hubinayaa, kadibna lacag bixinta xaqiijinayaa.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Pharmacist"
+    ],
+    "key_vocabulary": [
+      "prescription",
+      "antibiotic",
+      "tablet",
+      "after food",
+      "side effects",
+      "drowsy",
+      "course",
+      "card"
+    ],
+    "key_phrases": [
+      "I have a prescription from the doctor.",
+      "Take one tablet twice a day after food.",
+      "Should I finish the whole course?",
+      "It may make you feel drowsy, so avoid driving at first.",
+      "Can I pay by card?"
+    ],
+    "grammar_focus": [
+      "Imperatives",
+      "Should for advice",
+      "May for possibility",
+      "Twice a day",
+      "Can I...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. I have a prescription from the doctor.",
+        "somali": "Salaan. Waxaan hayaa warqad daawo oo dhakhtarku ii qoray."
+      },
+      {
+        "turn": 2,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Let me have a look. This is an antibiotic.",
+        "somali": "Aan eego. Tani waa antibiyootik."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How should I take it?",
+        "somali": "Sideen u qaataa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Take one tablet twice a day after food.",
+        "somali": "Qaado hal kaniini laba jeer maalintii, cuntada ka dib."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I finish the whole course?",
+        "somali": "Daawada oo dhan ma dhammeeyaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Yes, even if you feel better after a few days.",
+        "somali": "Haa, xitaa haddii aad maalmo ka dib fiicnaato."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Are there any side effects?",
+        "somali": "Waxyeellooyin ma jiraan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "It may make you feel drowsy, so avoid driving at first.",
+        "somali": "Waxay kaa dhigi kartaa hurdoole, markaa marka hore iska ilaali wadista."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I take it with my blood pressure medicine?",
+        "somali": "Ma la qaadan karaa daawadayda cadaadiska dhiigga?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Yes, but leave two hours between the doses.",
+        "somali": "Haa, laakiin laba saacadood u dhexeeysi labada qiyaasood."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Could you write that on the label?",
+        "somali": "Taas calaamadda daawada ma ku qori kartaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Of course. I will add it in large print.",
+        "somali": "Dabcan. Qoraal waaweyn ayaan ku dari doonaa."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much is it?",
+        "somali": "Waa imisa?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "It is twelve dollars with your discount.",
+        "somali": "Qiimo dhimistaada kadib waa laba iyo toban doolar."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I pay by card?",
+        "somali": "Kaar ma ku bixin karaa?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Pharmacist",
+        "somali_speaker": "Farmashiiste",
+        "english": "Yes. Tap your card when the screen lights up.",
+        "somali": "Haa. Kaarka taabo marka shaashaddu iftiinto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_hospital_001",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "title": "Finding the Right Hospital Ward",
+    "somali_title": "Helidda qaybta saxda ah ee isbitaalka",
+    "situation": "A visitor at a hospital asks where to go for a patient on the children's ward.",
+    "somali_situation": "Booqde jooga isbitaal ayaa weydiinaya meesha uu u aado bukaan ku jira qaybta carruurta.",
+    "cefr": "A1",
+    "participants": [
+      "Visitor",
+      "Hospital receptionist"
+    ],
+    "key_vocabulary": [
+      "ward",
+      "children's ward",
+      "lift",
+      "second floor",
+      "visiting time",
+      "patient"
+    ],
+    "key_phrases": [
+      "I'm here to visit a patient.",
+      "Which ward is the patient on?",
+      "The children's ward is on the second floor.",
+      "Take the lift on the left.",
+      "Visiting time ends at seven."
+    ],
+    "grammar_focus": [
+      "I'm here to...",
+      "Which questions",
+      "Prepositions of place",
+      "Imperatives",
+      "Time expressions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Hello. I'm here to visit a patient.",
+        "somali": "Salaan. Waxaan u imid inaan bukaan booqdo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Hospital receptionist",
+        "somali_speaker": "Soo-dhoweeye isbitaal",
+        "english": "Welcome to City Hospital. Which ward is the patient on?",
+        "somali": "Ku soo dhowow Isbitaalka City. Bukaanku qaybtee ayuu ku jiraa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "The children's ward, I think.",
+        "somali": "Qaybta carruurta, sida aan u maleynayo."
+      },
+      {
+        "turn": 4,
+        "speaker": "Hospital receptionist",
+        "somali_speaker": "Soo-dhoweeye isbitaal",
+        "english": "The children's ward is on the second floor.",
+        "somali": "Qaybta carruurtu waxay ku taallaa dabaqa labaad."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Where is the lift?",
+        "somali": "Wiishku xaggee buu ku yaal?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Hospital receptionist",
+        "somali_speaker": "Soo-dhoweeye isbitaal",
+        "english": "Take the lift on the left.",
+        "somali": "Qaado wiishka bidixda ku yaal."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Thank you. What time does visiting end?",
+        "somali": "Mahadsanid. Booqashadu goorma ayay dhammaataa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Hospital receptionist",
+        "somali_speaker": "Soo-dhoweeye isbitaal",
+        "english": "Visiting time ends at seven.",
+        "somali": "Waqtiga booqashadu wuxuu dhammaadaa toddobada."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_medicine_001",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "title": "Checking How to Take Medicine",
+    "somali_title": "Hubinta sida daawada loo qaato",
+    "situation": "A patient checks dosage, timing, and what to do if a dose is missed.",
+    "somali_situation": "Bukaan ayaa hubinaya qiyaasta daawada, waqtiga la qaato, iyo waxa la sameeyo haddii qiyaas la seego.",
+    "cefr": "A2",
+    "participants": [
+      "Patient",
+      "Nurse"
+    ],
+    "key_vocabulary": [
+      "dose",
+      "morning",
+      "evening",
+      "miss a dose",
+      "with food",
+      "water"
+    ],
+    "key_phrases": [
+      "How many tablets should I take?",
+      "Take one in the morning and one in the evening.",
+      "Should I take it with food?",
+      "What if I miss a dose?",
+      "Take it after food with a full glass of water."
+    ],
+    "grammar_focus": [
+      "Should for advice",
+      "How many...?",
+      "Imperatives",
+      "What if...?",
+      "Time expressions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "How many tablets should I take?",
+        "somali": "Immisa kaniini ayaan qaataa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Take one in the morning and one in the evening.",
+        "somali": "Hal qaado subaxdii, midna fiidkii."
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I take it with food?",
+        "somali": "Cunto ma la qaataa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Yes, take it after food with a full glass of water.",
+        "somali": "Haa, cuntada ka dib ku qaado koob biyo ah oo buuxa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "What if I miss a dose?",
+        "somali": "Haddii aan qiyaas seego maxaan sameeyaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Take it when you remember, unless it is almost time for the next one.",
+        "somali": "Qaado markaad xasuusato, haddii aysan ku dhowaan waqtigii qiyaasta xigta."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I take two tablets together then?",
+        "somali": "Markaas laba kaniini ma wada qaataa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "No, do not take two doses together.",
+        "somali": "Maya, laba qiyaasood ha wada qaadan."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "All right. I will set an alarm.",
+        "somali": "Waa hagaag. Digniin telefoon ayaan dhigan doonaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Good idea. That will help you take it on time.",
+        "somali": "Fikrad fiican. Taasi waxay kaa caawin doontaa inaad waqtigeeda qaadato."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_dental_care_001",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "title": "Booking an Urgent Dental Appointment",
+    "somali_title": "Qabashada ballan ilko oo degdeg ah",
+    "situation": "A patient calls a dental clinic about tooth pain, asks for the earliest appointment, and checks what to do meanwhile.",
+    "somali_situation": "Bukaan ayaa rug ilko ka wacaya ilig xanuun, wuxuu codsanayaa ballanta ugu horreysa, kadibna hubinayaa waxa uu sameeyo inta uu sugayo.",
+    "cefr": "B1",
+    "participants": [
+      "Patient",
+      "Dental receptionist"
+    ],
+    "key_vocabulary": [
+      "toothache",
+      "swollen",
+      "appointment",
+      "pain relief",
+      "chew",
+      "urgent",
+      "jaw"
+    ],
+    "key_phrases": [
+      "I have a bad toothache.",
+      "Is your face swollen?",
+      "The earliest appointment is tomorrow morning at nine.",
+      "Avoid chewing on that side, and use pain relief if you can take it.",
+      "Call us back if the swelling gets worse."
+    ],
+    "grammar_focus": [
+      "Have + symptom",
+      "Is your...?",
+      "Earliest/latest",
+      "Imperatives",
+      "If clauses"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Hello. I have a bad toothache.",
+        "somali": "Salaan. Ilig aad ayuu ii xanuunayaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "I'm sorry. Is your face swollen?",
+        "somali": "Waan ka xumahay. Wajigaagu ma bararay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "A little, near my jaw.",
+        "somali": "Xoogaa, daankayga agtiisa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "Do you need an urgent appointment?",
+        "somali": "Ballan degdeg ah ma u baahan tahay?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Yes, please. I could not sleep last night.",
+        "somali": "Haa, fadlan. Xalay ma seexan karin."
+      },
+      {
+        "turn": 6,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "The earliest appointment is tomorrow morning at nine.",
+        "somali": "Ballanta ugu horreysa waa berri subax sagaalka."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I'll take it. What should I do today?",
+        "somali": "Waan qaadanayaa. Maanta maxaan sameeyaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "Avoid chewing on that side, and use pain relief if you can take it.",
+        "somali": "Dhinacaas ha ku calalin, daawo xanuun baabi'iye ahna qaado haddii aad qaadan karto."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I bring anything?",
+        "somali": "Wax ma soo qaataa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "Bring a list of any medicine you take.",
+        "somali": "Soo qaado liiska daawooyinka aad qaadato."
+      },
+      {
+        "turn": 11,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you. I'll be there at nine.",
+        "somali": "Mahadsanid. Sagaalka ayaan imaan doonaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Dental receptionist",
+        "somali_speaker": "Soo-dhoweeye rug ilko",
+        "english": "Call us back if the swelling gets worse.",
+        "somali": "Nala soo xiriir haddii bararku sii xumaado."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_emergency_001",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "title": "Calling About Chest Pain",
+    "somali_title": "Wicitaan ku saabsan laab xanuun",
+    "situation": "A caller reports chest pain for an older relative and follows emergency instructions.",
+    "somali_situation": "Qof wacaya ayaa ka warbixinaya laab xanuun ku dhacay qof waayeel ah, wuxuuna raacayaa tilmaamaha gurmadka.",
+    "cefr": "B2",
+    "participants": [
+      "Caller",
+      "Emergency operator"
+    ],
+    "key_vocabulary": [
+      "emergency",
+      "chest pain",
+      "breathing",
+      "ambulance",
+      "awake",
+      "address",
+      "siren",
+      "stay on the line"
+    ],
+    "key_phrases": [
+      "My father has chest pain, and he looks very pale.",
+      "Is he awake and breathing?",
+      "An ambulance is on the way.",
+      "Do not give him anything to eat or drink.",
+      "Stay on the line with me until they reach you."
+    ],
+    "grammar_focus": [
+      "Present simple",
+      "Emergency imperatives",
+      "Is he...?",
+      "Do not...",
+      "Present continuous"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Emergency services. What is the problem?",
+        "somali": "Adeegga gurmadka. Maxaa dhacay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "My father has chest pain, and he looks very pale.",
+        "somali": "Aabbahay laabta ayaa xanuunaysa, wejigiisuna aad buu u caddaanayaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Is he awake and breathing?",
+        "somali": "Ma soo jeedaa oo ma neefsanayaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "Yes, but his breathing is heavy.",
+        "somali": "Haa, laakiin neefsashadiisu way culus tahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Tell me the address first.",
+        "somali": "Marka hore ii sheeg cinwaanka."
+      },
+      {
+        "turn": 6,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "We are at 18 Market Road, flat three.",
+        "somali": "Waxaan joognaa 18 Market Road, guri dabaq saddexaad."
+      },
+      {
+        "turn": 7,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "An ambulance is on the way.",
+        "somali": "Ambalaas ayaa jidka ku soo jirta."
+      },
+      {
+        "turn": 8,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "Should I give him water?",
+        "somali": "Biyo ma siyaa?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "No. Do not give him anything to eat or drink.",
+        "somali": "Maya. Wax cunto ama cabitaan ah ha siin."
+      },
+      {
+        "turn": 10,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "He wants to lie down.",
+        "somali": "Wuxuu rabaa inuu jiifsado."
+      },
+      {
+        "turn": 11,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Help him sit in a comfortable position if he can.",
+        "somali": "Haddii uu awoodo, ka caawi inuu fadhiisto si raaxo leh."
+      },
+      {
+        "turn": 12,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "The front door is unlocked.",
+        "somali": "Albaabka hore wuu furan yahay."
+      },
+      {
+        "turn": 13,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Good. Turn on the outside light if it is dark.",
+        "somali": "Waa fiican. Haddii ay mugdi tahay, nalka bannaanka shid."
+      },
+      {
+        "turn": 14,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "I can hear the siren now.",
+        "somali": "Hadda waxaan maqlayaa qaylada ambalaaska."
+      },
+      {
+        "turn": 15,
+        "speaker": "Emergency operator",
+        "somali_speaker": "Shaqaale gurmad",
+        "english": "Stay on the line with me until they reach you.",
+        "somali": "Khadka igula sii jir ilaa ay kuu yimaadaan."
+      },
+      {
+        "turn": 16,
+        "speaker": "Caller",
+        "somali_speaker": "Wacaha",
+        "english": "I will. Thank you for helping me.",
+        "somali": "Waan sii joogi doonaa. Waad ku mahadsan tahay caawinta."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_pregnancy_001",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "title": "Booking a Pregnancy Check-up",
+    "somali_title": "Qabashada baaritaan uur",
+    "situation": "A pregnant patient books a simple check-up and asks what to bring.",
+    "somali_situation": "Bukaan uur leh ayaa qabsanaya baaritaan fudud, waxayna weydiinaysaa waxa ay soo qaadato.",
+    "cefr": "A1",
+    "participants": [
+      "Patient",
+      "Midwife"
+    ],
+    "key_vocabulary": [
+      "pregnant",
+      "check-up",
+      "check-up",
+      "twelve weeks",
+      "morning",
+      "notes",
+      "water"
+    ],
+    "key_phrases": [
+      "I am pregnant, and I need a check-up.",
+      "I need a check-up.",
+      "Can you come on Monday morning?",
+      "Bring your pregnancy notes if you have them.",
+      "Drink water before you come."
+    ],
+    "grammar_focus": [
+      "I am...",
+      "Need + noun",
+      "Can you...?",
+      "Imperatives",
+      "Before + clause"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Hello. I am pregnant, and I need a check-up.",
+        "somali": "Salaan. Uur ayaan leeyahay, baaritaanna waan u baahanahay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Midwife",
+        "somali_speaker": "Umuliso",
+        "english": "Of course. How many weeks pregnant are you?",
+        "somali": "Haye. Immisa toddobaad ayaad uur leedahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "About twelve weeks.",
+        "somali": "Qiyaastii laba iyo toban toddobaad."
+      },
+      {
+        "turn": 4,
+        "speaker": "Midwife",
+        "somali_speaker": "Umuliso",
+        "english": "Can you come on Monday morning?",
+        "somali": "Isniinta subax ma imaan kartaa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Yes, Monday morning is fine.",
+        "somali": "Haa, Isniinta subax way ii fiican tahay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Midwife",
+        "somali_speaker": "Umuliso",
+        "english": "Bring your pregnancy notes if you have them.",
+        "somali": "Haddii aad haysato qoraallada uurka, soo qaado."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I do anything before I come?",
+        "somali": "Wax ma sameeyaa ka hor inta aanan imaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Midwife",
+        "somali_speaker": "Umuliso",
+        "english": "Drink water before you come.",
+        "somali": "Biyo cab ka hor intaadan imaan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_health_child_care_001",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "title": "Calling About a Child's Fever",
+    "somali_title": "Wicitaan ku saabsan qandhada ilmaha",
+    "situation": "A parent calls a clinic because their child has a fever and asks what to do before the appointment.",
+    "somali_situation": "Waalid ayaa rug caafimaad wacaya sababtoo ah ilmahiisu qandho ayuu leeyahay, wuxuuna weydiinayaa waxa la sameeyo ka hor ballanta.",
+    "cefr": "A2",
+    "participants": [
+      "Parent",
+      "Clinic nurse"
+    ],
+    "key_vocabulary": [
+      "child",
+      "fever",
+      "temperature",
+      "rash",
+      "small drinks",
+      "sleepy"
+    ],
+    "key_phrases": [
+      "My child has a fever.",
+      "What is her temperature?",
+      "Give her small drinks often.",
+      "Does she have a rash or trouble breathing?",
+      "Bring her in this afternoon."
+    ],
+    "grammar_focus": [
+      "Have + symptom",
+      "What is...?",
+      "Imperatives",
+      "Does she...?",
+      "This afternoon"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Hello. My child has a fever.",
+        "somali": "Salaan. Ilmahaygu qandho ayuu leeyahay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Clinic nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "How old is she?",
+        "somali": "Immisa jir ayay tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "She is three years old.",
+        "somali": "Saddex jir ayay tahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Clinic nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "What is her temperature?",
+        "somali": "Heerkulkeedu waa imisa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "It is thirty-eight point nine.",
+        "somali": "Waa soddon iyo siddeed dhibic sagaal."
+      },
+      {
+        "turn": 6,
+        "speaker": "Clinic nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Does she have a rash or trouble breathing?",
+        "somali": "Finan ma leedahay mise neefsashadu dhib bay ku tahay?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "No rash, but she is very sleepy.",
+        "somali": "Finan ma laha, laakiin aad bay u hurdo badan tahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Clinic nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Give her small drinks often.",
+        "somali": "Cabitaan yar-yar sii marar badan."
+      },
+      {
+        "turn": 9,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Should I bring her to the clinic?",
+        "somali": "Rugta caafimaad ma keenaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Clinic nurse",
+        "somali_speaker": "Kalkaaliso",
+        "english": "Yes, bring her in this afternoon.",
+        "somali": "Haa, galabta keen."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_health_body_parts_001",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My head hurts.",
+    "somali": "Madaxayga ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_002",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My arm is sore.",
+    "somali": "Gacantayda ayaa i xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_003",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "I have pain in my back.",
+    "somali": "Dhabarkayga ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_004",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My leg feels weak.",
+    "somali": "Lugtaydu way daciif tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_005",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My eye is swollen.",
+    "somali": "Ishaydu way barartay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_006",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My ear hurts.",
+    "somali": "Dhegtayda ayaa i xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_007",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My throat is sore.",
+    "somali": "Cunahayga ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_008",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "I injured my hand.",
+    "somali": "Gacantayda ayaan dhaawacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_009",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My neck is stiff.",
+    "somali": "Qoortaydu way qallafsan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_010",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My foot hurts when I walk.",
+    "somali": "Cagtaydu way i xanuuntaa markaan socdo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_011",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "Can you check my shoulder?",
+    "somali": "Garabkayga ma baari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_012",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My stomach hurts.",
+    "somali": "Calooshayda ayaa i xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_013",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My chest feels tight.",
+    "somali": "Laabtaydu way i cidhiidhiyaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_014",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My knee is swollen.",
+    "somali": "Jilibkaygu wuu bararay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_015",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "I can't move my finger well.",
+    "somali": "Fartayda si fiican uma dhaqaajin karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_016",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My ankle is painful.",
+    "somali": "Canqowgayga ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_017",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "I have a cut on my arm.",
+    "somali": "Gacantayda dhaawac ayaa ku yaal.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_018",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My tooth hurts.",
+    "somali": "Iligayga ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_019",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "My skin is itchy.",
+    "somali": "Maqaarkaygu wuu i cuncunayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_body_parts_020",
+    "category_code": "health",
+    "subcategory_code": "health_body_parts",
+    "english": "I feel pain all over my body.",
+    "somali": "Jidhkayga oo dhan ayaan xanuun ka dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "body parts"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_001",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have a fever.",
+    "somali": "Qandho ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_002",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have a cough.",
+    "somali": "Qufac ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_003",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I feel dizzy.",
+    "somali": "Dawakhaad ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_004",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I feel very tired.",
+    "somali": "Aad baan u daalanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_005",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have a headache.",
+    "somali": "Madax-xanuun ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_006",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I feel nauseous.",
+    "somali": "Lalabbo ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_007",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have stomach pain.",
+    "somali": "Caloosha ayaa i xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_008",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have diarrhea.",
+    "somali": "Shuban ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_009",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I am vomiting.",
+    "somali": "Waan matagayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_010",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have a rash.",
+    "somali": "Finan ayaa iga soo baxay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_011",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I cannot sleep well.",
+    "somali": "Si fiican uma seexan karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_012",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have trouble breathing.",
+    "somali": "Neefsashada ayaa igu adag.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_013",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "My symptoms started yesterday.",
+    "somali": "Calaamadahaygu shalay ayay bilaabmeen.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_014",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "The pain comes and goes.",
+    "somali": "Xanuunku mar wuu yimaadaa marna wuu tagaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_015",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "The pain is getting worse.",
+    "somali": "Xanuunku wuu sii xumaanayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_016",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I feel cold and shaky.",
+    "somali": "Qabow iyo gariir ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_017",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I lost my appetite.",
+    "somali": "Rabitaanka cuntada ayaa iga tagay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_018",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I have a sore throat.",
+    "somali": "Cunaha ayaa i xanuunaya.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_019",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "I feel better today.",
+    "somali": "Maanta waan ka roonahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_symptoms_020",
+    "category_code": "health",
+    "subcategory_code": "health_symptoms",
+    "english": "Should I see a doctor?",
+    "somali": "Dhakhtar ma arkaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "symptoms"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_001",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I need to see a doctor.",
+    "somali": "Waxaan u baahanahay inaan dhakhtar arko.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_002",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Do I need an appointment?",
+    "somali": "Ballan ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_003",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I have an appointment at three.",
+    "somali": "Waxaan leeyahay ballan saddexda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_004",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "This is my first visit.",
+    "somali": "Tani waa booqashadaydii ugu horreysay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_005",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Please describe your symptoms.",
+    "somali": "Fadlan sharax calaamadahaaga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_006",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Where does it hurt?",
+    "somali": "Xaggee ku xanuunaysa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_007",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "How long have you felt this way?",
+    "somali": "Intee ayaad sidan dareemaysay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_008",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I have felt this way for two days.",
+    "somali": "Laba maalmood ayaan sidan dareemayay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_009",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Do you take any medicine?",
+    "somali": "Daawo ma qaadataa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_010",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I am not taking any medicine.",
+    "somali": "Wax daawo ah ma qaadanayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_011",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Do you have any allergies?",
+    "somali": "Xasaasiyad ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_012",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Please check my blood pressure.",
+    "somali": "Fadlan cadaadiska dhiigga ii cabbir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_013",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "The doctor will see you now.",
+    "somali": "Dhakhtarku hadda wuu ku arki doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "information",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_014",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I need a sick note for work.",
+    "somali": "Waxaan shaqada ugu baahanahay warqad xanuun.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_015",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Can you explain the results?",
+    "somali": "Natiijooyinka ma ii sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_016",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Do I need a blood test?",
+    "somali": "Baaritaan dhiig ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_017",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "When should I come back?",
+    "somali": "Goorma ayaan soo noqdaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_018",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_019",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "I do not understand the diagnosis.",
+    "somali": "Ma fahmin ogaanshaha xanuunka.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_doctor_visit_020",
+    "category_code": "health",
+    "subcategory_code": "health_doctor_visit",
+    "english": "Thank you, doctor.",
+    "somali": "Mahadsanid, dhakhtar.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "doctor visit"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_001",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Where is the nearest pharmacy?",
+    "somali": "Xaggee ku yaal farmashiyaha ugu dhow?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_002",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "I need this prescription filled.",
+    "somali": "Waxaan rabaa in warqaddan daawada la ii diyaariyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_003",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Do you have this medicine?",
+    "somali": "Daawadan ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_004",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "How often should I take it?",
+    "somali": "Intee jeer ayaan qaataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_005",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Should I take it with food?",
+    "somali": "Cunto ma la qaataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_006",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Are there any side effects?",
+    "somali": "Waxyeellooyin ma jiraan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_007",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "I need medicine for a cough.",
+    "somali": "Waxaan u baahanahay daawo qufac.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_008",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Do you have painkillers?",
+    "somali": "Daawo xanuun baabi'iye ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_009",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Can I buy this without a prescription?",
+    "somali": "Tan warqad dhakhtar la'aan ma iibsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_010",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Please explain the instructions.",
+    "somali": "Fadlan tilmaamaha ii sharax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_011",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "This medicine is too expensive.",
+    "somali": "Daawadani aad bay qaali u tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_012",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Do you have a cheaper option?",
+    "somali": "Ikhtiyaar ka jaban ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_013",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "I am allergic to penicillin.",
+    "somali": "Penicillin ayaan xasaasiyad ka qabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_014",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "This is for my child.",
+    "somali": "Tan ilmahayga ayaa loogu talagalay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_015",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Can you write the dose down?",
+    "somali": "Qiyaasta ma ii qori kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_016",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Should I keep it in the fridge?",
+    "somali": "Qaboojiyaha ma ku hayaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_017",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "I missed one dose.",
+    "somali": "Hal qiyaas ayaan seegay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_018",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Can I take it before sleeping?",
+    "somali": "Ka hor hurdada ma qaadan karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_019",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "The bottle is leaking.",
+    "somali": "Dhaladu way daadanaysaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pharmacy_020",
+    "category_code": "health",
+    "subcategory_code": "health_pharmacy",
+    "english": "Thank you for your help.",
+    "somali": "Waad ku mahadsan tahay caawimadaada.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "pharmacy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_001",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Where is the emergency department?",
+    "somali": "Xaggee ku yaal qaybta gurmadka degdegga ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_002",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "I need to register at reception.",
+    "somali": "Waxaan u baahanahay inaan iska diiwaangeliyo soo dhoweynta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_003",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Which ward is she in?",
+    "somali": "Qaybtee ayay ku jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_004",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Can I visit the patient?",
+    "somali": "Bukaanka ma booqan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_005",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "What are the visiting hours?",
+    "somali": "Waa maxay saacadaha booqashada?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_006",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "I need a wheelchair.",
+    "somali": "Waxaan u baahanahay kursi curyaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_007",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Please call a nurse.",
+    "somali": "Fadlan kalkaaliye wac.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_008",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "The patient is in pain.",
+    "somali": "Bukaanku xanuun ayuu dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_009",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Where is the laboratory?",
+    "somali": "Xaggee ku yaal shaybaarku?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_010",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "I am waiting for the test results.",
+    "somali": "Waxaan sugayaa natiijooyinka baaritaanka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_011",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Do I need to stay overnight?",
+    "somali": "Habeen ma joogayaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_012",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Can I have a blanket?",
+    "somali": "Buste ma heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_013",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "The room is too cold.",
+    "somali": "Qolku aad buu u qabow yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_014",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Please explain the discharge papers.",
+    "somali": "Fadlan ii sharax waraaqaha bixitaanka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_015",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Where do I pay the hospital bill?",
+    "somali": "Xaggee ayaan ka bixiyaa biilka isbitaalka?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_016",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "I need an interpreter.",
+    "somali": "Waxaan u baahanahay turjubaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_017",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Can my family come in?",
+    "somali": "Qoyskaygu ma soo geli karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_018",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "The doctor has not come yet.",
+    "somali": "Dhakhtarku weli ma imaan.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_019",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "I need help getting up.",
+    "somali": "Waxaan u baahanahay caawin inaan kaco.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_hospital_020",
+    "category_code": "health",
+    "subcategory_code": "health_hospital",
+    "english": "Thank you to the hospital staff.",
+    "somali": "Waad ku mahadsan tihiin shaqaalaha isbitaalka.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "hospital"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_001",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Take one tablet twice a day.",
+    "somali": "Qaado hal kaniini laba jeer maalintii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_002",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Do not take more than two tablets.",
+    "somali": "Ha qaadan wax ka badan laba kaniini.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_003",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Take this medicine after food.",
+    "somali": "Daawadan qaado cuntada ka dib.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_004",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Shake the bottle before use.",
+    "somali": "Dhalada rux ka hor isticmaalka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_005",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "This medicine makes me sleepy.",
+    "somali": "Daawadani hurdo ayay igu keentaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_006",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "I forgot to take my medicine.",
+    "somali": "Waxaan illaaway inaan daawadayda qaato.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_007",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Can I stop taking this medicine?",
+    "somali": "Daawadan ma joojin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_008",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "How many days should I take it?",
+    "somali": "Imisa maalmood ayaan qaadanayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_009",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "I need a repeat prescription.",
+    "somali": "Waxaan u baahanahay warqad daawo oo dib loo cusboonaysiiyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_010",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "This medicine is for pain.",
+    "somali": "Daawadani waa xanuun baabi'iye.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "information",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_011",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "This medicine is for fever.",
+    "somali": "Daawadani waa qandho jabin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "information",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_012",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Keep this medicine away from children.",
+    "somali": "Daawadan ka fogee carruurta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_013",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Do not mix it with alcohol.",
+    "somali": "Ha ku darin khamri.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_014",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Can I take it with other medicine?",
+    "somali": "Daawo kale ma la qaadan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_015",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "The tablets are hard to swallow.",
+    "somali": "Kaniiniyadu way adag yihiin in la liqo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_016",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "I need liquid medicine.",
+    "somali": "Waxaan u baahanahay daawo dareere ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_017",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "The dose is written here.",
+    "somali": "Qiyaastu halkan ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "information",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_018",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Take it at the same time every day.",
+    "somali": "Qaado isla waqtigaas maalin kasta.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_019",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "Call the doctor if it gets worse.",
+    "somali": "Wac dhakhtarka haddii ay ka sii darto.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_medicine_020",
+    "category_code": "health",
+    "subcategory_code": "health_medicine",
+    "english": "I feel better after taking it.",
+    "somali": "Waan ka roonaaday markaan qaatay ka dib.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "medicine"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_001",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I have a toothache.",
+    "somali": "Ilig xanuun ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_002",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I need to see a dentist.",
+    "somali": "Waxaan u baahanahay inaan dhakhtar ilko arko.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_003",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "My gum is swollen.",
+    "somali": "Ciridkaygu wuu bararay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_004",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "This tooth is loose.",
+    "somali": "Iliggani wuu dhaqaaqayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_005",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I broke a tooth.",
+    "somali": "Ilig ayaan jabiyay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_006",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Can you clean my teeth?",
+    "somali": "Ilkahayga ma nadiifin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_007",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Do I need a filling?",
+    "somali": "Buuxin ilig ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_008",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I need a dental appointment.",
+    "somali": "Waxaan u baahanahay ballan dhakhtar ilko.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_009",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "My child has tooth pain.",
+    "somali": "Ilmahaygu ilig xanuun ayuu qabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_010",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "It hurts when I chew.",
+    "somali": "Way i xanuuntaa markaan calaliyo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_011",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Is the treatment painful?",
+    "somali": "Daaweyntu ma xanuun badan tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_012",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "How much will it cost?",
+    "somali": "Immisa ayay ku kacaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_013",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I am afraid of injections.",
+    "somali": "Cirbadaha waan ka baqaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_014",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Please explain what you will do.",
+    "somali": "Fadlan sharax waxa aad samayn doonto.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_015",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Do I need an X-ray?",
+    "somali": "Raajo ma u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_016",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "The pain is in the back tooth.",
+    "somali": "Xanuunku wuxuu ku jiraa iligga dambe.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_017",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "My mouth is bleeding.",
+    "somali": "Afkaygu dhiig ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_018",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Can I eat after the treatment?",
+    "somali": "Daaweynta ka dib ma cuni karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_019",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "I need toothpaste.",
+    "somali": "Waxaan u baahanahay daawo-caday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_dental_care_020",
+    "category_code": "health",
+    "subcategory_code": "health_dental_care",
+    "english": "Thank you, the pain is better.",
+    "somali": "Mahadsanid, xanuunku wuu yaraaday.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "dental care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_001",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "This is an emergency.",
+    "somali": "Tani waa xaalad degdeg ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_002",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Call an ambulance!",
+    "somali": "Ambalaas wac!",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_003",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "I need help now.",
+    "somali": "Hadda waxaan u baahanahay caawin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_004",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "He is not breathing.",
+    "somali": "Ma neefsanayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_005",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "She has fainted.",
+    "somali": "Way suuxday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_006",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "There has been an accident.",
+    "somali": "Shil ayaa dhacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_007",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "I am bleeding heavily.",
+    "somali": "Dhiig badan ayaa iga baxaya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_008",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Please hurry.",
+    "somali": "Fadlan dhaqso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_009",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Where is the nearest hospital?",
+    "somali": "Xaggee ku yaal isbitaalka ugu dhow?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_010",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "My child is very sick.",
+    "somali": "Ilmahaygu aad buu u xanuunsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_011",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "I have chest pain.",
+    "somali": "Laab xanuun ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_012",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "I cannot breathe well.",
+    "somali": "Si fiican uma neefsan karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_013",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Someone is injured.",
+    "somali": "Qof ayaa dhaawacmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_014",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Do you know first aid?",
+    "somali": "Gargaarka degdegga ah ma taqaan?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_015",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Keep him still.",
+    "somali": "Ha dhaqaaqin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_016",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Do not move her.",
+    "somali": "Ha dhaqaajin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_017",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "The ambulance is coming.",
+    "somali": "Ambalaasku wuu imanayaa.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "information",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_018",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Stay calm.",
+    "somali": "Is deji.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "instruction",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_019",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Tell me what happened.",
+    "somali": "Ii sheeg waxa dhacay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_emergency_020",
+    "category_code": "health",
+    "subcategory_code": "health_emergency",
+    "english": "Thank you for helping us.",
+    "somali": "Waad ku mahadsan tahay inaad na caawisay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "emergency"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_001",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I am pregnant.",
+    "somali": "Uur ayaan leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_002",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I need a pregnancy test.",
+    "somali": "Waxaan u baahanahay baaritaanka uurka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_003",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "How many weeks pregnant are you?",
+    "somali": "Immisa toddobaad ayaad uur leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_004",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I am twelve weeks pregnant.",
+    "somali": "Waxaan uur leeyahay laba iyo toban toddobaad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_005",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I need to see a midwife.",
+    "somali": "Waxaan u baahanahay inaan umuliso arko.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_006",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I have stomach pain.",
+    "somali": "Caloosha ayaa i xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_007",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "The baby is moving.",
+    "somali": "Ilmuhu wuu dhaqaaqayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_008",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I feel very tired.",
+    "somali": "Aad baan u daalanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_009",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "Can I take this medicine while pregnant?",
+    "somali": "Daawadan ma qaadan karaa anigoo uur leh?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_010",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I need prenatal vitamins.",
+    "somali": "Waxaan u baahanahay fiitamiinnada uurka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_011",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "When is my due date?",
+    "somali": "Goorma ayay tahay waqtiga dhalmada?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_012",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I have an appointment with the midwife.",
+    "somali": "Waxaan ballan la leeyahay umulisada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_013",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "Is this normal during pregnancy?",
+    "somali": "Tani ma caadi baa inta uurka lagu jiro?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_014",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I feel dizzy in the morning.",
+    "somali": "Subaxdii dawakh ayaan dareemaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_015",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I need an ultrasound scan.",
+    "somali": "Waxaan u baahanahay baaritaanka ultrasound.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_016",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "Please check the baby's heartbeat.",
+    "somali": "Fadlan hubi garaaca wadnaha ilmaha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_017",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I am close to giving birth.",
+    "somali": "Dhalmada waan ku dhowahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_018",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "My water has broken.",
+    "somali": "Biyihii dhalmada ayaa iga yimid.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_019",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "I need to go to the hospital.",
+    "somali": "Waxaan u baahanahay inaan isbitaalka tago.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "emergency",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_pregnancy_020",
+    "category_code": "health",
+    "subcategory_code": "health_pregnancy",
+    "english": "Thank you for looking after me.",
+    "somali": "Waad ku mahadsan tahay inaad i daryeeshay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "pregnancy"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_001",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "My child has a fever.",
+    "somali": "Ilmahaygu qandho ayuu qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_002",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "My baby is crying a lot.",
+    "somali": "Ilmahaygu aad buu u ooyayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_003",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "She is not eating well.",
+    "somali": "Si fiican uma cunayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_004",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "He has a cough.",
+    "somali": "Qufac ayuu qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_005",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "I need a doctor for my child.",
+    "somali": "Waxaan ilmahayga ugu baahanahay dhakhtar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_006",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Is this medicine safe for children?",
+    "somali": "Daawadani carruurta ma u ammaan baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_007",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "What dose should I give?",
+    "somali": "Qiyaas intee le'eg ayaan siinayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_008",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "My child needs a vaccine.",
+    "somali": "Ilmahaygu wuxuu u baahan yahay tallaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_009",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "When is the next vaccination?",
+    "somali": "Goorma ayuu yahay tallaalka xiga?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_010",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "She has a rash.",
+    "somali": "Finan ayaa ka soo baxay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_011",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "He fell and hurt his arm.",
+    "somali": "Wuu dhacay oo gacanta ayuu ka dhaawacmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_012",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "My baby will not sleep.",
+    "somali": "Ilmahaygu ma seexanayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_013",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Can you check his weight?",
+    "somali": "Miisaankiisa ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "request",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_014",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "She is drinking less than usual.",
+    "somali": "Waxay cabbaysaa wax ka yar sidii caadiga ahayd.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_015",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "He has stomach pain.",
+    "somali": "Caloosha ayaa xanuunaysa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "problem",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_016",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Do I need to bring him back?",
+    "somali": "Ma u baahanahay inaan dib u keeno?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_017",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Please explain the medicine clearly.",
+    "somali": "Fadlan daawada si cad ii sharax.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "request",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_018",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Can I stay with my child?",
+    "somali": "Ilmahayga ma la joogi karaa?",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "question",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_019",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "My child is feeling better.",
+    "somali": "Ilmahaygu wuu ka roon yahay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "response",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  },
+  {
+    "id": "phrase_health_child_care_020",
+    "category_code": "health",
+    "subcategory_code": "health_child_care",
+    "english": "Thank you for helping my child.",
+    "somali": "Waad ku mahadsan tahay inaad ilmahayga caawisay.",
+    "alternative_somali": [],
+    "cefr": "B1",
+    "type": "thanks",
+    "keywords": [
+      "health",
+      "child care"
+    ],
+    "notes": "Editorial rewrite: subcategory-specific English-Somali phrase alignment."
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "phrase_locations_asking_directions_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Excuse me, where is the station?",
+    "somali": "Iga raalli ahow, saldhiggu xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "How do I get to the market?",
+    "somali": "Sideen ku tagaa suuqa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Which way is the hospital?",
+    "somali": "Jidkee loo maraa isbitaalka?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Please give me simple directions.",
+    "somali": "Fadlan tilmaamo fudud i sii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Go straight ahead.",
+    "somali": "Toos u soco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Turn left at the corner.",
+    "somali": "Geeska bidix u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Turn right after the bank.",
+    "somali": "Bangiga ka dib midig u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "It is next to the pharmacy.",
+    "somali": "Farmashiyaha agtiisa ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "It is across from the school.",
+    "somali": "Iskuulka ka soo horjeedka ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "I think I am lost.",
+    "somali": "Waxaan u malaynayaa inaan lumay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Can you walk with me for a minute?",
+    "somali": "Daqiiqad ma ila socon kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Is this the right road?",
+    "somali": "Tani ma waddadii saxda ahayd baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "How many minutes does it take?",
+    "somali": "Immisa daqiiqo ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Do I need to cross the road?",
+    "somali": "Ma inaan waddada ka gudbaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "The entrance is on the other side.",
+    "somali": "Albaabka laga galo dhinaca kale ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_asking_directions_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "asking directions"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Where is the nearest bank?",
+    "somali": "Bangiga ugu dhow xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The post office is on this street.",
+    "somali": "Xafiiska boostadu waddadan ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Is there a mosque nearby?",
+    "somali": "Masaajid dhow ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The library is behind the school.",
+    "somali": "Maktabaddu iskuulka gadaashiisa ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The hospital is a large white building.",
+    "somali": "Isbitaalku waa dhisme weyn oo caddaan ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Which building is the council office?",
+    "somali": "Dhismahee ah xafiiska degmada?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The hotel is next to the restaurant.",
+    "somali": "Hoteelku maqaayadda agteeda ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Can you see the tall building?",
+    "somali": "Dhismaha dheer ma arki kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The shop is on the ground floor.",
+    "somali": "Dukaanku dabaqa hoose ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The clinic is in that building.",
+    "somali": "Rugtu dhismahaas ayay ku jirtaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Where is the entrance to the building?",
+    "somali": "Albaabka dhismaha laga galo xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "This building is closed today.",
+    "somali": "Dhismahani maanta wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The office building is opposite the park.",
+    "somali": "Dhismaha xafiisku beerta ka soo horjeedka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Is this the right building?",
+    "somali": "Kani ma dhismihii saxda ahaa baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "The lift is inside the building.",
+    "somali": "Wiishku dhismaha gudihiisa ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_buildings_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "buildings"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Where is room twelve?",
+    "somali": "Qolka laba iyo tobnaad xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The bathroom is down the hall.",
+    "somali": "Musqushu marinka ayay ka sii hoosaysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Is this the waiting room?",
+    "somali": "Kani ma qolka sugitaanka baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The meeting room is upstairs.",
+    "somali": "Qolka shirku dabaqa sare ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Please wait in this room.",
+    "somali": "Fadlan qolkan ku sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The bedroom is too small.",
+    "somali": "Qolka jiifku aad buu u yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Can I see the kitchen?",
+    "somali": "Jikada ma arki karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The living room is bright.",
+    "somali": "Qolka fadhigu wuu iftiin badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Which room is mine?",
+    "somali": "Qolkee ayaa kayga ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The room key is at reception.",
+    "somali": "Furaha qolka soo-dhoweynta ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "This room is private.",
+    "somali": "Qolkani waa gaar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Please close the door to the room.",
+    "somali": "Fadlan albaabka qolka xir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The classroom is on the left.",
+    "somali": "Fasalku bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Is there another room available?",
+    "somali": "Qol kale oo bannaan ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "The room is at the end of the corridor.",
+    "somali": "Qolku dhammaadka marinka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_rooms_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "rooms"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Where should I put the chair?",
+    "somali": "Kursiga xaggee ayaan dhigaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The table is by the window.",
+    "somali": "Miisku daaqadda agteeda ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Please move the sofa to the wall.",
+    "somali": "Fadlan kursiga fadhiga darbiga u rar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The bed is too close to the door.",
+    "somali": "Sariirtu aad bay albaabka ugu dhowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Can you put the lamp on the desk?",
+    "somali": "Nalalka miiska ma saari kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The wardrobe is in the bedroom.",
+    "somali": "Armaajadu qolka jiifka ayay ku jirtaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The shelf is above the sink.",
+    "somali": "Shelf-ku saxanka biyaha korkiisa ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Please keep the path clear.",
+    "somali": "Fadlan jidka ha bannaano.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The mirror is behind the door.",
+    "somali": "Muraayaddu albaabka gadaashiisa ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Where is the small table?",
+    "somali": "Miiska yar xaggee yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The chair is under the desk.",
+    "somali": "Kursigu miiska hoostiisa ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Can we move this cabinet?",
+    "somali": "Kabadhkan ma rari karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The furniture blocks the window.",
+    "somali": "Alaabta gurigu daaqadda ayay xannibaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Please put the rug in the centre.",
+    "somali": "Fadlan roogga bartamaha dhig.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "The cupboard is next to the fridge.",
+    "somali": "Kabadhku qaboojiyaha agtiisa ayuu yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_furniture_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "furniture"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is on the table.",
+    "somali": "Miiska korkiisa ayay saaran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is under the chair.",
+    "somali": "Kursiga hoostiisa ayay taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is behind the door.",
+    "somali": "Albaabka gadaashiisa ayay taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is in front of the house.",
+    "somali": "Guriga hortiisa ayay taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is between the two shops.",
+    "somali": "Labada dukaan dhexdooda ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is above the sink.",
+    "somali": "Saxanka biyaha korkiisa ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is below the sign.",
+    "somali": "Calaamadda hoosteeda ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is next to the window.",
+    "somali": "Daaqadda agteeda ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is near the entrance.",
+    "somali": "Albaabka laga galo ayay u dhowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is far from the station.",
+    "somali": "Saldhigga way ka fog tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Move it closer, please.",
+    "somali": "Fadlan soo dhoweey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Move it farther away.",
+    "somali": "Ka sii fogee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Where exactly is it?",
+    "somali": "Si sax ah xaggee ayay ku taal?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is in the corner.",
+    "somali": "Geeska ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "It is in the middle of the room.",
+    "somali": "Bartamaha qolka ayay taal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_position_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "position"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Turn left here.",
+    "somali": "Halkan bidix u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Turn right at the lights.",
+    "somali": "Nalalka agtooda midig u leexo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "The shop is on your left.",
+    "somali": "Dukaanku bidixdaada ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "The bank is on your right.",
+    "somali": "Bangigu midigtaada ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Keep to the left.",
+    "somali": "Bidixda ku soco.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Stay on the right side.",
+    "somali": "Dhinaca midig joog.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Is it left or right?",
+    "somali": "Ma bidix baa mise midig?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Take the first left.",
+    "somali": "Bidixda koowaad qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Take the second right.",
+    "somali": "Midigta labaad qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "The door on the left is closed.",
+    "somali": "Albaabka bidix wuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "The lift is to the right of reception.",
+    "somali": "Wiishku soo-dhoweynta midigteeda ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Do not turn left here.",
+    "somali": "Halkan bidix ha u leexan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Go right after the bridge.",
+    "somali": "Buundada ka dib midig u soco.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "My room is on the left side.",
+    "somali": "Qolkaygu dhinaca bidix ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "The queue starts on the right.",
+    "somali": "Safku dhinaca midig ayuu ka bilaabmaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_left_right_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "left right"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Can you show me the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "I cannot read this map.",
+    "somali": "Khariidaddan ma akhrin karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Where are we on the map?",
+    "somali": "Khariidadda xaggee ayaan kaga jirnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Please mark the address on the map.",
+    "somali": "Fadlan cinwaanka khariidadda ku calaamadee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "The map says it is nearby.",
+    "somali": "Khariidaddu waxay leedahay way dhowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Can I take a picture of the map?",
+    "somali": "Khariidadda sawir ma ka qaadi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "This road is not on the map.",
+    "somali": "Waddadani khariidadda kuma jirto.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "The map is old.",
+    "somali": "Khariidaddu way duugowday.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Please zoom in.",
+    "somali": "Fadlan soo dhoweey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Please zoom out.",
+    "somali": "Fadlan ka fogee.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "The blue line shows the route.",
+    "somali": "Khadka buluugga ahi jidka ayuu muujinayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Can you send me the location?",
+    "somali": "Goobta ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "I shared my location with you.",
+    "somali": "Goobtayda ayaan kula wadaagay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "The location is not accurate.",
+    "somali": "Goobtu sax ma aha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Follow the map until the bridge.",
+    "somali": "Raac khariidadda ilaa buundada.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_maps_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "maps"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "I lost my bag.",
+    "somali": "Boorsadaydii waan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Where did you last see it?",
+    "somali": "Xaggee ugu dambaysay inaad ku aragto?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "I left my phone on the bus.",
+    "somali": "Taleefankaygii baska ayaan uga tagay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Has anyone found a wallet?",
+    "somali": "Qof boorso lacag ma helay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Please check the lost and found.",
+    "somali": "Fadlan meesha waxyaabaha lumay lagu hayo eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Can I describe the item?",
+    "somali": "Shayga ma sharxi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "It is a small black bag.",
+    "somali": "Waa boorso yar oo madow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "My name is inside it.",
+    "somali": "Magacaygu gudaha ayuu ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "I lost it this morning.",
+    "somali": "Saaka ayaan lumiyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Please call me if you find it.",
+    "somali": "Fadlan i soo wac haddii aad hesho.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Someone found my keys.",
+    "somali": "Qof ayaa furayaashayda helay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Where can I collect it?",
+    "somali": "Xaggee ka qaadan karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "I need to report a lost item.",
+    "somali": "Shay lumay ayaan u baahanahay inaan soo sheego.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "The item is very important to me.",
+    "somali": "Shaygu aad ayuu muhiim iigu yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Thank you for finding it.",
+    "somali": "Waad ku mahadsan tahay inaad heshay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_lost_items_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "lost items"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_001",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Is there a pharmacy nearby?",
+    "somali": "Farmashiye dhow ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_002",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Where is the nearest supermarket?",
+    "somali": "Suuqa cuntada ee ugu dhow xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_003",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "There is a cafe around the corner.",
+    "somali": "Maqaaxi ayaa geeska ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_004",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The bank is five minutes away.",
+    "somali": "Bangigu shan daqiiqo ayuu jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_005",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Is there a toilet near here?",
+    "somali": "Musqul halkan u dhow ma jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_006",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The bus stop is across the road.",
+    "somali": "Joogsiga baska waddada ka soo horjeedka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_007",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Can you recommend a nearby restaurant?",
+    "somali": "Maqaayad dhow ma kugula talin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_008",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The park is behind the hotel.",
+    "somali": "Beertu hoteelka gadaashiisa ayay ku taal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_009",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "I need a cash machine nearby.",
+    "somali": "Mashiinka lacagta oo dhow ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_010",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The clinic is not far.",
+    "somali": "Rugtu ma foga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_011",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Is there a shop open now?",
+    "somali": "Dukaan hadda furan ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_012",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The mosque is two streets away.",
+    "somali": "Masaajidku laba waddo ayuu jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_013",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Where can I buy water near here?",
+    "somali": "Halkan agteeda xaggee biyo ka iibsan karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_014",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "The station is within walking distance.",
+    "somali": "Saldhigga lug ayaa lagu gaari karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_015",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "This area has many small shops.",
+    "somali": "Meeshan dukaamo yaryar badan ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_016",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Is it far from here?",
+    "somali": "Halkan ma ka fog tahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_017",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Can you show me on the map?",
+    "somali": "Khariidadda ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_018",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "I am looking for this address.",
+    "somali": "Cinwaankan ayaan raadinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_019",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Please speak slowly.",
+    "somali": "Fadlan si tartiib ah u hadal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_locations_nearby_places_020",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": "Thank you. I found it.",
+    "somali": "Mahadsanid. Waan helay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "locations",
+      "nearby places"
+    ],
+    "notes": "Editorial rewrite: natural location and direction phrase with directly aligned Somali meaning."
+  }
+]

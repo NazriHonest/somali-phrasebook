@@ -1,0 +1,3649 @@
+[
+  {
+    "id": "vocab_language_barrier_repeat",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "repeat",
+      "search_forms": [
+        "repeat",
+        "ku celi",
+        "repeats",
+        "repeated",
+        "repeating"
+      ]
+    },
+    "somali": {
+      "translation": "ku celi",
+      "alternative_translations": [],
+      "explanation": "In hadal ama xog mar kale loo sheego qof aan si fiican u maqal ama u fahmin."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To say information again because the listener missed it.",
+        "translation": "mar kale ku sheeg",
+        "examples": [
+          {
+            "english": "Could you repeat the room number for me?",
+            "somali": "Ma ii celin kartaa lambarka qolka?"
+          },
+          {
+            "english": "Please repeat the reference number before I write it down.",
+            "somali": "Fadlan lambarka tixraaca ku celi ka hor inta aanan qorin."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "repeat the question",
+        "somali": "su'aasha ku celi"
+      },
+      {
+        "english": "repeat slowly",
+        "somali": "si tartiib ah ugu celi"
+      }
+    ],
+    "related_words": [
+      "again",
+      "say",
+      "hear",
+      "slowly"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite requests with can and could",
+      "imperatives",
+      "object pronouns: it and that"
+    ],
+    "situations": [
+      "asking a receptionist to repeat an appointment time",
+      "asking a caller to repeat a reference number",
+      "asking a teacher to repeat an instruction"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_again",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "again",
+      "search_forms": [
+        "again",
+        "mar kale"
+      ]
+    },
+    "somali": {
+      "translation": "mar kale",
+      "alternative_translations": [],
+      "explanation": "Hal mar oo kale marka hadal la seego ama uusan caddayn."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "One more time after something was missed or unclear.",
+        "translation": "mar kale",
+        "examples": [
+          {
+            "english": "Could you say the address again?",
+            "somali": "Ma cinwaanka mar kale ayaad dhihi kartaa?"
+          },
+          {
+            "english": "The nurse said the date again so I could check it.",
+            "somali": "Kalkaalisadu taariikhda mar kale ayay tiri si aan u hubiyo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "say it again",
+        "somali": "mar kale dheh"
+      }
+    ],
+    "related_words": [
+      "repeat",
+      "say"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adverb position",
+      "polite requests",
+      "one more time expressions"
+    ],
+    "situations": [
+      "asking a taxi dispatcher to say an address again",
+      "requesting a phone number one more time",
+      "asking someone to repeat the final sentence"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_say",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "say",
+      "search_forms": [
+        "say",
+        "dheh",
+        "says",
+        "said",
+        "saying"
+      ]
+    },
+    "somali": {
+      "translation": "dheh",
+      "alternative_translations": [],
+      "explanation": "In erayo cod ahaan loo yiraahdo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To speak words aloud.",
+        "translation": "dheh",
+        "examples": [
+          {
+            "english": "Please say the last part again.",
+            "somali": "Fadlan qaybta ugu dambeysa mar kale dheh."
+          },
+          {
+            "english": "Can you say the name of the medicine slowly?",
+            "somali": "Ma magaca daawada si tartiib ah ayaad u dhihi kartaa?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "say your name",
+        "somali": "magacaaga dheh"
+      }
+    ],
+    "related_words": [
+      "repeat",
+      "speak",
+      "tell"
+    ],
+    "common_mistakes": [
+      "Do not use 'say me'; use 'say it to me' or 'tell me'."
+    ],
+    "grammar_topics": [
+      "say + object",
+      "polite requests",
+      "past form: said"
+    ],
+    "situations": [
+      "asking a pharmacist to say a medicine name slowly",
+      "checking how someone said a surname",
+      "requesting a short phrase again"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_hear",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "hear",
+      "search_forms": [
+        "hear",
+        "maqal",
+        "hears",
+        "heard",
+        "hearing"
+      ]
+    },
+    "somali": {
+      "translation": "maqal",
+      "alternative_translations": [],
+      "explanation": "In cod ama hadal dhagaha lagu maqlo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To receive sound with your ears.",
+        "translation": "maqal",
+        "examples": [
+          {
+            "english": "I cannot hear you clearly.",
+            "somali": "Si cad kuuma maqli karo."
+          },
+          {
+            "english": "I can hear you better now.",
+            "somali": "Hadda si ka fiican ayaan kuu maqli karaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "hear clearly",
+        "somali": "si cad u maqal"
+      }
+    ],
+    "related_words": [
+      "listen",
+      "catch",
+      "clear"
+    ],
+    "common_mistakes": [
+      "Use 'hear' for receiving sound; use 'listen' for paying attention."
+    ],
+    "grammar_topics": [
+      "can and cannot",
+      "hear + object",
+      "present simple negatives"
+    ],
+    "situations": [
+      "explaining that a phone connection is poor",
+      "speaking through a reception window",
+      "asking someone to move away from background noise"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_message",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "message",
+      "search_forms": [
+        "message",
+        "farriin"
+      ]
+    },
+    "somali": {
+      "translation": "farriin",
+      "alternative_translations": [],
+      "explanation": "Macluumaad qof sheego, qoro, ama diro."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Information someone says, writes, or sends.",
+        "translation": "farriin",
+        "examples": [
+          {
+            "english": "Could you repeat the message from the clinic?",
+            "somali": "Ma ku celin kartaa farriinta ka timid rugta caafimaadka?"
+          },
+          {
+            "english": "The school sent a message about the meeting.",
+            "somali": "Iskuulku wuxuu soo diray farriin ku saabsan kulanka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "leave a message",
+        "somali": "farriin ka tag"
+      },
+      {
+        "english": "repeat the message",
+        "somali": "farriinta ku celi"
+      }
+    ],
+    "related_words": [
+      "voicemail",
+      "text",
+      "information"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "countable nouns",
+      "leave + object",
+      "past simple"
+    ],
+    "situations": [
+      "checking a voicemail from a clinic",
+      "asking school staff to repeat a message",
+      "confirming instructions left by telephone"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_catch",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_repeat",
+    "english": {
+      "headword": "catch",
+      "search_forms": [
+        "catch",
+        "catches",
+        "caught",
+        "catching",
+        "si fiican u maqal",
+        "faham"
+      ]
+    },
+    "somali": {
+      "translation": "si fiican u maqal",
+      "alternative_translations": [
+        "faham"
+      ],
+      "explanation": "In hadalka qof la maqlo lana fahmo, gaar ahaan marka qayb ka mid ahi kaa lunto."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "To hear and understand words that someone says.",
+        "translation": "si fiican u maqal",
+        "examples": [
+          {
+            "english": "I didn't catch your surname.",
+            "somali": "Si fiican uma maqal magaca qoyskaaga."
+          },
+          {
+            "english": "Sorry, I couldn't catch the last number.",
+            "somali": "Waan ka xumahay, lambarkii ugu dambeeyay si fiican uma maqal."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "catch a name",
+        "somali": "magac si fiican u maqal"
+      },
+      {
+        "english": "catch the last part",
+        "somali": "qaybta ugu dambaysa si fiican u maqal"
+      }
+    ],
+    "related_words": [
+      "hear",
+      "understand",
+      "miss"
+    ],
+    "common_mistakes": [
+      "In 'I didn't catch that', catch means hear and understand, not physically hold something."
+    ],
+    "grammar_topics": [
+      "could not + verb",
+      "catch + object",
+      "spoken clarification"
+    ],
+    "situations": [
+      "missing a surname during an introduction",
+      "not understanding the final digits of a number",
+      "asking a speaker to repeat the last part"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Repeat"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_slowly",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "slowly",
+      "search_forms": [
+        "slowly",
+        "si tartiib ah"
+      ]
+    },
+    "somali": {
+      "translation": "si tartiib ah",
+      "alternative_translations": [],
+      "explanation": "Aan degdeg ahayn; xawaare fudud in la raaco."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Not quickly; at a speed that is easier to follow.",
+        "translation": "si tartiib ah",
+        "examples": [
+          {
+            "english": "Could you speak slowly on the phone?",
+            "somali": "Ma si tartiib ah ayaad taleefanka ugu hadli kartaa?"
+          },
+          {
+            "english": "The receptionist repeated the address slowly.",
+            "somali": "Shaqaalaha soo dhaweyntu cinwaanka si tartiib ah ayuu ugu celiyay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "speak slowly",
+        "somali": "si tartiib ah u hadal"
+      },
+      {
+        "english": "read slowly",
+        "somali": "si tartiib ah u akhri"
+      }
+    ],
+    "related_words": [
+      "slow",
+      "clearly",
+      "fast"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adverbs of manner",
+      "adverb position",
+      "polite requests"
+    ],
+    "situations": [
+      "asking a caller to reduce their speaking speed",
+      "requesting slow directions from a stranger",
+      "asking staff to read a number carefully"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_speak",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "speak",
+      "search_forms": [
+        "speak",
+        "hadal",
+        "speaks",
+        "spoke",
+        "spoken",
+        "speaking"
+      ]
+    },
+    "somali": {
+      "translation": "hadal",
+      "alternative_translations": [],
+      "explanation": "In cod lagu yiraahdo erayo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To use your voice to say words.",
+        "translation": "hadal",
+        "examples": [
+          {
+            "english": "Please speak slowly; this is important.",
+            "somali": "Fadlan si tartiib ah u hadal; tani waa muhiim."
+          },
+          {
+            "english": "The officer spoke clearly after I asked.",
+            "somali": "Sarkaalku si cad ayuu u hadlay markii aan weydiistay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "speak clearly",
+        "somali": "si cad u hadal"
+      }
+    ],
+    "related_words": [
+      "say",
+      "talk",
+      "slowly",
+      "clearly"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "speak + adverb",
+      "imperatives",
+      "can and could requests"
+    ],
+    "situations": [
+      "asking a doctor to speak more slowly",
+      "requesting clearer speech at a service desk",
+      "explaining how you need someone to communicate"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_clearly",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "clearly",
+      "search_forms": [
+        "clearly",
+        "si cad"
+      ]
+    },
+    "somali": {
+      "translation": "si cad",
+      "alternative_translations": [],
+      "explanation": "Si fudud loo maqli karo ama loo fahmi karo."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "In a way that is easy to hear or understand.",
+        "translation": "si cad",
+        "examples": [
+          {
+            "english": "Could you speak clearly into the microphone?",
+            "somali": "Ma si cad ayaad makarafoonka ugu hadli kartaa?"
+          },
+          {
+            "english": "Please write the number clearly on the form.",
+            "somali": "Fadlan lambarka si cad ugu qor foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "explain clearly",
+        "somali": "si cad u sharax"
+      }
+    ],
+    "related_words": [
+      "clear",
+      "slowly",
+      "explain"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adverbs of manner",
+      "speak/write + adverb",
+      "polite requests"
+    ],
+    "situations": [
+      "asking someone to speak clearly into a phone",
+      "requesting legible writing on a form",
+      "asking staff to explain an instruction plainly"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_fast",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "fast",
+      "search_forms": [
+        "fast",
+        "quickly",
+        "si degdeg ah"
+      ]
+    },
+    "somali": {
+      "translation": "si degdeg ah",
+      "alternative_translations": [],
+      "explanation": "Si xawaare sare leh, gaar ahaan marka qofku hadlayo."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Quickly or at a high speed.",
+        "translation": "si degdeg ah",
+        "examples": [
+          {
+            "english": "You are speaking too fast for me.",
+            "somali": "Aad baad iigu degdegaysaa markaad hadlayso."
+          },
+          {
+            "english": "The voicemail was fast, so I played it again.",
+            "somali": "Farriinta codka ah way degdeg badnayd, sidaas darteed mar kale ayaan dhageystay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "too fast",
+        "somali": "aad u degdeg badan"
+      }
+    ],
+    "related_words": [
+      "quickly",
+      "slowly"
+    ],
+    "common_mistakes": [
+      "Fast can describe both a thing and an action: 'a fast speaker' and 'speaks fast'."
+    ],
+    "grammar_topics": [
+      "adjective and adverb use",
+      "too + adjective/adverb",
+      "present continuous"
+    ],
+    "situations": [
+      "telling an interviewer that they are speaking too fast",
+      "explaining why a recorded message was difficult",
+      "asking a teacher to slow down"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_voice",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "voice",
+      "search_forms": [
+        "voice",
+        "cod"
+      ]
+    },
+    "somali": {
+      "translation": "cod",
+      "alternative_translations": [],
+      "explanation": "Codka qof sameeyo marka uu hadlayo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The sound a person makes when speaking.",
+        "translation": "cod",
+        "examples": [
+          {
+            "english": "Your voice is low; please speak louder.",
+            "somali": "Codkaagu wuu hooseeyaa; fadlan cod dheer ku hadal."
+          },
+          {
+            "english": "The doctor's voice was quiet behind the mask.",
+            "somali": "Codka dhakhtarku wuu hooseeyay maaskaro gadaasheed."
+          }
+        ]
+      }
+    ],
+    "collocations": [],
+    "related_words": [
+      "sound",
+      "loud",
+      "quiet"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "possessive adjectives",
+      "too + adjective",
+      "countable nouns"
+    ],
+    "situations": [
+      "explaining that a speaker's voice is too quiet",
+      "hearing someone through a mask",
+      "describing a weak phone connection"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_louder",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_speak_slowly",
+    "english": {
+      "headword": "louder",
+      "search_forms": [
+        "louder",
+        "cod dheer"
+      ]
+    },
+    "somali": {
+      "translation": "cod ka dheer",
+      "alternative_translations": [],
+      "explanation": "Cod ka xoog badan kii hore."
+    },
+    "part_of_speech": "adverb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "With more volume than before.",
+        "translation": "cod dheer",
+        "examples": [
+          {
+            "english": "Could you speak louder, please?",
+            "somali": "Ma codka kor u qaadi kartaa, fadlan?"
+          },
+          {
+            "english": "Please speak a little louder; I cannot hear you.",
+            "somali": "Fadlan wax yar codka u dheeray; kuma maqli karo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "speak louder",
+        "somali": "cod ka dheer ku hadal"
+      }
+    ],
+    "related_words": [
+      "loud",
+      "quiet",
+      "voice"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "comparatives",
+      "speak + comparative adverb",
+      "polite requests"
+    ],
+    "situations": [
+      "asking someone to increase their volume",
+      "speaking through glass at a ticket window",
+      "hearing an announcement in a noisy room"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Speak Slowly"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_meaning",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "meaning",
+      "search_forms": [
+        "meaning",
+        "macne"
+      ]
+    },
+    "somali": {
+      "translation": "macne",
+      "alternative_translations": [],
+      "explanation": "Waxa eray, weedh, calaamad, ama jumlad laga fahmayo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "What a word, phrase, sign, or sentence tells you.",
+        "translation": "macne",
+        "examples": [
+          {
+            "english": "What is the meaning of this word?",
+            "somali": "Waa maxay macnaha eraygan?"
+          },
+          {
+            "english": "The teacher explained the meaning with a simple example.",
+            "somali": "Macallinku macnaha wuxuu ku sharxay tusaale fudud."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "meaning of a word",
+        "somali": "macnaha eray"
+      },
+      {
+        "english": "clear meaning",
+        "somali": "macne cad"
+      }
+    ],
+    "related_words": [
+      "mean",
+      "definition",
+      "word"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "the meaning of",
+      "what questions",
+      "countable nouns"
+    ],
+    "situations": [
+      "asking about a word on an official letter",
+      "checking the meaning of a sign",
+      "asking what a phrase in a form means"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_mean",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "mean",
+      "search_forms": [
+        "mean",
+        "ka dhigan tahay",
+        "means",
+        "meant",
+        "meaning"
+      ]
+    },
+    "somali": {
+      "translation": "ka dhigan tahay",
+      "alternative_translations": [],
+      "explanation": "In hadal ama eray leeyahay fikrad ama farriin gaar ah."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To have a particular idea or message.",
+        "translation": "ka dhigan tahay",
+        "examples": [
+          {
+            "english": "What does this notice mean?",
+            "somali": "Ogeysiiskani muxuu ka dhigan yahay?"
+          },
+          {
+            "english": "In this letter, \"urgent\" means it must be done quickly.",
+            "somali": "Warqaddan dhexdeeda, erayga \"urgent\" wuxuu ka dhigan yahay in si degdeg ah loo sameeyo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "what does it mean",
+        "somali": "maxay ka dhigan tahay"
+      }
+    ],
+    "related_words": [
+      "meaning",
+      "word",
+      "phrase",
+      "explain"
+    ],
+    "common_mistakes": [
+      "Use 'What does this mean?', not 'What this means?' in a direct question."
+    ],
+    "grammar_topics": [
+      "What does ... mean?",
+      "do/does questions",
+      "demonstratives: this and that"
+    ],
+    "situations": [
+      "asking what a notice communicates",
+      "checking the meaning of an unfamiliar word",
+      "clarifying a phrase in an official message"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_word",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "word",
+      "search_forms": [
+        "word",
+        "eray"
+      ]
+    },
+    "somali": {
+      "translation": "eray",
+      "alternative_translations": [],
+      "explanation": "Hal qayb oo luqadeed oo macne leh."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "One unit of language that carries meaning.",
+        "translation": "eray",
+        "examples": [
+          {
+            "english": "I do not understand this word in the letter.",
+            "somali": "Ma fahmin eraygan warqadda ku qoran."
+          },
+          {
+            "english": "The word on the sign was new to me.",
+            "somali": "Erayga calaamadda ku qoran wuu igu cusbaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "unfamiliar word",
+        "somali": "eray aan la aqoon"
+      }
+    ],
+    "related_words": [
+      "phrase",
+      "sentence",
+      "meaning"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "this/that + noun",
+      "countable nouns",
+      "negative statements"
+    ],
+    "situations": [
+      "pointing out one unfamiliar word in a letter",
+      "asking about vocabulary on a sign",
+      "identifying the exact word that caused confusion"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_phrase",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "phrase",
+      "search_forms": [
+        "phrase",
+        "weedh"
+      ]
+    },
+    "somali": {
+      "translation": "weedh",
+      "alternative_translations": [],
+      "explanation": "Koox yar oo erayo ah oo wada socda."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A small group of words used together.",
+        "translation": "weedh",
+        "examples": [
+          {
+            "english": "What does this phrase mean at the pharmacy?",
+            "somali": "Weedhan farmashiyaha maxay ka dhigan tahay?"
+          },
+          {
+            "english": "Could you explain this phrase to me?",
+            "somali": "Ma ii sharxi kartaa weedhan?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "common phrase",
+        "somali": "weedh caadi ah"
+      }
+    ],
+    "related_words": [
+      "word",
+      "sentence",
+      "expression"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "this phrase",
+      "what questions",
+      "countable nouns"
+    ],
+    "situations": [
+      "asking about several words used together",
+      "checking a phrase heard at a pharmacy",
+      "clarifying wording on a reception notice"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_explain",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "explain",
+      "search_forms": [
+        "explain",
+        "sharax",
+        "explains",
+        "explained",
+        "explaining"
+      ]
+    },
+    "somali": {
+      "translation": "sharax",
+      "alternative_translations": [],
+      "explanation": "In macluumaad la caddeeyo iyadoo faahfaahin la bixinayo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To make information clear by giving more detail.",
+        "translation": "sharax",
+        "examples": [
+          {
+            "english": "Could you explain this bill to me?",
+            "somali": "Ma ii sharxi kartaa biilkan?"
+          },
+          {
+            "english": "The advisor explained the form step by step.",
+            "somali": "La-taliyuhu foomka tallaabo tallaabo ayuu u sharxay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "explain it to me",
+        "somali": "ii sharax"
+      }
+    ],
+    "related_words": [
+      "explanation",
+      "meaning",
+      "example"
+    ],
+    "common_mistakes": [
+      "Say 'explain it to me', not 'explain me'."
+    ],
+    "grammar_topics": [
+      "explain something to someone",
+      "could you + verb",
+      "past simple"
+    ],
+    "situations": [
+      "asking staff to explain a bill",
+      "requesting a simpler explanation of a form",
+      "asking a teacher to explain an instruction"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_example",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "example",
+      "search_forms": [
+        "example",
+        "tusaale"
+      ]
+    },
+    "somali": {
+      "translation": "tusaale",
+      "alternative_translations": [],
+      "explanation": "Wax muujinaya sida eray ama fikrad loo isticmaalo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Something that shows how a word or idea is used.",
+        "translation": "tusaale",
+        "examples": [
+          {
+            "english": "Can you give me an example with this word?",
+            "somali": "Ma ii siin kartaa tusaale eraygan leh?"
+          },
+          {
+            "english": "One example helped me answer the question.",
+            "somali": "Hal tusaale ayaa iga caawiyay inaan su\"aasha ka jawaabo."
+          }
+        ]
+      }
+    ],
+    "collocations": [],
+    "related_words": [
+      "explain",
+      "meaning",
+      "sentence"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "give someone an example",
+      "can questions",
+      "articles: an example"
+    ],
+    "situations": [
+      "asking for a sample sentence",
+      "requesting an example of how to complete a form",
+      "using an example to understand a new word"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_sign",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_meaning",
+    "english": {
+      "headword": "sign",
+      "search_forms": [
+        "sign",
+        "calaamad"
+      ]
+    },
+    "somali": {
+      "translation": "calaamad",
+      "alternative_translations": [],
+      "explanation": "Ogeysiis qoraal ama muuqaal ah oo macluumaad bixiya."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A written or visual notice that gives information.",
+        "translation": "calaamad",
+        "examples": [
+          {
+            "english": "What does this sign mean?",
+            "somali": "Calaamaddan maxay ka dhigan tahay?"
+          },
+          {
+            "english": "The sign near the lift says \"Staff only\".",
+            "somali": "Calaamadda wiishka u dhow waxay leedahay \"Shaqaalaha oo keliya\"."
+          }
+        ]
+      }
+    ],
+    "collocations": [],
+    "related_words": [
+      "notice",
+      "warning",
+      "meaning"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "What does this sign mean?",
+      "says + quoted text",
+      "countable nouns"
+    ],
+    "situations": [
+      "asking what a hospital sign means",
+      "checking a warning at a station",
+      "understanding a notice in a public office"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Meaning"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_spell",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "spell",
+      "search_forms": [
+        "spell",
+        "higgaadi",
+        "spells",
+        "spelled",
+        "spelt",
+        "spelling"
+      ]
+    },
+    "somali": {
+      "translation": "higgaadi",
+      "alternative_translations": [],
+      "explanation": "In xarfaha si sax ah oo isku xigta loo sheego ama loo qoro."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To say or write letters in the correct order.",
+        "translation": "higgaadi",
+        "examples": [
+          {
+            "english": "Could you spell your surname?",
+            "somali": "Ma higgaadin kartaa magaca qoyskaaga?"
+          },
+          {
+            "english": "The receptionist spelled the street name twice.",
+            "somali": "Shaqaalaha soo dhaweyntu magaca waddada laba jeer ayuu higgaadiyay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "spell your name",
+        "somali": "magacaaga higgaadi"
+      }
+    ],
+    "related_words": [
+      "spelling",
+      "letter",
+      "name",
+      "address"
+    ],
+    "common_mistakes": [
+      "Use 'How do you spell ...?', not 'How you spell ...?'."
+    ],
+    "grammar_topics": [
+      "How do you spell ...?",
+      "can/could questions",
+      "alphabet language"
+    ],
+    "situations": [
+      "asking someone to spell a surname",
+      "confirming a street name by phone",
+      "spelling an email address during registration"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_spelling",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "spelling",
+      "search_forms": [
+        "spelling",
+        "higgaadin"
+      ]
+    },
+    "somali": {
+      "translation": "higgaadin",
+      "alternative_translations": [],
+      "explanation": "Sida saxda ah ee xarfaha eraygu isugu xigaan."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The correct order of letters in a word.",
+        "translation": "higgaadin",
+        "examples": [
+          {
+            "english": "The spelling of my street name is unusual.",
+            "somali": "Higgaadinta magaca waddadaydu waa mid aan caadi ahayn."
+          },
+          {
+            "english": "The spelling on my clinic card is wrong.",
+            "somali": "Higgaadinta kaarka rugtayda caafimaad way khaldan tahay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "correct spelling",
+        "somali": "higgaadin sax ah"
+      }
+    ],
+    "related_words": [
+      "spell",
+      "letter"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "the spelling of",
+      "possessive forms",
+      "countable and uncountable use"
+    ],
+    "situations": [
+      "correcting a name on a clinic card",
+      "checking a street name on a form",
+      "confirming the written form of a medicine name"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_letter",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "letter",
+      "search_forms": [
+        "letter",
+        "xaraf"
+      ]
+    },
+    "somali": {
+      "translation": "xaraf",
+      "alternative_translations": [],
+      "explanation": "Calaamad qoraal oo alifbeetada ka mid ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A written sign in an alphabet.",
+        "translation": "xaraf",
+        "examples": [
+          {
+            "english": "Is the second letter M or N?",
+            "somali": "Xarafka labaad ma M baa mise N?"
+          },
+          {
+            "english": "The last letter is D, not B.",
+            "somali": "Xarafka ugu dambeeya waa D, ma aha B."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "capital letter",
+        "somali": "xaraf weyn"
+      }
+    ],
+    "related_words": [
+      "alphabet",
+      "capital",
+      "lowercase"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "ordinal numbers",
+      "either/or questions",
+      "capital and lowercase"
+    ],
+    "situations": [
+      "distinguishing similar letters on the phone",
+      "checking a capital letter in an email address",
+      "confirming the final letter of a surname"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_name",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "name",
+      "search_forms": [
+        "name",
+        "magac"
+      ]
+    },
+    "somali": {
+      "translation": "magac",
+      "alternative_translations": [],
+      "explanation": "Erayga ama erayada qof ama meel loogu yeero."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word or words used for a person or place.",
+        "translation": "magac",
+        "examples": [
+          {
+            "english": "Please check the spelling of my name.",
+            "somali": "Fadlan hubi higgaadinta magacayga."
+          },
+          {
+            "english": "My name is on the appointment list.",
+            "somali": "Magacaygu wuxuu ku jiraa liiska ballamaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "full name",
+        "somali": "magac buuxa"
+      }
+    ],
+    "related_words": [
+      "first name",
+      "surname",
+      "full name"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "possessive adjectives",
+      "full name expressions",
+      "present simple"
+    ],
+    "situations": [
+      "checking a name on an appointment list",
+      "spelling a child's name for school",
+      "correcting a name on an official form"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_surname",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "surname",
+      "search_forms": [
+        "surname",
+        "magac qoys"
+      ]
+    },
+    "somali": {
+      "translation": "magac qoys",
+      "alternative_translations": [],
+      "explanation": "Magaca qoyska qofka."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A family name.",
+        "translation": "magac qoys",
+        "examples": [
+          {
+            "english": "Could you spell your surname slowly?",
+            "somali": "Ma si tartiib ah u higgaadin kartaa magaca qoyskaaga?"
+          },
+          {
+            "english": "My surname is different from my children's surname.",
+            "somali": "Magaca qoyskeygu wuu ka duwan yahay magaca qoyska carruurtayda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "family name",
+        "somali": "magac qoys"
+      }
+    ],
+    "related_words": [
+      "family name",
+      "name"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "your + noun",
+      "family name terminology",
+      "can/could requests"
+    ],
+    "situations": [
+      "spelling a family name during registration",
+      "checking a surname on a medical record",
+      "explaining that family members have different surnames"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_address",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "address",
+      "search_forms": [
+        "address",
+        "cinwaan"
+      ]
+    },
+    "somali": {
+      "translation": "cinwaan",
+      "alternative_translations": [],
+      "explanation": "Faahfaahinta meesha qof deggan yahay ama meel ku taallo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The details of where someone lives or where a place is.",
+        "translation": "cinwaan",
+        "examples": [
+          {
+            "english": "Please spell the address for the taxi driver.",
+            "somali": "Fadlan cinwaanka u higgaadi darawalka taksiga."
+          },
+          {
+            "english": "The address on the letter is old.",
+            "somali": "Cinwaanka warqadda ku qoran waa kii hore."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "confirm an address",
+        "somali": "cinwaan xaqiiji"
+      }
+    ],
+    "related_words": [
+      "street",
+      "postcode",
+      "email"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "possessive adjectives",
+      "prepositions in addresses",
+      "spell + object"
+    ],
+    "situations": [
+      "spelling an address for a taxi driver",
+      "confirming a delivery address",
+      "correcting an address on an official letter"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_email",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "email",
+      "search_forms": [
+        "email",
+        "iimayl"
+      ]
+    },
+    "somali": {
+      "translation": "iimayl",
+      "alternative_translations": [],
+      "explanation": "Farriin internet lagu diro ama cinwaanka loo isticmaalo dirista iyo helista farriimahaas."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A message sent electronically over the internet.",
+        "translation": "iimayl",
+        "examples": [
+          {
+            "english": "The college sent the timetable by email.",
+            "somali": "Kulliyaddu jadwalka waxay ku soo dirtay iimayl."
+          },
+          {
+            "english": "I received an email from the clinic.",
+            "somali": "Waxaan iimayl ka helay rugta caafimaadka."
+          }
+        ]
+      },
+      {
+        "definition": "An email address used to send and receive electronic messages.",
+        "translation": "cinwaan iimayl",
+        "examples": [
+          {
+            "english": "Could you spell your email address?",
+            "somali": "Ma higgaadin kartaa cinwaankaaga iimaylka?"
+          },
+          {
+            "english": "My email address is wrong on the form.",
+            "somali": "Cinwaankayga iimaylka foomka ku qoran waa khalad."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "email address",
+        "somali": "cinwaan iimayl"
+      },
+      {
+        "english": "send an email",
+        "somali": "iimayl dir"
+      }
+    ],
+    "related_words": [
+      "email address",
+      "message",
+      "at sign"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "email address expressions",
+      "by email",
+      "can/could requests"
+    ],
+    "situations": [
+      "spelling an email address for an application",
+      "confirming where a timetable was sent",
+      "correcting an email address on a form"
+    ],
+    "source": {
+      "type": "modern_extension",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_postcode",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_spelling",
+    "english": {
+      "headword": "postcode",
+      "search_forms": [
+        "postcode",
+        "koodh boosto"
+      ]
+    },
+    "somali": {
+      "translation": "koodh boosto",
+      "alternative_translations": [],
+      "explanation": "Xarfo iyo lambarro cinwaan lagu isticmaalo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "Letters and numbers used in an address.",
+        "translation": "koodh boosto",
+        "examples": [
+          {
+            "english": "Could you spell the postcode?",
+            "somali": "Ma higgaadin kartaa koodhka boostada?"
+          },
+          {
+            "english": "The postcode starts with two letters.",
+            "somali": "Koodhka boostadu wuxuu ku bilaabmaa laba xaraf."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "read back a postcode",
+        "somali": "koodh boosto dib u akhri"
+      }
+    ],
+    "related_words": [
+      "address",
+      "letter",
+      "number"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "letters and numbers",
+      "starts with",
+      "read-back questions"
+    ],
+    "situations": [
+      "reading a postcode aloud",
+      "confirming letters and numbers in an address",
+      "giving a postcode during a housing enquiry"
+    ],
+    "source": {
+      "type": "modern_extension",
+      "section": "Language Barrier - Spelling"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_pronounce",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "pronounce",
+      "search_forms": [
+        "pronounce",
+        "ku dhawaaq",
+        "pronounces",
+        "pronounced",
+        "pronouncing"
+      ]
+    },
+    "somali": {
+      "translation": "ku dhawaaq",
+      "alternative_translations": [],
+      "explanation": "In eray dhawaaqiisa saxda ah lagu yiraahdo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To say a word with its correct sounds.",
+        "translation": "ku dhawaaq",
+        "examples": [
+          {
+            "english": "How do you pronounce this medicine name?",
+            "somali": "Sidee baa loogu dhawaaqaa magaca daawadan?"
+          },
+          {
+            "english": "The pharmacist pronounced the medicine name for me.",
+            "somali": "Farmashiistuhu magaca daawada ayuu ii dhawaaqay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "pronounce a word",
+        "somali": "eray ku dhawaaq"
+      }
+    ],
+    "related_words": [
+      "pronunciation",
+      "sound",
+      "stress"
+    ],
+    "common_mistakes": [
+      "The noun is 'pronunciation', not 'pronounciation'."
+    ],
+    "grammar_topics": [
+      "How do you pronounce ...?",
+      "pronounce + object",
+      "past simple"
+    ],
+    "situations": [
+      "asking how to pronounce a medicine name",
+      "checking the pronunciation of a street name",
+      "requesting help with an unfamiliar word"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_pronunciation",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "pronunciation",
+      "search_forms": [
+        "pronunciation",
+        "dhawaaq"
+      ]
+    },
+    "somali": {
+      "translation": "sida loogu dhawaaqo",
+      "alternative_translations": [],
+      "explanation": "Habka saxda ah ee eray afka looga yiraahdo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The way a word is spoken.",
+        "translation": "sida loogu dhawaaqo",
+        "examples": [
+          {
+            "english": "My pronunciation of this street name is not clear.",
+            "somali": "Dhawaaqayga magaca waddadan ma cadda."
+          },
+          {
+            "english": "My pronunciation is clearer when I speak slowly.",
+            "somali": "Dhawaaqaygu wuu caddaadaa marka aan si tartiib ah u hadlo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "correct pronunciation",
+        "somali": "dhawaaq sax ah"
+      }
+    ],
+    "related_words": [
+      "pronounce",
+      "sound",
+      "accent"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "possessive forms",
+      "comparatives: clearer",
+      "uncountable nouns"
+    ],
+    "situations": [
+      "discussing whether a word sounds clear",
+      "practising a difficult street name",
+      "asking for help with spoken English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_sound",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "sound",
+      "search_forms": [
+        "sound",
+        "dhawaaq"
+      ]
+    },
+    "somali": {
+      "translation": "dhawaaq",
+      "alternative_translations": [],
+      "explanation": "Qayb hadal ah oo la maqlo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A part of speech that you hear.",
+        "translation": "dhawaaq",
+        "examples": [
+          {
+            "english": "This sound is difficult for me.",
+            "somali": "Dhawaaqan wuu igu adag yahay."
+          },
+          {
+            "english": "The first sound in \"three\" is difficult for me.",
+            "somali": "Dhawaaqa koowaad ee \"three\" wuu igu adag yahay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "vowel sound",
+        "somali": "dhawaaq shaqal"
+      }
+    ],
+    "related_words": [
+      "pronounce",
+      "vowel",
+      "consonant"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "this/that + noun",
+      "first/last + noun",
+      "countable nouns"
+    ],
+    "situations": [
+      "identifying a difficult sound in a word",
+      "comparing two similar English sounds",
+      "asking a teacher to repeat the first sound"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_accent",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "accent",
+      "search_forms": [
+        "accent",
+        "lahjad"
+      ]
+    },
+    "somali": {
+      "translation": "lahjad",
+      "alternative_translations": [],
+      "explanation": "Hab hadal oo la xiriira meel ama luqadda koowaad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A way of speaking linked to a place or first language.",
+        "translation": "lahjad",
+        "examples": [
+          {
+            "english": "I have a Somali accent when I speak English.",
+            "somali": "Waxaan leeyahay lahjad Soomaali ah marka aan Ingiriis ku hadlo."
+          },
+          {
+            "english": "People understand my accent when I speak slowly.",
+            "somali": "Dadku lahjaddayda way fahmaan marka aan si tartiib ah u hadlo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "strong accent",
+        "somali": "lahjad xooggan"
+      }
+    ],
+    "related_words": [
+      "pronunciation",
+      "voice",
+      "language"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "have + noun",
+      "when clauses",
+      "possessive adjectives"
+    ],
+    "situations": [
+      "describing your Somali accent respectfully",
+      "explaining why a speaker sounds unfamiliar",
+      "discussing regional differences in spoken English"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_syllable",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "syllable",
+      "search_forms": [
+        "syllable",
+        "qayb dhawaaq"
+      ]
+    },
+    "somali": {
+      "translation": "qayb dhawaaqeed",
+      "alternative_translations": [],
+      "explanation": "Qayb ka mid ah erayga oo hal mar cod ahaan loo yiraahdo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "One beat or part of a spoken word.",
+        "translation": "qayb dhawaaqeed",
+        "examples": [
+          {
+            "english": "How many syllables are in this word?",
+            "somali": "Eraygan imisa qaybood oo dhawaaq ah ayuu leeyahay?"
+          },
+          {
+            "english": "The word has three syllables.",
+            "somali": "Eraygu wuxuu leeyahay saddex qaybood oo dhawaaq ah."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "second syllable",
+        "somali": "qaybta labaad ee dhawaaqa"
+      }
+    ],
+    "related_words": [
+      "stress",
+      "sound",
+      "word"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "How many ...?",
+      "plural nouns",
+      "ordinal numbers"
+    ],
+    "situations": [
+      "counting the parts of a long word",
+      "finding the stressed syllable",
+      "breaking a medicine name into spoken parts"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_stress",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_pronunciation",
+    "english": {
+      "headword": "stress",
+      "search_forms": [
+        "stress",
+        "cadaadis dhawaaq"
+      ]
+    },
+    "somali": {
+      "translation": "xoogga dhawaaqa",
+      "alternative_translations": [],
+      "explanation": "Qaybta erayga ee codka xoogga lagu saaro."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The stronger part of a spoken word.",
+        "translation": "xoogga dhawaaqa",
+        "examples": [
+          {
+            "english": "Which syllable is stressed in \"appointment\"?",
+            "somali": "Erayga \"appointment\" qaybtee ayaa codka xoogga lagu saaraa?"
+          },
+          {
+            "english": "The stress is different in the noun and the verb.",
+            "somali": "Cadaadiska dhawaaqu wuu ku kala duwan yahay magaca iyo falka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "word stress",
+        "somali": "cadaadiska dhawaaqa erayga"
+      }
+    ],
+    "related_words": [
+      "syllable",
+      "pronunciation"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "Where is the stress?",
+      "prepositions in words",
+      "noun/verb contrast"
+    ],
+    "situations": [
+      "finding the strongest syllable in a word",
+      "comparing noun and verb stress",
+      "practising the stress in an appointment-related word"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Pronunciation"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_understand",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": {
+      "headword": "understand",
+      "search_forms": [
+        "understand",
+        "faham",
+        "understands",
+        "understood",
+        "understanding"
+      ]
+    },
+    "somali": {
+      "translation": "faham",
+      "alternative_translations": [],
+      "explanation": "In la garto waxa erayo ama macluumaad ka dhigan yihiin."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To know what words or information mean.",
+        "translation": "faham",
+        "examples": [
+          {
+            "english": "I do not understand the appointment letter.",
+            "somali": "Ma fahmin warqadda ballanta."
+          },
+          {
+            "english": "I understand the first sentence, but not the second.",
+            "somali": "Jumladda koowaad waan fahmay, laakiin tan labaad ma fahmin."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "understand the question",
+        "somali": "su'aasha faham"
+      }
+    ],
+    "related_words": [
+      "meaning",
+      "confused",
+      "unclear"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "present simple negatives",
+      "but for contrast",
+      "understand + object"
+    ],
+    "situations": [
+      "saying that an appointment letter is unclear",
+      "explaining that only part of a sentence was understood",
+      "checking understanding after an explanation"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Don't Understand"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_confused",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": {
+      "headword": "confused",
+      "search_forms": [
+        "confused",
+        "wareersan"
+      ]
+    },
+    "somali": {
+      "translation": "wareersan",
+      "alternative_translations": [],
+      "explanation": "Aan hubin sababtoo ah macluumaadku ma cadda."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Unsure because information is not clear.",
+        "translation": "wareersan",
+        "examples": [
+          {
+            "english": "I am confused about this question.",
+            "somali": "Waan ku wareersanahay su'aashan."
+          },
+          {
+            "english": "I was confused when the time changed.",
+            "somali": "Waan wareeray markii waqtigu is beddelay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "feel confused",
+        "somali": "wareer dareem"
+      }
+    ],
+    "related_words": [
+      "understand",
+      "unclear",
+      "explain"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "be + adjective",
+      "confused about/by",
+      "past simple"
+    ],
+    "situations": [
+      "asking for help with a difficult form",
+      "explaining confusion after a time change",
+      "saying that two instructions seem different"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Don't Understand"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_unclear",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": {
+      "headword": "unclear",
+      "search_forms": [
+        "unclear",
+        "aan caddayn"
+      ]
+    },
+    "somali": {
+      "translation": "aan caddayn",
+      "alternative_translations": [],
+      "explanation": "Aan fududayn in la maqlo, la akhriyo, ama la fahmo."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Not easy to hear, read, or understand.",
+        "translation": "aan caddayn",
+        "examples": [
+          {
+            "english": "The instruction is unclear to me.",
+            "somali": "Tilmaantu iima cadda."
+          },
+          {
+            "english": "The handwriting is unclear.",
+            "somali": "Qoraalka gacantu ma cadda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "unclear instruction",
+        "somali": "tilmaan aan caddayn"
+      }
+    ],
+    "related_words": [
+      "clear",
+      "confused",
+      "difficult"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "be + adjective",
+      "negative prefixes",
+      "too + adjective"
+    ],
+    "situations": [
+      "reporting unclear handwriting",
+      "asking for a vague instruction to be explained",
+      "describing speech that is difficult to follow"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Don't Understand"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_difficult",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_dont_understand",
+    "english": {
+      "headword": "difficult",
+      "search_forms": [
+        "difficult",
+        "adag"
+      ]
+    },
+    "somali": {
+      "translation": "adag",
+      "alternative_translations": [],
+      "explanation": "Aan fududayn in la sameeyo ama la fahmo."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Not easy to do or understand.",
+        "translation": "adag",
+        "examples": [
+          {
+            "english": "This sentence is difficult for me.",
+            "somali": "Jumladdan way igu adag tahay."
+          },
+          {
+            "english": "The online form is difficult on my phone.",
+            "somali": "Foomka internetka ee taleefankayga wuu adag yahay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "difficult word",
+        "somali": "eray adag"
+      }
+    ],
+    "related_words": [
+      "easy",
+      "unclear",
+      "help"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "difficult for someone",
+      "too + adjective",
+      "infinitive complements"
+    ],
+    "situations": [
+      "explaining that a sentence is hard to understand",
+      "asking for help with an online form",
+      "describing a word that is hard to pronounce"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Don't Understand"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_interpreter",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "interpreter",
+      "search_forms": [
+        "interpreter",
+        "turjubaan"
+      ]
+    },
+    "somali": {
+      "translation": "turjubaan",
+      "alternative_translations": [],
+      "explanation": "Qof hadal ka beddela luqad una beddela luqad kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A person who changes spoken language into another language.",
+        "translation": "turjubaan",
+        "examples": [
+          {
+            "english": "Could I have an interpreter for the appointment?",
+            "somali": "Ma heli karaa turjubaan ballanta?"
+          },
+          {
+            "english": "The hospital booked an interpreter for the appointment.",
+            "somali": "Isbitaalku wuxuu ballanta u qabtay turjubaan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "request an interpreter",
+        "somali": "turjubaan codso"
+      },
+      {
+        "english": "qualified interpreter",
+        "somali": "turjubaan xirfad leh"
+      }
+    ],
+    "related_words": [
+      "interpret",
+      "translate",
+      "translation"
+    ],
+    "common_mistakes": [
+      "An interpreter works with spoken language; a translator usually works with written text."
+    ],
+    "grammar_topics": [
+      "requesting services",
+      "articles: an interpreter",
+      "need/have + noun"
+    ],
+    "situations": [
+      "requesting an interpreter for a medical appointment",
+      "asking whether language support is available",
+      "requesting a qualified interpreter for an official meeting"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_translate",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "translate",
+      "search_forms": [
+        "translate",
+        "tarjun",
+        "translates",
+        "translated",
+        "translating"
+      ]
+    },
+    "somali": {
+      "translation": "tarjun",
+      "alternative_translations": [],
+      "explanation": "In erayo luqad ka mid ah loo beddelo luqad kale."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To change words from one language into another.",
+        "translation": "tarjun",
+        "examples": [
+          {
+            "english": "Can you translate this message into Somali?",
+            "somali": "Ma farriintan Soomaali ugu tarjumi kartaa?"
+          },
+          {
+            "english": "My neighbour translated the school message for me.",
+            "somali": "Deriskaygu farriinta iskuulka ayuu ii tarjumeeyay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "translate into Somali",
+        "somali": "Soomaali u tarjun"
+      }
+    ],
+    "related_words": [
+      "translation",
+      "interpreter",
+      "language"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "translate into/from",
+      "can questions",
+      "verb + object"
+    ],
+    "situations": [
+      "asking someone to translate a message into Somali",
+      "requesting translation of school information",
+      "translating a short instruction for a family member"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_translation",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "translation",
+      "search_forms": [
+        "translation",
+        "tarjumaad"
+      ]
+    },
+    "somali": {
+      "translation": "tarjumaad",
+      "alternative_translations": [],
+      "explanation": "Erayo laga beddelay luqad loona beddelay luqad kale."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Words changed from one language into another.",
+        "translation": "tarjumaad",
+        "examples": [
+          {
+            "english": "The translation on the form is helpful.",
+            "somali": "Tarjumaadda foomku way caawinaysaa."
+          },
+          {
+            "english": "The translation must include all the instructions.",
+            "somali": "Tarjumaaddu waa inay ku jirtaa dhammaan tilmaamaha."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "written translation",
+        "somali": "tarjumaad qoran"
+      }
+    ],
+    "related_words": [
+      "translate",
+      "interpreter",
+      "language"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "written + noun",
+      "must for necessity",
+      "countable nouns"
+    ],
+    "situations": [
+      "requesting a written translation of a form",
+      "checking whether all instructions were translated",
+      "using a translation to understand an official letter"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_language",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "language",
+      "search_forms": [
+        "language",
+        "luqad"
+      ]
+    },
+    "somali": {
+      "translation": "luqad",
+      "alternative_translations": [],
+      "explanation": "Nidaam erayo ah oo bulsho isticmaasho."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A system of words used by a community.",
+        "translation": "luqad",
+        "examples": [
+          {
+            "english": "Which language do you prefer?",
+            "somali": "Luqaddee ayaad doorbidaysaa?"
+          },
+          {
+            "english": "The form asks which language I prefer.",
+            "somali": "Foomku wuxuu weydiinayaa luqadda aan doorbidayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "language support",
+        "somali": "taageero luqadeed"
+      }
+    ],
+    "related_words": [
+      "Somali",
+      "English",
+      "interpreter"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "which questions",
+      "language names",
+      "prefer + noun"
+    ],
+    "situations": [
+      "telling staff which language you prefer",
+      "selecting a language on a form",
+      "asking what language support is available"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_somali",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "Somali",
+      "search_forms": [
+        "Somali",
+        "Soomaali"
+      ]
+    },
+    "somali": {
+      "translation": "Soomaali",
+      "alternative_translations": [],
+      "explanation": "Luqadda Soomaaliga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The Somali language.",
+        "translation": "Soomaali",
+        "examples": [
+          {
+            "english": "I need a Somali interpreter.",
+            "somali": "Waxaan u baahanahay turjubaan Soomaali ah."
+          },
+          {
+            "english": "Somali is the language I understand best.",
+            "somali": "Af-Soomaaligu waa luqadda aan sida ugu fiican u fahmo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "speak Somali",
+        "somali": "Soomaali ku hadal"
+      }
+    ],
+    "related_words": [
+      "language",
+      "English",
+      "interpreter"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "language names without articles",
+      "speak + language",
+      "best for superlative meaning"
+    ],
+    "situations": [
+      "requesting Somali interpretation",
+      "telling staff that Somali is your strongest language",
+      "asking whether someone speaks Somali"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_english",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_interpreter",
+    "english": {
+      "headword": "English",
+      "search_forms": [
+        "English",
+        "Ingiriisi"
+      ]
+    },
+    "somali": {
+      "translation": "Ingiriisi",
+      "alternative_translations": [],
+      "explanation": "Luqadda Ingiriisiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The English language.",
+        "translation": "Ingiriisi",
+        "examples": [
+          {
+            "english": "My English is limited.",
+            "somali": "Aqoontayda Ingiriisigu way xaddidan tahay."
+          },
+          {
+            "english": "English is difficult for me on the phone.",
+            "somali": "Ingiriisigu taleefanka wuu igu adag yahay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "limited English",
+        "somali": "Ingiriisi xaddidan"
+      }
+    ],
+    "related_words": [
+      "language",
+      "Somali",
+      "beginner"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "limited + noun",
+      "language names",
+      "be difficult for someone"
+    ],
+    "situations": [
+      "explaining that your English is limited",
+      "asking for simple English on the phone",
+      "describing your English ability at an office"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Interpreter"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_confirm",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "confirm",
+      "search_forms": [
+        "confirm",
+        "xaqiiji",
+        "confirms",
+        "confirmed",
+        "confirming"
+      ]
+    },
+    "somali": {
+      "translation": "xaqiiji",
+      "alternative_translations": [],
+      "explanation": "In la hubiyo in macluumaad sax yahay."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To check that information is correct.",
+        "translation": "xaqiiji",
+        "examples": [
+          {
+            "english": "Can you confirm the appointment time?",
+            "somali": "Ma xaqiijin kartaa waqtiga ballanta?"
+          },
+          {
+            "english": "The receptionist confirmed the appointment by text.",
+            "somali": "Shaqaalaha soo dhaweyntu ballanta farriin qoraal ah ayuu ku xaqiijiyay."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "confirm the details",
+        "somali": "faahfaahinta xaqiiji"
+      }
+    ],
+    "related_words": [
+      "check",
+      "verify",
+      "correct"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "can/could questions",
+      "confirm + object",
+      "past simple"
+    ],
+    "situations": [
+      "confirming an appointment time",
+      "checking a reference number",
+      "verifying personal details before submission"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_correct",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "correct",
+      "search_forms": [
+        "correct",
+        "sax"
+      ]
+    },
+    "somali": {
+      "translation": "sax",
+      "alternative_translations": [],
+      "explanation": "Sax ah oo qalad la'aan ah."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Right and without a mistake.",
+        "translation": "sax",
+        "examples": [
+          {
+            "english": "Is this phone number correct?",
+            "somali": "Lambarkan taleefan ma sax baa?"
+          },
+          {
+            "english": "The correct date is Tuesday, not Thursday.",
+            "somali": "Taariikhda saxda ahi waa Talaado, ma aha Khamiis."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "correct information",
+        "somali": "macluumaad sax ah"
+      }
+    ],
+    "related_words": [
+      "confirm",
+      "wrong",
+      "accurate"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "be + adjective",
+      "either/or correction",
+      "not ... but ..."
+    ],
+    "situations": [
+      "checking whether a phone number is right",
+      "correcting a date on a form",
+      "confirming the correct spelling of a name"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_information",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "information",
+      "search_forms": [
+        "information",
+        "macluumaad"
+      ]
+    },
+    "somali": {
+      "translation": "macluumaad",
+      "alternative_translations": [],
+      "explanation": "Xaqiiqooyin ama faahfaahin ku saabsan wax."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Facts or details about something.",
+        "translation": "macluumaad",
+        "examples": [
+          {
+            "english": "Please confirm my personal information.",
+            "somali": "Fadlan xaqiiji macluumaadkayga shakhsiyeed."
+          },
+          {
+            "english": "The information on the form must be exact.",
+            "somali": "Macluumaadka foomka ku qoran waa inuu sax ahaadaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "personal information",
+        "somali": "macluumaad shakhsiyeed"
+      }
+    ],
+    "related_words": [
+      "detail",
+      "form",
+      "confirm"
+    ],
+    "common_mistakes": [
+      "Information is uncountable: say 'some information', not 'an information'."
+    ],
+    "grammar_topics": [
+      "uncountable nouns",
+      "personal + noun",
+      "must for obligation"
+    ],
+    "situations": [
+      "reviewing personal information on a form",
+      "checking details before an appointment",
+      "asking staff for missing information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_detail",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "detail",
+      "search_forms": [
+        "detail",
+        "faahfaahin"
+      ]
+    },
+    "somali": {
+      "translation": "faahfaahin",
+      "alternative_translations": [],
+      "explanation": "Qayb yar oo macluumaad ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "One small piece of information.",
+        "translation": "faahfaahin",
+        "examples": [
+          {
+            "english": "This detail is wrong on the form.",
+            "somali": "Faahfaahintan foomka way khaldan tahay."
+          },
+          {
+            "english": "One detail is missing from the application.",
+            "somali": "Hal faahfaahin ayaa ka maqan codsiga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "missing detail",
+        "somali": "faahfaahin maqan"
+      }
+    ],
+    "related_words": [
+      "information",
+      "confirm",
+      "missing"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "countable nouns",
+      "one + singular noun",
+      "missing/wrong + noun"
+    ],
+    "situations": [
+      "correcting one wrong detail on an application",
+      "adding a missing piece of information",
+      "checking a small part of an address"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_number",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "number",
+      "search_forms": [
+        "number",
+        "lambar"
+      ]
+    },
+    "somali": {
+      "translation": "lambar",
+      "alternative_translations": [],
+      "explanation": "Eray ama calaamad tiro ama aqoonsi loo isticmaalo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A word or sign used for counting or identifying.",
+        "translation": "lambar",
+        "examples": [
+          {
+            "english": "Can you repeat the reference number?",
+            "somali": "Ma ku celin kartaa lambarka tixraaca?"
+          },
+          {
+            "english": "The case number is at the top of the letter.",
+            "somali": "Lambarka kiisku wuxuu ku yaal dusha warqadda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "reference number",
+        "somali": "lambar tixraac"
+      }
+    ],
+    "related_words": [
+      "digit",
+      "reference number",
+      "phone number"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "reference/phone/case number",
+      "repeat + object",
+      "prepositions of place"
+    ],
+    "situations": [
+      "repeating a reference number",
+      "checking the digits in a phone number",
+      "reading a case number from a letter"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_date",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_confirming_details",
+    "english": {
+      "headword": "date",
+      "search_forms": [
+        "date",
+        "taariikh"
+      ]
+    },
+    "somali": {
+      "translation": "taariikh",
+      "alternative_translations": [],
+      "explanation": "Maalin, bil, iyo sanad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A day, month, and year.",
+        "translation": "taariikh",
+        "examples": [
+          {
+            "english": "Please confirm the date of birth.",
+            "somali": "Fadlan xaqiiji taariikhda dhalashada."
+          },
+          {
+            "english": "The date on the appointment card is Monday.",
+            "somali": "Taariikhda kaarka ballantu waa Isniin."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "date of birth",
+        "somali": "taariikh dhalasho"
+      }
+    ],
+    "related_words": [
+      "day",
+      "month",
+      "year"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "date of birth",
+      "days and dates",
+      "confirm + object"
+    ],
+    "situations": [
+      "confirming a date of birth",
+      "checking an appointment date",
+      "correcting a date on an application"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Confirming Details"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_write",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": {
+      "headword": "write",
+      "search_forms": [
+        "write",
+        "qor",
+        "writes",
+        "wrote",
+        "written",
+        "writing"
+      ]
+    },
+    "somali": {
+      "translation": "qor",
+      "alternative_translations": [],
+      "explanation": "In erayo ama xarfo lagu qoro warqad ama shaashad."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To put words or letters on paper or a screen.",
+        "translation": "qor",
+        "examples": [
+          {
+            "english": "Could you write the address down?",
+            "somali": "Ma ii qori kartaa cinwaanka?"
+          },
+          {
+            "english": "The nurse wrote the dosage on the label.",
+            "somali": "Kalkaalisadu qiyaasta daawada waxay ku qortay calaamadda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "write it down",
+        "somali": "qor"
+      }
+    ],
+    "related_words": [
+      "note",
+      "paper",
+      "copy"
+    ],
+    "common_mistakes": [
+      "In 'write it down', the object pronoun goes between 'write' and 'down'."
+    ],
+    "grammar_topics": [
+      "write something down",
+      "can/could requests",
+      "past form: wrote"
+    ],
+    "situations": [
+      "asking someone to write down an address",
+      "recording medicine instructions",
+      "writing a reference number before ending a call"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - Write It Down"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_note",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": {
+      "headword": "note",
+      "search_forms": [
+        "note",
+        "qoraal gaaban"
+      ]
+    },
+    "somali": {
+      "translation": "qoraal gaaban",
+      "alternative_translations": [],
+      "explanation": "Qoraal kooban oo macluumaad lagu xasuusto."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A short piece of writing to remember information.",
+        "translation": "qoraal gaaban",
+        "examples": [
+          {
+            "english": "Can you write a note for my teacher?",
+            "somali": "Ma qoraal gaaban ayaad u qori kartaa macallinkayga?"
+          },
+          {
+            "english": "The teacher sent a note home with my child.",
+            "somali": "Macallinku qoraal gaaban ayuu guriga ugu soo diray ilmahayga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "write a note",
+        "somali": "qoraal gaaban qor"
+      }
+    ],
+    "related_words": [
+      "write",
+      "message",
+      "paper"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "write a note",
+      "for + person",
+      "countable nouns"
+    ],
+    "situations": [
+      "asking a teacher to write a short note",
+      "keeping a note of an appointment time",
+      "sending a written message home from school"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Write It Down"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_paper",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": {
+      "headword": "paper",
+      "search_forms": [
+        "paper",
+        "warqad"
+      ]
+    },
+    "somali": {
+      "translation": "warqad",
+      "alternative_translations": [],
+      "explanation": "Walax khafiif ah oo wax lagu qoro ama lagu daabaco."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Material used for writing.",
+        "translation": "warqad",
+        "examples": [
+          {
+            "english": "Please write the word on this paper.",
+            "somali": "Fadlan erayga ku qor warqaddan."
+          },
+          {
+            "english": "I need paper to write the directions.",
+            "somali": "Waxaan u baahanahay warqad aan tilmaamaha ku qoro."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "piece of paper",
+        "somali": "xabbad warqad ah"
+      }
+    ],
+    "related_words": [
+      "write",
+      "note",
+      "form"
+    ],
+    "common_mistakes": [
+      "Paper is usually uncountable for the material; say 'a piece of paper'."
+    ],
+    "grammar_topics": [
+      "uncountable material nouns",
+      "a piece of",
+      "need + noun"
+    ],
+    "situations": [
+      "asking for paper to write directions",
+      "writing an unfamiliar word on paper",
+      "keeping a paper copy of important information"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Write It Down"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_copy",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_write_it_down",
+    "english": {
+      "headword": "copy",
+      "search_forms": [
+        "copy",
+        "koobi"
+      ]
+    },
+    "somali": {
+      "translation": "nuqul",
+      "alternative_translations": [
+        "koobi"
+      ],
+      "explanation": "Nooc labaad oo qoraal ama dukumenti ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A second version of written information.",
+        "translation": "nuqul",
+        "examples": [
+          {
+            "english": "Can I have a copy of the instructions?",
+            "somali": "Ma heli karaa nuqul ka mid ah tilmaamaha?"
+          },
+          {
+            "english": "The office gave me a copy of the form.",
+            "somali": "Xafiisku wuxuu i siiyay koobi foomka ah."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "make a copy",
+        "somali": "nuqul samee"
+      }
+    ],
+    "related_words": [
+      "document",
+      "form",
+      "original"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "a copy of",
+      "can I have ...?",
+      "give + indirect object"
+    ],
+    "situations": [
+      "requesting a copy of instructions",
+      "keeping a copy of a completed form",
+      "asking an office for a duplicate document"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - Write It Down"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_level",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": {
+      "headword": "level",
+      "search_forms": [
+        "level",
+        "heer"
+      ]
+    },
+    "somali": {
+      "translation": "heer",
+      "alternative_translations": [],
+      "explanation": "Sida qof ugu horumarsan yahay xirfad."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "How advanced someone is in a skill.",
+        "translation": "heer",
+        "examples": [
+          {
+            "english": "My English level is beginner.",
+            "somali": "Heerkayga Ingiriisigu waa bilow."
+          },
+          {
+            "english": "The course is right for my English level.",
+            "somali": "Koorasku wuxuu ku habboon yahay heerka Ingiriisigayga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "English level",
+        "somali": "heerka Ingiriisiga"
+      }
+    ],
+    "related_words": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "possessive forms",
+      "be + level",
+      "right for someone"
+    ],
+    "situations": [
+      "describing your current English level",
+      "choosing a suitable language class",
+      "telling an adviser how much English you understand"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - English Level"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_beginner",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": {
+      "headword": "beginner",
+      "search_forms": [
+        "beginner",
+        "bilow"
+      ]
+    },
+    "somali": {
+      "translation": "bilow ah",
+      "alternative_translations": [],
+      "explanation": "Qof hadda bilaabaya barashada xirfad ama maaddo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A person starting to learn something.",
+        "translation": "qof bilow ah",
+        "examples": [
+          {
+            "english": "I am a beginner in English.",
+            "somali": "Waxaan ahay qof Ingiriisiga ku cusub."
+          },
+          {
+            "english": "A beginner class meets on Monday evenings.",
+            "somali": "Fasal bilow ah wuxuu kulmaa fiidnimada Isniinta."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "beginner class",
+        "somali": "fasal bilow ah"
+      }
+    ],
+    "related_words": [
+      "level",
+      "intermediate",
+      "fluent"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "be a beginner",
+      "beginner + noun",
+      "articles: a/an"
+    ],
+    "situations": [
+      "introducing yourself as a beginner",
+      "joining a beginner English class",
+      "explaining that you need simple language"
+    ],
+    "source": {
+      "type": "reference_structure",
+      "section": "Language Barrier - English Level"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_fluent",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": {
+      "headword": "fluent",
+      "search_forms": [
+        "fluent",
+        "si fiican u hadla"
+      ]
+    },
+    "somali": {
+      "translation": "si fiican u hadla",
+      "alternative_translations": [],
+      "explanation": "Awood u leh in luqad si fudud loogu hadlo."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Able to speak a language easily.",
+        "translation": "si fiican u hadla",
+        "examples": [
+          {
+            "english": "I am not fluent in English yet.",
+            "somali": "Weli si fiican uguma hadlo Ingiriisiga."
+          },
+          {
+            "english": "I am fluent in Somali, but not in English.",
+            "somali": "Soomaali si fiican ayaan ugu hadlaa, laakiin Ingiriisi maya."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "fluent in English",
+        "somali": "Ingiriisi si fiican ugu hadla"
+      }
+    ],
+    "related_words": [
+      "beginner",
+      "advanced",
+      "language"
+    ],
+    "common_mistakes": [
+      "Use 'fluent in English', not 'fluent with English'."
+    ],
+    "grammar_topics": [
+      "fluent in + language",
+      "not ... yet",
+      "but for contrast"
+    ],
+    "situations": [
+      "explaining that you are not yet fluent",
+      "describing strong Somali ability",
+      "answering a language question in a job interview"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - English Level"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_practice",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": {
+      "headword": "practice",
+      "search_forms": [
+        "practice",
+        "tababar",
+        "practices",
+        "practiced",
+        "practicing"
+      ]
+    },
+    "somali": {
+      "translation": "tababar",
+      "alternative_translations": [],
+      "explanation": "In wax marar badan la sameeyo si loo horumaro."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To do something repeatedly to improve.",
+        "translation": "tababar",
+        "examples": [
+          {
+            "english": "I practice speaking with my neighbour after work.",
+            "somali": "Shaqada ka dib deriskayga ayaan hadalka kula tababartaa."
+          },
+          {
+            "english": "I practice speaking with my teacher after class.",
+            "somali": "Fasalka ka dib macallinkayga ayaan hadalka kula tababartaa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "practice English",
+        "somali": "Ingiriisi ku tababar"
+      }
+    ],
+    "related_words": [
+      "learn",
+      "improve",
+      "speak"
+    ],
+    "common_mistakes": [
+      "In British English the verb is often spelled 'practise'; American English uses 'practice' for both noun and verb."
+    ],
+    "grammar_topics": [
+      "practice + -ing",
+      "present simple routines",
+      "frequency expressions"
+    ],
+    "situations": [
+      "practising English with a neighbour",
+      "repeating useful phrases after class",
+      "building a regular speaking routine"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - English Level"
+    }
+  },
+  {
+    "id": "vocab_language_barrier_learn",
+    "category_code": "language_barrier",
+    "subcategory_code": "language_barrier_english_level",
+    "english": {
+      "headword": "learn",
+      "search_forms": [
+        "learn",
+        "baro",
+        "learns",
+        "learned",
+        "learnt",
+        "learning"
+      ]
+    },
+    "somali": {
+      "translation": "baro",
+      "alternative_translations": [],
+      "explanation": "In aqoon ama xirfad lagu helo barasho ama tababar."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To get knowledge or skill through study or practice.",
+        "translation": "baro",
+        "examples": [
+          {
+            "english": "I learn better when people speak slowly.",
+            "somali": "Si fiican ayaan wax u bartaa marka dadku si tartiib ah u hadlaan."
+          },
+          {
+            "english": "I learn better when examples are short.",
+            "somali": "Si ka fiican ayaan wax u bartaa marka tusaalooyinku gaaban yihiin."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "learn English",
+        "somali": "Ingiriisi baro"
+      }
+    ],
+    "related_words": [
+      "practice",
+      "study",
+      "improve"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "learn + infinitive",
+      "when clauses",
+      "comparatives: better"
+    ],
+    "situations": [
+      "explaining how you learn best",
+      "setting a goal to learn practical English",
+      "asking for examples that make learning easier"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Language Barrier - English Level"
+    }
+  }
+]

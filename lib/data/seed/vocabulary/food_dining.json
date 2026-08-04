@@ -1,0 +1,922 @@
+[
+  {
+    "id": "vocab_food_restaurant_restaurant",
+    "category_code": "food",
+    "subcategory_code": "food_restaurant",
+    "english": {
+      "headword": "restaurant",
+      "search_forms": [
+        "restaurant",
+        "restaurants"
+      ]
+    },
+    "somali": {
+      "translation": "maqaayad",
+      "alternative_translations": [],
+      "explanation": "Meel lagu diyaariyo laguna iibiyo cunto iyo cabitaan ay dadku ku cunaan ama ka qaataan."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A place where meals and drinks are prepared and served to customers.",
+        "translation": "maqaayad",
+        "examples": [
+          {
+            "english": "Let's eat at that restaurant.",
+            "somali": "Aan ka cunno maqaayaddaas."
+          },
+          {
+            "english": "The restaurant opens at noon.",
+            "somali": "Maqaayaddu waxay furantaa duhurkii."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "restaurant menu",
+        "somali": "liiska cuntada"
+      },
+      {
+        "english": "family restaurant",
+        "somali": "maqaayad qoys"
+      },
+      {
+        "english": "restaurant bill",
+        "somali": "biilka maqaayadda"
+      }
+    ],
+    "related_words": [
+      "menu",
+      "waiter",
+      "meal",
+      "table"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Choosing a restaurant",
+      "Booking a table",
+      "Paying after a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Restaurant"
+    }
+  },
+  {
+    "id": "vocab_food_fast_food_burger",
+    "category_code": "food",
+    "subcategory_code": "food_fast_food",
+    "english": {
+      "headword": "burger",
+      "search_forms": [
+        "burger",
+        "burgers"
+      ]
+    },
+    "somali": {
+      "translation": "bargar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'burger' is commonly used when talking about food and meals.",
+        "translation": "bargar",
+        "examples": [
+          {
+            "english": "I bought some burger today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use burger when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about burger",
+        "somali": "weydii bargar"
+      },
+      {
+        "english": "check the burger",
+        "somali": "hubi bargar"
+      },
+      {
+        "english": "write the burger",
+        "somali": "qor bargar"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying burger at a supermarket",
+      "Using burger while cooking",
+      "Talking about burger during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Fast Food"
+    }
+  },
+  {
+    "id": "vocab_food_grocery_shopping_rice",
+    "category_code": "food",
+    "subcategory_code": "food_grocery_shopping",
+    "english": {
+      "headword": "rice",
+      "search_forms": [
+        "rice"
+      ]
+    },
+    "somali": {
+      "translation": "bariis",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'rice' is commonly used when talking about food and meals.",
+        "translation": "bariis",
+        "examples": [
+          {
+            "english": "I bought some rice today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use rice when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about rice",
+        "somali": "weydii bariis"
+      },
+      {
+        "english": "check the rice",
+        "somali": "hubi bariis"
+      },
+      {
+        "english": "write the rice",
+        "somali": "qor bariis"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying rice at a supermarket",
+      "Using rice while cooking",
+      "Talking about rice during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Grocery Shopping"
+    }
+  },
+  {
+    "id": "vocab_food_fruits_apple",
+    "category_code": "food",
+    "subcategory_code": "food_fruits",
+    "english": {
+      "headword": "apple",
+      "search_forms": [
+        "apple",
+        "apples"
+      ]
+    },
+    "somali": {
+      "translation": "tufaax",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'apple' is commonly used when talking about food and meals.",
+        "translation": "tufaax",
+        "examples": [
+          {
+            "english": "I bought some apple today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use apple when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about apple",
+        "somali": "weydii tufaax"
+      },
+      {
+        "english": "check the apple",
+        "somali": "hubi tufaax"
+      },
+      {
+        "english": "write the apple",
+        "somali": "qor tufaax"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying apple at a supermarket",
+      "Using apple while cooking",
+      "Talking about apple during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Fruits"
+    }
+  },
+  {
+    "id": "vocab_food_vegetables_onion",
+    "category_code": "food",
+    "subcategory_code": "food_vegetables",
+    "english": {
+      "headword": "onion",
+      "search_forms": [
+        "onion",
+        "onions"
+      ]
+    },
+    "somali": {
+      "translation": "basal",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'onion' is commonly used when talking about food and meals.",
+        "translation": "basal",
+        "examples": [
+          {
+            "english": "I bought some onion today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use onion when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about onion",
+        "somali": "weydii basal"
+      },
+      {
+        "english": "check the onion",
+        "somali": "hubi basal"
+      },
+      {
+        "english": "write the onion",
+        "somali": "qor basal"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying onion at a supermarket",
+      "Using onion while cooking",
+      "Talking about onion during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Vegetables"
+    }
+  },
+  {
+    "id": "vocab_food_meat_meat",
+    "category_code": "food",
+    "subcategory_code": "food_meat",
+    "english": {
+      "headword": "meat",
+      "search_forms": [
+        "meat",
+        "meats"
+      ]
+    },
+    "somali": {
+      "translation": "hilib",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'meat' is commonly used when talking about food and meals.",
+        "translation": "hilib",
+        "examples": [
+          {
+            "english": "I bought some meat today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use meat when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about meat",
+        "somali": "weydii hilib"
+      },
+      {
+        "english": "check the meat",
+        "somali": "hubi hilib"
+      },
+      {
+        "english": "write the meat",
+        "somali": "qor hilib"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying meat at a supermarket",
+      "Using meat while cooking",
+      "Talking about meat during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Meat"
+    }
+  },
+  {
+    "id": "vocab_food_drinks_water",
+    "category_code": "food",
+    "subcategory_code": "food_drinks",
+    "english": {
+      "headword": "water",
+      "search_forms": [
+        "water"
+      ]
+    },
+    "somali": {
+      "translation": "biyo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'water' is commonly used when talking about food and meals.",
+        "translation": "biyo",
+        "examples": [
+          {
+            "english": "I bought some water today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use water when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about water",
+        "somali": "weydii biyo"
+      },
+      {
+        "english": "check the water",
+        "somali": "hubi biyo"
+      },
+      {
+        "english": "write the water",
+        "somali": "qor biyo"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying water at a supermarket",
+      "Using water while cooking",
+      "Talking about water during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Drinks"
+    }
+  },
+  {
+    "id": "vocab_food_desserts_cake",
+    "category_code": "food",
+    "subcategory_code": "food_desserts",
+    "english": {
+      "headword": "cake",
+      "search_forms": [
+        "cake",
+        "cakes"
+      ]
+    },
+    "somali": {
+      "translation": "keeg",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'cake' is commonly used when talking about food and meals.",
+        "translation": "keeg",
+        "examples": [
+          {
+            "english": "I bought some cake today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use cake when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about cake",
+        "somali": "weydii keeg"
+      },
+      {
+        "english": "check the cake",
+        "somali": "hubi keeg"
+      },
+      {
+        "english": "write the cake",
+        "somali": "qor keeg"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying cake at a supermarket",
+      "Using cake while cooking",
+      "Talking about cake during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Desserts"
+    }
+  },
+  {
+    "id": "vocab_food_allergies_allergy",
+    "category_code": "food",
+    "subcategory_code": "food_allergies",
+    "english": {
+      "headword": "allergy",
+      "search_forms": [
+        "allergy",
+        "allergies"
+      ]
+    },
+    "somali": {
+      "translation": "xasaasiyad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'allergy' is commonly used when talking about food and meals.",
+        "translation": "xasaasiyad",
+        "examples": [
+          {
+            "english": "I bought some allergy today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use allergy when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about allergy",
+        "somali": "weydii xasaasiyad"
+      },
+      {
+        "english": "check the allergy",
+        "somali": "hubi xasaasiyad"
+      },
+      {
+        "english": "write the allergy",
+        "somali": "qor xasaasiyad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying allergy at a supermarket",
+      "Using allergy while cooking",
+      "Talking about allergy during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Allergies"
+    }
+  },
+  {
+    "id": "vocab_food_cooking_recipe",
+    "category_code": "food",
+    "subcategory_code": "food_cooking",
+    "english": {
+      "headword": "recipe",
+      "search_forms": [
+        "recipe",
+        "recipes"
+      ]
+    },
+    "somali": {
+      "translation": "cunto-karin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'recipe' is commonly used when talking about food and meals.",
+        "translation": "cunto-karin",
+        "examples": [
+          {
+            "english": "I bought some recipe today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use recipe when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about recipe",
+        "somali": "weydii cunto-karin"
+      },
+      {
+        "english": "check the recipe",
+        "somali": "hubi cunto-karin"
+      },
+      {
+        "english": "write the recipe",
+        "somali": "qor cunto-karin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying recipe at a supermarket",
+      "Using recipe while cooking",
+      "Talking about recipe during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Cooking"
+    }
+  },
+  {
+    "id": "vocab_food_kitchen_knife",
+    "category_code": "food",
+    "subcategory_code": "food_kitchen",
+    "english": {
+      "headword": "knife",
+      "search_forms": [
+        "knife",
+        "knives"
+      ]
+    },
+    "somali": {
+      "translation": "mindi",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'knife' is commonly used when talking about food and meals.",
+        "translation": "mindi",
+        "examples": [
+          {
+            "english": "I bought some knife today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use knife when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about knife",
+        "somali": "weydii mindi"
+      },
+      {
+        "english": "check the knife",
+        "somali": "hubi mindi"
+      },
+      {
+        "english": "write the knife",
+        "somali": "qor mindi"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying knife at a supermarket",
+      "Using knife while cooking",
+      "Talking about knife during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Kitchen"
+    }
+  },
+  {
+    "id": "vocab_food_paying_bill_bill",
+    "category_code": "food",
+    "subcategory_code": "food_paying_bill",
+    "english": {
+      "headword": "bill",
+      "search_forms": [
+        "bill",
+        "bills"
+      ]
+    },
+    "somali": {
+      "translation": "biil",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'bill' is commonly used when talking about food and meals.",
+        "translation": "biil",
+        "examples": [
+          {
+            "english": "I bought some bill today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use bill when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about bill",
+        "somali": "weydii biil"
+      },
+      {
+        "english": "check the bill",
+        "somali": "hubi biil"
+      },
+      {
+        "english": "write the bill",
+        "somali": "qor biil"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying bill at a supermarket",
+      "Using bill while cooking",
+      "Talking about bill during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Paying Bill"
+    }
+  },
+  {
+    "id": "vocab_food_ordering_food_order",
+    "category_code": "food",
+    "subcategory_code": "food_ordering_food",
+    "english": {
+      "headword": "order",
+      "search_forms": [
+        "order",
+        "orders",
+        "ordered",
+        "ordering"
+      ]
+    },
+    "somali": {
+      "translation": "dalbo",
+      "alternative_translations": [],
+      "explanation": "Codso cunto ama cabitaan lagaaga keeno ama laguu diyaariyo."
+    },
+    "part_of_speech": "verb",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "To ask for food or drink in a restaurant or café.",
+        "translation": "dalbo",
+        "examples": [
+          {
+            "english": "I'd like to order lunch.",
+            "somali": "Waxaan jeclaan lahaa inaan dalbado qadada."
+          },
+          {
+            "english": "Have you ordered your meal?",
+            "somali": "Ma dalbatay cuntadaada?"
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "order food",
+        "somali": "dalbo cunto"
+      },
+      {
+        "english": "order a drink",
+        "somali": "dalbo cabitaan"
+      },
+      {
+        "english": "place an order",
+        "somali": "samee dalab"
+      }
+    ],
+    "related_words": [
+      "menu",
+      "waiter",
+      "meal",
+      "bill"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "modal verbs",
+      "present simple",
+      "time expressions"
+    ],
+    "situations": [
+      "Ordering at a restaurant",
+      "Ordering takeaway",
+      "Ordering drinks"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Ordering Food"
+    }
+  },
+  {
+    "id": "vocab_food_food_storage_fridge",
+    "category_code": "food",
+    "subcategory_code": "food_food_storage",
+    "english": {
+      "headword": "fridge",
+      "search_forms": [
+        "fridge",
+        "fridges"
+      ]
+    },
+    "somali": {
+      "translation": "talaajad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa cuntada, diyaarinteeda, ama cunisteeda iyadoo ku xiran macnaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word 'fridge' is commonly used when talking about food and meals.",
+        "translation": "talaajad",
+        "examples": [
+          {
+            "english": "I bought some fridge today.",
+            "somali": "Waxaan maanta soo iibsaday."
+          },
+          {
+            "english": "We use fridge when preparing meals.",
+            "somali": "Waxaan u isticmaalnaa diyaarinta cuntada."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask about fridge",
+        "somali": "weydii talaajad"
+      },
+      {
+        "english": "check the fridge",
+        "somali": "hubi talaajad"
+      },
+      {
+        "english": "write the fridge",
+        "somali": "qor talaajad"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Buying fridge at a supermarket",
+      "Using fridge while cooking",
+      "Talking about fridge during a meal"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Food Storage"
+    }
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "conversation_numbers_counting_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_counting",
+    "title": "Counting Items at the Counter",
+    "somali_title": "Alaab miiska lagu tirinayo",
+    "situation": "A customer and clerk count items at a shop counter before the customer pays.",
+    "somali_situation": "Macmiil iyo karraani ayaa alaab ku tirinaya miiska dukaanka ka hor inta macmiilku bixin lacagta.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "zero",
+      "number",
+      "how many",
+      "total",
+      "quantity",
+      "items"
+    ],
+    "key_phrases": [
+      "How many notebooks are there?",
+      "There are five notebooks.",
+      "The number is five, not zero.",
+      "What is the total quantity?",
+      "The total is eight items."
+    ],
+    "grammar_focus": [
+      "cardinal numbers",
+      "plural nouns",
+      "how many",
+      "there are",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How many notebooks are there?",
+        "somali": "Immisa buug-yare ayaa jira?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "There are five notebooks.",
+        "somali": "Waxaa jira shan buug-yare."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The number is five, not zero.",
+        "somali": "Lambarku waa shan, eber ma aha."
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, five notebooks.",
+        "somali": "Haa, shan buug-yare."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I also have three pens.",
+        "somali": "Waxaan kaloo haystaa saddex qalin."
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Then the total is eight items.",
+        "somali": "Markaa wadartu waa siddeed shay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the total quantity?",
+        "somali": "Wadarta tiradu waa imisa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Eight items altogether.",
+        "somali": "Siddeed shay dhammaantood."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_ordinal_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_ordinal_numbers",
+    "title": "Finding Your Place in Line",
+    "somali_title": "Booskaaga safka oo la helayo",
+    "situation": "A visitor asks a clerk about their position in line and which floor to go to next.",
+    "somali_situation": "Booqde ayaa karraani weydiinaya booskiisa safka iyo dabaqa uu xiga u tegayo.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "first",
+      "second",
+      "third",
+      "floor",
+      "position",
+      "line",
+      "next"
+    ],
+    "key_phrases": [
+      "Am I first or second in line?",
+      "You are third.",
+      "The first person is already inside.",
+      "The second person is at the desk.",
+      "Go to the second floor next."
+    ],
+    "grammar_focus": [
+      "ordinal numbers",
+      "the + ordinal",
+      "dates",
+      "sequence markers",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Am I first or second in line?",
+        "somali": "Ma anigaa koowaad mise labaad safka?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "You are third.",
+        "somali": "Adigu waxaad tahay saddexaad."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Who is first?",
+        "somali": "Yaa koowaad ah?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The first person is already inside.",
+        "somali": "Qofka koowaad gudaha ayuu hore ugu jiraa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "And the second person?",
+        "somali": "Qofka labaadna?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The second person is at the desk.",
+        "somali": "Qofka labaad miiska ayuu joogaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "What is my position again?",
+        "somali": "Booskaygu mar kale waa kee?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Your position is third.",
+        "somali": "Booskaagu waa saddexaad."
+      },
+      {
+        "turn": 9,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Where do I go after this?",
+        "somali": "Intan kadib xaggee ayaan tagaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Go to the second floor next.",
+        "somali": "Kadib u tag dabaqa labaad."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_prices_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_prices",
+    "title": "Checking Prices at Checkout",
+    "somali_title": "Qiimaha oo la hubinayo marka lacag la bixinayo",
+    "situation": "A customer checks the price, decimal amount, cents, cost, and total at a checkout counter.",
+    "somali_situation": "Macmiil ayaa hubinaya qiimaha, dhibicda jajabka, senti, kharashka, iyo wadarta marka lacagta la bixinayo.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "price",
+      "cost",
+      "decimal",
+      "cents",
+      "total",
+      "receipt",
+      "checkout"
+    ],
+    "key_phrases": [
+      "What is the price of this rice?",
+      "The price is twelve dollars and fifty cents.",
+      "Yes, that decimal means fifty cents.",
+      "What is the total cost?",
+      "The total is fifteen dollars and twenty-five cents."
+    ],
+    "grammar_focus": [
+      "how much",
+      "numbers with currency",
+      "decimal pronunciation",
+      "is included",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the price of this rice?",
+        "somali": "Qiimaha bariiskan waa imisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The price is twelve dollars and fifty cents.",
+        "somali": "Qiimuhu waa laba iyo toban doolar iyo konton senti."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The label says twelve point fifty.",
+        "somali": "Calaamaddu waxay leedahay laba iyo toban dhibic konton."
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, that decimal means fifty cents.",
+        "somali": "Haa, dhibicdaasi waxay ka dhigan tahay konton senti."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Does the cost include tax?",
+        "somali": "Kharashku canshuur ma ku jirtaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "No, tax is added at checkout.",
+        "somali": "Maya, canshuurta waxaa lagu daraa marka lacagta la bixinayo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the total cost?",
+        "somali": "Wadarta kharashku waa imisa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The total is fifteen dollars and twenty-five cents.",
+        "somali": "Wadartu waa shan iyo toban doolar iyo shan iyo labaatan senti."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Could you put the price on the receipt?",
+        "somali": "Qiimaha ma ku qori kartaa rasiidka?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, the receipt shows each price.",
+        "somali": "Haa, rasiidku wuxuu muujinayaa qiime kasta."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good. I wanted to check the numbers.",
+        "somali": "Waa fiican tahay. Waxaan rabay inaan tirooyinka hubiyo."
+      },
+      {
+        "turn": 12,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Of course. Please check the receipt before you leave.",
+        "somali": "Dabcan. Fadlan rasiidka hubi ka hor intaadan bixin."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_telephone_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_telephone_numbers",
+    "title": "Reading Back a Telephone Number",
+    "somali_title": "Lambar telefoon oo dib loo akhrinayo",
+    "situation": "A patient gives a telephone number to a clinic clerk, who reads it back carefully with the country code, zero, double digits, and each digit.",
+    "somali_situation": "Bukaan ayaa karraaniga rugta siinaya lambar telefoon, karraaniguna si taxaddar leh ayuu dib ugu akhriyaa koodhka dalka, eber, laba jeer, iyo tiro kasta.",
+    "cefr": "B2",
+    "participants": [
+      "Patient",
+      "Clinic Clerk"
+    ],
+    "key_vocabulary": [
+      "digit",
+      "zero",
+      "double",
+      "country code",
+      "read back",
+      "telephone number",
+      "clinic"
+    ],
+    "key_phrases": [
+      "Can I give you my telephone number?",
+      "Please start with the country code.",
+      "The country code is plus one.",
+      "The next digit is zero.",
+      "Could you read back the number?"
+    ],
+    "grammar_focus": [
+      "number grouping",
+      "imperatives for repetition",
+      "which digit",
+      "confirmation questions",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Can I give you my telephone number?",
+        "somali": "Lambarkayga telefoonka ma ku siin karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Yes, please start with the country code.",
+        "somali": "Haa, fadlan ku bilow koodhka dalka."
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "The country code is plus one.",
+        "somali": "Koodhka dalku waa plus one."
+      },
+      {
+        "turn": 4,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Good. Say each digit slowly.",
+        "somali": "Waa fiican tahay. Tiro kasta si tartiib ah u sheeg."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Six, one, two, five, five, five.",
+        "somali": "Lix, kow, laba, shan, shan, shan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "That is double five, then another five?",
+        "somali": "Taasi waa shan laba jeer, kadib shan kale?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Yes, double five, then five.",
+        "somali": "Haa, shan laba jeer, kadib shan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "What comes after that?",
+        "somali": "Maxaa ka dambeeya taas?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "The next digit is zero.",
+        "somali": "Tirada xigta waa eber."
+      },
+      {
+        "turn": 10,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Then one, nine, eight?",
+        "somali": "Kadib kow, sagaal, siddeed?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Yes, that is right.",
+        "somali": "Haa, waa sax."
+      },
+      {
+        "turn": 12,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Could you read back the number?",
+        "somali": "Lambarka dib ma u akhrin kartaa?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Plus one, six one two, five five five, zero one nine eight.",
+        "somali": "Plus one, lix kow laba, shan shan shan, eber kow sagaal siddeed."
+      },
+      {
+        "turn": 14,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Perfect. I saved it for the clinic.",
+        "somali": "Waa hagaag. Waxaan u kaydiyey rugta."
+      },
+      {
+        "turn": 15,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Thank you for checking every digit.",
+        "somali": "Waad ku mahadsan tahay inaad tiro kasta hubisay."
+      },
+      {
+        "turn": 16,
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "You're welcome. Telephone numbers must be exact.",
+        "somali": "Waad mudan tahay. Lambarada telefoonku waa inay sax ahaadaan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_dates_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_dates",
+    "title": "Confirming an Appointment Date",
+    "somali_title": "Taariikh ballan oo la xaqiijinayo",
+    "situation": "A customer confirms an appointment date and checks the expiry date on a card.",
+    "somali_situation": "Macmiil ayaa xaqiijinaya taariikh ballan, wuxuuna hubinayaa taariikhda uu kaarku dhacayo.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "date",
+      "day",
+      "month",
+      "appointment",
+      "expiry",
+      "clinic"
+    ],
+    "key_phrases": [
+      "What date is my appointment?",
+      "The appointment is on Monday.",
+      "What day of the month?",
+      "It is the tenth of June.",
+      "The expiry date is in July."
+    ],
+    "grammar_focus": [
+      "ordinal dates",
+      "on + date",
+      "when questions",
+      "date-format clarification",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What date is my appointment?",
+        "somali": "Taariikhda ballantaydu waa goorma?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The appointment is on Monday.",
+        "somali": "Ballantu waa Isniin."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What day of the month?",
+        "somali": "Maalinta bisha waa imisa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "It is the tenth of June.",
+        "somali": "Waa tobanka Juun."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "My clinic card has an expiry date.",
+        "somali": "Kaarkayga rugtu wuxuu leeyahay taariikh uu dhacayo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The expiry date is in July.",
+        "somali": "Taariikhda dhicitaanku waa Luulyo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "So the month is July?",
+        "somali": "Markaa bishu waa Luulyo?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, July.",
+        "somali": "Haa, Luulyo."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_years_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_years",
+    "title": "Giving Years on a Form",
+    "somali_title": "Sannado foom lagu qorayo",
+    "situation": "A student gives the year they were born and the year they started a course.",
+    "somali_situation": "Arday ayaa bixinaya sannadkii uu dhashay iyo sannadkii uu koorso bilaabay.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "year",
+      "born",
+      "started",
+      "since",
+      "range",
+      "years"
+    ],
+    "key_phrases": [
+      "What year were you born?",
+      "I was born in 1998.",
+      "What year did you start the course?",
+      "I started in 2024.",
+      "The range is from 2024 to 2026."
+    ],
+    "grammar_focus": [
+      "year pronunciation",
+      "past simple",
+      "since",
+      "from-to date ranges",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "What year were you born?",
+        "somali": "Sannadkee ayaad dhalatay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I was born in 1998.",
+        "somali": "Waxaan dhashay 1998."
+      },
+      {
+        "turn": 3,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "What year did you start the course?",
+        "somali": "Sannadkee ayaad koorsada bilowday?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I started in 2024.",
+        "somali": "Waxaan bilaabay 2024."
+      },
+      {
+        "turn": 5,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Have you studied here since 2024?",
+        "somali": "Ma halkan ayaad wax ka baranaysay tan iyo 2024?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, since September 2024.",
+        "somali": "Haa, tan iyo Sebtembar 2024."
+      },
+      {
+        "turn": 7,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The range is from 2024 to 2026.",
+        "somali": "Xaddiga sannaduhu waa laga bilaabo 2024 ilaa 2026."
+      },
+      {
+        "turn": 8,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That is two years.",
+        "somali": "Taasi waa laba sano."
+      },
+      {
+        "turn": 9,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Correct. I will write those years.",
+        "somali": "Waa sax. Sannadahaas ayaan qorayaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thank you for checking the dates.",
+        "somali": "Waad ku mahadsan tahay inaad taariikhaha hubisay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_fractions_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_fractions",
+    "title": "Sharing a Cake in Fractions",
+    "somali_title": "Keeg jajabyo loogu qaybinayo",
+    "situation": "A customer asks a baker to cut a whole cake into fractions for guests.",
+    "somali_situation": "Macmiil ayaa dubaha ka codsanaya inuu keeg dhan jajabyo ugu qaybiyo martida.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "half",
+      "quarter",
+      "third",
+      "fraction",
+      "whole",
+      "cake"
+    ],
+    "key_phrases": [
+      "Can you cut the whole cake?",
+      "Cut half for the children.",
+      "A quarter is for my mother.",
+      "Can one third stay in the box?",
+      "That fraction is too large if we already cut half and a quarter."
+    ],
+    "grammar_focus": [
+      "fraction forms",
+      "of + noun",
+      "partitives",
+      "comparatives",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you cut the whole cake?",
+        "somali": "Keegga oo dhan ma jari kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "Yes. How many pieces do you need?",
+        "somali": "Haa. Immisa xabbo ayaad u baahan tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Cut half for the children.",
+        "somali": "Carruurta u jar nus."
+      },
+      {
+        "turn": 4,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "All right. Half of the cake for the children.",
+        "somali": "Waa hagaag. Keegga nuskiis carruurta."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "A quarter is for my mother.",
+        "somali": "Rubuc waxaa loogu talagalay hooyaday."
+      },
+      {
+        "turn": 6,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "A quarter is smaller than half.",
+        "somali": "Rubuc wuu ka yar yahay nus."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can one third stay in the box?",
+        "somali": "Saddex-meelood meel ma ku hari kartaa sanduuqa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "That fraction is too large if we already cut half and a quarter.",
+        "somali": "Jajabkaasi aad buu u weyn yahay haddii aan hore u jarno nus iyo rubuc."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then leave the rest in the box.",
+        "somali": "Markaa inta hartay sanduuqa ku reeb."
+      },
+      {
+        "turn": 10,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "Good. The rest is one quarter.",
+        "somali": "Waa fiican tahay. Inta hartay waa rubuc."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "So the whole cake is divided.",
+        "somali": "Markaa keegga oo dhan waa la qaybiyey."
+      },
+      {
+        "turn": 12,
+        "speaker": "Baker",
+        "somali_speaker": "Dube",
+        "english": "Yes, half, a quarter, and a quarter.",
+        "somali": "Haa, nus, rubuc, iyo rubuc."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_percentages_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_percentages",
+    "title": "Checking a Discount Percentage",
+    "somali_title": "Boqolley qiimo-dhimis ah oo la hubinayo",
+    "situation": "A customer asks a clerk how a discount percentage changes after a sale rate increases and then decreases at checkout.",
+    "somali_situation": "Macmiil ayaa karraani weydiinaya sida boqolleyda qiimo-dhimistu isu beddesho marka heerka qiimo-dhimistu kordho kadibna hoos u dhaco marka lacagta la bixinayo.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "percent",
+      "discount",
+      "increase",
+      "decrease",
+      "rate",
+      "sale"
+    ],
+    "key_phrases": [
+      "What percent is the discount?",
+      "The discount is twenty percent.",
+      "Did the rate increase today?",
+      "It increased from fifteen percent to twenty percent.",
+      "The final price decreased by ten dollars."
+    ],
+    "grammar_focus": [
+      "percentage numbers",
+      "comparatives",
+      "increase by/to",
+      "how much discount",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What percent is the discount?",
+        "somali": "Qiimo-dhimistu waa boqolkiiba imisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The discount is twenty percent.",
+        "somali": "Qiimo-dhimistu waa boqolkiiba labaatan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Did the rate increase today?",
+        "somali": "Heerku maanta ma kordhay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, it increased from fifteen percent to twenty percent.",
+        "somali": "Haa, wuxuu ka kordhay boqolkiiba shan iyo toban ilaa boqolkiiba labaatan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "So the sale is better than yesterday?",
+        "somali": "Markaa iibka qiimo-dhimista maanta wuu ka fiican yahay kii shalay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, the rate is higher today.",
+        "somali": "Haa, heerku maanta wuu ka sarreeyaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Why did my total decrease by only ten dollars?",
+        "somali": "Maxay wadartaydu ugu yaraatay toban doolar oo keliya?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Because one item is not part of the discount.",
+        "somali": "Sababtoo ah hal shay kuma jiro qiimo-dhimista."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The final price decreased by ten dollars.",
+        "somali": "Qiimihii ugu dambeeyay wuxuu hoos ugu dhacay toban doolar."
+      },
+      {
+        "turn": 10,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "That's right.",
+        "somali": "Waa sax."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can you show me the percent on the receipt?",
+        "somali": "Boqolleyda ma iga tusi kartaa rasiidka?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Here it is: twenty percent discount.",
+        "somali": "Waa tan: qiimo-dhimis boqolkiiba labaatan ah."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good. I wanted to compare the numbers.",
+        "somali": "Waa fiican tahay. Waxaan rabay inaan tirooyinka is barbar dhigo."
+      },
+      {
+        "turn": 14,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The receipt shows the original price and the discount.",
+        "somali": "Rasiidku wuxuu muujinayaa qiimihii hore iyo qiimo-dhimista."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Now I understand the percentage.",
+        "somali": "Hadda waan fahmay boqolleyda."
+      },
+      {
+        "turn": 16,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Great. Your total is correct.",
+        "somali": "Waa fiican tahay. Wadartaadu waa sax."
+      }
+    ]
+  },
+  {
+    "id": "conversation_numbers_room_numbers_001",
+    "category_code": "numbers",
+    "subcategory_code": "numbers_room_numbers",
+    "title": "Finding a Room Number",
+    "somali_title": "Lambarka qol oo la helayo",
+    "situation": "A visitor asks a clerk for a room number, floor, wing, suite, and ward.",
+    "somali_situation": "Booqde ayaa karraani weydiinaya lambarka qol, dabaq, garab dhisme, suite, iyo waadh.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "room number",
+      "floor",
+      "wing",
+      "suite",
+      "ward",
+      "room",
+      "east"
+    ],
+    "key_phrases": [
+      "What is the room number?",
+      "The room number is 214.",
+      "It is on the second floor.",
+      "Go to the east wing.",
+      "The ward is next to Suite B."
+    ],
+    "grammar_focus": [
+      "there is",
+      "ordinal floors",
+      "letter-number codes",
+      "which room",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "What is the room number?",
+        "somali": "Lambarka qolku waa imisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "The room number is 214.",
+        "somali": "Lambarka qolku waa 214."
+      },
+      {
+        "turn": 3,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Which floor is it on?",
+        "somali": "Dabaqee ayuu ku yaal?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "It is on the second floor.",
+        "somali": "Wuxuu ku yaal dabaqa labaad."
+      },
+      {
+        "turn": 5,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Which wing should I use?",
+        "somali": "Garabkee ayaan isticmaalaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Go to the east wing.",
+        "somali": "Tag garabka bari."
+      },
+      {
+        "turn": 7,
+        "speaker": "Visitor",
+        "somali_speaker": "Booqde",
+        "english": "Is the ward near Suite B?",
+        "somali": "Waadhku ma ku dhow yahay Suite B?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Yes, the ward is next to Suite B.",
+        "somali": "Haa, waadhku wuxuu ku xigaa Suite B."
+      }
+    ]
+  }
+]

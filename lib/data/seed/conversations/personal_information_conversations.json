@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "conversation_personal_information_name_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "title": "Giving Your Name at Reception",
+    "somali_title": "Magacaaga oo aad ka sheegto soo-dhoweynta",
+    "situation": "A resident gives their full name at a reception desk and spells the surname so the record is correct.",
+    "somali_situation": "Qof deggan ayaa soo-dhoweynta ka sheegaya magaciisa oo buuxa, kadibna magaca qoyska ayuu higgaadinayaa si diiwaanku sax u noqdo.",
+    "cefr": "A1",
+    "participants": [
+      "Resident",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "first name",
+      "surname",
+      "full name",
+      "spell",
+      "preferred name",
+      "name"
+    ],
+    "key_phrases": [
+      "What is your full name?",
+      "My first name is Ayaan and my surname is Warsame.",
+      "Could you spell your surname, please?",
+      "Do you use a preferred name?",
+      "I have your name as Ayaan Warsame."
+    ],
+    "grammar_focus": [
+      "what is your name",
+      "my name is",
+      "possessive adjectives",
+      "alphabet spelling",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Good morning. What is your full name?",
+        "somali": "Subax wanaagsan. Magacaaga oo buuxa waa maxay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "My first name is Ayaan and my surname is Warsame.",
+        "somali": "Magacayga hore waa Ayaan, magaca qoyskayguna waa Warsame."
+      },
+      {
+        "turn": 3,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Could you spell your surname, please?",
+        "somali": "Fadlan magaca qoyskaaga ma ii higgaadin kartaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "W-A-R-S-A-M-E.",
+        "somali": "W-A-R-S-A-M-E."
+      },
+      {
+        "turn": 5,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Thank you. Do you use a preferred name?",
+        "somali": "Mahadsanid. Ma leedahay magac aad doorbido in laguugu yeero?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, please call me Ayaan.",
+        "somali": "Haa, fadlan Ayaan iigu yeer."
+      },
+      {
+        "turn": 7,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I have your name as Ayaan Warsame.",
+        "somali": "Waxaan magacaaga u qoray Ayaan Warsame."
+      },
+      {
+        "turn": 8,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, that spelling is correct.",
+        "somali": "Haa, higgaadintaasi waa sax."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_age_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "title": "Registering a Child for a Class",
+    "somali_title": "Ilmo fasal loogu diiwaangelinayo",
+    "situation": "A parent gives their child's age and date of birth while registering for a swimming class.",
+    "somali_situation": "Waalid ayaa sheegaya da'da ilmahiisa iyo taariikhda dhalashada marka uu u diiwaangelinayo fasal dabaal.",
+    "cefr": "A2",
+    "participants": [
+      "Parent",
+      "Clerk"
+    ],
+    "key_vocabulary": [
+      "age",
+      "years old",
+      "date of birth",
+      "adult",
+      "child"
+    ],
+    "key_phrases": [
+      "Are you registering an adult or a child?",
+      "My daughter is twelve years old.",
+      "What is her date of birth?",
+      "I am thirty-eight years old.",
+      "The adult form is for you, and the child form is for her."
+    ],
+    "grammar_focus": [
+      "be + age",
+      "how old",
+      "dates",
+      "was born",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Are you registering an adult or a child?",
+        "somali": "Ma qof weyn ayaad diiwaangelinaysaa mise ilmo?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "A child. My daughter is twelve years old.",
+        "somali": "Ilmo. Gabadheydu waa laba iyo toban jir."
+      },
+      {
+        "turn": 3,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Thank you. What is her date of birth?",
+        "somali": "Mahadsanid. Taariikhdeeda dhalasho waa maxay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "She was born on May fifth, 2014.",
+        "somali": "Waxay dhalatay shanta May, 2014."
+      },
+      {
+        "turn": 5,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "I also need your age as the parent.",
+        "somali": "Sidoo kale waxaan u baahanahay da'daada waalid ahaan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "I am thirty-eight years old.",
+        "somali": "Waxaan ahay siddeed iyo soddon jir."
+      },
+      {
+        "turn": 7,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Is your daughter joining the child swim class?",
+        "somali": "Gabadhaadu ma ku biiraysaa fasalka dabaasha ee carruurta?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Yes, the class for her age group.",
+        "somali": "Haa, fasalka kooxdeeda da'da ah."
+      },
+      {
+        "turn": 9,
+        "speaker": "Clerk",
+        "somali_speaker": "Karraani",
+        "english": "Perfect. The adult form is for you, and the child form is for her.",
+        "somali": "Waa hagaag. Foomka qofka weyn adiga ayaa leh, foomka ilmuhuna iyada ayuu u yahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "That makes sense. I will fill in both forms.",
+        "somali": "Taasi waa ii caddahay. Labada foom waan buuxin doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_nationality_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "title": "Stating Your Nationality on a Form",
+    "somali_title": "Jinsiyaddaada oo aad foom ku sheegto",
+    "situation": "An applicant asks how to state nationality, country, citizenship, and residency correctly on a visitor form.",
+    "somali_situation": "Qof codsanaya adeeg ayaa weydiinaya sida saxda ah ee foom loogu qoro jinsiyadda, dalka, muwaadinimada, iyo deganaanshaha.",
+    "cefr": "B1",
+    "participants": [
+      "Applicant",
+      "Officer"
+    ],
+    "key_vocabulary": [
+      "nationality",
+      "country",
+      "citizen",
+      "from",
+      "resident"
+    ],
+    "key_phrases": [
+      "I need to check your nationality for the visitor form.",
+      "Which country are you from?",
+      "Are you a Somali citizen?",
+      "I am a resident now.",
+      "The form asks for nationality, not ethnic group."
+    ],
+    "grammar_focus": [
+      "be from",
+      "nationality adjectives",
+      "where questions",
+      "live versus come from",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "I need to check your nationality for the visitor form.",
+        "somali": "Waxaan u baahanahay inaan hubiyo jinsiyaddaada foomka booqdaha."
+      },
+      {
+        "turn": 2,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "Of course.",
+        "somali": "Dabcan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "Which country are you from?",
+        "somali": "Dalkee ayaad ka timid?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "I am from Somalia.",
+        "somali": "Waxaan ka imid Soomaaliya."
+      },
+      {
+        "turn": 5,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "Are you a Somali citizen?",
+        "somali": "Ma tahay muwaadin Soomaaliyeed?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "Yes, I am a Somali citizen.",
+        "somali": "Haa, waxaan ahay muwaadin Soomaaliyeed."
+      },
+      {
+        "turn": 7,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "Do you live here as a visitor or a resident?",
+        "somali": "Halkan ma ku nooshahay booqde ahaan mise degane ahaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "I am a resident now.",
+        "somali": "Hadda waxaan ahay degane."
+      },
+      {
+        "turn": 9,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "Thank you. The form asks for nationality, not ethnic group.",
+        "somali": "Mahadsanid. Foomku wuxuu weydiinayaa jinsiyadda, ma aha qowmiyadda."
+      },
+      {
+        "turn": 10,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "Then I should write Somali, correct?",
+        "somali": "Markaa waa inaan qoro Soomaali, sax miyaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Officer",
+        "somali_speaker": "Sarkaal",
+        "english": "Yes, write Somali and the country as Somalia.",
+        "somali": "Haa, qor Soomaali, dalkana Soomaaliya."
+      },
+      {
+        "turn": 12,
+        "speaker": "Applicant",
+        "somali_speaker": "Codsade",
+        "english": "Great. That is clear.",
+        "somali": "Waa fiican tahay. Taasi way caddahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_address_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "title": "Giving an Address for Delivery",
+    "somali_title": "Cinwaan la siinayo keenista alaab",
+    "situation": "A customer gives a delivery address and adds apartment and entrance details so a parcel reaches the right place.",
+    "somali_situation": "Macaamiil ayaa bixinaya cinwaan keenis, kadibna wuxuu ku darayaa faahfaahinta guriga iyo albaabka si xirmadu meesha saxda ah u gaarto.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Delivery Clerk"
+    ],
+    "key_vocabulary": [
+      "address",
+      "street",
+      "house number",
+      "city",
+      "postcode"
+    ],
+    "key_phrases": [
+      "I need the full address.",
+      "The house number is 18.",
+      "It is on Maple Street, near the pharmacy.",
+      "The postcode is 55408.",
+      "The entrance is on the side street."
+    ],
+    "grammar_focus": [
+      "there is",
+      "prepositions of place",
+      "number sequences",
+      "spelling proper nouns",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "I can send the parcel today, but I need the full address.",
+        "somali": "Xirmada maanta waan diri karaa, laakiin waxaan u baahanahay cinwaanka oo buuxa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "Sure. The house number is 18.",
+        "somali": "Hubaal. Lambarka gurigu waa 18."
+      },
+      {
+        "turn": 3,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "What street is it on?",
+        "somali": "Wadaddee ayuu ku yaal?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "It is on Maple Street, near the pharmacy.",
+        "somali": "Waxay ku taal Maple Street, farmashiyaha agtiisa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "Which city should I write?",
+        "somali": "Magaaladee ayaan qoraa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "Write Minneapolis as the city.",
+        "somali": "Magaalada ku qor Minneapolis."
+      },
+      {
+        "turn": 7,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "Do you know the postcode?",
+        "somali": "Ma taqaannaa lambarka boostada?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "Yes, the postcode is 55408.",
+        "somali": "Haa, lambarka boostadu waa 55408."
+      },
+      {
+        "turn": 9,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "Let me read it back: 18 Maple Street, Minneapolis, 55408.",
+        "somali": "Aan dib u akhriyo: 18 Maple Street, Minneapolis, 55408."
+      },
+      {
+        "turn": 10,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "That's right, but please add Apartment 3B.",
+        "somali": "Waa sax, laakiin fadlan ku dar Apartment 3B."
+      },
+      {
+        "turn": 11,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "Is the apartment above the shop or behind it?",
+        "somali": "Gurigu ma dukaanka ayuu ka sarreeyaa mise gadaashiisa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "It is above the shop, second floor.",
+        "somali": "Waxay ka sarreysaa dukaanka, dabaqa labaad."
+      },
+      {
+        "turn": 13,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "Should the driver call before delivery?",
+        "somali": "Darawalku ma wacaa ka hor keenista?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "Yes, because the entrance is on the side street.",
+        "somali": "Haa, sababtoo ah albaabku wuxuu ku yaal waddada dhinaceeda."
+      },
+      {
+        "turn": 15,
+        "speaker": "Delivery Clerk",
+        "somali_speaker": "Karraaniga keenista",
+        "english": "I have the full address now.",
+        "somali": "Hadda waxaan hayaa cinwaanka oo buuxa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Customer",
+        "somali_speaker": "Macaamiil",
+        "english": "Thank you. That will help the parcel arrive safely.",
+        "somali": "Mahadsanid. Taasi waxay ka caawin doontaa xirmada inay si nabad ah u gaarto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_phone_number_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "title": "Updating a Phone Number",
+    "somali_title": "Lambar telefoon oo la cusbooneysiinayo",
+    "situation": "A resident updates a mobile phone number and gives the country code and digits slowly.",
+    "somali_situation": "Qof deggan ayaa cusbooneysiinaya lambarka telefoonka gacanta, wuxuuna si tartiib ah u sheegayaa koodhka dalka iyo tirooyinka.",
+    "cefr": "A1",
+    "participants": [
+      "Resident",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "phone number",
+      "country code",
+      "digit",
+      "mobile",
+      "contact",
+      "phone",
+      "number"
+    ],
+    "key_phrases": [
+      "My phone number has changed.",
+      "Is it a mobile phone?",
+      "Please say the country code first.",
+      "Now say each digit slowly.",
+      "I saved the new phone number."
+    ],
+    "grammar_focus": [
+      "number sequences",
+      "double and zero",
+      "which questions",
+      "read-back confirmation",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "My phone number has changed. I need to update my contact.",
+        "somali": "Lambarkayga telefoonka wuu is beddelay. Waxaan u baahanahay inaan cusbooneysiiyo xiriirkayga."
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "No problem. Is it a mobile phone?",
+        "somali": "Dhib ma leh. Ma telefoon gacanta ah baa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, it is my mobile number.",
+        "somali": "Haa, waa lambarkayga mobile-ka."
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Please say the country code first.",
+        "somali": "Fadlan marka hore sheeg koodhka dalka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "The country code is plus one.",
+        "somali": "Koodhka dalku waa plus one."
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Now say each digit slowly.",
+        "somali": "Hadda tiro kasta si tartiib ah u sheeg."
+      },
+      {
+        "turn": 7,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "It is 612-555-0198.",
+        "somali": "Waa 612-555-0198."
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Thank you. I saved the new phone number.",
+        "somali": "Mahadsanid. Waxaan kaydiyey lambarka telefoonka cusub."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_family_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "title": "Giving Family Details at School",
+    "somali_title": "Faahfaahinta qoyska oo dugsiga laga bixinayo",
+    "situation": "A parent gives household and family details for a school form.",
+    "somali_situation": "Waalid ayaa foom dugsi ku bixinaya faahfaahinta guriga iyo qoyska.",
+    "cefr": "A2",
+    "participants": [
+      "Teacher",
+      "Parent"
+    ],
+    "key_vocabulary": [
+      "parent",
+      "child",
+      "sibling",
+      "relative",
+      "household",
+      "family"
+    ],
+    "key_phrases": [
+      "I need a little family information for the school form.",
+      "How many people are in your household?",
+      "Two parents and two children.",
+      "Does he have a sibling at this school?",
+      "Can we call another relative if a parent is not available?"
+    ],
+    "grammar_focus": [
+      "possessive adjectives",
+      "have and has",
+      "there are",
+      "relationship clauses",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "I need a little family information for the school form.",
+        "somali": "Waxaan u baahanahay macluumaad yar oo qoyska ah foomka dugsiga."
+      },
+      {
+        "turn": 2,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Of course. What do you need?",
+        "somali": "Dabcan. Maxaad u baahan tahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "How many people are in your household?",
+        "somali": "Immisa qof ayaa gurigiinna ku nool?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Four. Two parents and two children.",
+        "somali": "Afar. Laba waalid iyo laba carruur ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "Is the child in this class your son?",
+        "somali": "Ilmaha fasalkan ku jira ma wiilkaaga baa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Yes, he is my son.",
+        "somali": "Haa, waa wiilkayga."
+      },
+      {
+        "turn": 7,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "Does he have a sibling at this school?",
+        "somali": "Ma leeyahay walaal dugsigan dhigta?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Yes, his sister is in grade three.",
+        "somali": "Haa, walaashiis waxay dhigataa fasalka saddexaad."
+      },
+      {
+        "turn": 9,
+        "speaker": "Teacher",
+        "somali_speaker": "Macallin",
+        "english": "Can we call another relative if a parent is not available?",
+        "somali": "Ma wici karnaa qaraabo kale haddii waalid la heli waayo?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Yes, his uncle is the relative to call.",
+        "somali": "Haa, adeerkiis ayaa ah qaraabada la wacayo."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_marital_status_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "title": "Answering a Marital Status Question",
+    "somali_title": "Su'aal xaaladda guurka ah oo laga jawaabayo",
+    "situation": "A clinic clerk asks a resident for marital status while completing an intake form.",
+    "somali_situation": "Karraani rug caafimaad ayaa qof deggan weydiinaya xaaladda guurka marka uu buuxinayo foomka qaabilaadda.",
+    "cefr": "B1",
+    "participants": [
+      "Resident",
+      "Clinic Clerk"
+    ],
+    "key_vocabulary": [
+      "single",
+      "married",
+      "divorced",
+      "widowed",
+      "status",
+      "marital"
+    ],
+    "key_phrases": [
+      "This form asks for your marital status.",
+      "Are you single, married, divorced, or widowed?",
+      "My marital status is the same.",
+      "I will mark married for you.",
+      "Thank you for asking respectfully."
+    ],
+    "grammar_focus": [
+      "be + status",
+      "present perfect for changes",
+      "why questions",
+      "formal form language",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "This form asks for your marital status.",
+        "somali": "Foomkani wuxuu weydiinayaa xaaladdaada guurka."
+      },
+      {
+        "turn": 2,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "All right.",
+        "somali": "Waa hagaag."
+      },
+      {
+        "turn": 3,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Are you single, married, divorced, or widowed?",
+        "somali": "Ma keli baad tahay, ma guursatay, ma kala tagtay, mise lamaane kaa dhintay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I am married.",
+        "somali": "Waan guursaday."
+      },
+      {
+        "turn": 5,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Has your status changed recently?",
+        "somali": "Xaaladdaadu dhowaan ma is beddeshay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "No, my marital status is the same.",
+        "somali": "Maya, xaaladdayda guurku waa sidii hore."
+      },
+      {
+        "turn": 7,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Thank you. We ask because emergency paperwork uses it.",
+        "somali": "Mahadsanid. Waxaan u weydiinnaa sababtoo ah waraaqaha degdegga ah ayaa u baahan."
+      },
+      {
+        "turn": 8,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I understand.",
+        "somali": "Waan fahmay."
+      },
+      {
+        "turn": 9,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "If someone is divorced or widowed, should they write that?",
+        "somali": "Haddii qof kala tagay ama lamaane ka dhintay yahay, ma inuu sidaas qoro?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, they should choose the word that is true.",
+        "somali": "Haa, waa inay doortaan erayga runta ah."
+      },
+      {
+        "turn": 11,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Clinic Clerk",
+        "somali_speaker": "Karraaniga rugta",
+        "english": "Exactly. I will mark married for you.",
+        "somali": "Sax. Waxaan kuu calaamadeynayaa inaad guursatay."
+      },
+      {
+        "turn": 12,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Thank you for asking respectfully.",
+        "somali": "Waad ku mahadsan tahay inaad si xushmad leh u weydiisay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_occupation_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "title": "Explaining Your Occupation",
+    "somali_title": "Shaqadaada oo aad sharaxdo",
+    "situation": "A resident completes an application with help from an adviser and explains job title, employment status, and main duties.",
+    "somali_situation": "Qof deggan ayaa la-taliye ka helaya caawimo buuxinta codsi, wuxuuna sharaxayaa cinwaanka shaqada, xaaladda shaqada, iyo hawlaha ugu waaweyn.",
+    "cefr": "B2",
+    "participants": [
+      "Resident",
+      "Adviser"
+    ],
+    "key_vocabulary": [
+      "occupation",
+      "job title",
+      "employed",
+      "unemployed",
+      "duties"
+    ],
+    "key_phrases": [
+      "The application asks for your occupation.",
+      "What job title should I write?",
+      "I am employed full-time.",
+      "What are your main duties?",
+      "I was unemployed for three months."
+    ],
+    "grammar_focus": [
+      "present simple for work",
+      "work as",
+      "be responsible for",
+      "articles with occupations",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "The application asks for your occupation.",
+        "somali": "Codsigu wuxuu weydiinayaa shaqadaada."
+      },
+      {
+        "turn": 2,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I work as a bus driver.",
+        "somali": "Waxaan u shaqeeyaa darawal bas."
+      },
+      {
+        "turn": 3,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "What job title should I write?",
+        "somali": "Cinwaanka shaqada maxaan qoraa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Please write bus driver.",
+        "somali": "Fadlan qor darawal bas."
+      },
+      {
+        "turn": 5,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "Are you employed full-time?",
+        "somali": "Ma shaqeysaa waqti buuxa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, I am employed full-time.",
+        "somali": "Haa, waxaan shaqeeyaa waqti buuxa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "What are your main duties?",
+        "somali": "Hawlahaaga ugu waaweyn waa maxay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I drive passengers safely and check the bus before each route.",
+        "somali": "Rakaabka si nabad ah ayaan u kaxeeyaa, baskana waan hubiyaa ka hor jid kasta."
+      },
+      {
+        "turn": 9,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "Have you ever been unemployed for a long period?",
+        "somali": "Weligaa muddo dheer shaqo la'aan ma ahayd?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, last year I was unemployed for three months.",
+        "somali": "Haa, sannadkii hore saddex bilood ayaan shaqo la'aan ahaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "Thank you for explaining that clearly.",
+        "somali": "Waad ku mahadsan tahay inaad taas si cad u sharaxday."
+      },
+      {
+        "turn": 12,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Should I include my current employer?",
+        "somali": "Ma ku daraa shirkadda aan hadda u shaqeeyo?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "Yes, write the company name under employer.",
+        "somali": "Haa, magaca shirkadda ku qor meesha loo shaqeeyaha."
+      },
+      {
+        "turn": 14,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I can do that.",
+        "somali": "Waan samayn karaa taas."
+      },
+      {
+        "turn": 15,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "speaker": "Adviser",
+        "somali_speaker": "La-taliye",
+        "english": "Your occupation section is complete now.",
+        "somali": "Qaybta shaqadaada hadda way dhammaatay."
+      },
+      {
+        "turn": 16,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Good. I wanted it to be accurate.",
+        "somali": "Waa fiican tahay. Waxaan rabay inay sax noqoto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_education_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "title": "Giving Your Education Level",
+    "somali_title": "Heerka waxbarashadaada oo aad sheegto",
+    "situation": "A student tells a school clerk their education level, certificate, and current course.",
+    "somali_situation": "Arday ayaa karraaniga dugsiga u sheegaya heerkiisa waxbarasho, shahaadadiisa, iyo koorsada uu hadda dhigto.",
+    "cefr": "A1",
+    "participants": [
+      "Student",
+      "School Clerk"
+    ],
+    "key_vocabulary": [
+      "education level",
+      "qualification",
+      "course",
+      "school",
+      "certificate",
+      "education"
+    ],
+    "key_phrases": [
+      "What is your education level?",
+      "I finished secondary school.",
+      "Is that certificate your highest qualification?",
+      "I am taking an English course now.",
+      "I will write secondary school as your education."
+    ],
+    "grammar_focus": [
+      "past simple for study",
+      "present continuous for current courses",
+      "highest and most recent",
+      "since and for",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "School Clerk",
+        "somali_speaker": "Karraaniga dugsiga",
+        "english": "What is your education level?",
+        "somali": "Heerkaaga waxbarasho waa maxay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "I finished secondary school.",
+        "somali": "Waxaan dhammeeyey dugsiga sare."
+      },
+      {
+        "turn": 3,
+        "speaker": "School Clerk",
+        "somali_speaker": "Karraaniga dugsiga",
+        "english": "Do you have a certificate?",
+        "somali": "Shahaado ma haysataa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Yes, I have my school certificate.",
+        "somali": "Haa, waxaan haystaa shahaadadayda dugsiga."
+      },
+      {
+        "turn": 5,
+        "speaker": "School Clerk",
+        "somali_speaker": "Karraaniga dugsiga",
+        "english": "Is that certificate your highest qualification?",
+        "somali": "Shahaadadaasi ma tahay aqoontaada ugu sarreysa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Yes, and I am taking an English course now.",
+        "somali": "Haa, haddana waxaan dhigtaa koorso Ingiriisi ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "School Clerk",
+        "somali_speaker": "Karraaniga dugsiga",
+        "english": "I will write secondary school as your education.",
+        "somali": "Waxaan waxbarashadaada u qorayaa dugsi sare."
+      },
+      {
+        "turn": 8,
+        "speaker": "Student",
+        "somali_speaker": "Arday",
+        "english": "Thank you. That is correct.",
+        "somali": "Mahadsanid. Taasi waa sax."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_languages_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "title": "Choosing a Preferred Language",
+    "somali_title": "Luqadda aad doorbidayso oo la dooranayo",
+    "situation": "A resident tells a receptionist which language they prefer and what they can speak, read, and write.",
+    "somali_situation": "Qof deggan ayaa soo-dhoweeye u sheegaya luqadda uu doorbido iyo waxa uu ku hadli karo, akhriyi karo, qori karona.",
+    "cefr": "A2",
+    "participants": [
+      "Resident",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "language",
+      "speak",
+      "read",
+      "write",
+      "fluent",
+      "languages"
+    ],
+    "key_phrases": [
+      "Which language do you prefer for appointments?",
+      "I speak some English, but I am not fluent.",
+      "Can you read English letters?",
+      "Can you write in English?",
+      "I will note Somali as your preferred language."
+    ],
+    "grammar_focus": [
+      "can and can't",
+      "adverbs of degree",
+      "prefer",
+      "comparatives of ability",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Which language do you prefer for appointments?",
+        "somali": "Luqaddee ayaad u doorbidaysaa ballamaha?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Somali, please.",
+        "somali": "Soomaali, fadlan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Do you speak English too?",
+        "somali": "Ingiriisna ma ku hadashaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I speak some English, but I am not fluent.",
+        "somali": "Wax yar oo Ingiriis ah waan ku hadlaa, laakiin si fiican uguma hadlo."
+      },
+      {
+        "turn": 5,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Can you read English letters?",
+        "somali": "Ma akhriyi kartaa waraaqaha Ingiriisiga?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I can read simple letters.",
+        "somali": "Waan akhriyi karaa waraaqo fudud."
+      },
+      {
+        "turn": 7,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Can you write in English?",
+        "somali": "Ingiriis ma ku qori kartaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I can write my name and address.",
+        "somali": "Magacayga iyo cinwaankayga waan qori karaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I will note Somali as your preferred language.",
+        "somali": "Waxaan qori doonaa in Soomaaligu yahay luqadda aad doorbidayso."
+      },
+      {
+        "turn": 10,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Thank you. I use both languages, but Somali is easier.",
+        "somali": "Mahadsanid. Labada luqadood waan isticmaalaa, laakiin Soomaaligu wuu ii fudud yahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_personal_information_emergency_contact_001",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "title": "Adding an Emergency Contact",
+    "somali_title": "Xiriir degdeg ah oo lagu darayo",
+    "situation": "A resident gives a receptionist the name, relationship, and phone number of the person to call in an emergency.",
+    "somali_situation": "Qof deggan ayaa soo-dhoweeye siinaya magaca, xiriirka, iyo lambarka telefoonka qofka la wacayo marka xaalad degdeg ahi timaado.",
+    "cefr": "B1",
+    "participants": [
+      "Resident",
+      "Receptionist"
+    ],
+    "key_vocabulary": [
+      "emergency contact",
+      "relative",
+      "phone number",
+      "urgent",
+      "emergency",
+      "contact"
+    ],
+    "key_phrases": [
+      "We need an emergency contact for your file.",
+      "Is she a relative who lives nearby?",
+      "What is her phone number?",
+      "Should we contact her only in an emergency?",
+      "I have Hodan Ali as your emergency contact."
+    ],
+    "grammar_focus": [
+      "possessives",
+      "relationship nouns",
+      "phone-number phrasing",
+      "wh- questions",
+      "polite requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "We need an emergency contact for your file.",
+        "somali": "Waxaan u baahanahay xiriir degdeg ah oo faylkaaga lagu daro."
+      },
+      {
+        "turn": 2,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "I can give my sister's details.",
+        "somali": "Faahfaahinta walaashay waan bixin karaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Is she a relative who lives nearby?",
+        "somali": "Ma tahay qaraabo meel dhow ku nool?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, she is my relative and she lives ten minutes away.",
+        "somali": "Haa, waa qaraabadayda, waxayna degan tahay meel toban daqiiqo u jirta."
+      },
+      {
+        "turn": 5,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "What is her phone number?",
+        "somali": "Lambarkeeda telefoonku waa maxay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Her phone number is 612-555-0144.",
+        "somali": "Lambarkeeda telefoonku waa 612-555-0144."
+      },
+      {
+        "turn": 7,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "Should we contact her only in an emergency?",
+        "somali": "Ma la xiriirnaa iyada oo keliya marka xaalad degdeg ahi jirto?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Yes, only if it is urgent.",
+        "somali": "Haa, kaliya haddii ay degdeg tahay."
+      },
+      {
+        "turn": 9,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "What is her name?",
+        "somali": "Magaceedu waa maxay?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "Her name is Hodan Ali.",
+        "somali": "Magaceedu waa Hodan Ali."
+      },
+      {
+        "turn": 11,
+        "speaker": "Receptionist",
+        "somali_speaker": "Soo-dhoweeye",
+        "english": "I have Hodan Ali as your emergency contact.",
+        "somali": "Waxaan Hodan Ali u qoray xiriirkaaga degdegga ah."
+      },
+      {
+        "turn": 12,
+        "speaker": "Resident",
+        "somali_speaker": "Qof deggan",
+        "english": "That's correct. Thank you.",
+        "somali": "Waa sax. Mahadsanid."
+      }
+    ]
+  }
+]

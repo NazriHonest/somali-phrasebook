@@ -40,6 +40,8 @@ dependencies:
   path_provider: ^2.1.5
   shared_preferences: ^2.5.3
   sqflite: ^2.4.2
+  share_plus: ^13.3.0
+  flutter_tts: ^4.2.5
 
 dev_dependencies:
   flutter_test:
@@ -62,6 +64,15 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - assets/branding/
+    - lib/data/seed/categories_seed.json
+    - lib/data/seed/subcategories_seed.json
+    - lib/data/seed/conversations/
+    - lib/data/seed/reference/
+    - lib/data/seed/phrases/
+    - lib/data/seed/vocabulary/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

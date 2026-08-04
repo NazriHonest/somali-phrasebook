@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "conversation_daily_activities_home_routines_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_home_routines",
+    "title": "Talking About a Morning Routine",
+    "somali_title": "Nidaamka subaxnimo oo laga hadlayo",
+    "situation": "A learner explains a simple morning routine at home before going to class.",
+    "somali_situation": "Arday ayaa sharxaya nidaam subaxnimo oo guriga ka hor inta uusan fasal aadin.",
+    "cefr": "A1",
+    "participants": [
+      "Learner",
+      "Friend"
+    ],
+    "key_vocabulary": [
+      "morning",
+      "wake up",
+      "breakfast",
+      "home",
+      "routine",
+      "class"
+    ],
+    "key_phrases": [
+      "What is your morning routine?",
+      "I wake up at seven.",
+      "I eat breakfast at home.",
+      "Then I go to class.",
+      "Your routine is simple."
+    ],
+    "grammar_focus": [
+      "present simple routines",
+      "at + time",
+      "then for sequence",
+      "go to + place",
+      "possessive your"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "What is your morning routine?",
+        "somali": "Nidaamkaaga subaxnimo waa maxay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I wake up at seven.",
+        "somali": "Waxaan toosaa toddobada."
+      },
+      {
+        "turn": 3,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Do you eat before class?",
+        "somali": "Fasalka ka hor ma cuntaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I eat breakfast at home.",
+        "somali": "Quraacda guriga ayaan ku cunaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "What do you do next?",
+        "somali": "Maxaad xigta samaysaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Then I go to class.",
+        "somali": "Kadib fasalka ayaan aadaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Your routine is simple.",
+        "somali": "Nidaamkaagu wuu fudud yahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Yes, it helps me start the day.",
+        "somali": "Haa, waxay iga caawisaa inaan maalinta bilaabo."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_cooking_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cooking",
+    "title": "Cooking Rice for Dinner",
+    "somali_title": "Bariis casho loo karinayo",
+    "situation": "Two roommates cook rice together and check the amount of water and salt.",
+    "somali_situation": "Laba qof oo qol wadaaga ayaa bariis wada karinaya waxayna hubinayaan qadarka biyaha iyo cusbada.",
+    "cefr": "A2",
+    "participants": [
+      "Roommate A",
+      "Roommate B"
+    ],
+    "key_vocabulary": [
+      "cook",
+      "rice",
+      "water",
+      "salt",
+      "pot",
+      "dinner",
+      "cooking"
+    ],
+    "key_phrases": [
+      "Can you help me cook rice?",
+      "Put two cups of water in the pot.",
+      "Do we need more salt?",
+      "The rice is almost ready.",
+      "Cooking is easier together."
+    ],
+    "grammar_focus": [
+      "can for requests",
+      "imperatives",
+      "do we need",
+      "almost + adjective",
+      "comparatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Roommate A",
+        "somali_speaker": "Qolwadaag A",
+        "english": "Can you help me cook rice?",
+        "somali": "Bariiska karintiisa ma iga caawin kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Roommate B",
+        "somali_speaker": "Qolwadaag B",
+        "english": "Sure. Where is the pot?",
+        "somali": "Hubaal. Digsigu xaggee buu yaal?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Roommate A",
+        "somali_speaker": "Qolwadaag A",
+        "english": "It is on the stove.",
+        "somali": "Shooladda ayuu saaran yahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Roommate B",
+        "somali_speaker": "Qolwadaag B",
+        "english": "Put two cups of water in the pot.",
+        "somali": "Digsiga ku shub laba koob oo biyo ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Roommate A",
+        "somali_speaker": "Qolwadaag A",
+        "english": "Do we need more salt?",
+        "somali": "Cusbada ma u baahanahay in ka badan?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Roommate B",
+        "somali_speaker": "Qolwadaag B",
+        "english": "Just a little salt.",
+        "somali": "Cusbada wax yar oo keliya."
+      },
+      {
+        "turn": 7,
+        "speaker": "Roommate A",
+        "somali_speaker": "Qolwadaag A",
+        "english": "The rice smells good.",
+        "somali": "Bariisku wuu carfayaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Roommate B",
+        "somali_speaker": "Qolwadaag B",
+        "english": "The rice is almost ready.",
+        "somali": "Bariisku wuu dhow yahay inuu bislaado."
+      },
+      {
+        "turn": 9,
+        "speaker": "Roommate A",
+        "somali_speaker": "Qolwadaag A",
+        "english": "Good. Dinner will be simple tonight.",
+        "somali": "Waa fiican tahay. Cashadu caawa way fududaan doontaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Roommate B",
+        "somali_speaker": "Qolwadaag B",
+        "english": "Cooking is easier together.",
+        "somali": "Wada karintu way ka fudud tahay."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_cleaning_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_cleaning",
+    "title": "Cleaning the Kitchen Before Guests Arrive",
+    "somali_title": "Jikada oo la nadiifinayo ka hor martida",
+    "situation": "A family shares cleaning tasks before guests arrive for dinner.",
+    "somali_situation": "Qoys ayaa qaybsanaya hawlaha nadiifinta ka hor inta martidu casho u imaan.",
+    "cefr": "B1",
+    "participants": [
+      "Parent",
+      "Teenager"
+    ],
+    "key_vocabulary": [
+      "cleaning",
+      "kitchen",
+      "floor",
+      "dishes",
+      "trash",
+      "guests",
+      "wipe"
+    ],
+    "key_phrases": [
+      "Can you help with the cleaning?",
+      "I will wash the dishes.",
+      "Please wipe the kitchen table.",
+      "The floor still needs sweeping.",
+      "Take the trash out before guests arrive."
+    ],
+    "grammar_focus": [
+      "can for requests",
+      "will for offers",
+      "imperatives",
+      "still needs + -ing",
+      "before clauses"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Can you help with the cleaning?",
+        "somali": "Nadiifinta ma iga caawin kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "Yes. What should I do first?",
+        "somali": "Haa. Maxaan marka hore sameeyaa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Please wipe the kitchen table.",
+        "somali": "Fadlan masax miiska jikada."
+      },
+      {
+        "turn": 4,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "All right. I will do that now.",
+        "somali": "Hagaag. Hadda ayaan samaynayaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "The floor still needs sweeping.",
+        "somali": "Dhulku weli wuu u baahan yahay in la xaaqo."
+      },
+      {
+        "turn": 6,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "I can sweep after the table.",
+        "somali": "Miiska ka dib waan xaaqi karaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "I will wash the dishes.",
+        "somali": "Anigu weelka ayaan dhaqi doonaa."
+      },
+      {
+        "turn": 8,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "Should I dry them too?",
+        "somali": "Ma qalajiyaa sidoo kale?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "No, take the trash out before guests arrive.",
+        "somali": "Maya, qashinka saar ka hor inta martidu imaan."
+      },
+      {
+        "turn": 10,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "The guests arrive at seven, right?",
+        "somali": "Martidu toddobada ayay imaanayaan, sax?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Parent",
+        "somali_speaker": "Waalid",
+        "english": "Yes, so we have one hour.",
+        "somali": "Haa, markaa hal saac ayaan haysannaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Teenager",
+        "somali_speaker": "Dhallinyaro",
+        "english": "Then the kitchen will be ready.",
+        "somali": "Markaas jikadu diyaar bay noqon doontaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_shopping_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_shopping",
+    "title": "Shopping with a Short List",
+    "somali_title": "Liis gaaban oo lagu dukaamaysanayo",
+    "situation": "A shopper and a relative manage a short shopping list, compare prices, and avoid buying too much.",
+    "somali_situation": "Qof dukaamaysanaya iyo qaraabo ayaa maareynaya liis dukaameysi gaaban, waxay isbarbar dhigayaan qiimo, waxayna ka fogaanayaan iibsasho badan.",
+    "cefr": "B2",
+    "participants": [
+      "Shopper",
+      "Relative"
+    ],
+    "key_vocabulary": [
+      "shopping",
+      "list",
+      "price",
+      "basket",
+      "cashier",
+      "receipt",
+      "aisle"
+    ],
+    "key_phrases": [
+      "Let us stick to the shopping list.",
+      "The price is lower in this aisle.",
+      "Put only two bags in the basket.",
+      "Ask the cashier for the receipt.",
+      "We bought what we needed."
+    ],
+    "grammar_focus": [
+      "let us for shared decisions",
+      "comparatives",
+      "imperatives",
+      "past simple bought",
+      "what clauses"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Let us stick to the shopping list.",
+        "somali": "Aan ku ekaanno liiska dukaameysiga."
+      },
+      {
+        "turn": 2,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "Good idea. What is first on the list?",
+        "somali": "Fikrad fiican. Maxaa ugu horreeya liiska?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Rice and tea are first.",
+        "somali": "Bariis iyo shaah ayaa ugu horreeya."
+      },
+      {
+        "turn": 4,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "The price is lower in this aisle.",
+        "somali": "Qiimuhu wuu ka hooseeyaa marinkan."
+      },
+      {
+        "turn": 5,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Then we should buy it here.",
+        "somali": "Markaa halkan ayaynu ka iibsanaynaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "How many bags of rice?",
+        "somali": "Immisa kiish oo bariis ah?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Put only two bags in the basket.",
+        "somali": "Kaliya laba kiish geli dambiisha."
+      },
+      {
+        "turn": 8,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "What about fruit?",
+        "somali": "Ka warran miro?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Fruit is not on the list today.",
+        "somali": "Miro maanta liiska kuma jiraan."
+      },
+      {
+        "turn": 10,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "All right. The basket is not too heavy.",
+        "somali": "Hagaag. Dambiishu aad uma cusla."
+      },
+      {
+        "turn": 11,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "Ask the cashier for the receipt.",
+        "somali": "Qasnajiga weydii rasiidka."
+      },
+      {
+        "turn": 12,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "I will ask when we pay.",
+        "somali": "Waan weydiin doonaa marka aan bixinno."
+      },
+      {
+        "turn": 13,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "We stayed under our budget.",
+        "somali": "Miisaaniyaddeenna kama bixin."
+      },
+      {
+        "turn": 14,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "That does not happen every week.",
+        "somali": "Taasi toddobaad kasta ma dhacdo."
+      },
+      {
+        "turn": 15,
+        "speaker": "Shopper",
+        "somali_speaker": "Dukaameyste",
+        "english": "We bought what we needed.",
+        "somali": "Waxaan iibsanay wixii aan u baahnayn."
+      },
+      {
+        "turn": 16,
+        "speaker": "Relative",
+        "somali_speaker": "Qaraabo",
+        "english": "And nothing extra.",
+        "somali": "Wax dheeraad ahna ma jirto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_working_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_working",
+    "title": "Starting Work in the Morning",
+    "somali_title": "Shaqada subaxdii oo la bilaabayo",
+    "situation": "Two coworkers talk briefly before starting work.",
+    "somali_situation": "Laba shaqaale ayaa si kooban u wada hadlaya ka hor inta aysan shaqada bilaabin.",
+    "cefr": "A1",
+    "participants": [
+      "Coworker A",
+      "Coworker B"
+    ],
+    "key_vocabulary": [
+      "work",
+      "morning",
+      "meeting",
+      "email",
+      "desk",
+      "break",
+      "working"
+    ],
+    "key_phrases": [
+      "What time do you start work?",
+      "I start working at eight.",
+      "I need to check my email.",
+      "The meeting is at ten.",
+      "My desk is ready."
+    ],
+    "grammar_focus": [
+      "what time do you",
+      "start + -ing",
+      "need to + verb",
+      "at + time",
+      "possessive my"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Coworker A",
+        "somali_speaker": "Shaqaale A",
+        "english": "What time do you start work?",
+        "somali": "Goormaad shaqada bilowdaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Coworker B",
+        "somali_speaker": "Shaqaale B",
+        "english": "I start working at eight.",
+        "somali": "Waxaan shaqada bilaabaa siddeedda."
+      },
+      {
+        "turn": 3,
+        "speaker": "Coworker A",
+        "somali_speaker": "Shaqaale A",
+        "english": "Do you have a meeting?",
+        "somali": "Shir ma leedahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Coworker B",
+        "somali_speaker": "Shaqaale B",
+        "english": "The meeting is at ten.",
+        "somali": "Shirku waa tobanka."
+      },
+      {
+        "turn": 5,
+        "speaker": "Coworker A",
+        "somali_speaker": "Shaqaale A",
+        "english": "I need to check my email.",
+        "somali": "Waxaan u baahanahay inaan hubiyo iimaylkayga."
+      },
+      {
+        "turn": 6,
+        "speaker": "Coworker B",
+        "somali_speaker": "Shaqaale B",
+        "english": "My desk is ready.",
+        "somali": "Miiskaygu waa diyaar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Coworker A",
+        "somali_speaker": "Shaqaale A",
+        "english": "Let us take a break later.",
+        "somali": "Aan nasasho qaadanno goor dambe."
+      },
+      {
+        "turn": 8,
+        "speaker": "Coworker B",
+        "somali_speaker": "Shaqaale B",
+        "english": "Good idea for this morning.",
+        "somali": "Fikrad fiican subaxdan."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_studying_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_studying",
+    "title": "Studying for a Short Quiz",
+    "somali_title": "Imtixaan yar oo loo baranayo",
+    "situation": "Two learners study together for a short quiz and choose what to review first.",
+    "somali_situation": "Laba arday ayaa wada baranaya imtixaan yar waxayna dooranayaan waxa marka hore dib loo eego.",
+    "cefr": "A2",
+    "participants": [
+      "Learner A",
+      "Learner B"
+    ],
+    "key_vocabulary": [
+      "study",
+      "quiz",
+      "notes",
+      "review",
+      "question",
+      "answer",
+      "studying"
+    ],
+    "key_phrases": [
+      "Are you studying for the quiz?",
+      "Let us review the notes first.",
+      "This question is difficult.",
+      "I know the answer now.",
+      "Studying together helps."
+    ],
+    "grammar_focus": [
+      "present continuous",
+      "let us + verb",
+      "adjective difficulty",
+      "know + noun",
+      "helps + verb"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner A",
+        "somali_speaker": "Arday A",
+        "english": "Are you studying for the quiz?",
+        "somali": "Imtixaanka yar ma u baranaysaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Learner B",
+        "somali_speaker": "Arday B",
+        "english": "Yes, but I am nervous.",
+        "somali": "Haa, laakiin waan walwalsanahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner A",
+        "somali_speaker": "Arday A",
+        "english": "Let us review the notes first.",
+        "somali": "Aan marka hore dib u eegno qoraallada."
+      },
+      {
+        "turn": 4,
+        "speaker": "Learner B",
+        "somali_speaker": "Arday B",
+        "english": "Good. Which page?",
+        "somali": "Waa fiican tahay. Boggee?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner A",
+        "somali_speaker": "Arday A",
+        "english": "Start with the vocabulary page.",
+        "somali": "Ku bilow bogga erayada."
+      },
+      {
+        "turn": 6,
+        "speaker": "Learner B",
+        "somali_speaker": "Arday B",
+        "english": "This question is difficult.",
+        "somali": "Su'aashani way adag tahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner A",
+        "somali_speaker": "Arday A",
+        "english": "Read the example under it.",
+        "somali": "Akhri tusaalaha ka hooseeya."
+      },
+      {
+        "turn": 8,
+        "speaker": "Learner B",
+        "somali_speaker": "Arday B",
+        "english": "I know the answer now.",
+        "somali": "Hadda jawaabta waan garanayaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner A",
+        "somali_speaker": "Arday A",
+        "english": "Studying together helps.",
+        "somali": "Wada barashadu way caawisaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Learner B",
+        "somali_speaker": "Arday B",
+        "english": "Yes, I feel ready.",
+        "somali": "Haa, waxaan dareemayaa diyaar."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_travelling_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_travelling",
+    "title": "Leaving Early for a Trip",
+    "somali_title": "Safar hore loogu baxayo",
+    "situation": "Two relatives prepare for a morning trip and check tickets, bags, and departure time.",
+    "somali_situation": "Laba qaraabo ayaa isu diyaarinaya safar subaxnimo waxayna hubinayaan tigidhada, boorsooyinka, iyo waqtiga bixitaanka.",
+    "cefr": "B1",
+    "participants": [
+      "Relative A",
+      "Relative B"
+    ],
+    "key_vocabulary": [
+      "travelling",
+      "trip",
+      "ticket",
+      "bag",
+      "station",
+      "departure",
+      "early"
+    ],
+    "key_phrases": [
+      "We are travelling early tomorrow.",
+      "Do you have your ticket?",
+      "Pack one small bag.",
+      "The departure is at six thirty.",
+      "Let us leave for the station at six."
+    ],
+    "grammar_focus": [
+      "present continuous for plans",
+      "do you have",
+      "imperatives",
+      "at + time",
+      "let us + verb"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "We are travelling early tomorrow.",
+        "somali": "Berri hore ayaan safreynaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "What time is the trip?",
+        "somali": "Safarku waa goorma?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "The departure is at six thirty.",
+        "somali": "Bixitaanku waa lix iyo bar."
+      },
+      {
+        "turn": 4,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "Do you have your ticket?",
+        "somali": "Tigidhkaaga ma haysataa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "Yes, it is in my phone.",
+        "somali": "Haa, taleefankayga ayuu ku jiraa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "Should I bring a big bag?",
+        "somali": "Boorso weyn ma keenaa?"
+      },
+      {
+        "turn": 7,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "Pack one small bag.",
+        "somali": "Hal boorso yar diyaarso."
+      },
+      {
+        "turn": 8,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "That is easier to carry.",
+        "somali": "Taasi way fududahay in la qaado."
+      },
+      {
+        "turn": 9,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "Let us leave for the station at six.",
+        "somali": "Aan saldhigga u baxno lixda."
+      },
+      {
+        "turn": 10,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "Will there be traffic?",
+        "somali": "Taraafiko ma jiri doontaa?"
+      },
+      {
+        "turn": 11,
+        "speaker": "Relative A",
+        "somali_speaker": "Qaraabo A",
+        "english": "Maybe, but six should be fine.",
+        "somali": "Waxaa laga yaabaa, laakiin lixdu way fiicnaan doontaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Relative B",
+        "somali_speaker": "Qaraabo B",
+        "english": "Good. I will sleep early tonight.",
+        "somali": "Waa fiican tahay. Caawa hore ayaan seexanayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_exercise_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_exercise",
+    "title": "Starting a Gentle Exercise Routine",
+    "somali_title": "Jimicsi fudud oo la bilaabayo",
+    "situation": "A patient and trainer choose a gentle exercise routine after knee pain.",
+    "somali_situation": "Bukaan iyo tababare ayaa dooranaya jimicsi fudud ka dib xanuun jilib.",
+    "cefr": "B2",
+    "participants": [
+      "Patient",
+      "Trainer"
+    ],
+    "key_vocabulary": [
+      "exercise",
+      "routine",
+      "walk",
+      "stretch",
+      "knee",
+      "rest",
+      "gentle"
+    ],
+    "key_phrases": [
+      "I want to start exercising again.",
+      "Keep the routine gentle this week.",
+      "Walk for ten minutes first.",
+      "Stretch after the walk.",
+      "Rest if your knee hurts."
+    ],
+    "grammar_focus": [
+      "want to + verb",
+      "imperatives",
+      "if clauses",
+      "for + duration",
+      "after + noun"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I want to start exercising again.",
+        "somali": "Waxaan rabaa inaan mar kale jimicsi bilaabo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "How does your knee feel today?",
+        "somali": "Jilibkaagu maanta sidee buu yahay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "It is better, but I am careful.",
+        "somali": "Wuu ka fiican yahay, laakiin waan taxaddaraya."
+      },
+      {
+        "turn": 4,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "Keep the routine gentle this week.",
+        "somali": "Toddobaadkan nidaamka ka dhig mid fudud."
+      },
+      {
+        "turn": 5,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Should I run?",
+        "somali": "Ma ordaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "No, walk for ten minutes first.",
+        "somali": "Maya, marka hore toban daqiiqo soco."
+      },
+      {
+        "turn": 7,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "Can I stretch before the walk?",
+        "somali": "Socodka ka hor ma kala bixiya jirka?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "Stretch after the walk.",
+        "somali": "Socodka ka dib jirka kala bixi."
+      },
+      {
+        "turn": 9,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "How often should I exercise?",
+        "somali": "Imisa jeer ayaan jimicsadaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "Three days this week is enough.",
+        "somali": "Saddex maalmood toddobaadkan ayaa ku filan."
+      },
+      {
+        "turn": 11,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "What if the pain returns?",
+        "somali": "Maxaa dhacaya haddii xanuunku soo noqdo?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "Rest if your knee hurts.",
+        "somali": "Naso haddii jilibkaagu xanuuno."
+      },
+      {
+        "turn": 13,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "That feels manageable.",
+        "somali": "Taasi waxay u muuqataa mid aan maareyn karo."
+      },
+      {
+        "turn": 14,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "Good. Do not push through sharp pain.",
+        "somali": "Waa fiican tahay. Ha sii wadin haddii xanuun fiiqan jiro."
+      },
+      {
+        "turn": 15,
+        "speaker": "Patient",
+        "somali_speaker": "Bukaan",
+        "english": "I will follow that plan.",
+        "somali": "Qorshahaas waan raaci doonaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Trainer",
+        "somali_speaker": "Tababare",
+        "english": "We will review it next week.",
+        "somali": "Toddobaadka dambe ayaan dib u eegi doonnaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_hobbies_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_hobbies",
+    "title": "Talking About Hobbies",
+    "somali_title": "Hiwaayado laga hadlayo",
+    "situation": "Two classmates talk about simple hobbies after class.",
+    "somali_situation": "Laba arday ayaa fasalka ka dib ka hadlaya hiwaayado fudud.",
+    "cefr": "A1",
+    "participants": [
+      "Classmate A",
+      "Classmate B"
+    ],
+    "key_vocabulary": [
+      "hobby",
+      "read",
+      "music",
+      "football",
+      "weekend",
+      "hobbies"
+    ],
+    "key_phrases": [
+      "What is your hobby?",
+      "I like to read.",
+      "Do you like music?",
+      "I play football on the weekend.",
+      "Hobbies help me relax."
+    ],
+    "grammar_focus": [
+      "what is your",
+      "like to + verb",
+      "do you like",
+      "on the weekend",
+      "present simple"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Classmate A",
+        "somali_speaker": "Arday A",
+        "english": "What is your hobby?",
+        "somali": "Hiwaayaddaadu waa maxay?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Classmate B",
+        "somali_speaker": "Arday B",
+        "english": "I like to read.",
+        "somali": "Waxaan jeclahay inaan akhriyo."
+      },
+      {
+        "turn": 3,
+        "speaker": "Classmate A",
+        "somali_speaker": "Arday A",
+        "english": "Do you like music?",
+        "somali": "Muusig ma jeceshahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Classmate B",
+        "somali_speaker": "Arday B",
+        "english": "Yes, I like Somali music.",
+        "somali": "Haa, muusig Soomaaliyeed waan jeclahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Classmate A",
+        "somali_speaker": "Arday A",
+        "english": "I play football on the weekend.",
+        "somali": "Dhammaadka toddobaadka kubbad ayaan ciyaaraa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Classmate B",
+        "somali_speaker": "Arday B",
+        "english": "That sounds fun.",
+        "somali": "Taasi waxay u muuqataa madadaalo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Classmate A",
+        "somali_speaker": "Arday A",
+        "english": "Hobbies help me relax.",
+        "somali": "Hiwaayaduhu waxay iga caawiyaan inaan nasto."
+      },
+      {
+        "turn": 8,
+        "speaker": "Classmate B",
+        "somali_speaker": "Arday B",
+        "english": "Me too. Reading helps me relax.",
+        "somali": "Aniguna sidoo kale. Akhrisku wuxuu iga caawiyaa inaan nasto."
+      }
+    ]
+  },
+  {
+    "id": "conversation_daily_activities_technology_001",
+    "category_code": "daily_activities",
+    "subcategory_code": "daily_activities_technology",
+    "title": "Using a Phone for Daily Tasks",
+    "somali_title": "Taleefan hawlo maalinle ah loogu isticmaalayo",
+    "situation": "A learner asks a friend how to use a phone for reminders, messages, and maps.",
+    "somali_situation": "Arday ayaa saaxiib weydiinaya sida taleefan loogu isticmaalo xusuusin, farriimo, iyo khariidado.",
+    "cefr": "A2",
+    "participants": [
+      "Learner",
+      "Friend"
+    ],
+    "key_vocabulary": [
+      "technology",
+      "phone",
+      "message",
+      "reminder",
+      "map",
+      "battery",
+      "app"
+    ],
+    "key_phrases": [
+      "I use technology every day.",
+      "Set a reminder on your phone.",
+      "Send me a message when you leave.",
+      "The map app shows the route.",
+      "My battery is low."
+    ],
+    "grammar_focus": [
+      "present simple habits",
+      "imperatives",
+      "when clauses",
+      "possessive my",
+      "noun + app"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I use technology every day.",
+        "somali": "Teknoolojiyad maalin kasta ayaan isticmaalaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Your phone can help with small tasks.",
+        "somali": "Taleefankaagu hawlo yaryar wuu kaa caawin karaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "I forget appointments sometimes.",
+        "somali": "Mararka qaar ballamaha waan illoobaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Set a reminder on your phone.",
+        "somali": "Taleefankaaga ku samee xusuusin."
+      },
+      {
+        "turn": 5,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "Can I send you a message later?",
+        "somali": "Goor dambe farriin ma kuu diri karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Send me a message when you leave.",
+        "somali": "Farriin ii soo dir markaad baxdo."
+      },
+      {
+        "turn": 7,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "How do I find the cafe?",
+        "somali": "Sideen u helaa kafeega?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "The map app shows the route.",
+        "somali": "Barnaamijka khariidaddu wuxuu muujinayaa jidka."
+      },
+      {
+        "turn": 9,
+        "speaker": "Learner",
+        "somali_speaker": "Arday",
+        "english": "My battery is low.",
+        "somali": "Baterigaygu wuu hooseeyaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Friend",
+        "somali_speaker": "Saaxiib",
+        "english": "Charge it before you go.",
+        "somali": "Dallac ka hor intaadan bixin."
+      }
+    ]
+  }
+]

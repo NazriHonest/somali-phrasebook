@@ -1,0 +1,725 @@
+[
+  {
+    "id": "vocab_personal_information_name_name",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_name",
+    "english": {
+      "headword": "name",
+      "search_forms": [
+        "name",
+        "names"
+      ]
+    },
+    "somali": {
+      "translation": "magac",
+      "alternative_translations": [],
+      "explanation": "Ereyga lagu aqoonsado qof ama shay."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The word used to identify a person.",
+        "translation": "magac",
+        "examples": [
+          {
+            "english": "What is your name?",
+            "somali": "Magacaa?"
+          },
+          {
+            "english": "Please write your full name.",
+            "somali": "Fadlan qor magacaaga oo buuxa."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "full name",
+        "somali": "magac buuxa"
+      },
+      {
+        "english": "first name",
+        "somali": "magaca hore"
+      },
+      {
+        "english": "family name",
+        "somali": "magaca qoyska"
+      }
+    ],
+    "related_words": [
+      "surname",
+      "first name",
+      "identity"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Introducing yourself",
+      "Completing a registration form",
+      "Checking identification"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Name"
+    }
+  },
+  {
+    "id": "vocab_personal_information_age_age",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_age",
+    "english": {
+      "headword": "age",
+      "search_forms": [
+        "age",
+        "ages"
+      ]
+    },
+    "somali": {
+      "translation": "da'da",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "da'da",
+        "examples": [
+          {
+            "english": "Please provide your age.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the age on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "age details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "age information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your age",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Age"
+    }
+  },
+  {
+    "id": "vocab_personal_information_nationality_nationality",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_nationality",
+    "english": {
+      "headword": "nationality",
+      "search_forms": [
+        "nationality",
+        "nationalities"
+      ]
+    },
+    "somali": {
+      "translation": "jinsiyad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "jinsiyad",
+        "examples": [
+          {
+            "english": "Please provide your nationality.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the nationality on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "nationality details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "nationality information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your nationality",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Nationality"
+    }
+  },
+  {
+    "id": "vocab_personal_information_address_address",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_address",
+    "english": {
+      "headword": "address",
+      "search_forms": [
+        "address",
+        "addresses"
+      ]
+    },
+    "somali": {
+      "translation": "cinwaan",
+      "alternative_translations": [],
+      "explanation": "Goobta aad degan tahay ama laguugu soo diri karo boosto."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The place where a person lives or receives mail.",
+        "translation": "cinwaan",
+        "examples": [
+          {
+            "english": "What is your address?",
+            "somali": "Waa maxay cinwaankaagu?"
+          },
+          {
+            "english": "Please update your address.",
+            "somali": "Fadlan cusboonaysii cinwaankaaga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "home address",
+        "somali": "cinwaanka guriga"
+      },
+      {
+        "english": "postal address",
+        "somali": "cinwaanka boostada"
+      },
+      {
+        "english": "change of address",
+        "somali": "isbeddelka cinwaanka"
+      }
+    ],
+    "related_words": [
+      "location",
+      "street",
+      "postcode"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Registering at an office",
+      "Giving your address",
+      "Receiving mail"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Address"
+    }
+  },
+  {
+    "id": "vocab_personal_information_phone_number_phone_number",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_phone_number",
+    "english": {
+      "headword": "phone number",
+      "search_forms": [
+        "phone number"
+      ]
+    },
+    "somali": {
+      "translation": "lambar telefoon",
+      "alternative_translations": [],
+      "explanation": "Lambarka laguugu soo waco ama lagula xiriiro."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The number used to contact someone by telephone.",
+        "translation": "lambar telefoon",
+        "examples": [
+          {
+            "english": "What is your phone number?",
+            "somali": "Waa maxay lambarka taleefankaaga?"
+          },
+          {
+            "english": "Please write your phone number here.",
+            "somali": "Halkan ku qor lambarka taleefankaaga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "mobile phone number",
+        "somali": "lambarka moobilka"
+      },
+      {
+        "english": "contact number",
+        "somali": "lambarka xiriirka"
+      },
+      {
+        "english": "phone number change",
+        "somali": "isbeddelka lambarka"
+      }
+    ],
+    "related_words": [
+      "telephone",
+      "contact",
+      "mobile"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Filling out a form",
+      "Sharing contact details",
+      "Booking an appointment"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Phone Number"
+    }
+  },
+  {
+    "id": "vocab_personal_information_family_family",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_family",
+    "english": {
+      "headword": "family",
+      "search_forms": [
+        "family",
+        "families"
+      ]
+    },
+    "somali": {
+      "translation": "qoys",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "qoys",
+        "examples": [
+          {
+            "english": "Please provide your family.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the family on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "family details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "family information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your family",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Family"
+    }
+  },
+  {
+    "id": "vocab_personal_information_marital_status_marital_status",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_marital_status",
+    "english": {
+      "headword": "marital status",
+      "search_forms": [
+        "marital status"
+      ]
+    },
+    "somali": {
+      "translation": "xaaladda guurka",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "xaaladda guurka",
+        "examples": [
+          {
+            "english": "Please provide your marital status.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the marital status on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "marital status details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "marital status information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your marital status",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Marital Status"
+    }
+  },
+  {
+    "id": "vocab_personal_information_occupation_occupation",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_occupation",
+    "english": {
+      "headword": "occupation",
+      "search_forms": [
+        "occupation",
+        "occupations"
+      ]
+    },
+    "somali": {
+      "translation": "shaqo",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "shaqo",
+        "examples": [
+          {
+            "english": "Please provide your occupation.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the occupation on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "occupation details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "occupation information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your occupation",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Occupation"
+    }
+  },
+  {
+    "id": "vocab_personal_information_education_education",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_education",
+    "english": {
+      "headword": "education",
+      "search_forms": [
+        "education"
+      ]
+    },
+    "somali": {
+      "translation": "waxbarasho",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "waxbarasho",
+        "examples": [
+          {
+            "english": "Please provide your education.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the education on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "education details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "education information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your education",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Education"
+    }
+  },
+  {
+    "id": "vocab_personal_information_languages_language",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_languages",
+    "english": {
+      "headword": "language",
+      "search_forms": [
+        "language",
+        "languages"
+      ]
+    },
+    "somali": {
+      "translation": "luqad",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "luqad",
+        "examples": [
+          {
+            "english": "Please provide your language.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the language on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "language details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "language information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your language",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Languages"
+    }
+  },
+  {
+    "id": "vocab_personal_information_emergency_contact_emergency_contact",
+    "category_code": "personal_information",
+    "subcategory_code": "personal_information_emergency_contact",
+    "english": {
+      "headword": "emergency contact",
+      "search_forms": [
+        "emergency contact"
+      ]
+    },
+    "somali": {
+      "translation": "xiriirka degdegga ah",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa aqoonsiga iyo xogta shakhsiga."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "A common term used when providing personal information.",
+        "translation": "xiriirka degdegga ah",
+        "examples": [
+          {
+            "english": "Please provide your emergency contact.",
+            "somali": "Fadlan bixi xogtan."
+          },
+          {
+            "english": "I checked the emergency contact on the form.",
+            "somali": "Waxaan hubiyay xogta foomka."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "emergency contact details",
+        "somali": "faahfaahinta"
+      },
+      {
+        "english": "emergency contact information",
+        "somali": "xogta"
+      },
+      {
+        "english": "confirm your emergency contact",
+        "somali": "xaqiiji xogta"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Completing official forms",
+      "Identity verification",
+      "Registering for a service"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Information Emergency Contact"
+    }
+  }
+]

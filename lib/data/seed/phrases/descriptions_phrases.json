@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "phrase_descriptions_people_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "Who is that person?",
+    "somali": "Qofkaasi waa ayo?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "She is my sister.",
+    "somali": "Iyadu waa walaashay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "He is a kind man.",
+    "somali": "Isagu waa nin naxariis badan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "They are our neighbours.",
+    "somali": "Iyagu waa deriskayaga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The woman at the desk is helpful.",
+    "somali": "Haweeneyda miiska joogta way caawisaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The man in the blue shirt is waiting.",
+    "somali": "Ninka shaarka buluugga ah xiran wuu sugayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The children are playing outside.",
+    "somali": "Carruurtu bannaanka ayay ku ciyaarayaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "My friend is tall and quiet.",
+    "somali": "Saaxiibkay waa dheer yahay wuuna aamus badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The teacher is very patient.",
+    "somali": "Macallinku aad buu u dulqaad badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The shop assistant is friendly.",
+    "somali": "Shaqaalaha dukaanku waa saaxiibtinimo badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "Can you describe the person?",
+    "somali": "Qofka ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "I do not know that man.",
+    "somali": "Ninkaas ma aqaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "She looks familiar.",
+    "somali": "Waxay u egtahay qof aan horay u arkay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "He is the person I spoke to.",
+    "somali": "Waa qofkii aan la hadlay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The family lives upstairs.",
+    "somali": "Qoysku dabaqa sare ayay deggan yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The customer is waiting near the door.",
+    "somali": "Macaamilku albaabka agtiisa ayuu ku sugayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The nurse spoke very clearly.",
+    "somali": "Kalkaalisadu si cad ayay u hadashay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The driver was polite.",
+    "somali": "Darawalku edeb buu lahaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "The child is tired.",
+    "somali": "Ilmuhu wuu daalan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_people_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_people",
+    "english": "Everyone here has been helpful.",
+    "somali": "Qof kasta oo halkan jooga wuu caawiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "people"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "What does he look like?",
+    "somali": "Muxuu u eg yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She has short hair.",
+    "somali": "Timo gaaban ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "He has a beard.",
+    "somali": "Gadh ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She is wearing glasses.",
+    "somali": "Muraayado ayay xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "He is tall and slim.",
+    "somali": "Wuu dheer yahay wuuna dhuuban yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She is wearing a red coat.",
+    "somali": "Koodh cas ayay xiran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "He looks tired today.",
+    "somali": "Maanta wuu daallan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She looks younger than her age.",
+    "somali": "Waxay u egtahay qof da'deeda ka yar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "The bag is black and small.",
+    "somali": "Boorsadu waa madow wayna yar tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "His hair is curly.",
+    "somali": "Timihiisu waa duuduuban yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "Her dress is very bright.",
+    "somali": "Dharkeeda aad buu u ifayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "He has a friendly smile.",
+    "somali": "Dhoolla-caddayn saaxiibtinimo leh ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She is about my height.",
+    "somali": "Dhererkayga ayay la mid tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "The jacket looks new.",
+    "somali": "Jaakadu waxay u egtahay mid cusub.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "The shoes look comfortable.",
+    "somali": "Kabuhu waxay u egyihiin kuwo raaxo leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "He is wearing a work uniform.",
+    "somali": "Direyska shaqada ayuu xiran yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "She has long dark hair.",
+    "somali": "Timo dheer oo madow ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "I cannot see his face clearly.",
+    "somali": "Wejigiisa si fiican uma arki karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "Can you describe what she is wearing?",
+    "somali": "Waxay xiran tahay ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_appearance_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_appearance",
+    "english": "That is the person I saw.",
+    "somali": "Kaasi waa qofkii aan arkay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "appearance"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is very friendly.",
+    "somali": "Aad bay u saaxiibtinimo badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is quiet but kind.",
+    "somali": "Wuu aamus badan yahay laakiin waa naxariis badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "My manager is patient.",
+    "somali": "Maamulahaygu waa dulqaad badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "The child is shy.",
+    "somali": "Ilmuhu wuu xishood badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is honest.",
+    "somali": "Waa daacad.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is confident.",
+    "somali": "Way isku kalsoon tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "They are helpful people.",
+    "somali": "Waa dad caawimo badan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He gets angry quickly.",
+    "somali": "Si degdeg ah ayuu u xanaaqaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is easy to talk to.",
+    "somali": "Way fududahay in lala hadlo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is very careful with money.",
+    "somali": "Lacagta aad buu uga taxaddaraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "My brother is funny.",
+    "somali": "Walaalkay waa kaftan badan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is serious at work.",
+    "somali": "Shaqada aad bay u dhab tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is not very patient.",
+    "somali": "Dulqaad badan ma laha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is generous with her time.",
+    "somali": "Waqtigeeda si deeqsinimo leh ayay u bixisaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is a hard-working person.",
+    "somali": "Waa qof dadaal badan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "The teacher is strict but fair.",
+    "somali": "Macallinku wuu adag yahay laakiin waa caddaalad.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "She is calm in difficult situations.",
+    "somali": "Xaaladaha adag way deggen tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "He is always cheerful.",
+    "somali": "Mar walba wuu faraxsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "I like her personality.",
+    "somali": "Dabeecaddeeda waan jeclahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_personality_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_personality",
+    "english": "What kind of person is he?",
+    "somali": "Qof noocee ah ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "personality"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "What colour is it?",
+    "somali": "Midabkee ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "It is blue.",
+    "somali": "Waa buluug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "I prefer the green one.",
+    "somali": "Midka cagaaran ayaan doorbidayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "Do you have this in black?",
+    "somali": "Tan madow ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The red bag is mine.",
+    "somali": "Boorsada cas waa tayda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "This colour is too bright.",
+    "somali": "Midabkani aad buu u ifayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The walls are white.",
+    "somali": "Darbiyadu waa caddaan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "Her dress is yellow.",
+    "somali": "Dharkeeda waa jaalle.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The car is dark grey.",
+    "somali": "Gaarigu waa cawl madow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "I like light colours.",
+    "somali": "Midabbada khafiifka ah ayaan jeclahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "Can you show me another colour?",
+    "somali": "Midab kale ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The colour has faded.",
+    "somali": "Midabkii wuu dhacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "This blue is darker.",
+    "somali": "Buluuggan wuu ka madow yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The colours do not match.",
+    "somali": "Midabbadu isma leeka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "Please choose a warm colour.",
+    "somali": "Fadlan midab diirran dooro.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The label says brown.",
+    "somali": "Calaamaddu waxay leedahay bunni.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "Is this available in white?",
+    "somali": "Tan caddaan ma lagu heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "The colour looks different in sunlight.",
+    "somali": "Midabku qorraxda si kale ayuu ugu muuqdaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "I want a plain colour.",
+    "somali": "Midab aan naqshad lahayn ayaan rabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_colour_words_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_colour_words",
+    "english": "That colour suits you.",
+    "somali": "Midabkaasi wuu ku qurxinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "colour words"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "What shape is it?",
+    "somali": "Qaabkee ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "It is round.",
+    "somali": "Waa wareegsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The table is square.",
+    "somali": "Miisku waa afar-gees.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The box is rectangular.",
+    "somali": "Sanduuqu waa leydi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The road makes a sharp turn.",
+    "somali": "Waddadu leexasho fiiqan ayay samaysaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The plate is oval.",
+    "somali": "Saxanku waa ukun-qaab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "This piece is too narrow.",
+    "somali": "Qaybtani aad bay u cidhiidhi tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The room is long and thin.",
+    "somali": "Qolku wuu dheer yahay wuuna dhuuban yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The roof is flat.",
+    "somali": "Saqafku waa siman yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The bottle has a wide opening.",
+    "somali": "Dhaladu af ballaaran ayay leedahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "Can you draw the shape?",
+    "somali": "Qaabka ma sawiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The shape is not even.",
+    "somali": "Qaabku si siman uma eka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "It has three sides.",
+    "somali": "Saddex dhinac ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The corner is sharp.",
+    "somali": "Geesku wuu fiiqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The edge is curved.",
+    "somali": "Cidhifku wuu qalloocan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "I need a round container.",
+    "somali": "Weel wareegsan ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "This shape fits better.",
+    "somali": "Qaabkani si fiican ayuu ugu habboon yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "Please cut it into small squares.",
+    "somali": "Fadlan afar-geesyo yar yar u jar.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The mirror is shaped like a circle.",
+    "somali": "Muraayaddu waxay u qaab eg tahay goobo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_shapes_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_shapes",
+    "english": "The opening is too small.",
+    "somali": "Daloolku aad buu u yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "shapes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "What size is it?",
+    "somali": "Cabbirkee ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "It is too big.",
+    "somali": "Aad buu u weyn yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "It is too small.",
+    "somali": "Aad buu u yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "Do you have a larger one?",
+    "somali": "Mid ka weyn ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "Do you have a smaller one?",
+    "somali": "Mid ka yar ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "This bag is the right size.",
+    "somali": "Boorsadani waa cabbirka saxda ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The box is too heavy to carry.",
+    "somali": "Sanduuqu aad buu u culus yahay in la qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "I need a medium size.",
+    "somali": "Cabbir dhexdhexaad ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The room is bigger than I expected.",
+    "somali": "Qolku wuu ka weyn yahay sidii aan filayey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The table takes too much space.",
+    "somali": "Miisku meel badan ayuu qaadanayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "Can it fit in my bag?",
+    "somali": "Boorsadayda ma geli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The size is written on the label.",
+    "somali": "Cabbirku calaamadda ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "This one is lighter.",
+    "somali": "Kan wuu ka fudud yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The suitcase is too wide.",
+    "somali": "Shandaddu aad bay u ballaaran tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "Please measure it again.",
+    "somali": "Fadlan mar kale cabbir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "I need something compact.",
+    "somali": "Wax yar oo meel yar gala ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The screen is larger on this phone.",
+    "somali": "Shaashadda taleefankan way ka weyn tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The chair is low.",
+    "somali": "Kursigu wuu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "The shelf is high.",
+    "somali": "Shelf-ku wuu sarreeyaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_object_sizes_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_object_sizes",
+    "english": "This size is perfect.",
+    "somali": "Cabbirkani waa ku habboon yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "object sizes"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel tired.",
+    "somali": "Waan daalanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "Are you feeling better?",
+    "somali": "Ma ka roon tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel cold.",
+    "somali": "Qabow ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel hungry.",
+    "somali": "Gaajo ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I am thirsty.",
+    "somali": "Harraad ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel sick today.",
+    "somali": "Maanta xanuun ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "My head feels heavy.",
+    "somali": "Madaxaygu wuu culus yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel much better now.",
+    "somali": "Hadda aad ayaan uga roonahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "Do you feel comfortable?",
+    "somali": "Raaxo ma dareemaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel nervous before the exam.",
+    "somali": "Imtixaanka ka hor walwal ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel sleepy.",
+    "somali": "Hurdo ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel weak.",
+    "somali": "Tabar-darro ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I do not feel well.",
+    "somali": "Si fiican uma dareemayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "Please tell me how you feel.",
+    "somali": "Fadlan ii sheeg sida aad dareemayso.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel better after resting.",
+    "somali": "Nasashada ka dib waan ka roonahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel hot.",
+    "somali": "Kulayl ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "My stomach feels full.",
+    "somali": "Calooshaydu way buuxdaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel dizzy.",
+    "somali": "Wareer ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "Do you feel any pain?",
+    "somali": "Xanuun ma dareemaysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_feelings_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_feelings",
+    "english": "I feel ready now.",
+    "somali": "Hadda diyaar ayaan dareemayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "feelings"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I am happy today.",
+    "somali": "Maanta waan faraxsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "She looks sad.",
+    "somali": "Waxay u muuqataa murugo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "He is angry about the delay.",
+    "somali": "Dib-u-dhaca ayuu ka xanaaqsan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I am worried about my appointment.",
+    "somali": "Ballantayda ayaan ka walwalsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "Do not be afraid.",
+    "somali": "Ha cabsan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I feel proud of you.",
+    "somali": "Waan kugu faanayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "She was surprised by the news.",
+    "somali": "Warka ayay la yaabtay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I am excited about the trip.",
+    "somali": "Safarka aad ayaan ugu faraxsanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "He seems disappointed.",
+    "somali": "Wuxuu u muuqdaa niyad-jab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I feel calm now.",
+    "somali": "Hadda waan deggenahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "Why are you upset?",
+    "somali": "Maxaad u xanaaqsan tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I am sorry you feel that way.",
+    "somali": "Waan ka xumahay inaad sidaas dareemayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "That made me laugh.",
+    "somali": "Taasi way iga qoslisay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I was embarrassed.",
+    "somali": "Waan xishooday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "She is nervous about speaking English.",
+    "somali": "Ingiriis ku hadalka ayay ka walwalsan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I feel lonely sometimes.",
+    "somali": "Mararka qaar kelinimo ayaan dareemaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "He is grateful for the help.",
+    "somali": "Caawinta wuu uga mahadcelinayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "Please stay calm.",
+    "somali": "Fadlan deggenow.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "I am not angry with you.",
+    "somali": "Adiga kaama xanaaqsani.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_emotions_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_emotions",
+    "english": "It is normal to feel nervous.",
+    "somali": "Waa caadi in walwal la dareemo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "emotions"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "What is the weather like today?",
+    "somali": "Cimiladu maanta sidee tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It is sunny.",
+    "somali": "Qorrax ayaa jirta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It is raining.",
+    "somali": "Roob ayaa da'aya.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It is very windy.",
+    "somali": "Dabayl badan ayaa jirta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The weather is cold this morning.",
+    "somali": "Cimiladu saaka way qabowdahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It will be hot this afternoon.",
+    "somali": "Galabta way kululaan doontaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "Take an umbrella.",
+    "somali": "Dallad qaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The sky is cloudy.",
+    "somali": "Cirku daruuro ayuu leeyahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The rain has stopped.",
+    "somali": "Roobkii wuu istaagay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "Is it going to snow?",
+    "somali": "Baraf ma da'i doonaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The weather changed quickly.",
+    "somali": "Cimiladu si degdeg ah ayay isu beddeshay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It is too hot inside.",
+    "somali": "Gudaha aad buu u kulul yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "Please close the window.",
+    "somali": "Fadlan daaqadda xir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The air feels fresh.",
+    "somali": "Hawadu way cusub tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "There is fog on the road.",
+    "somali": "Waddada ceeryaamo ayaa saaran.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The storm is getting stronger.",
+    "somali": "Duufaantu way sii xoogaysanaysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "I like this cool weather.",
+    "somali": "Cimiladan qabow-qabow waan jeclahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "Check the weather before travelling.",
+    "somali": "Cimilada hubi ka hor safarka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "The sun is very strong.",
+    "somali": "Qorraxdu aad bay u kulushahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_weather_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_weather",
+    "english": "It is a beautiful day.",
+    "somali": "Waa maalin qurux badan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "weather"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_001",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "What is this called?",
+    "somali": "Tan maxaa la yiraahdaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_002",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "This is my bag.",
+    "somali": "Tani waa boorsadayda.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_003",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The key is on the table.",
+    "somali": "Furuhu miiska ayuu saaran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_004",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "That cup is broken.",
+    "somali": "Koobkaasi wuu jaban yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_005",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "Can you pass me the pen?",
+    "somali": "Qalinka ma ii dhiibi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_006",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The chair is comfortable.",
+    "somali": "Kursigu waa raaxo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_007",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "This phone is new.",
+    "somali": "Taleefankani waa cusub yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_008",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The bottle is empty.",
+    "somali": "Dhaladu way madhan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_009",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "Please put the box here.",
+    "somali": "Fadlan sanduuqa halkan dhig.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_010",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "I cannot find my wallet.",
+    "somali": "Boorsadaydii lacagta ma heli karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_011",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "Is this yours?",
+    "somali": "Tani ma taada baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_012",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The handle is loose.",
+    "somali": "Qabashadu way dabacsan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_013",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "This object is heavy.",
+    "somali": "Shaygani wuu culus yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_014",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The screen is cracked.",
+    "somali": "Shaashaddu way dillaacday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_015",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "Please keep this safe.",
+    "somali": "Fadlan tan si fiican u hay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_016",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "The label is missing.",
+    "somali": "Calaamaddu way maqan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_017",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "Can you describe the object?",
+    "somali": "Shayga ma sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_018",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "It looks expensive.",
+    "somali": "Waxay u egtahay mid qaali ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_019",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "This tool is useful.",
+    "somali": "Qalabkani waa faa'iido leh.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_descriptions_objects_020",
+    "category_code": "descriptions",
+    "subcategory_code": "descriptions_objects",
+    "english": "I need the smaller one.",
+    "somali": "Midka yar ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "descriptions",
+      "objects"
+    ],
+    "notes": "Editorial rewrite: natural descriptive English with directly aligned Somali meaning."
+  }
+]

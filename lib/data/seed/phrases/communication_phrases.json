@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "phrase_communication_phone_calls_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Can I call you later?",
+    "somali": "Mar dambe ma ku soo wici karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Please call me when you are free.",
+    "somali": "Fadlan i soo wac markaad firaaqo hesho.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "I missed your call.",
+    "somali": "Wicitaankaagii waan seegay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "The line is busy.",
+    "somali": "Khadku wuu mashquul yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "I cannot hear you clearly.",
+    "somali": "Si fiican kuma maqli karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Can you speak a little louder?",
+    "somali": "Wax yar codka kor ma u qaadi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Please hold on for a moment.",
+    "somali": "Fadlan cabbaar sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "I will call you back soon.",
+    "somali": "Dhowaan ayaan dib kuu soo wici doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Who is calling, please?",
+    "somali": "Yaa soo wacaya, fadlan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Can I leave a message?",
+    "somali": "Farriin ma ka tagi karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "My phone battery is low.",
+    "somali": "Batariga taleefankaygu wuu hooseeyaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "The call was cut off.",
+    "somali": "Wicitaankii wuu go'ay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Please send me your phone number.",
+    "somali": "Fadlan lambarkaaga taleefanka ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "I called the wrong number.",
+    "somali": "Lambar khaldan ayaan wacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Can you call the office for me?",
+    "somali": "Xafiiska ma ii wici kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "I am on another call.",
+    "somali": "Wicitaan kale ayaan ku jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Let me check and call you back.",
+    "somali": "Aan hubiyo oo dib aan kuu soo waco.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Please do not call after ten.",
+    "somali": "Fadlan tobanka ka dib ha soo wicin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "The phone signal is weak here.",
+    "somali": "Calaamadda taleefanku halkan way daciif tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_phone_calls_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_phone_calls",
+    "english": "Thank you for calling.",
+    "somali": "Waad ku mahadsan tahay wicitaanka.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "phone calls"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Can you text me the address?",
+    "somali": "Cinwaanka farriin qoraal ah ma iigu soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I sent you a message.",
+    "somali": "Farriin ayaan kuu soo diray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Did you receive my message?",
+    "somali": "Farriintaydii ma heshay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Please reply when you can.",
+    "somali": "Fadlan jawaab markaad awooddo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I will send the details by text.",
+    "somali": "Faahfaahinta farriin qoraal ah ayaan ku soo diri doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "The message did not go through.",
+    "somali": "Farriintii ma dirmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Can you send it again?",
+    "somali": "Mar kale ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I wrote the wrong number.",
+    "somali": "Lambar khaldan ayaan qoray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Please keep the message.",
+    "somali": "Fadlan farriinta hayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Do not reply to that message.",
+    "somali": "Farriintaas ha ka jawaabin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "The message is too long.",
+    "somali": "Farriintu aad bay u dheer tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Can you send a short message?",
+    "somali": "Farriin gaaban ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I will message you after work.",
+    "somali": "Shaqada ka dib ayaan farriin kuu soo diri doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Please check your messages.",
+    "somali": "Fadlan farriimahaaga eeg.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I cannot open the message.",
+    "somali": "Farriinta ma furi karo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "This message is important.",
+    "somali": "Farriintani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Can I send you a voice message?",
+    "somali": "Farriin cod ah ma kuu soo diri karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Please type it in English.",
+    "somali": "Fadlan Ingiriis ku qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "I deleted the message by mistake.",
+    "somali": "Farriintii qalad ayaan ku tirtiray.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_text_messages_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_text_messages",
+    "english": "Thanks for your quick reply.",
+    "somali": "Waad ku mahadsan tahay jawaabta degdegga ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "text messages"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Can you email me the form?",
+    "somali": "Foomka iimayl ma iigu soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I sent the email this morning.",
+    "somali": "Iimaylka saaka ayaan diray.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Did you receive my email?",
+    "somali": "Iimaylkaygii ma heshay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Please check your inbox.",
+    "somali": "Fadlan sanduuqa iimaylkaaga eeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "The attachment is missing.",
+    "somali": "Lifaaqa wuu maqan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Can you attach the document again?",
+    "somali": "Dukumentiga mar kale ma ku lifaaqi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Please reply to my email.",
+    "somali": "Fadlan iimaylkayga ka jawaab.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I cannot open the attachment.",
+    "somali": "Lifaaqa ma furi karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "The email address is incorrect.",
+    "somali": "Cinwaanka iimaylku wuu khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Can you spell your email address?",
+    "somali": "Cinwaanka iimaylkaaga ma ii higgaadin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Please send a copy to me.",
+    "somali": "Fadlan nuqul ii soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I will forward the email to you.",
+    "somali": "Iimaylka waan kuu sii gudbin doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "The email went to spam.",
+    "somali": "Iimaylku sanduuqa spam-ka ayuu galay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Please write the subject clearly.",
+    "somali": "Fadlan mawduuca si cad u qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I need the email by Friday.",
+    "somali": "Iimaylka Jimcaha ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Can you confirm by email?",
+    "somali": "Iimayl ma ku xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I made a mistake in the email.",
+    "somali": "Iimaylka qalad ayaan ku galay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Please ignore my last email.",
+    "somali": "Fadlan iska dhaaf iimaylkii ugu dambeeyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "I have not received a reply yet.",
+    "somali": "Weli jawaab ma helin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_emails_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_emails",
+    "english": "Thank you for your email.",
+    "somali": "Waad ku mahadsan tahay iimaylkaaga.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "emails"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "What time is the meeting?",
+    "somali": "Shirku imisa ayuu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Where is the meeting room?",
+    "somali": "Qolka shirku xaggee ku yaal?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Can we meet tomorrow?",
+    "somali": "Berri ma kulmi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "I am running five minutes late.",
+    "somali": "Shan daqiiqo ayaan soo daahayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Please start without me.",
+    "somali": "Fadlan aniga la?aantay bilow.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Can we change the meeting time?",
+    "somali": "Waqtiga shirka ma beddeli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "I need to cancel the meeting.",
+    "somali": "Waxaan u baahanahay inaan shirka baajiyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Who will attend the meeting?",
+    "somali": "Yaa shirka ka soo qayb geli doona?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Please send the agenda.",
+    "somali": "Fadlan ajandaha soo dir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "I would like to add one point.",
+    "somali": "Hal qodob ayaan rabaa inaan ku daro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Can you take notes?",
+    "somali": "Qoraallo ma qaadi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "The meeting is online.",
+    "somali": "Shirku internetka ayuu ka dhacayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "The meeting has been postponed.",
+    "somali": "Shirkii dib ayaa loo dhigay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Please mute your microphone.",
+    "somali": "Fadlan makarafoonkaaga dami.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Can everyone see the screen?",
+    "somali": "Qof walba shaashadda ma arkaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Let us discuss this next time.",
+    "somali": "Aan tan marka xigta ka hadalno.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "I agree with that plan.",
+    "somali": "Qorshahaas waan ku raacsanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "I have a different suggestion.",
+    "somali": "Talo kale ayaan hayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Can we finish here?",
+    "somali": "Halkan ma ku dhamayn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_meetings_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_meetings",
+    "english": "Thank you for coming.",
+    "somali": "Waad ku mahadsan tihiin imaanshaha.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "meetings"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Please tell me what to do first.",
+    "somali": "Fadlan ii sheeg waxa aan marka hore sameeyo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Can you explain the instructions slowly?",
+    "somali": "Tilmaamaha si tartiib ah ma u sharxi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Do I need to sign here?",
+    "somali": "Ma inaan halkan saxiixo baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Please write the steps down.",
+    "somali": "Fadlan tallaabooyinka qor.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "I do not understand step two.",
+    "somali": "Tallaabada labaad ma fahmin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Should I wait here?",
+    "somali": "Ma halkan ayaan sugayaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Where should I put this?",
+    "somali": "Tan xaggee ayaan dhigaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Please show me an example.",
+    "somali": "Fadlan tusaale i tus.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Can I do it this way?",
+    "somali": "Sidan ma u samayn karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "What should I do next?",
+    "somali": "Maxaan xiga sameeyaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Please speak one step at a time.",
+    "somali": "Fadlan hal tallaabo mar ii sheeg.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "I followed the instructions.",
+    "somali": "Tilmaamaha waan raacay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "The instructions are not clear.",
+    "somali": "Tilmaamuhu ma cadda.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Can you check if I did it correctly?",
+    "somali": "Ma hubin kartaa inaan si sax ah u sameeyey?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Do I need to bring anything?",
+    "somali": "Wax ma inaan keenaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Please do not skip any steps.",
+    "somali": "Fadlan tallaabo ha ka boodin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "This part is confusing.",
+    "somali": "Qaybtani way wareer badan tahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Can you repeat the last instruction?",
+    "somali": "Tilmaantii ugu dambaysay ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "I am ready for the next step.",
+    "somali": "Tallaabada xigta diyaar ayaan u ahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_instructions_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_instructions",
+    "english": "Thank you. Now I understand.",
+    "somali": "Mahadsanid. Hadda waan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "instructions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Can I ask you a question?",
+    "somali": "Su?aal ma ku weydiin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "What does this word mean?",
+    "somali": "Eraygan muxuu ka dhigan yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Where can I find this?",
+    "somali": "Xaggee ayaan tan ka heli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Who should I speak to?",
+    "somali": "Yaan la hadlaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "How much does it cost?",
+    "somali": "Immisa ayay ku kacaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "When does it open?",
+    "somali": "Goorma ayay furantaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Why is it closed today?",
+    "somali": "Maxay maanta u xiran tahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Which one do you recommend?",
+    "somali": "Midkee ayaad kugula talinaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Can you help me choose?",
+    "somali": "Doorashada ma iga caawin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Is this the right place?",
+    "somali": "Tani ma meesha saxda ah baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "May I ask something else?",
+    "somali": "Wax kale ma weydiin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Could you say that again?",
+    "somali": "Taas mar kale ma oran kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Do you have a moment?",
+    "somali": "Daqiiqad ma haysaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Can you answer in English?",
+    "somali": "Ingiriis ma iigu jawaabi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Is there another option?",
+    "somali": "Ikhtiyaar kale ma jiraa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "What should I bring?",
+    "somali": "Maxaan keenaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Can you show me where it is?",
+    "somali": "Meesha ay ku taal ma i tusi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Is it possible today?",
+    "somali": "Maanta ma suurtagal baa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Who can help me with this?",
+    "somali": "Yaa tan iga caawin kara?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_asking_questions_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_asking_questions",
+    "english": "Thank you for answering my questions.",
+    "somali": "Waad ku mahadsan tahay inaad su?aalahayga ka jawaabtay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "asking questions"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "My name is Ahmed.",
+    "somali": "Magacaygu waa Axmed.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I live near the station.",
+    "somali": "Saldhigga agtiisa ayaan degganahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "My phone number is on the form.",
+    "somali": "Lambarka taleefankaygu foomka ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I am here for an appointment.",
+    "somali": "Ballan ayaan halkan u imid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I need help with this document.",
+    "somali": "Dukumentigan caawin ayaan uga baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I arrived this morning.",
+    "somali": "Saaka ayaan imid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I will be available tomorrow.",
+    "somali": "Berri waan diyaar noqon doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "The address has changed.",
+    "somali": "Cinwaankii wuu is beddelay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I have already paid.",
+    "somali": "Hore ayaan u bixiyey lacagta.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I do not have the receipt with me.",
+    "somali": "Rasiidka ma wato.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "Here is my identification.",
+    "somali": "Waa kan aqoonsigaygii.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I prefer to speak in English.",
+    "somali": "Waxaan doorbidayaa inaan Ingiriis ku hadlo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I can come after two o?clock.",
+    "somali": "Laba saac ka dib waan iman karaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I sent the information by email.",
+    "somali": "Macluumaadka iimayl ayaan ku soo diray.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "There is a mistake in my address.",
+    "somali": "Cinwaankayga qalad ayaa ku jira.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I am travelling with my family.",
+    "somali": "Qoyskayga ayaan la safrayaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I need this today if possible.",
+    "somali": "Haddii ay suurtagal tahay maanta ayaan tan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "Please use this phone number.",
+    "somali": "Fadlan lambarkan taleefanka isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "I do not know the exact date.",
+    "somali": "Taariikhda saxda ah ma aqaan.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_giving_information_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_giving_information",
+    "english": "That is all the information I have.",
+    "somali": "Intaas ayaa ah macluumaadka aan hayo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "giving information"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Can you confirm the time?",
+    "somali": "Waqtiga ma xaqiijin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Let me confirm the address.",
+    "somali": "Aan xaqiijiyo cinwaanka.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Is this information correct?",
+    "somali": "Macluumaadkani ma sax baa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Yes, that is correct.",
+    "somali": "Haa, taasi waa sax.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "No, that is not correct.",
+    "somali": "Maya, taasi sax ma aha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Please check the spelling.",
+    "somali": "Fadlan higgaadda hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Can you repeat the number?",
+    "somali": "Lambarka ma ku celin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "I want to make sure I understood.",
+    "somali": "Waxaan rabaa inaan hubiyo inaan fahmay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "So the meeting is at three, right?",
+    "somali": "Markaa shirku saddexda ayuu yahay, sax miyaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "The date is Monday, not Tuesday.",
+    "somali": "Taariikhdu waa Isniin, ma aha Talaado.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Please confirm by text message.",
+    "somali": "Fadlan farriin qoraal ah ku xaqiiji.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "I will confirm it with my manager.",
+    "somali": "Maamulahayga ayaan ka xaqiijin doonaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Can I confirm one more detail?",
+    "somali": "Hal faahfaahin kale ma xaqiijin karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "The price includes delivery, correct?",
+    "somali": "Qiimuhu keenista wuu ku jiraa, sax miyaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "That is exactly what I meant.",
+    "somali": "Taasi waa waxa aan ula jeeday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "I think there has been a misunderstanding.",
+    "somali": "Waxaan u malaynayaa in isfaham la?aan dhacday.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Please correct the phone number.",
+    "somali": "Fadlan lambarka taleefanka sax.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Can you send written confirmation?",
+    "somali": "Xaqiijin qoraal ah ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Everything is confirmed now.",
+    "somali": "Wax walba hadda waa la xaqiijiyey.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_confirming_communication_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_confirming_communication",
+    "english": "Thank you for confirming.",
+    "somali": "Waad ku mahadsan tahay xaqiijinta.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "confirming communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_001",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Can you send me the link?",
+    "somali": "Linkiga ma ii soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_002",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "The link is not working.",
+    "somali": "Linkigu ma shaqaynayo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_003",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "I cannot log in.",
+    "somali": "Ma geli karo akoontiga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_004",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Please reset my password.",
+    "somali": "Fadlan erayga sirta ah ii beddel.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_005",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "The website is loading slowly.",
+    "somali": "Boggu si tartiib ah ayuu u furmayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_006",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Can we talk on video?",
+    "somali": "Fiidiyow ma ku wada hadli karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_007",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "My camera is not working.",
+    "somali": "Kaamiradaydu ma shaqaynayso.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_008",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Please turn on your camera.",
+    "somali": "Fadlan kaamiradaada shid.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_009",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "I cannot see your screen.",
+    "somali": "Shaashaddaada ma arki karo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_010",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Can you share the file online?",
+    "somali": "Faylka internetka ma ku wadaagi kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_011",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "The app keeps closing.",
+    "somali": "App-ku mar kasta wuu xirmayaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_012",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "I uploaded the document.",
+    "somali": "Dukumentiga waan soo geliyey.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_013",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Did you receive the online form?",
+    "somali": "Foomkii internetka ma heshay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_014",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Please check your notifications.",
+    "somali": "Fadlan ogeysiisyadaada eeg.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_015",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "The internet connection is weak.",
+    "somali": "Xiriirka internetku wuu daciif yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_016",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "I will join the call online.",
+    "somali": "Wicitaanka internetka ayaan ku biiri doonaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_017",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Can you send a screenshot?",
+    "somali": "Sawirka shaashadda ma soo diri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_018",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Please do not share my details online.",
+    "somali": "Fadlan faahfaahintayda internetka ha ku wadaagin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_019",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "The download is complete.",
+    "somali": "Soo-dejintu way dhammaatay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_communication_online_communication_020",
+    "category_code": "communication",
+    "subcategory_code": "communication_online_communication",
+    "english": "Thank you. I am connected now.",
+    "somali": "Mahadsanid. Hadda waan ku xirmay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "communication",
+      "online communication"
+    ],
+    "notes": "Editorial rewrite: natural phrasebook English with directly aligned Somali meaning."
+  }
+]

@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 class AppTheme {
   const AppTheme._();
 
-  static const _brandSeed = Color(0xFF167C80);
+  static const _brandSeed = Color(0xFF0E7C66);
 
   static ThemeData build(Brightness brightness) {
     final isLight = brightness == Brightness.light;
@@ -12,17 +12,43 @@ class AppTheme {
       seedColor: _brandSeed,
       brightness: brightness,
     );
+    final typography = Typography.material2021(
+      platform: TargetPlatform.android,
+      colorScheme: scheme,
+    );
+    final textTheme = (isLight ? typography.black : typography.white).apply(
+      fontFamily: 'Poppins',
+      bodyColor: scheme.onSurface,
+      displayColor: scheme.onSurface,
+      decorationColor: scheme.onSurface,
+    );
     return ThemeData(
       useMaterial3: true,
+      brightness: brightness,
       colorScheme: scheme,
+      textTheme: textTheme,
       extensions: [PhrasebookColors.fromScheme(scheme)],
-      scaffoldBackgroundColor: scheme.surface,
+      scaffoldBackgroundColor: isLight
+          ? const Color(0xFFF8F7F3)
+          : const Color(0xFF121715),
       appBarTheme: AppBarTheme(
         centerTitle: false,
         backgroundColor: scheme.surface,
         surfaceTintColor: scheme.surfaceTint.withValues(alpha: 0),
+        foregroundColor: scheme.onSurface,
+        titleTextStyle: textTheme.titleLarge?.copyWith(
+          color: scheme.onSurface,
+          fontWeight: FontWeight.w800,
+        ),
+        toolbarTextStyle: textTheme.bodyMedium?.copyWith(
+          color: scheme.onSurface,
+        ),
+        iconTheme: IconThemeData(color: scheme.onSurface),
+        actionsIconTheme: IconThemeData(color: scheme.onSurface),
         elevation: 0,
       ),
+      iconTheme: IconThemeData(color: scheme.onSurface),
+      primaryIconTheme: IconThemeData(color: scheme.onPrimary),
       cardTheme: CardThemeData(
         margin: EdgeInsets.zero,
         elevation: 0,
@@ -37,18 +63,96 @@ class AppTheme {
         thickness: 1,
         space: 1,
       ),
-      listTileTheme: const ListTileThemeData(
-        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      listTileTheme: ListTileThemeData(
+        contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
         minLeadingWidth: 44,
         minVerticalPadding: 12,
+        iconColor: scheme.onSurfaceVariant,
+        textColor: scheme.onSurface,
+        titleTextStyle: textTheme.bodyLarge?.copyWith(
+          color: scheme.onSurface,
+          fontWeight: FontWeight.w700,
+        ),
+        subtitleTextStyle: textTheme.bodySmall?.copyWith(
+          color: scheme.onSurfaceVariant,
+        ),
+      ),
+      dropdownMenuTheme: DropdownMenuThemeData(
+        inputDecorationTheme: InputDecorationTheme(
+          filled: true,
+          fillColor: scheme.surfaceContainerLowest,
+          border: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(8),
+            borderSide: BorderSide(color: scheme.outlineVariant),
+          ),
+          enabledBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(8),
+            borderSide: BorderSide(color: scheme.outlineVariant),
+          ),
+          focusedBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(8),
+            borderSide: BorderSide(color: scheme.primary, width: 1.4),
+          ),
+        ),
+        textStyle: textTheme.bodyMedium?.copyWith(color: scheme.onSurface),
+      ),
+      inputDecorationTheme: InputDecorationTheme(
+        filled: true,
+        fillColor: scheme.surfaceContainerLowest,
+        iconColor: scheme.onSurfaceVariant,
+        prefixIconColor: scheme.onSurfaceVariant,
+        suffixIconColor: scheme.onSurfaceVariant,
+        hintStyle: textTheme.bodyMedium?.copyWith(
+          color: scheme.onSurfaceVariant,
+        ),
+        labelStyle: textTheme.bodyMedium?.copyWith(
+          color: scheme.onSurfaceVariant,
+        ),
+        border: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(8),
+          borderSide: BorderSide(color: scheme.outlineVariant),
+        ),
+        enabledBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(8),
+          borderSide: BorderSide(color: scheme.outlineVariant),
+        ),
+        focusedBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(8),
+          borderSide: BorderSide(color: scheme.primary, width: 1.4),
+        ),
+      ),
+      navigationBarTheme: NavigationBarThemeData(
+        height: 68,
+        elevation: 0,
+        backgroundColor: isLight
+            ? scheme.surfaceContainerLowest
+            : scheme.surfaceContainer,
+        indicatorColor: PhrasebookColors.fromScheme(scheme).brandSoft,
+        labelTextStyle: WidgetStateProperty.resolveWith(
+          (states) => textTheme.labelSmall?.copyWith(
+            fontWeight: states.contains(WidgetState.selected)
+                ? FontWeight.w800
+                : FontWeight.w600,
+            color: states.contains(WidgetState.selected)
+                ? scheme.primary
+                : scheme.onSurfaceVariant,
+          ),
+        ),
+        iconTheme: WidgetStateProperty.resolveWith(
+          (states) => IconThemeData(
+            color: states.contains(WidgetState.selected)
+                ? scheme.primary
+                : scheme.onSurfaceVariant,
+          ),
+        ),
       ),
       pageTransitionsTheme: const PageTransitionsTheme(
         builders: {
           TargetPlatform.android: CupertinoPageTransitionsBuilder(),
           TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
           TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
-          TargetPlatform.windows: FadeUpwardsPageTransitionsBuilder(),
-          TargetPlatform.linux: FadeUpwardsPageTransitionsBuilder(),
+          TargetPlatform.windows: CupertinoPageTransitionsBuilder(),
+          TargetPlatform.linux: CupertinoPageTransitionsBuilder(),
         },
       ),
     );
@@ -69,6 +173,10 @@ class PhrasebookColors extends ThemeExtension<PhrasebookColors> {
     required this.favorite,
     required this.infoSoft,
     required this.successSoft,
+    required this.brandSoft,
+    required this.warningSoft,
+    required this.danger,
+    required this.orange,
     required this.cardBorder,
     required this.categoryTiles,
   });
@@ -85,45 +193,64 @@ class PhrasebookColors extends ThemeExtension<PhrasebookColors> {
   final Color favorite;
   final Color infoSoft;
   final Color successSoft;
+  final Color brandSoft;
+  final Color warningSoft;
+  final Color danger;
+  final Color orange;
   final Color cardBorder;
   final List<Color> categoryTiles;
 
-  factory PhrasebookColors.fromScheme(ColorScheme scheme) => PhrasebookColors(
-    headerStart: const Color(0xFF0476F2),
-    headerEnd: const Color(0xFF0064D8),
-    greenHeaderStart: const Color(0xFF197251),
-    greenHeaderEnd: const Color(0xFF105F43),
-    pinkHeaderStart: const Color(0xFFE84B8D),
-    pinkHeaderEnd: const Color(0xFFD73577),
-    slateHeaderStart: const Color(0xFF33465F),
-    slateHeaderEnd: const Color(0xFF25354B),
-    success: const Color(0xFF009D4F),
-    favorite: const Color(0xFFFFB300),
-    infoSoft: const Color(0xFFEAF3FF),
-    successSoft: const Color(0xFFEAF8F0),
-    cardBorder: scheme.outlineVariant,
-    categoryTiles: const [
-      Color(0xFF0875E8),
-      Color(0xFF35B86F),
-      Color(0xFFFF8A2A),
-      Color(0xFF7E5CE6),
-      Color(0xFF16B8B4),
-      Color(0xFFFFB51D),
-      Color(0xFF00A862),
-      Color(0xFF00A6D6),
-      Color(0xFFFF6C45),
-      Color(0xFFE8508B),
-      Color(0xFF8BC34A),
-      Color(0xFF167CFF),
-      Color(0xFF8E5CF7),
-      Color(0xFFE55353),
-      Color(0xFFFFA000),
-      Color(0xFFEC5E99),
-      Color(0xFF8D6E63),
-      Color(0xFF607D8B),
-      Color(0xFF1E5BB8),
-    ],
-  );
+  factory PhrasebookColors.fromScheme(ColorScheme scheme) {
+    final light = scheme.brightness == Brightness.light;
+    return PhrasebookColors(
+      headerStart: scheme.primary,
+      headerEnd: light ? const Color(0xFF10B981) : const Color(0xFF064E3B),
+      greenHeaderStart: light
+          ? const Color(0xFF0E7C66)
+          : const Color(0xFF09513F),
+      greenHeaderEnd: light ? const Color(0xFF10B981) : const Color(0xFF063A30),
+      pinkHeaderStart: light
+          ? const Color(0xFFEF4A84)
+          : const Color(0xFF8B1E4F),
+      pinkHeaderEnd: light ? const Color(0xFFD93672) : const Color(0xFF64143A),
+      slateHeaderStart: light
+          ? const Color(0xFF6B7280)
+          : const Color(0xFF243044),
+      slateHeaderEnd: light ? const Color(0xFF374151) : const Color(0xFF151D2B),
+      success: light ? const Color(0xFF0E7C66) : const Color(0xFF34D399),
+      favorite: const Color(0xFFFFC107),
+      infoSoft: light ? const Color(0xFFEFF6FF) : const Color(0xFF172033),
+      successSoft: light ? const Color(0xFFE8F7F1) : const Color(0xFF0D2A22),
+      brandSoft: light ? const Color(0xFFE5F6EF) : const Color(0xFF12362E),
+      warningSoft: light ? const Color(0xFFFFF5E0) : const Color(0xFF3A2810),
+      danger: light ? const Color(0xFFEF4444) : const Color(0xFFFF7A7A),
+      orange: light ? const Color(0xFFFF9E0B) : const Color(0xFFFFB74D),
+      cardBorder: light
+          ? const Color(0xFFE8E5DC)
+          : scheme.outlineVariant.withValues(alpha: 0.55),
+      categoryTiles: const [
+        Color(0xFF0E7C66),
+        Color(0xFFEF4444),
+        Color(0xFFF59E0B),
+        Color(0xFF2F80ED),
+        Color(0xFF7C3AED),
+        Color(0xFF10B981),
+        Color(0xFF38BDF8),
+        Color(0xFFE11D48),
+        Color(0xFF14B8A6),
+        Color(0xFFEC4899),
+        Color(0xFF84CC16),
+        Color(0xFF6366F1),
+        Color(0xFFF97316),
+        Color(0xFF64748B),
+        Color(0xFF0EA5E9),
+        Color(0xFF22C55E),
+        Color(0xFF8B5CF6),
+        Color(0xFF06B6D4),
+        Color(0xFFDC2626),
+      ],
+    );
+  }
 
   @override
   PhrasebookColors copyWith({
@@ -139,6 +266,10 @@ class PhrasebookColors extends ThemeExtension<PhrasebookColors> {
     Color? favorite,
     Color? infoSoft,
     Color? successSoft,
+    Color? brandSoft,
+    Color? warningSoft,
+    Color? danger,
+    Color? orange,
     Color? cardBorder,
     List<Color>? categoryTiles,
   }) => PhrasebookColors(
@@ -154,6 +285,10 @@ class PhrasebookColors extends ThemeExtension<PhrasebookColors> {
     favorite: favorite ?? this.favorite,
     infoSoft: infoSoft ?? this.infoSoft,
     successSoft: successSoft ?? this.successSoft,
+    brandSoft: brandSoft ?? this.brandSoft,
+    warningSoft: warningSoft ?? this.warningSoft,
+    danger: danger ?? this.danger,
+    orange: orange ?? this.orange,
     cardBorder: cardBorder ?? this.cardBorder,
     categoryTiles: categoryTiles ?? this.categoryTiles,
   );
@@ -182,6 +317,10 @@ class PhrasebookColors extends ThemeExtension<PhrasebookColors> {
       favorite: Color.lerp(favorite, other.favorite, t)!,
       infoSoft: Color.lerp(infoSoft, other.infoSoft, t)!,
       successSoft: Color.lerp(successSoft, other.successSoft, t)!,
+      brandSoft: Color.lerp(brandSoft, other.brandSoft, t)!,
+      warningSoft: Color.lerp(warningSoft, other.warningSoft, t)!,
+      danger: Color.lerp(danger, other.danger, t)!,
+      orange: Color.lerp(orange, other.orange, t)!,
       cardBorder: Color.lerp(cardBorder, other.cardBorder, t)!,
       categoryTiles: categoryTiles,
     );

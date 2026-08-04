@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "conversation_clothing_shirts_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shirts",
+    "title": "Choosing a Work Shirt",
+    "somali_title": "Doorashada shaati shaqo",
+    "situation": "A customer is buying a shirt for work, asks for medium in light blue, tries it on, checks the fit and price, and decides to buy it.",
+    "somali_situation": "Macmiil ayaa iibsanaya shaati shaqo, wuxuu weydiinayaa cabbir dhexdhexaad ah oo buluug khafiif ah, wuu tijaabinayaa, le'ekaanta iyo qiimaha hubinayaa, kadibna wuu iibsanayaa.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "shirt",
+      "work shirt",
+      "medium",
+      "light blue",
+      "cotton",
+      "fitting room",
+      "sleeves",
+      "price"
+    ],
+    "key_phrases": [
+      "I'm looking for a shirt for work.",
+      "Medium, please.",
+      "Can I try it on?",
+      "The sleeves are a good length.",
+      "It is twenty-five dollars.",
+      "I'll take it."
+    ],
+    "grammar_focus": [
+      "Present simple",
+      "Do you have...?",
+      "Can I...?",
+      "Would like",
+      "Demonstratives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hi, I'm looking for a shirt for work.",
+        "somali": "Salaan, waxaan raadinayaa shaati aan shaqada u xirto."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Certainly. What size do you usually wear?",
+        "somali": "Hubaal. Cabbirkee ayaad badanaa xirataa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Medium, please. Do you have a light blue one?",
+        "somali": "Dhexdhexaad, fadlan. Mid buluug khafiif ah ma haysaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, this one is cotton and good for office wear.",
+        "somali": "Haa, kan waa suuf, wuuna ku fiican yahay dhar xafiis."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. Can I try it on?",
+        "somali": "Waa fiican tahay. Ma tijaabin karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, the fitting room is just behind the mirror.",
+        "somali": "Haa, qolka tijaabadu wuxuu ku yaal muraayadda gadaasheeda."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It fits well, and the sleeves are a good length.",
+        "somali": "Si fiican ayuu ii le'eg yahay, gacmuhuna dherer fiican ayay leeyihiin."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I'm glad it fits. It is twenty-five dollars.",
+        "somali": "Waan ku faraxsanahay inuu kuu le'eg yahay. Waa shan iyo labaatan doolar."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That is fine. I'll take it.",
+        "somali": "Waa hagaag. Waan qaadanayaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Perfect. I'll fold it and put it in a bag.",
+        "somali": "Waa hagaag. Waan kuu laabi doonaa, boorsana waan kuugu ridi doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_pants_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_pants",
+    "title": "Checking Waist and Length",
+    "somali_title": "Hubinta dhexda iyo dhererka surwaalka",
+    "situation": "A customer needs black work trousers; the waist fits, but the legs are too long, so the assistant offers a hem alteration.",
+    "somali_situation": "Macmiil ayaa u baahan surwaal madow oo shaqo; dhexdu way ku habboon tahay, laakiin luguhu way dheer yihiin, markaa shaqaalaha dukaanku wuxuu soo jeedinayaa in geeska la gaabiyo.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "trousers",
+      "waist",
+      "length",
+      "inside leg",
+      "too long",
+      "alteration",
+      "hem",
+      "fitting room",
+      "pin"
+    ],
+    "key_phrases": [
+      "The waist feels right, but the legs are too long.",
+      "We can shorten this pair.",
+      "Would the alteration show on the outside?",
+      "Can he pin them while I am wearing my shoes?",
+      "I'll take them with the alteration."
+    ],
+    "grammar_focus": [
+      "Too + adjective",
+      "Do you have...?",
+      "Can for requests",
+      "Comparatives",
+      "Future with will"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hi, I need black trousers for work.",
+        "somali": "Salaan, waxaan u baahanahay surwaal madow oo aan shaqada u xirto."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "No problem. What waist size are you?",
+        "somali": "Dhib ma leh. Cabbirka dhexdaadu waa imisa?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Thirty-two. The length is usually the problem for me.",
+        "somali": "Soddon iyo laba. Badanaa dhererka ayaa igu dhib badan."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Try this pair. The waist is thirty-two and the inside leg is regular.",
+        "somali": "Kan tijaabi. Dhexdu waa soddon iyo laba, dhererka lugtuna waa caadi."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The waist feels right, but the legs are too long.",
+        "somali": "Dhexdu way igu habboon tahay, laakiin luguhu aad bay iigu dheer yihiin."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "We are out of the shorter length, but we can shorten this pair.",
+        "somali": "Dhererkii ka gaabnaa wuu naga dhammaaday, laakiin kan waan kuu gaabin karnaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Would the alteration show on the outside?",
+        "somali": "Hagaajintu bannaanka ma ka muuqan doontaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "No, the tailor will keep the original hem. He can pin them now.",
+        "somali": "Maya, dawaarluhu geeskii hore ayuu ilaalinayaa. Hadda ayuu calaamadeyn karaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "All right. Can he pin them while I am wearing my shoes?",
+        "somali": "Waa hagaag. Ma calaamadeyn karaa anigoo kabahayga xiran?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, that gives the best length. They will be ready tomorrow afternoon.",
+        "somali": "Haa, taas ayaa dhererka ugu fiican bixinaysa. Berri galab ayay diyaar noqonayaan."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. I'll take them with the alteration.",
+        "somali": "Waa fiican tahay. Waan qaadanayaa iyadoo la gaabinayo."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I'll ask the tailor to come over now.",
+        "somali": "Hadda ayaan dawaarlaha u yeerayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_shoes_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shoes",
+    "title": "Trying Shoes for Comfort",
+    "somali_title": "Tijaabinta kabo raaxo leh",
+    "situation": "A customer needs comfortable black shoes for long work shifts, tries one pair, finds it tight at the toes, and chooses a wider pair.",
+    "somali_situation": "Macmiil ayaa u baahan kabo madow oo raaxo leh oo shaqo dheer lagu istaago, hal nooc ayuu tijaabinayaa, faraha ayuu ka ciriiri ka dareemayaa, kadibna wuxuu dooranayaa nooc ka ballaaran.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "shoes",
+      "shoe size",
+      "comfortable",
+      "tight",
+      "wide",
+      "heel",
+      "sole",
+      "pair",
+      "laces"
+    ],
+    "key_phrases": [
+      "Hi, do you have these shoes in size eight?",
+      "Can I walk around in them for a moment?",
+      "The heel feels fine, but they are tight around my toes.",
+      "I can bring a wider pair in the same size.",
+      "This pair feels much better, and the sole is not too hard.",
+      "I'll take this pair."
+    ],
+    "grammar_focus": [
+      "Feel + adjective",
+      "Around + body part",
+      "Do you have...?",
+      "Comparatives",
+      "Can I...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hi, do you have these shoes in size eight?",
+        "somali": "Salaan, kabahan cabbir siddeed ma haysaan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, we do. Are they for work or everyday wear?",
+        "somali": "Haa, waan haynaa. Ma shaqo ayaad ugu baahan tahay mise xirasho maalinle ah?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "For work. I stand for most of the day, so they need to be comfortable.",
+        "somali": "Shaqo. Inta badan maalinta waan taagnaadaa, markaa waa inay raaxo leeyihiin."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Then try this black pair first. The sole has good support.",
+        "somali": "Markaa marka hore tijaabi kuwan madow. Salka kabtu taageero fiican ayuu leeyahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I walk around in them for a moment?",
+        "somali": "Cabbaar ma ku socon karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Of course. Walk to the mirror and back, and check the heel too.",
+        "somali": "Dabcan. Muraayadda u soco oo soo noqo, ciribtana hubi."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The heel feels fine, but they are tight around my toes.",
+        "somali": "Ciribtu way fiican tahay, laakiin faraha ayay iga ciriiri yihiin."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I can bring a wider pair in the same size.",
+        "somali": "Labo ka ballaaran oo isla cabbirka ah ayaan kuu keeni karaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Please do. I like the plain style, but I cannot wear tight shoes all day.",
+        "somali": "Fadlan keen. Nooca fudud waan jeclahay, laakiin kabo ciriiri ah maalinta oo dhan ma xiran karo."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Here is the wider pair. The leather is softer, and the laces can be loosened.",
+        "somali": "Waa kuwan kuwa ka ballaaran. Maqaarkoodu wuu ka jilicsan yahay, xarigahana waa la dabcin karaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "This pair feels much better, and the sole is not too hard.",
+        "somali": "Kuwani aad bay uga fiican yihiin, salkuna aad uma adka."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Good. Would you like to wear them out or keep them in the box?",
+        "somali": "Waa fiican tahay. Ma hadda ayaad xiranaysaa mise sanduuqa ayaan kuugu reebaa?"
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll keep them in the box. I'll take this pair.",
+        "somali": "Sanduuqa ha ku jiraan. Labadan ayaan qaadanayaa."
+      },
+      {
+        "turn": 14,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Great choice. I'll add the spare laces as well.",
+        "somali": "Doorasho fiican. Xarigaha dheeraadka ahna waan ku dari doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_accessories_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_accessories",
+    "title": "Matching a Belt and Wallet",
+    "somali_title": "Isku aadinta suun iyo boorso yar",
+    "situation": "A customer wants a belt to match brown shoes, compares leather belts and wallets, checks the belt fit, asks about a set price, and chooses a gift.",
+    "somali_situation": "Macmiil ayaa rabaya suun la jaanqaada kabo bunni ah, wuxuu isbarbardhigayaa suunno iyo boorsooyin maqaar ah, le'ekaanta suunka hubinayaa, qiimaha set-ka weydiinayaa, kadibna hadiyad dooranayaa.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "belt",
+      "wallet",
+      "leather",
+      "buckle",
+      "waist size",
+      "dark brown",
+      "gift",
+      "match",
+      "price"
+    ],
+    "key_phrases": [
+      "I'm looking for a belt to match these brown shoes.",
+      "Is it real leather, or is it synthetic?",
+      "Which one goes better with the belt?",
+      "Can I check the size?",
+      "Is there a set price if I buy both?",
+      "I'll take the belt and the slim wallet."
+    ],
+    "grammar_focus": [
+      "Comparatives",
+      "Which questions",
+      "Would like",
+      "Can I...?",
+      "Is there...?",
+      "This/these"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'm looking for a belt to match these brown shoes.",
+        "somali": "Waxaan raadinayaa suun la jaanqaada kabahan bunni ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Then I would avoid black. This dark brown one is closer.",
+        "somali": "Markaa madowga waan ka fogaan lahaa. Kan bunni madowga ah ayaa uga dhow."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is it real leather, or is it synthetic?",
+        "somali": "Ma maqaar dhab ah baa, mise waa maqaar sameys ah?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "It is real leather. The buckle is brushed metal, so it is not too shiny.",
+        "somali": "Waa maqaar dhab ah. Qabsaduhu waa bir aan aad u dhalaalayn, markaa ma aha mid si badan u ifaya."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I check the size? I usually wear a thirty-four waist.",
+        "somali": "Cabbirka ma hubin karaa? Badanaa dhexda soddon iyo afar ayaan xirtaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "This size should work. You still have two holes if you need it tighter.",
+        "somali": "Cabbirkani wuu kugu habboonaanayaa. Laba dalool oo kale ayaa kuu haraya haddii aad u baahato inuu kugu adkaado."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'd also like a wallet for a gift. Which one goes better with the belt?",
+        "somali": "Boorso yar oo hadiyad ahna waan rabaa. Tee ayaa suunka si fiican ula jaanqaadaysa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The slim wallet matches the colour. The larger one has more card slots.",
+        "somali": "Boorsada khafiifka ah midabka ayay la jaanqaadaysaa. Tan weynna boos badan ayay kaararka u leedahay."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The slim one looks neater. It will fit easily in a jacket pocket.",
+        "somali": "Tan khafiifka ah ayaa qurux badan. Si fudud ayay jeebka jaakad ugu geli kartaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The belt is twenty dollars, and the slim wallet is eighteen.",
+        "somali": "Suunku waa labaatan doolar, boorsada khafiifka ahna waa siddeed iyo toban."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is there a set price if I buy both?",
+        "somali": "Haddii aan labadaba iibsado qiimo set ah ma jiraa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, I can make it thirty-three dollars for the belt and wallet.",
+        "somali": "Haa, suunka iyo boorsada waxaan ka dhigi karaa soddon iyo saddex doolar."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That sounds fair. I'll take the belt and the slim wallet.",
+        "somali": "Taasi waa cadaalad. Suunka iyo boorsada khafiifka ah ayaan qaadanayaa."
+      },
+      {
+        "turn": 14,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Would you like me to remove the price tags?",
+        "somali": "Ma rabtaa inaan qiimaha ka saaro?"
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please. They are a gift for my brother.",
+        "somali": "Haa, fadlan. Waa hadiyad aan walaalkay u wado."
+      },
+      {
+        "turn": 16,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "No problem. I'll wrap them together in a small box.",
+        "somali": "Dhib ma leh. Hal sanduuq yar ayaan si wadajir ah kuugu duubi doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_clothing_colours_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_clothing_colours",
+    "title": "Choosing a Jacket Colour",
+    "somali_title": "Doorashada midabka jaakadda",
+    "situation": "A customer wants a casual jacket, compares black, blue, and grey, and chooses the colour that matches their trousers.",
+    "somali_situation": "Macmiil ayaa rabaya jaakad caadi ah, wuxuu isbarbardhigayaa madow, buluug, iyo cawl, kadibna dooranayaa midabka surwaalkiisa la jaanqaada.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "jacket",
+      "black",
+      "blue",
+      "grey",
+      "colour",
+      "match",
+      "trousers",
+      "casual"
+    ],
+    "key_phrases": [
+      "What colours does this jacket come in?",
+      "Can I see the grey one?",
+      "I like the grey one.",
+      "It matches my black trousers.",
+      "The grey jacket is better for me."
+    ],
+    "grammar_focus": [
+      "What colours...?",
+      "Do you have...?",
+      "This/that",
+      "Present simple",
+      "Comparatives"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What colours does this jacket come in?",
+        "somali": "Jaakaddan midabadee lagu heli karaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "It comes in black, blue, and grey.",
+        "somali": "Waxaa lagu heli karaa madow, buluug, iyo cawl."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I see the grey one?",
+        "somali": "Kan cawlka ah ma arki karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Here it is. It is softer than the black one.",
+        "somali": "Waa kan. Wuxuu ka deggan yahay kan madow."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I like the grey one. It matches my black trousers.",
+        "somali": "Kan cawlka ah waan jeclahay. Wuxuu la jaanqaadayaa surwaalkayga madow."
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The blue one is brighter if you want something more casual.",
+        "somali": "Kan buluugga ah wuu ka muuqaal badan yahay haddii aad rabto wax ka caadi ah."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "No, the grey jacket is better for me.",
+        "somali": "Maya, jaakadda cawlka ah ayaa ii fiican."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Good choice. I'll bring the grey jacket in your size.",
+        "somali": "Doorasho fiican. Jaakadda cawlka ah ayaan cabbirkaaga kuugu keenayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_sizes_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_sizes",
+    "title": "Changing from Medium to Large",
+    "somali_title": "Ka beddelashada dhexdhexaad una gudub weyn",
+    "situation": "A customer tries a medium hoodie, finds it tight across the shoulders, changes to a large, and decides the larger size fits better.",
+    "somali_situation": "Macmiil ayaa tijaabinaya funaanad koofiyad leh oo cabbirkeedu dhexdhexaad yahay, garbaha ayay ka ciriiri noqotaa, cabbir weyn ayuu tijaabiyaa, kadibna wuxuu go'aansadaa in weynku si fiican ugu le'eg yahay.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "medium",
+      "large",
+      "hoodie",
+      "size",
+      "tight",
+      "baggy",
+      "fit",
+      "fitting room"
+    ],
+    "key_phrases": [
+      "I tried the medium hoodie, but it is too tight across the shoulders.",
+      "Would you like to try a larger size?",
+      "Do you have a large in the same colour?",
+      "Does it look too baggy?",
+      "I'll take the large."
+    ],
+    "grammar_focus": [
+      "Too + adjective",
+      "Larger",
+      "Do you have...?",
+      "Can I...?",
+      "Better"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I tried the medium hoodie, but it is too tight across the shoulders.",
+        "somali": "Waxaan tijaabiyay funaanadda koofiyadda leh ee dhexdhexaadka ah, laakiin garbaha ayay iga ciriiri tahay."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Would you like to try a larger size?",
+        "somali": "Ma rabtaa inaad tijaabiso cabbir ka weyn?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Yes, please. Do you have a large in the same colour?",
+        "somali": "Haa, fadlan. Mid weyn oo isla midabka ah ma haysaan?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, here it is. You can use the same fitting room.",
+        "somali": "Haa, waa kan. Isla qolka tijaabada ayaad isticmaali kartaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "This feels better. Does it look too baggy?",
+        "somali": "Kani wuu ka fiican yahay. Ma wuxuu u muuqdaa inuu aad u ballaaran yahay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "No, it sits well. The medium looked tight when you moved your arms.",
+        "somali": "Maya, si fiican ayuu kuu saaran yahay. Kii dhexdhexaadka ahaa wuu ciriiri u muuqday markaad gacmaha dhaqaajisay."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Then the large is the right size for me.",
+        "somali": "Markaa cabbirka weyn ayaa ii sax ah."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I agree. It gives you room to move without looking loose.",
+        "somali": "Waan kugu raacsanahay. Wuxuu ku siinayaa meel aad ku dhaqaaqdo, adigoon u muuqan mid aad u ballaaran."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. I'll take the large.",
+        "somali": "Waa fiican tahay. Cabbirka weyn ayaan qaadanayaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I'll put the medium back and take this one to the till.",
+        "somali": "Kii dhexdhexaadka ahaa waan celinayaa, kan weynna qasnadda ayaan geynayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_shopping_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_shopping",
+    "title": "Comparing Clothes and Prices",
+    "somali_title": "Isbarbardhigga dharka iyo qiimaha",
+    "situation": "A customer compares a linen shirt and a wool sweater, tries both on, asks about the sale price and return policy, and chooses the sweater.",
+    "somali_situation": "Macmiil ayaa isbarbardhigaya shaati linen ah iyo funaanad dhogor ah, labadaba tijaabinaya, qiimaha dhimista iyo siyaasadda soo celinta weydiinaya, kadibna funaanadda dooranaya.",
+    "cefr": "B1",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "shirt",
+      "sweater",
+      "linen",
+      "wool",
+      "material",
+      "discount",
+      "return policy",
+      "fitting room",
+      "receipt",
+      "sale"
+    ],
+    "key_phrases": [
+      "Which one is cheaper?",
+      "The wool is soft, not scratchy.",
+      "Can I try both on before I choose?",
+      "What is the return policy if I change my mind?",
+      "I'll buy the sweater."
+    ],
+    "grammar_focus": [
+      "Comparatives",
+      "Which one...?",
+      "Can I...?",
+      "Present simple",
+      "Future with will"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'm deciding between this linen shirt and this wool sweater.",
+        "somali": "Waxaan kala dooranayaa shaatigan linenka ah iyo funaanaddan dhogorta ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The shirt is lighter, but the sweater will be warmer in the evening.",
+        "somali": "Shaatigu wuu ka khafiifsan yahay, laakiin funaanaddu fiidkii way ka diirran tahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Which one is cheaper?",
+        "somali": "Kee ayaa ka jaban?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "The shirt is twelve dollars. The sweater was twenty, but it is sixteen today.",
+        "somali": "Shaatigu waa laba iyo toban doolar. Funaanaddu labaatan ayay ahayd, laakiin maanta waa lix iyo toban."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I try both on before I choose?",
+        "somali": "Labadaba ma tijaabin karaa ka hor inta aanan dooran?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, the fitting room is on the left.",
+        "somali": "Haa, qolka tijaabadu bidix ayuu ku yaal."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The shirt fits well, but the sweater looks better with my jeans.",
+        "somali": "Shaatigu si fiican ayuu ii le'eg yahay, laakiin funaanaddu surwaalkayga jiinka ah ayay si fiican ula egtahay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "It is a good choice. The wool is soft, not scratchy.",
+        "somali": "Waa doorasho fiican. Dhogortu way jilicsan tahay, mana xoqayso."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "What is the return policy if I change my mind?",
+        "somali": "Haddii aan go'aankayga beddelo, siyaasadda soo celintu waa sidee?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "You can return it within fourteen days with the receipt.",
+        "somali": "Waxaad soo celin kartaa afar iyo toban maalmood gudahood adigoo rasiidka wata."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "All right, I'll buy the sweater.",
+        "somali": "Waa hagaag, funaanadda ayaan iibsanayaa."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "I'll ring it up with the discount.",
+        "somali": "Qiimo dhimista ayaan kula xisaabinayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_laundry_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_laundry",
+    "title": "Dropping Off Laundry",
+    "somali_title": "Dhar dhaqis loo keenay",
+    "situation": "A customer leaves clothes for cleaning, explains a stain and delicate fabric, asks about price and collection time, and receives a receipt.",
+    "somali_situation": "Macmiil ayaa dhar nadiifin loo keenay, wasakh iyo maro jilicsan sharxaya, qiimaha iyo waqtiga qaadashada weydiinaya, kadibna rasiid helaya.",
+    "cefr": "B2",
+    "participants": [
+      "Customer",
+      "Laundry attendant"
+    ],
+    "key_vocabulary": [
+      "laundry",
+      "dry cleaning",
+      "stain",
+      "delicate fabric",
+      "shirt",
+      "collection time",
+      "receipt",
+      "price"
+    ],
+    "key_phrases": [
+      "I'd like to drop off these clothes for cleaning.",
+      "I see a stain on the sleeve.",
+      "Please be careful with the fabric; it's quite delicate.",
+      "When will they be ready for collection?",
+      "Could I have a receipt?"
+    ],
+    "grammar_focus": [
+      "Would like",
+      "There is...",
+      "When will...?",
+      "Could I...?",
+      "Passive meaning with be ready"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Good afternoon. I'd like to drop off these clothes for cleaning.",
+        "somali": "Galab wanaagsan. Dharkan waxaan rabaa in la ii nadiifiyo."
+      },
+      {
+        "turn": 2,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "Of course. Are they for washing or dry cleaning?",
+        "somali": "Haye. Ma dhaqis caadi ah baa mise nadiifin qalalan?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "The shirts can be washed, but this jacket needs dry cleaning.",
+        "somali": "Shaatiyada waa la dhaqi karaa, laakiin jaakaddan nadiifin qalalan ayay u baahan tahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "I see a stain on the sleeve. Do you know what caused it?",
+        "somali": "Wasakh ayaan ka arkayaa gacanta. Ma ogtahay waxa keenay?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It's coffee. Please be careful with the fabric; it's quite delicate.",
+        "somali": "Waa qaxwo. Fadlan marada si taxaddar leh ula dhaqan; way jilicsan tahay."
+      },
+      {
+        "turn": 6,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "We will treat the stain first and clean the jacket separately.",
+        "somali": "Marka hore wasakhda ayaan daaweyn doonaa, jaakaddana gooni ayaan u nadiifin doonaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much will everything cost?",
+        "somali": "Dhammaan immisa ayay noqonayaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "The shirts are six dollars, and the jacket is twelve.",
+        "somali": "Shaatiyadu waa lix doolar, jaakadduna waa laba iyo toban."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "When will they be ready for collection?",
+        "somali": "Goorma ayay diyaar u noqonayaan inaan qaato?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "Tomorrow after four. The jacket may need a little more time if the stain remains.",
+        "somali": "Berri afarta ka dib. Jaakadda waqti yar oo dheeraad ah ayay u baahan kartaa haddii wasakhdu harto."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "That's fine. Could I have a receipt?",
+        "somali": "Waa hagaag. Rasiid ma heli karaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "Here you are. You'll need this receipt when you collect the clothes.",
+        "somali": "Waa kan. Rasiidkan ayaad u baahan doontaa marka aad dharka qaadanayso."
+      },
+      {
+        "turn": 13,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I pay now or when I pick them up?",
+        "somali": "Hadda miyaan bixiyaa mise marka aan qaadanayo?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "You can pay when you collect them.",
+        "somali": "Waxaad bixin kartaa marka aad qaadanayso."
+      },
+      {
+        "turn": 15,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Great. I'll come tomorrow evening.",
+        "somali": "Waa fiican tahay. Berri fiidkii ayaan imaan doonaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Laundry attendant",
+        "somali_speaker": "Shaqaale dhar dhaqis",
+        "english": "We'll have them ready for you.",
+        "somali": "Diyaar ayaan kuugu hayn doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_tailoring_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_tailoring",
+    "title": "Shortening Trousers",
+    "somali_title": "Gaabinta surwaal",
+    "situation": "A customer brings trousers to a tailor because they are too long, asks for them to be shortened, checks the price, and asks when they will be ready.",
+    "somali_situation": "Macmiil ayaa surwaal u keenaya dawaarle sababtoo ah aad buu u dheer yahay, wuxuu codsanayaa in la gaabiyo, qiimaha hubinayaa, kadibna weydiinayaa goorta uu diyaar noqonayo.",
+    "cefr": "A1",
+    "participants": [
+      "Customer",
+      "Tailor"
+    ],
+    "key_vocabulary": [
+      "tailor",
+      "trousers",
+      "too long",
+      "measure",
+      "hem",
+      "shorten",
+      "shoes",
+      "ready"
+    ],
+    "key_phrases": [
+      "These trousers are too long.",
+      "Can you shorten them?",
+      "I can mark the hem in the right place.",
+      "How much will it cost?",
+      "When will they be ready?"
+    ],
+    "grammar_focus": [
+      "Too + adjective",
+      "Can you...?",
+      "Imperatives with please",
+      "How much...?",
+      "When will...?"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Hello. These trousers are too long. Can you shorten them?",
+        "somali": "Salaan. Surwaalkan aad buu ii dheer yahay. Ma gaabin kartaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Tailor",
+        "somali_speaker": "Dawaarle",
+        "english": "Yes. Please put them on so I can measure the length.",
+        "somali": "Haa. Fadlan xiro si aan dhererka u cabbiro."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Should I wear my shoes?",
+        "somali": "Kabahayga ma xirtaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Tailor",
+        "somali_speaker": "Dawaarle",
+        "english": "Yes, please. Then I can mark the hem in the right place.",
+        "somali": "Haa, fadlan. Markaas geeska meel sax ah ayaan ka calaamadeyn karaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "How much will it cost?",
+        "somali": "Immisa ayay ku kacaysaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Tailor",
+        "somali_speaker": "Dawaarle",
+        "english": "Six dollars.",
+        "somali": "Lix doolar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "When will they be ready?",
+        "somali": "Goorma ayay diyaar noqonayaan?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Tailor",
+        "somali_speaker": "Dawaarle",
+        "english": "Tomorrow afternoon. You can try them on before you leave.",
+        "somali": "Berri galab. Waad tijaabin kartaa ka hor intaadan bixin."
+      }
+    ]
+  },
+  {
+    "id": "conversation_clothing_weather_clothing_001",
+    "category_code": "clothing",
+    "subcategory_code": "clothing_weather_clothing",
+    "title": "Buying Warm Clothes for Rain",
+    "somali_title": "Iibsashada dhar diirran oo roobka ku habboon",
+    "situation": "A customer needs a warm waterproof jacket for rain, checks the hood and size, then adds waterproof gloves.",
+    "somali_situation": "Macmiil ayaa u baahan jaakad diirran oo biyaha celisa xilli roobaad, wuxuu hubinayaa koofiyadda iyo cabbirka, kadibna wuxuu ku darayaa gacmo-gashi biyaha celiya.",
+    "cefr": "A2",
+    "participants": [
+      "Customer",
+      "Shop assistant"
+    ],
+    "key_vocabulary": [
+      "rain",
+      "cold weather",
+      "waterproof",
+      "warm",
+      "hood",
+      "jacket",
+      "gloves",
+      "size"
+    ],
+    "key_phrases": [
+      "I need something warm for rainy weather.",
+      "Is this jacket waterproof enough for heavy rain?",
+      "Can I try a large?",
+      "Do you have gloves in medium as well?",
+      "I'll take both, the jacket and the gloves."
+    ],
+    "grammar_focus": [
+      "Need + noun",
+      "Does it have...?",
+      "Is it...?",
+      "As well",
+      "Future weather expressions"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I need something warm for rainy weather.",
+        "somali": "Waxaan u baahanahay wax diirran oo roobka ku habboon."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "This jacket is waterproof and has a warm lining.",
+        "somali": "Jaakaddan biyaha way celisaa, gudaha ayayna diirran tahay."
+      },
+      {
+        "turn": 3,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Is this jacket waterproof enough for heavy rain?",
+        "somali": "Jaakaddani ma ku filan tahay roob culus?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes. It also has a hood you can tighten when it is windy.",
+        "somali": "Haa. Waxay kaloo leedahay koofiyad aad adkayn karto marka dabayl jirto."
+      },
+      {
+        "turn": 5,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Can I try a large?",
+        "somali": "Cabbir weyn ma tijaabin karaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Here you are. It should leave room for a sweater underneath.",
+        "somali": "Waa kan. Waa inuu boos u reebaa funaanad dhogor ah oo hoosta laga xirto."
+      },
+      {
+        "turn": 7,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "It feels warm, but not too heavy.",
+        "somali": "Way diirran tahay, laakiin aad uma cusla."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "We also have waterproof gloves near the counter.",
+        "somali": "Waxaan sidoo kale haynaa gacmo-gashi biyaha celiya oo miiska agtiisa yaal."
+      },
+      {
+        "turn": 9,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "Do you have gloves in medium as well?",
+        "somali": "Gacmo-gashi cabbir dhexdhexaad ahna ma haysaan?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Yes, here they are.",
+        "somali": "Haa, waa kuwan."
+      },
+      {
+        "turn": 11,
+        "speaker": "Customer",
+        "somali_speaker": "Macmiil",
+        "english": "I'll take both, the jacket and the gloves.",
+        "somali": "Labadaba waan qaadanayaa, jaakadda iyo gacmo-gashiga."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop assistant",
+        "somali_speaker": "Shaqaale dukaan",
+        "english": "Good choice. They should keep you dry and warm.",
+        "somali": "Doorasho fiican. Waxay kaa ilaalin doonaan qoyaan iyo qabow."
+      }
+    ]
+  }
+]

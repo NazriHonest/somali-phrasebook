@@ -36,7 +36,10 @@ class FutureView<T> extends StatelessWidget {
     future: future,
     builder: (context, snapshot) {
       if (snapshot.connectionState != ConnectionState.done) {
-        return const Scaffold(body: Center(child: CircularProgressIndicator()));
+        return ColoredBox(
+          color: Theme.of(context).scaffoldBackgroundColor,
+          child: const Center(child: CircularProgressIndicator()),
+        );
       }
       if (snapshot.hasError) {
         return Scaffold(
@@ -67,7 +70,7 @@ class SearchBox extends StatelessWidget {
           SizedBox(width: 12),
           Expanded(
             child: Text(
-              'Search phrases, words, signs...',
+              'Search words, phrases, dialogues...',
               overflow: TextOverflow.ellipsis,
             ),
           ),
@@ -75,6 +78,44 @@ class SearchBox extends StatelessWidget {
       ),
     ),
   );
+}
+
+class AppMark extends StatelessWidget {
+  const AppMark({super.key, this.size = 56});
+
+  final double size;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return Container(
+      width: size,
+      height: size,
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [
+            theme.phrasebook.greenHeaderStart,
+            theme.phrasebook.greenHeaderEnd,
+          ],
+        ),
+        borderRadius: BorderRadius.circular(14),
+        boxShadow: [
+          BoxShadow(
+            color: theme.colorScheme.shadow.withValues(alpha: 0.12),
+            blurRadius: 18,
+            offset: const Offset(0, 8),
+          ),
+        ],
+      ),
+      child: Icon(
+        Icons.menu_book_rounded,
+        color: theme.colorScheme.onPrimary,
+        size: size * 0.56,
+      ),
+    );
+  }
 }
 
 class SearchInput extends StatelessWidget {
@@ -189,23 +230,32 @@ class DialogueLineTile extends StatelessWidget {
 }
 
 class IconBox extends StatelessWidget {
-  const IconBox({super.key, required this.icon, this.backgroundColor});
+  const IconBox({
+    super.key,
+    required this.icon,
+    this.backgroundColor,
+    this.iconColor,
+  });
   final IconData icon;
   final Color? backgroundColor;
+  final Color? iconColor;
   @override
-  Widget build(BuildContext context) => SizedBox.square(
-    dimension: 44,
-    child: DecoratedBox(
-      decoration: BoxDecoration(
-        color:
-            backgroundColor ?? Theme.of(context).colorScheme.primaryContainer,
-        borderRadius: BorderRadius.circular(8),
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final bg = backgroundColor ?? theme.phrasebook.brandSoft;
+    return SizedBox.square(
+      dimension: 44,
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          color: bg,
+          borderRadius: BorderRadius.circular(10),
+        ),
+        child: Center(
+          child: Icon(icon, color: iconColor ?? theme.colorScheme.primary),
+        ),
       ),
-      child: Center(
-        child: Icon(icon, color: Theme.of(context).colorScheme.onPrimary),
-      ),
-    ),
-  );
+    );
+  }
 }
 
 class ActionPill extends StatelessWidget {
@@ -378,6 +428,53 @@ class UiCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(8),
         onTap: onTap,
         child: Padding(padding: padding, child: child),
+      ),
+    );
+  }
+}
+
+class CategoryHeroArt extends StatelessWidget {
+  const CategoryHeroArt({
+    super.key,
+    required this.icon,
+    required this.tone,
+    this.height = 92,
+  });
+
+  final IconData icon;
+  final Color tone;
+  final double height;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return Container(
+      height: height,
+      width: double.infinity,
+      decoration: BoxDecoration(
+        color: theme.phrasebook.brandSoft,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: theme.phrasebook.cardBorder),
+      ),
+      child: Stack(
+        children: [
+          Positioned(
+            left: 18,
+            right: 18,
+            bottom: 24,
+            child: Divider(color: tone.withValues(alpha: 0.35), thickness: 3),
+          ),
+          Positioned(
+            right: 16,
+            top: 15,
+            child: Icon(icon, size: 48, color: tone),
+          ),
+          Positioned(
+            left: 16,
+            bottom: 18,
+            child: Icon(Icons.location_city, size: 36, color: tone),
+          ),
+        ],
       ),
     );
   }
@@ -561,6 +658,9 @@ void openResult(BuildContext context, Map<String, Object?> row) {
   if (type == 'vocabulary') context.push(VocabularyFeature.detailPath(id));
   if (type == 'category') context.push(CategoriesFeature.detailPath(id));
   if (type == 'sign') context.push(ReferenceFeature.signsRoute);
+  if (ReferenceFeature.isReferenceType(type)) {
+    context.push(ReferenceFeature.detailPath(type, id));
+  }
 }
 
 IconData iconFor(String key) => switch (key) {
@@ -608,5 +708,231 @@ IconData iconFor(String key) => switch (key) {
   'info' => Icons.info,
   _ => Icons.label,
 };
+
+IconData subcategoryIconFor(String text) {
+  final value = text.toLowerCase();
+  if (value.contains('repeat')) return Icons.replay;
+  if (value.contains('slow')) return Icons.speed;
+  if (value.contains('meaning')) return Icons.help_outline;
+  if (value.contains('spelling')) return Icons.spellcheck;
+  if (value.contains('pronunciation')) return Icons.record_voice_over;
+  if (value.contains('understand')) return Icons.psychology_outlined;
+  if (value.contains('interpreter')) return Icons.translate;
+  if (value.contains('confirm')) return Icons.verified;
+  if (value.contains('write')) return Icons.edit_note;
+  if (value.contains('english level')) return Icons.school;
+  if (value.contains('greeting')) return Icons.waving_hand;
+  if (value.contains('introduction')) return Icons.person_add;
+  if (value.contains('goodbye')) return Icons.logout;
+  if (value.contains('thank')) return Icons.volunteer_activism;
+  if (value.contains('apolog')) return Icons.sentiment_dissatisfied;
+  if (value.contains('congrat')) return Icons.emoji_events;
+  if (value.contains('invitation')) return Icons.mark_email_unread;
+  if (value.contains('accepting')) return Icons.check_circle;
+  if (value.contains('declining')) return Icons.cancel_outlined;
+  if (value.contains('respect')) return Icons.handshake;
+  if (value.contains('name')) return Icons.badge;
+  if (value.contains('age')) return Icons.cake;
+  if (value.contains('nationality')) return Icons.flag;
+  if (value.contains('address')) return Icons.location_on;
+  if (value.contains('phone number')) return Icons.pin;
+  if (value.contains('family')) return Icons.family_restroom;
+  if (value.contains('marital')) return Icons.favorite_border;
+  if (value.contains('occupation')) return Icons.work;
+  if (value.contains('languages')) return Icons.language;
+  if (value.contains('emergency contact')) return Icons.contact_emergency;
+  if (value.contains('road sign')) return Icons.traffic;
+  if (value.contains('hospital sign')) return Icons.local_hospital;
+  if (value.contains('airport sign')) return Icons.flight_takeoff;
+  if (value.contains('school sign')) return Icons.school;
+  if (value.contains('safety sign')) return Icons.health_and_safety;
+  if (value.contains('office sign')) return Icons.business;
+  if (value.contains('hotel sign')) return Icons.hotel;
+  if (value.contains('shopping sign')) return Icons.storefront;
+  if (value.contains('warning sign')) return Icons.warning_amber;
+  if (value.contains('emergency sign')) return Icons.emergency;
+  if (value == 'length') return Icons.straighten;
+  if (value == 'weight') return Icons.monitor_weight;
+  if (value == 'volume') return Icons.local_drink;
+  if (value == 'temperature') return Icons.thermostat;
+  if (value == 'distance') return Icons.route;
+  if (value.contains('clothing sizes')) return Icons.checkroom;
+  if (value.contains('shoe sizes')) return Icons.hiking;
+  if (value.contains('cooking measurements')) return Icons.soup_kitchen;
+  if (value.contains('time measurement')) return Icons.timer;
+  if (value.contains('counting')) return Icons.pin;
+  if (value.contains('ordinal')) return Icons.format_list_numbered;
+  if (value.contains('numbered prices')) return Icons.sell;
+  if (value.contains('telephone numbers')) return Icons.dialpad;
+  if (value == 'dates') return Icons.calendar_month;
+  if (value == 'years') return Icons.event;
+  if (value.contains('fractions')) return Icons.pie_chart_outline;
+  if (value.contains('percent')) return Icons.percent;
+  if (value.contains('room numbers')) return Icons.meeting_room;
+  if (value == 'cash') return Icons.payments;
+  if (value.contains('credit card')) return Icons.credit_card;
+  if (value.contains('mobile payment')) return Icons.phone_android;
+  if (value == 'bank') return Icons.account_balance;
+  if (value == 'atm') return Icons.atm;
+  if (value.contains('exchange')) return Icons.currency_exchange;
+  if (value == 'bills') return Icons.receipt_long;
+  if (value.contains('receipt')) return Icons.receipt;
+  if (value.contains('refund')) return Icons.assignment_return;
+  if (value.contains('discount')) return Icons.discount;
+  if (value.contains('telling time')) return Icons.schedule;
+  if (value == 'days') return Icons.today;
+  if (value == 'months') return Icons.date_range;
+  if (value.contains('appointment')) return Icons.event_available;
+  if (value.contains('opening hours')) return Icons.access_time;
+  if (value.contains('scheduling')) return Icons.edit_calendar;
+  if (value.contains('late')) return Icons.timer_off;
+  if (value.contains('frequency')) return Icons.repeat;
+  if (value.contains('holiday')) return Icons.celebration;
+  if (value.contains('asking directions')) return Icons.assistant_direction;
+  if (value == 'buildings') return Icons.location_city;
+  if (value == 'rooms') return Icons.meeting_room;
+  if (value == 'furniture') return Icons.chair;
+  if (value == 'position') return Icons.open_with;
+  if (value.contains('left and right')) return Icons.compare_arrows;
+  if (value == 'maps') return Icons.map;
+  if (value.contains('lost')) return Icons.find_replace;
+  if (value.contains('nearby')) return Icons.near_me;
+  if (value == 'people') return Icons.groups;
+  if (value == 'appearance') return Icons.face;
+  if (value == 'personality') return Icons.psychology;
+  if (value.contains('colour')) return Icons.palette;
+  if (value == 'shapes') return Icons.category;
+  if (value.contains('object sizes')) return Icons.photo_size_select_large;
+  if (value == 'feelings') return Icons.mood;
+  if (value == 'emotions') return Icons.sentiment_satisfied;
+  if (value == 'weather') return Icons.wb_sunny;
+  if (value == 'objects') return Icons.widgets;
+  if (value == 'home') return Icons.home;
+  if (value == 'cooking') return Icons.restaurant_menu;
+  if (value == 'cleaning') return Icons.cleaning_services;
+  if (value == 'shopping') return Icons.shopping_bag;
+  if (value == 'working') return Icons.work_history;
+  if (value == 'studying') return Icons.menu_book;
+  if (value == 'travelling') return Icons.luggage;
+  if (value == 'exercise') return Icons.fitness_center;
+  if (value == 'hobbies') return Icons.sports_esports;
+  if (value == 'technology') return Icons.devices;
+  if (value == 'bus') return Icons.directions_bus;
+  if (value == 'taxi') return Icons.local_taxi;
+  if (value == 'train') return Icons.train;
+  if (value == 'airport') return Icons.flight_takeoff;
+  if (value == 'tickets') return Icons.confirmation_number;
+  if (value == 'driving') return Icons.directions_car;
+  if (value == 'fuel') return Icons.local_gas_station;
+  if (value == 'parking') return Icons.local_parking;
+  if (value.contains('route directions')) return Icons.route;
+  if (value.contains('ride sharing')) return Icons.hail;
+  if (value.contains('phone calls')) return Icons.phone_in_talk;
+  if (value.contains('text messages')) return Icons.sms;
+  if (value == 'emails') return Icons.alternate_email;
+  if (value == 'meetings') return Icons.groups_2;
+  if (value == 'instructions') return Icons.integration_instructions;
+  if (value.contains('asking questions')) return Icons.quiz;
+  if (value.contains('giving information')) return Icons.info_outline;
+  if (value.contains('online communication')) return Icons.public;
+  if (value.contains('body parts')) return Icons.accessibility_new;
+  if (value == 'symptoms') return Icons.sick;
+  if (value.contains('doctor')) return Icons.medical_services;
+  if (value == 'pharmacy') return Icons.local_pharmacy;
+  if (value == 'hospital') return Icons.local_hospital;
+  if (value == 'medicine') return Icons.medication;
+  if (value.contains('dental')) return Icons.medical_information;
+  if (value == 'emergency') return Icons.emergency;
+  if (value == 'pregnancy') return Icons.pregnant_woman;
+  if (value.contains('child care')) return Icons.child_care;
+  if (value.contains('restaurant')) return Icons.restaurant;
+  if (value.contains('fast food')) return Icons.fastfood;
+  if (value.contains('grocery')) return Icons.local_grocery_store;
+  if (value == 'fruits') return Icons.apple;
+  if (value == 'vegetables') return Icons.eco;
+  if (value == 'meat') return Icons.set_meal;
+  if (value == 'drinks') return Icons.local_cafe;
+  if (value == 'desserts') return Icons.icecream;
+  if (value == 'allergies') return Icons.warning_amber;
+  if (value.contains('cooking food')) return Icons.soup_kitchen;
+  if (value.contains('kitchen tools')) return Icons.kitchen;
+  if (value.contains('paying the bill')) return Icons.payments;
+  if (value.contains('ordering food')) return Icons.room_service;
+  if (value.contains('food storage')) return Icons.inventory_2;
+  if (value == 'shirts') return Icons.dry_cleaning;
+  if (value == 'pants') return Icons.checkroom;
+  if (value == 'shoes') return Icons.hiking;
+  if (value == 'accessories') return Icons.watch;
+  if (value.contains('clothing colours')) return Icons.palette;
+  if (value == 'sizes') return Icons.straighten;
+  if (value.contains('clothes shopping')) return Icons.shopping_bag;
+  if (value == 'laundry') return Icons.local_laundry_service;
+  if (value == 'tailoring') return Icons.content_cut;
+  if (value.contains('weather clothing')) return Icons.umbrella;
+  if (value == 'renting') return Icons.real_estate_agent;
+  if (value == 'buying') return Icons.house;
+  if (value.contains('home furniture')) return Icons.chair;
+  if (value == 'kitchen') return Icons.kitchen;
+  if (value == 'bathroom') return Icons.bathtub;
+  if (value == 'repairs') return Icons.handyman;
+  if (value == 'utilities') return Icons.bolt;
+  if (value == 'moving') return Icons.move_up;
+  if (value == 'neighbours') return Icons.diversity_3;
+  if (value.contains('home safety')) return Icons.security;
+  if (value.contains('job search')) return Icons.manage_search;
+  if (value == 'applications') return Icons.description;
+  if (value == 'cv') return Icons.article;
+  if (value == 'interviews') return Icons.record_voice_over;
+  if (value == 'office') return Icons.business_center;
+  if (value.contains('work meetings')) return Icons.groups_2;
+  if (value == 'salary') return Icons.attach_money;
+  if (value == 'leave') return Icons.event_busy;
+  if (value.contains('workplace safety')) return Icons.health_and_safety;
+  if (value == 'promotions') return Icons.trending_up;
+  if (value == 'classroom') return Icons.co_present;
+  if (value == 'subjects') return Icons.subject;
+  if (value == 'homework') return Icons.assignment;
+  if (value == 'teachers') return Icons.school;
+  if (value == 'students') return Icons.groups;
+  if (value == 'exams') return Icons.edit_document;
+  if (value == 'attendance') return Icons.fact_check;
+  if (value.contains('school supplies')) return Icons.backpack;
+  if (value == 'university') return Icons.account_balance;
+  if (value.contains('online learning')) return Icons.computer;
+  if (value.contains('airport') || value.contains('plane')) return Icons.flight;
+  if (value.contains('bus')) return Icons.directions_bus;
+  if (value.contains('taxi')) return Icons.local_taxi;
+  if (value.contains('direction') || value.contains('location')) {
+    return Icons.map;
+  }
+  if (value.contains('restaurant') || value.contains('food')) {
+    return Icons.restaurant;
+  }
+  if (value.contains('fruit') || value.contains('vegetable')) return Icons.eco;
+  if (value.contains('drink')) return Icons.local_cafe;
+  if (value.contains('shirt') || value.contains('clothing')) {
+    return Icons.checkroom;
+  }
+  if (value.contains('shoe')) return Icons.hiking;
+  if (value.contains('doctor') || value.contains('health')) {
+    return Icons.local_hospital;
+  }
+  if (value.contains('medicine') || value.contains('pharmacy')) {
+    return Icons.medication;
+  }
+  if (value.contains('money') || value.contains('bank')) {
+    return Icons.account_balance;
+  }
+  if (value.contains('school') || value.contains('class')) return Icons.school;
+  if (value.contains('home') || value.contains('rent')) return Icons.home;
+  if (value.contains('work') || value.contains('job')) return Icons.work;
+  if (value.contains('time') || value.contains('date')) return Icons.schedule;
+  if (value.contains('phone') || value.contains('call')) return Icons.phone;
+  if (value.contains('email') || value.contains('message')) return Icons.mail;
+  if (value.contains('family') || value.contains('people')) return Icons.groups;
+  if (value.contains('weather')) return Icons.wb_sunny;
+  if (value.contains('emergency')) return Icons.emergency;
+  return Icons.topic_outlined;
+}
 
 const pagePadding = EdgeInsets.fromLTRB(16, 8, 16, 96);

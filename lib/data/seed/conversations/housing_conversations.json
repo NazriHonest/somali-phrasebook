@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "conversation_housing_renting_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_renting",
+    "title": "Asking About Rent",
+    "somali_title": "Kirada oo la weydiinayo",
+    "situation": "A tenant asks a landlord about monthly rent and the deposit.",
+    "somali_situation": "Kirayste ayaa mulkiile weydiinaya kirada bisha iyo lacagta dhigaalka.",
+    "cefr": "A1",
+    "participants": [
+      "Tenant",
+      "Landlord"
+    ],
+    "key_vocabulary": [
+      "rent",
+      "deposit",
+      "room",
+      "month",
+      "available",
+      "renting"
+    ],
+    "key_phrases": [
+      "How much is the rent?",
+      "The room is available now.",
+      "Is there a deposit?",
+      "The deposit is one month's rent.",
+      "I am interested in renting it."
+    ],
+    "grammar_focus": [
+      "how much is",
+      "there is",
+      "available now",
+      "possessive month",
+      "interested in + -ing"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "How much is the rent?",
+        "somali": "Kiradu waa imisa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "The rent is six hundred dollars a month.",
+        "somali": "Kiradu waa lix boqol oo doolar bishii."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Is the room available?",
+        "somali": "Qolku ma bannaan yahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "The room is available now.",
+        "somali": "Qolku hadda wuu bannaan yahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Is there a deposit?",
+        "somali": "Lacag dhigaal ma jirtaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "The deposit is one month's rent.",
+        "somali": "Dhigaalku waa kirada hal bil."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I am interested in renting it.",
+        "somali": "Waxaan xiisaynayaa inaan kireysto."
+      },
+      {
+        "turn": 8,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "You can see it this afternoon.",
+        "somali": "Galabta waad arki kartaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_buying_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_buying",
+    "title": "Viewing a Small House",
+    "somali_title": "Guri yar oo la daawanayo",
+    "situation": "A buyer views a small house and asks about the price and neighborhood.",
+    "somali_situation": "Iibsade ayaa daawanaya guri yar wuxuuna weydiinayaa qiimaha iyo xaafadda.",
+    "cefr": "A2",
+    "participants": [
+      "Buyer",
+      "Agent"
+    ],
+    "key_vocabulary": [
+      "buying",
+      "house",
+      "price",
+      "neighborhood",
+      "bedroom",
+      "garden",
+      "offer"
+    ],
+    "key_phrases": [
+      "I am thinking about buying a house.",
+      "What is the price?",
+      "The neighborhood is quiet.",
+      "How many bedrooms are there?",
+      "Can I make an offer?"
+    ],
+    "grammar_focus": [
+      "thinking about + -ing",
+      "what is the price",
+      "there are",
+      "how many",
+      "can for requests"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Buyer",
+        "somali_speaker": "Iibsade",
+        "english": "I am thinking about buying a house.",
+        "somali": "Waxaan ka fikirayaa inaan guri iibsado."
+      },
+      {
+        "turn": 2,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "This house is small but comfortable.",
+        "somali": "Gurigani waa yar yahay laakiin raaxo leh."
+      },
+      {
+        "turn": 3,
+        "speaker": "Buyer",
+        "somali_speaker": "Iibsade",
+        "english": "What is the price?",
+        "somali": "Qiimuhu waa imisa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "The price is listed on the sheet.",
+        "somali": "Qiimuhu wuxuu ku qoran yahay warqadda."
+      },
+      {
+        "turn": 5,
+        "speaker": "Buyer",
+        "somali_speaker": "Iibsade",
+        "english": "How many bedrooms are there?",
+        "somali": "Immisa qol jiif ayaa jira?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "There are two bedrooms and a small garden.",
+        "somali": "Waxaa jira laba qol jiif iyo beer yar."
+      },
+      {
+        "turn": 7,
+        "speaker": "Buyer",
+        "somali_speaker": "Iibsade",
+        "english": "Is the neighborhood noisy?",
+        "somali": "Xaafaddu ma buuq badan tahay?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "The neighborhood is quiet.",
+        "somali": "Xaafaddu way deggan tahay."
+      },
+      {
+        "turn": 9,
+        "speaker": "Buyer",
+        "somali_speaker": "Iibsade",
+        "english": "Can I make an offer?",
+        "somali": "Dalab ma samayn karaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Agent",
+        "somali_speaker": "Wakiil",
+        "english": "Yes, I can send your offer today.",
+        "somali": "Haa, maanta ayaan dalabkaaga diri karaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_furniture_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_furniture",
+    "title": "Buying Furniture for an Apartment",
+    "somali_title": "Alaab guri oo dabaq loo iibsanayo",
+    "situation": "A tenant chooses basic furniture for a small apartment and checks delivery.",
+    "somali_situation": "Kirayste ayaa dooranaya alaab guri oo aasaasi ah dabaq yar wuxuuna hubinayaa keenista.",
+    "cefr": "B1",
+    "participants": [
+      "Tenant",
+      "Shop Assistant"
+    ],
+    "key_vocabulary": [
+      "furniture",
+      "sofa",
+      "bed",
+      "table",
+      "delivery",
+      "apartment",
+      "chair"
+    ],
+    "key_phrases": [
+      "I need furniture for a small apartment.",
+      "The sofa is too wide.",
+      "This bed will fit the room.",
+      "Can you include delivery?",
+      "I will take the table and two chairs."
+    ],
+    "grammar_focus": [
+      "need + noun",
+      "too + adjective",
+      "will for fit",
+      "can for requests",
+      "and for lists"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I need furniture for a small apartment.",
+        "somali": "Waxaan u baahanahay alaab guri oo dabaq yar ah."
+      },
+      {
+        "turn": 2,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Let us start with the sofa.",
+        "somali": "Aan ku bilowno fadhiga."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "The sofa is too wide.",
+        "somali": "Fadhigu aad buu u ballaaran yahay."
+      },
+      {
+        "turn": 4,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "This smaller sofa may work.",
+        "somali": "Fadhigan ka yar wuu shaqayn karaa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "What about the bed?",
+        "somali": "Ka warran sariirta?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "This bed will fit the room.",
+        "somali": "Sariirtani qolka way geli doontaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I also need a table.",
+        "somali": "Sidoo kale waxaan u baahanahay miis."
+      },
+      {
+        "turn": 8,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "This table comes with two chairs.",
+        "somali": "Miiskani wuxuu la socdaa laba kursi."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Can you include delivery?",
+        "somali": "Keenista ma ku dari kartaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Yes, delivery is tomorrow morning.",
+        "somali": "Haa, keenistu waa berri subax."
+      },
+      {
+        "turn": 11,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I will take the table and two chairs.",
+        "somali": "Waxaan qaadanayaa miiska iyo laba kursi."
+      },
+      {
+        "turn": 12,
+        "speaker": "Shop Assistant",
+        "somali_speaker": "Kaaliye dukaan",
+        "english": "Great. I will add them to the order.",
+        "somali": "Waa fiican tahay. Dalabka ayaan ku dari doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_kitchen_room_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_kitchen_room",
+    "title": "Checking a Shared Kitchen",
+    "somali_title": "Jiko la wadaago oo la hubinayo",
+    "situation": "A new tenant asks how to use a shared kitchen and where to keep food.",
+    "somali_situation": "Kirayste cusub ayaa weydiinaya sida loo isticmaalo jiko la wadaago iyo meesha cuntada lagu keydiyo.",
+    "cefr": "B2",
+    "participants": [
+      "New Tenant",
+      "Housemate"
+    ],
+    "key_vocabulary": [
+      "kitchen",
+      "fridge",
+      "shelf",
+      "stove",
+      "sink",
+      "cupboard",
+      "shared"
+    ],
+    "key_phrases": [
+      "How does the shared kitchen work?",
+      "Use the top shelf in the fridge.",
+      "Please clean the stove after cooking.",
+      "The cupboard beside the sink is empty.",
+      "We label food to avoid confusion."
+    ],
+    "grammar_focus": [
+      "how does work",
+      "imperatives",
+      "after + -ing",
+      "beside + noun",
+      "to + purpose"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "How does the shared kitchen work?",
+        "somali": "Jikada la wadaago sidee bay u shaqaysaa?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "Everyone cleans their own dishes.",
+        "somali": "Qof walba weelkiisa ayuu nadiifiyaa."
+      },
+      {
+        "turn": 3,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "Where can I put my food?",
+        "somali": "Cuntadayda xaggee dhigi karaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "Use the top shelf in the fridge.",
+        "somali": "Isticmaal shelf-ka sare ee qaboojiyaha."
+      },
+      {
+        "turn": 5,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "Is there space for rice and tea?",
+        "somali": "Meel bariis iyo shaah ma jirtaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "The cupboard beside the sink is empty.",
+        "somali": "Kabadhka saxanka agtiisa wuu bannaan yahay."
+      },
+      {
+        "turn": 7,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "Can I use the stove tonight?",
+        "somali": "Caawa shooladda ma isticmaali karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "Yes, but please clean the stove after cooking.",
+        "somali": "Haa, laakiin fadlan shooladda nadiifi karinta ka dib."
+      },
+      {
+        "turn": 9,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "Should I wash pans right away?",
+        "somali": "Ma digsiyada isla markiiba dhaqaa?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "Yes, the sink gets crowded after dinner.",
+        "somali": "Haa, saxanku cashada ka dib wuu buuxsamaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "How do people know which food is mine?",
+        "somali": "Dadku sidee bay ku ogaadaan cuntada aniga ii taal?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "We label food to avoid confusion.",
+        "somali": "Cuntada magac ayaan ku qornaa si wareer looga fogaado."
+      },
+      {
+        "turn": 13,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "That is fair.",
+        "somali": "Taasi waa cadaalad."
+      },
+      {
+        "turn": 14,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "If something is shared, we write shared on it.",
+        "somali": "Haddii wax la wadaago, waxaan ku qornaa la wadaago."
+      },
+      {
+        "turn": 15,
+        "speaker": "New Tenant",
+        "somali_speaker": "Kirayste cusub",
+        "english": "Thanks. I will label my things tonight.",
+        "somali": "Mahadsanid. Caawa ayaan alaabtayda magac ku qori doonaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Housemate",
+        "somali_speaker": "Qolwadaag",
+        "english": "Great. Welcome to the house.",
+        "somali": "Waa fiican tahay. Ku soo dhowow guriga."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_bathroom_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_bathroom",
+    "title": "Asking About the Bathroom",
+    "somali_title": "Musqusha oo la weydiinayo",
+    "situation": "A guest asks where the bathroom is and whether there is soap and a towel.",
+    "somali_situation": "Marti ayaa weydiinaya meesha musqushu ku taal iyo haddii saabuun iyo tuwaal jiraan.",
+    "cefr": "A1",
+    "participants": [
+      "Guest",
+      "Host"
+    ],
+    "key_vocabulary": [
+      "bathroom",
+      "soap",
+      "towel",
+      "sink",
+      "door",
+      "guest"
+    ],
+    "key_phrases": [
+      "Where is the bathroom?",
+      "It is behind that door.",
+      "There is soap by the sink.",
+      "Do you need a towel?",
+      "Thank you, I found it."
+    ],
+    "grammar_focus": [
+      "where is",
+      "behind + noun",
+      "there is",
+      "do you need",
+      "past simple found"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Where is the bathroom?",
+        "somali": "Musqushu xaggee bay ku taal?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "It is behind that door.",
+        "somali": "Waxay ka dambaysaa albaabkaas."
+      },
+      {
+        "turn": 3,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Is there soap?",
+        "somali": "Saabuun ma jirtaa?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "There is soap by the sink.",
+        "somali": "Saabuun baa jirta saxanka agtiisa."
+      },
+      {
+        "turn": 5,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Do you need a towel?",
+        "somali": "Tuwaal ma u baahan tahay?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "Yes, a clean towel is on the shelf.",
+        "somali": "Haa, tuwaal nadiif ah ayaa shelf-ka saaran."
+      },
+      {
+        "turn": 7,
+        "speaker": "Guest",
+        "somali_speaker": "Marti",
+        "english": "Thank you, I found it.",
+        "somali": "Mahadsanid, waan helay."
+      },
+      {
+        "turn": 8,
+        "speaker": "Host",
+        "somali_speaker": "Martigeliye",
+        "english": "You are welcome, guest.",
+        "somali": "Adaa mudan, marti."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_repairs_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_repairs",
+    "title": "Reporting a Leaking Tap",
+    "somali_title": "Qasab biyo daadinaya oo la sheegayo",
+    "situation": "A tenant reports a leaking tap and arranges a repair visit.",
+    "somali_situation": "Kirayste ayaa sheegaya qasab biyo daadinaya wuxuuna qabanayaa booqasho dayactir.",
+    "cefr": "A2",
+    "participants": [
+      "Tenant",
+      "Landlord"
+    ],
+    "key_vocabulary": [
+      "repair",
+      "leak",
+      "tap",
+      "water",
+      "plumber",
+      "tomorrow",
+      "repairs"
+    ],
+    "key_phrases": [
+      "I need a repair in the kitchen.",
+      "The tap has a leak.",
+      "Water is dripping slowly.",
+      "Can a plumber come tomorrow?",
+      "Thank you for arranging the repairs."
+    ],
+    "grammar_focus": [
+      "need + noun",
+      "has + noun",
+      "present continuous",
+      "can for requests",
+      "thanks for + -ing"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I need a repair in the kitchen.",
+        "somali": "Jikada waxaan uga baahanahay dayactir."
+      },
+      {
+        "turn": 2,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "What is broken?",
+        "somali": "Maxaa jabay?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "The tap has a leak.",
+        "somali": "Qasabku biyo ayuu daadinayaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Is there a lot of water?",
+        "somali": "Biyo badan ma jiraan?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Water is dripping slowly.",
+        "somali": "Biyaha si tartiib ah bay u dhibcayaan."
+      },
+      {
+        "turn": 6,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "I will call a plumber.",
+        "somali": "Tuubbiiste ayaan wici doonaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Can a plumber come tomorrow?",
+        "somali": "Tuubbiiste berri ma iman karaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Yes, tomorrow morning.",
+        "somali": "Haa, berri subax."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Thank you for arranging the repairs.",
+        "somali": "Waad ku mahadsan tahay inaad dayactirrada qabanqaabisay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Please keep a bowl under the tap tonight.",
+        "somali": "Fadlan caawa baaquli dhig qasabku hoostiisa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_utilities_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_utilities",
+    "title": "Asking About Utilities",
+    "somali_title": "Adeegyada guriga oo la weydiinayo",
+    "situation": "A tenant asks which utilities are included in the rent and how to pay the electricity bill.",
+    "somali_situation": "Kirayste ayaa weydiinaya adeegyada guriga ee kirada ku jira iyo sida loo bixiyo biilka korontada.",
+    "cefr": "B1",
+    "participants": [
+      "Tenant",
+      "Landlord"
+    ],
+    "key_vocabulary": [
+      "utilities",
+      "electricity",
+      "water",
+      "internet",
+      "bill",
+      "included",
+      "separate"
+    ],
+    "key_phrases": [
+      "Are utilities included in the rent?",
+      "Water is included.",
+      "Electricity is a separate bill.",
+      "The internet password is on the fridge.",
+      "How do I pay the bill?"
+    ],
+    "grammar_focus": [
+      "included in",
+      "be + adjective",
+      "how do I",
+      "on + place",
+      "separate bill"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Are utilities included in the rent?",
+        "somali": "Adeegyada gurigu kirada ma ku jiraan?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Water is included.",
+        "somali": "Biyaha way ku jiraan."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "What about electricity?",
+        "somali": "Korontadu ka warran?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Electricity is a separate bill.",
+        "somali": "Korontadu waa biil gooni ah."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "How do I pay the bill?",
+        "somali": "Sideen biilka u bixiyaa?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "You can pay online each month.",
+        "somali": "Bil kasta internetka ayaad ku bixin kartaa."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Is internet included?",
+        "somali": "Internetku ma ku jiraa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Yes, the internet password is on the fridge.",
+        "somali": "Haa, erayga sirta ah ee internetku wuxuu ku yaal qaboojiyaha."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "That helps. I work from home.",
+        "somali": "Taasi way caawinaysaa. Guriga ayaan ka shaqeeyaa."
+      },
+      {
+        "turn": 10,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "The connection is usually strong.",
+        "somali": "Xiriirku badanaa wuu xoog badan yahay."
+      },
+      {
+        "turn": 11,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Please send me the payment link.",
+        "somali": "Fadlan ii soo dir linkiga lacag-bixinta."
+      },
+      {
+        "turn": 12,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "I will send it today.",
+        "somali": "Maanta ayaan kuu soo dirayaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_moving_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_moving",
+    "title": "Planning Moving Day",
+    "somali_title": "Maalinta guuritaanka oo la qorsheynayo",
+    "situation": "A tenant and mover plan moving day, discuss boxes, stairs, and arrival time.",
+    "somali_situation": "Kirayste iyo rare ayaa qorsheynaya maalinta guuritaanka, waxay ka hadlayaan sanduuqyo, jaranjaro, iyo waqtiga imaatinka.",
+    "cefr": "B2",
+    "participants": [
+      "Tenant",
+      "Mover"
+    ],
+    "key_vocabulary": [
+      "moving",
+      "boxes",
+      "stairs",
+      "elevator",
+      "truck",
+      "arrival",
+      "fragile"
+    ],
+    "key_phrases": [
+      "We are moving on Saturday morning.",
+      "How many boxes do you have?",
+      "The elevator is too small for the sofa.",
+      "Please mark the fragile boxes.",
+      "The truck arrival time is eight."
+    ],
+    "grammar_focus": [
+      "present continuous for arrangements",
+      "how many",
+      "too + adjective",
+      "imperatives",
+      "compound nouns"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "We are moving on Saturday morning.",
+        "somali": "Sabti subax ayaan guuraynaa."
+      },
+      {
+        "turn": 2,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "The truck arrival time is eight.",
+        "somali": "Waqtiga imaatinka gaarigu waa siddeedda."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "That is early, but it works.",
+        "somali": "Taasi waa hore, laakiin way shaqaynaysaa."
+      },
+      {
+        "turn": 4,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "How many boxes do you have?",
+        "somali": "Immisa sanduuq ayaad haysataa?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "About twenty boxes.",
+        "somali": "Qiyaastii labaatan sanduuq."
+      },
+      {
+        "turn": 6,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "Please mark the fragile boxes.",
+        "somali": "Fadlan calaamadee sanduuqyada jilicsan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I marked the dishes and glasses.",
+        "somali": "Waxaan calaamadeeyay saxamada iyo koobabka."
+      },
+      {
+        "turn": 8,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "Is there an elevator?",
+        "somali": "Wiish ma jiraa?"
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Yes, but the elevator is too small for the sofa.",
+        "somali": "Haa, laakiin wiishku fadhiga aad buu ugu yar yahay."
+      },
+      {
+        "turn": 10,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "Then we will use the stairs for the sofa.",
+        "somali": "Markaa fadhiga jaranjarada ayaan marin doonaa."
+      },
+      {
+        "turn": 11,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Will that take much longer?",
+        "somali": "Taasi waqti badan ma qaadan doontaa?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "Only a little longer.",
+        "somali": "Wax yar oo keliya."
+      },
+      {
+        "turn": 13,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Please call before you arrive.",
+        "somali": "Fadlan wac ka hor intaadan imaan."
+      },
+      {
+        "turn": 14,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "I will call from the street.",
+        "somali": "Jidka ayaan ka wici doonaa."
+      },
+      {
+        "turn": 15,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Good. I will be ready.",
+        "somali": "Waa fiican tahay. Diyaar ayaan ahaan doonaa."
+      },
+      {
+        "turn": 16,
+        "speaker": "Mover",
+        "somali_speaker": "Rare",
+        "english": "See you Saturday.",
+        "somali": "Sabtida ayaan ku arki doonaa."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_neighbours_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_neighbours",
+    "title": "Meeting a New Neighbor",
+    "somali_title": "Deris cusub oo lala kulmayo",
+    "situation": "A tenant greets a new neighbor and asks about quiet hours.",
+    "somali_situation": "Kirayste ayaa salaamaya deris cusub wuxuuna weydiinayaa saacadaha aamusnaanta.",
+    "cefr": "A1",
+    "participants": [
+      "Tenant",
+      "Neighbor"
+    ],
+    "key_vocabulary": [
+      "neighbor",
+      "building",
+      "quiet",
+      "night",
+      "door",
+      "neighbours"
+    ],
+    "key_phrases": [
+      "Hello, I am your new neighbor.",
+      "Welcome to the building.",
+      "Is it quiet at night?",
+      "Please close the door softly.",
+      "The neighbours are friendly."
+    ],
+    "grammar_focus": [
+      "I am your",
+      "welcome to",
+      "is it + adjective",
+      "imperatives",
+      "plural nouns"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Hello, I am your new neighbor.",
+        "somali": "Hallow, waxaan ahay deriskaaga cusub."
+      },
+      {
+        "turn": 2,
+        "speaker": "Neighbor",
+        "somali_speaker": "Deris",
+        "english": "Welcome to the building.",
+        "somali": "Ku soo dhowow dhismaha."
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Is it quiet at night?",
+        "somali": "Habeenkii ma deggan yahay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Neighbor",
+        "somali_speaker": "Deris",
+        "english": "Yes, it is usually quiet.",
+        "somali": "Haa, badanaa wuu deggan yahay."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Good. I work early.",
+        "somali": "Waa fiican tahay. Hore ayaan shaqada u bilaabaa."
+      },
+      {
+        "turn": 6,
+        "speaker": "Neighbor",
+        "somali_speaker": "Deris",
+        "english": "Please close the door softly.",
+        "somali": "Fadlan albaabka si tartiib ah u xir."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Of course. The neighbours are friendly.",
+        "somali": "Dabcan. Derisku waa saaxiibtinimo."
+      },
+      {
+        "turn": 8,
+        "speaker": "Neighbor",
+        "somali_speaker": "Deris",
+        "english": "We try to help each other.",
+        "somali": "Waxaan isku daynaa inaan is caawinno."
+      }
+    ]
+  },
+  {
+    "id": "conversation_housing_safety_001",
+    "category_code": "housing",
+    "subcategory_code": "housing_safety",
+    "title": "Checking Home Safety",
+    "somali_title": "Badbaadada guriga oo la hubinayo",
+    "situation": "A tenant asks about locks, smoke alarms, and emergency contact details.",
+    "somali_situation": "Kirayste ayaa weydiinaya qufullo, qaylo-dhaan qiiq, iyo faahfaahinta xiriirka degdegga ah.",
+    "cefr": "A2",
+    "participants": [
+      "Tenant",
+      "Landlord"
+    ],
+    "key_vocabulary": [
+      "safety",
+      "lock",
+      "smoke alarm",
+      "emergency",
+      "key",
+      "window",
+      "home"
+    ],
+    "key_phrases": [
+      "I want to check home safety.",
+      "Does the front door have a good lock?",
+      "The smoke alarm works.",
+      "Keep this emergency number.",
+      "Do the windows need keys?"
+    ],
+    "grammar_focus": [
+      "want to + verb",
+      "does + noun + have",
+      "present simple works",
+      "imperatives",
+      "need + noun"
+    ],
+    "dialogue": [
+      {
+        "turn": 1,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "I want to check home safety.",
+        "somali": "Waxaan rabaa inaan hubiyo badbaadada guriga."
+      },
+      {
+        "turn": 2,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Of course. What do you want to check?",
+        "somali": "Dabcan. Maxaad rabtaa inaad hubiso?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Does the front door have a good lock?",
+        "somali": "Albaabka hore ma leeyahay quful fiican?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Yes, and here is the key.",
+        "somali": "Haa, waana kan furaha."
+      },
+      {
+        "turn": 5,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Do the windows need keys?",
+        "somali": "Daaqaduhu furayaal ma u baahan yihiin?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "No, they lock from inside.",
+        "somali": "Maya, gudaha ayay ka qufulmaan."
+      },
+      {
+        "turn": 7,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "Does the smoke alarm work?",
+        "somali": "Qaylo-dhaanta qiiqu ma shaqaysaa?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "The smoke alarm works.",
+        "somali": "Qaylo-dhaanta qiiqu way shaqaysaa."
+      },
+      {
+        "turn": 9,
+        "speaker": "Tenant",
+        "somali_speaker": "Kirayste",
+        "english": "What should I do in an emergency?",
+        "somali": "Maxaan sameeyaa xaalad degdeg ah?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Landlord",
+        "somali_speaker": "Mulkiile",
+        "english": "Keep this emergency number.",
+        "somali": "Hayso lambarkan degdegga ah."
+      }
+    ]
+  }
+]

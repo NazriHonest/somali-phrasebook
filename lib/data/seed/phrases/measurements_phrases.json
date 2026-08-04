@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "phrase_measurements_length_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "How long is this table?",
+    "somali": "Miiskani intee ayuu dheer yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "It is two metres long.",
+    "somali": "Waa laba mitir oo dherer ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Please measure the wall.",
+    "somali": "Fadlan darbiga cabbir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "The cable is too short.",
+    "somali": "Fiiladu aad bay u gaaban tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "I need a longer piece.",
+    "somali": "Qayb ka dheer ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "How wide is the door?",
+    "somali": "Albaabku intee ayuu ballaaran yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "The shelf is one metre wide.",
+    "somali": "Shelf-ku waa hal mitir oo ballac ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "This space is not long enough.",
+    "somali": "Meeshani dherer ku filan ma laha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Can it fit through the doorway?",
+    "somali": "Albaabka ma ka geli karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Please cut it to this length.",
+    "somali": "Fadlan dhererkan u jar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "The room is five metres long.",
+    "somali": "Qolku waa shan mitir oo dherer ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "I need the exact length.",
+    "somali": "Dhererka saxda ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "The curtains are too long.",
+    "somali": "Daahyadu aad bay u dheer yihiin.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "This board is shorter than that one.",
+    "somali": "Looxani kan kale wuu ka gaaban yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "How deep is the cupboard?",
+    "somali": "Kabadhku intee ayuu qoto dheer yahay?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_length_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_length",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "length"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "How much does this bag weigh?",
+    "somali": "Boorsadani immisa ayay miisaankeedu yahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "It weighs ten kilos.",
+    "somali": "Waxay miisaankeedu yahay toban kiilo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "The suitcase is too heavy.",
+    "somali": "Shandaddu aad bay u culus tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Please put it on the scale.",
+    "somali": "Fadlan miisaanka saar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "I need half a kilo of sugar.",
+    "somali": "Kala kiilo sonkor ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Can you weigh the vegetables?",
+    "somali": "Khudaarta ma miisaami kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "The baby weighs seven kilos.",
+    "somali": "Ilmuhu toddoba kiilo ayuu miisaankiisu yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "This box is light.",
+    "somali": "Sanduuqani wuu fudud yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "The weight limit is twenty kilos.",
+    "somali": "Xadka miisaanku waa labaatan kiilo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "My luggage is overweight.",
+    "somali": "Shandaddaydu miisaanka way dhaaftay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Can I remove something from the bag?",
+    "somali": "Boorsada wax ma ka saari karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Please check the weight again.",
+    "somali": "Fadlan miisaanka mar kale hubi.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "I want one kilo of apples.",
+    "somali": "Hal kiilo tufaax ah ayaan rabaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "This feels heavier than before.",
+    "somali": "Tani waxay u muuqataa mid ka culus sidii hore.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "How many grams are in this packet?",
+    "somali": "Xirmadan immisa garaam ayaa ku jira?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_weight_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_weight",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "weight"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "How much water does this bottle hold?",
+    "somali": "Dhaladani biyo intee le'eg ayay qaaddaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "I need one litre of milk.",
+    "somali": "Hal litir caano ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Please add two cups of water.",
+    "somali": "Fadlan laba koob oo biyo ah ku dar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "The tank is full.",
+    "somali": "Haantu way buuxdaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "The glass is half full.",
+    "somali": "Koobku kala bar ayuu buuxaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Can you measure the oil?",
+    "somali": "Saliidda ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Use a small amount.",
+    "somali": "Qadar yar isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "This container is too small.",
+    "somali": "Weelkani aad buu u yar yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "The recipe needs 250 millilitres.",
+    "somali": "Cuntadani waxay u baahan tahay 250 millilitir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Do not fill it to the top.",
+    "somali": "Ha buuxin ilaa dusha sare.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "How many litres are left?",
+    "somali": "Immisa litir ayaa haray?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "The cup is empty.",
+    "somali": "Koobku wuu madhan yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Please pour a little more.",
+    "somali": "Fadlan wax yar oo kale ku shub.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "This bottle holds two litres.",
+    "somali": "Dhaladani laba litir ayay qaaddaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "I spilled some water.",
+    "somali": "Biyo qaar ayaan daadshay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_volume_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_volume",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "volume"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "What is the temperature today?",
+    "somali": "Heerkulku maanta waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "It is twenty degrees.",
+    "somali": "Waa labaatan darajo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The water is too hot.",
+    "somali": "Biyuhu aad bay u kulul yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The room is too cold.",
+    "somali": "Qolku aad buu u qabow yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Please turn down the heat.",
+    "somali": "Fadlan kulaylka yaree.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Can you check my temperature?",
+    "somali": "Heerkulkayga ma hubin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "I have a fever.",
+    "somali": "Qandho ayaan qabaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The oven is at 180 degrees.",
+    "somali": "Foornadu waa 180 darajo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Keep the medicine in a cool place.",
+    "somali": "Daawada meel qabow ku hay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The weather will be hotter tomorrow.",
+    "somali": "Berri cimiladu way ka kululaan doontaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Is the food warm enough?",
+    "somali": "Cuntadu kulayl ku filan ma leedahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The fridge is not cold enough.",
+    "somali": "Qaboojiyuhu qabow ku filan ma laha.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Please wait until it cools down.",
+    "somali": "Fadlan sug ilaa ay qabowdo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "The temperature dropped at night.",
+    "somali": "Heerkulku habeenkii wuu dhacay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "This tea is perfect now.",
+    "somali": "Shaahani hadda wuu ku habboon yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_temperature_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_temperature",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "temperature"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "How far is the station?",
+    "somali": "Saldhiggu intee ayuu jiraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "It is about two kilometres away.",
+    "somali": "Qiyaastii laba kiiloomitir ayuu jiraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Can we walk there?",
+    "somali": "Lug ma ku tagi karnaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The hospital is not far.",
+    "somali": "Isbitaalku ma foga.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The airport is far from here.",
+    "somali": "Garoonku halkan wuu ka fog yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "It is a ten-minute walk.",
+    "somali": "Waa socod toban daqiiqo ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "How far is it by taxi?",
+    "somali": "Taksi ahaan intee ayay jirtaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The school is across the road.",
+    "somali": "Iskuulku waddada ka soo horjeedka ayuu ku yaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The shop is very close.",
+    "somali": "Dukaanku aad buu u dhow yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Please choose the shorter route.",
+    "somali": "Fadlan jidka gaaban dooro.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The distance is on the map.",
+    "somali": "Fogaantu khariidadda ayay ku qoran tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "It is too far to walk.",
+    "somali": "Aad bay u fog tahay in lug lagu tago.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "The next stop is one mile away.",
+    "somali": "Joogsiga xiga hal mayl ayuu jiraa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Can you take me closer?",
+    "somali": "Meel ka dhow ma i geyn kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "We are almost there.",
+    "somali": "Waan ku dhow nahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_distance_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_distance",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "distance"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "What size do you wear?",
+    "somali": "Cabbirkee ayaad xirataa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "I wear a medium.",
+    "somali": "Dhexdhexaad ayaan xirtaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Do you have this in a larger size?",
+    "somali": "Tan cabbir ka weyn ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "This shirt is too tight.",
+    "somali": "Shaatigani aad buu u cidhiidhi yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "These trousers are too long.",
+    "somali": "Surwaalladani aad bay u dheer yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Can I try a small size?",
+    "somali": "Cabbir yar ma tijaabin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "The size label is missing.",
+    "somali": "Calaamadda cabbirku way maqan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "This size fits me well.",
+    "somali": "Cabbirkani si fiican ayuu ii le'eg yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "I need a size ten.",
+    "somali": "Cabbir toban ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Please measure my waist.",
+    "somali": "Fadlan dhexdayda cabbir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "The sleeves are too short.",
+    "somali": "Gacmuhu aad bay u gaaban yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Do you have a size chart?",
+    "somali": "Shax cabbirro ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "This coat is too loose.",
+    "somali": "Koodhkani aad buu u ballaaran yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Can you bring another size?",
+    "somali": "Cabbir kale ma keeni kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "The dress needs altering.",
+    "somali": "Dharku wuxuu u baahan yahay wax ka beddel.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_clothing_sizes_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_clothing_sizes",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "clothing sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "What is your shoe size?",
+    "somali": "Cabbirka kabahaagu waa imisa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "I wear size forty-two.",
+    "somali": "Waxaan xirtaa cabbir laba iyo afartan.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "These shoes are too small.",
+    "somali": "Kabahan aad bay u yar yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Do you have a bigger size?",
+    "somali": "Cabbir ka weyn ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Can I try size eight?",
+    "somali": "Cabbir siddeed ma tijaabin karaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "The left shoe feels tight.",
+    "somali": "Kabaha bidix wuu cidhiidhi yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "The shoes fit well.",
+    "somali": "Kabuhu si fiican bay ii le'eg yihiin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Do you have half sizes?",
+    "somali": "Cabbirro kala bar ah ma haysaan?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Please measure my foot.",
+    "somali": "Fadlan cagta ii cabbir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "I need wide shoes.",
+    "somali": "Kabo ballaaran ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "These shoes are comfortable.",
+    "somali": "Kabahan waa raaxo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "The size is written inside.",
+    "somali": "Cabbirku gudaha ayuu ku qoran yahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Can I walk around in them?",
+    "somali": "Ma ku dhex socon karaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "The heel is too high.",
+    "somali": "Ciribta kabtu aad bay u sarreysaa.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "I need shoes for work.",
+    "somali": "Kabo shaqo ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_shoe_sizes_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_shoe_sizes",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "shoe sizes"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Add one cup of flour.",
+    "somali": "Ku dar hal koob oo bur ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Use two teaspoons of salt.",
+    "somali": "Isticmaal laba qaaddo yar oo cusbo ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "How much oil should I add?",
+    "somali": "Saliid intee le'eg ayaan ku daraa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "The recipe needs half a litre of milk.",
+    "somali": "Cuntadani waxay u baahan tahay kala litir caano ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Please measure the rice.",
+    "somali": "Fadlan bariiska cabbir.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Use a little sugar.",
+    "somali": "Sonkor yar isticmaal.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Do not add too much water.",
+    "somali": "Biyo badan ha ku darin.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "I need a measuring cup.",
+    "somali": "Koob cabbir ah ayaan u baahanahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "The sauce needs more salt.",
+    "somali": "Suugadu cusbo dheeraad ah ayay u baahan tahay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Add a small spoon of spice.",
+    "somali": "Ku dar qaaddo yar oo xawaash ah.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "How many grams of butter?",
+    "somali": "Immisa garaam oo subag ah?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Cut the meat into small pieces.",
+    "somali": "Hilibka qaybo yar yar u jar.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Use equal amounts of water and rice.",
+    "somali": "Isticmaal qadar isku mid ah oo biyo iyo bariis ah.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "The mixture is too thick.",
+    "somali": "Isku-darka aad buu u qaro weyn yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Please pour it slowly.",
+    "somali": "Fadlan si tartiib ah ugu shub.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_cooking_measurements_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_cooking_measurements",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "cooking measurements"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_001",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "How long will it take?",
+    "somali": "Intee ayay qaadanaysaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_002",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "It takes about ten minutes.",
+    "somali": "Qiyaastii toban daqiiqo ayay qaadataa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_003",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Please wait for five minutes.",
+    "somali": "Fadlan shan daqiiqo sug.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_004",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "The class lasts one hour.",
+    "somali": "Fasalku hal saac ayuu socdaa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_005",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "The journey takes two hours.",
+    "somali": "Safarku laba saac ayuu qaataa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_006",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Can you set a timer?",
+    "somali": "Saacad-tiriye ma dejin kartaa?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_007",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Cook it for twenty minutes.",
+    "somali": "Kari labaatan daqiiqo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_008",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "I waited for half an hour.",
+    "somali": "Nus saac ayaan sugay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_009",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "The meeting was too long.",
+    "somali": "Shirku aad buu u dheeraa.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_010",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "We have only ten minutes left.",
+    "somali": "Toban daqiiqo oo keliya ayaa noo hartay.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_011",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "How much time do we need?",
+    "somali": "Waqti intee le'eg ayaan u baahanahay?",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_012",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Please be back in an hour.",
+    "somali": "Fadlan saacad gudaheed ku soo laabo.",
+    "alternative_somali": [],
+    "cefr": "A1",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_013",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "The break is fifteen minutes.",
+    "somali": "Nasashadu waa shan iyo toban daqiiqo.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_014",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "It took longer than expected.",
+    "somali": "Waxay qaadatay ka badan intii la filayay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_015",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Can we finish on time?",
+    "somali": "Waqtiga ma ku dhamayn karnaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_016",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Can you measure it again?",
+    "somali": "Mar kale ma cabbiri kartaa?",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "question",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_017",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Please write the measurement down.",
+    "somali": "Fadlan cabbirka qor.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "imperative",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_018",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "I think the measurement is wrong.",
+    "somali": "Waxaan u malaynayaa in cabbirku khaldan yahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_019",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "This measurement is important.",
+    "somali": "Cabbirkani waa muhiim.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  },
+  {
+    "id": "phrase_measurements_time_measurement_020",
+    "category_code": "measurements",
+    "subcategory_code": "measurements_time_measurement",
+    "english": "Now the measurement is clear.",
+    "somali": "Hadda cabbirku wuu caddahay.",
+    "alternative_somali": [],
+    "cefr": "A2",
+    "type": "statement",
+    "keywords": [
+      "measurements",
+      "time measurement"
+    ],
+    "notes": "Editorial rewrite: natural measurement phrase with directly aligned Somali meaning."
+  }
+]

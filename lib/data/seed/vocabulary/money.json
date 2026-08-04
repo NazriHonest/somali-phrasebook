@@ -1,0 +1,663 @@
+[
+  {
+    "id": "vocab_money_cash_cash",
+    "category_code": "money",
+    "subcategory_code": "money_cash",
+    "english": {
+      "headword": "cash",
+      "search_forms": [
+        "cash"
+      ]
+    },
+    "somali": {
+      "translation": "lacag caddaan ah",
+      "alternative_translations": [],
+      "explanation": "Lacagta waraaqaha ama qadaadiicda ah ee si toos ah wax loogu bixiyo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "Money in the form of banknotes and coins.",
+        "translation": "lacag caddaan ah",
+        "examples": [
+          {
+            "english": "Do you accept cash?",
+            "somali": "Ma aqbashaan lacag caddaan ah?"
+          },
+          {
+            "english": "I paid in cash.",
+            "somali": "Waxaan ku bixiyay lacag caddaan ah."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "pay in cash",
+        "somali": "ku bixi lacag caddaan ah"
+      },
+      {
+        "english": "cash payment",
+        "somali": "lacag-bixin caddaan ah"
+      },
+      {
+        "english": "cash register",
+        "somali": "sanduuqa lacagta"
+      }
+    ],
+    "related_words": [
+      "money",
+      "coins",
+      "banknotes",
+      "payment"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying in a shop",
+      "Buying groceries",
+      "Paying a taxi driver"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Cash"
+    }
+  },
+  {
+    "id": "vocab_money_credit_card_card",
+    "category_code": "money",
+    "subcategory_code": "money_credit_card",
+    "english": {
+      "headword": "card",
+      "search_forms": [
+        "card",
+        "cards"
+      ]
+    },
+    "somali": {
+      "translation": "kaar",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (credit card)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "kaar",
+        "examples": [
+          {
+            "english": "I asked about the card.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The card is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "card payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "card service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "card details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Credit Card"
+    }
+  },
+  {
+    "id": "vocab_money_mobile_payment_mobile_payment",
+    "category_code": "money",
+    "subcategory_code": "money_mobile_payment",
+    "english": {
+      "headword": "mobile payment",
+      "search_forms": [
+        "mobile payment"
+      ]
+    },
+    "somali": {
+      "translation": "lacag mobile",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (mobile payment)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "lacag mobile",
+        "examples": [
+          {
+            "english": "I asked about the mobile payment.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The mobile payment is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "mobile payment payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "mobile payment service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "mobile payment details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Mobile Payment"
+    }
+  },
+  {
+    "id": "vocab_money_bank_bank",
+    "category_code": "money",
+    "subcategory_code": "money_bank",
+    "english": {
+      "headword": "bank",
+      "search_forms": [
+        "bank",
+        "banks"
+      ]
+    },
+    "somali": {
+      "translation": "bangiga",
+      "alternative_translations": [],
+      "explanation": "Hay'ad maaliyadeed oo lagu kaydiyo, lagu amaahdo laguna maareeyo lacagta."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A financial institution that keeps, lends and manages money.",
+        "translation": "bangiga",
+        "examples": [
+          {
+            "english": "I need to go to the bank.",
+            "somali": "Waxaan u baahanahay inaan aado bangiga."
+          },
+          {
+            "english": "The bank opens at 8 a.m.",
+            "somali": "Bangigu wuxuu furmaa 8 subaxnimo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "bank account",
+        "somali": "akoon bangi"
+      },
+      {
+        "english": "bank branch",
+        "somali": "laanta bangiga"
+      },
+      {
+        "english": "go to the bank",
+        "somali": "aad bangiga"
+      }
+    ],
+    "related_words": [
+      "ATM",
+      "account",
+      "loan",
+      "cash"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Opening a bank account",
+      "Depositing money",
+      "Withdrawing cash"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Bank"
+    }
+  },
+  {
+    "id": "vocab_money_atm_atm",
+    "category_code": "money",
+    "subcategory_code": "money_atm",
+    "english": {
+      "headword": "ATM",
+      "search_forms": [
+        "ATM"
+      ]
+    },
+    "somali": {
+      "translation": "mashiinka lacagta",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (atm)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "mashiinka lacagta",
+        "examples": [
+          {
+            "english": "I asked about the ATM.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The ATM is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ATM payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "ATM service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "ATM details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Atm"
+    }
+  },
+  {
+    "id": "vocab_money_exchange_exchange_rate",
+    "category_code": "money",
+    "subcategory_code": "money_exchange",
+    "english": {
+      "headword": "exchange rate",
+      "search_forms": [
+        "exchange rate"
+      ]
+    },
+    "somali": {
+      "translation": "sarif",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (exchange)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A2",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "sarif",
+        "examples": [
+          {
+            "english": "I asked about the exchange rate.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The exchange rate is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "exchange rate payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "exchange rate service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "exchange rate details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Exchange"
+    }
+  },
+  {
+    "id": "vocab_money_bills_bill",
+    "category_code": "money",
+    "subcategory_code": "money_bills",
+    "english": {
+      "headword": "bill",
+      "search_forms": [
+        "bill",
+        "bills"
+      ]
+    },
+    "somali": {
+      "translation": "biil",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (bills)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "biil",
+        "examples": [
+          {
+            "english": "I asked about the bill.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The bill is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "bill payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "bill service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "bill details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Bills"
+    }
+  },
+  {
+    "id": "vocab_money_receipts_receipt",
+    "category_code": "money",
+    "subcategory_code": "money_receipts",
+    "english": {
+      "headword": "receipt",
+      "search_forms": [
+        "receipt",
+        "receipts"
+      ]
+    },
+    "somali": {
+      "translation": "rasiid",
+      "alternative_translations": [],
+      "explanation": "Warqad ama caddayn muujinaysa in lacag la bixiyay."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A document proving that a payment has been made.",
+        "translation": "rasiid",
+        "examples": [
+          {
+            "english": "Please keep your receipt.",
+            "somali": "Fadlan hayso rasiidkaaga."
+          },
+          {
+            "english": "I lost my receipt.",
+            "somali": "Waxaan waayay rasiidkaygii."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "keep the receipt",
+        "somali": "hayso rasiidka"
+      },
+      {
+        "english": "print a receipt",
+        "somali": "daabac rasiid"
+      },
+      {
+        "english": "receipt number",
+        "somali": "lambarka rasiidka"
+      }
+    ],
+    "related_words": [
+      "invoice",
+      "bill",
+      "payment",
+      "refund"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Shopping",
+      "Returning an item",
+      "Business expenses"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Receipts"
+    }
+  },
+  {
+    "id": "vocab_money_refunds_refund",
+    "category_code": "money",
+    "subcategory_code": "money_refunds",
+    "english": {
+      "headword": "refund",
+      "search_forms": [
+        "refund",
+        "refunds"
+      ]
+    },
+    "somali": {
+      "translation": "lacag celin",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (refunds)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "lacag celin",
+        "examples": [
+          {
+            "english": "I asked about the refund.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The refund is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "refund payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "refund service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "refund details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Refunds"
+    }
+  },
+  {
+    "id": "vocab_money_discounts_discount",
+    "category_code": "money",
+    "subcategory_code": "money_discounts",
+    "english": {
+      "headword": "discount",
+      "search_forms": [
+        "discount",
+        "discounts"
+      ]
+    },
+    "somali": {
+      "translation": "qiimo dhimis",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa lacagta iyo adeegyada maaliyadeed (discounts)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A common financial term used in everyday transactions.",
+        "translation": "qiimo dhimis",
+        "examples": [
+          {
+            "english": "I asked about the discount.",
+            "somali": "Waxaan wax ka weydiiyay arrintan."
+          },
+          {
+            "english": "The discount is important when paying.",
+            "somali": "Waxay muhiim tahay marka lacag la bixinayo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "discount payment",
+        "somali": "lacag-bixin"
+      },
+      {
+        "english": "discount service",
+        "somali": "adeeg"
+      },
+      {
+        "english": "discount details",
+        "somali": "faahfaahin"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Paying for goods",
+      "Using banking services",
+      "Managing personal finances"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Discounts"
+    }
+  }
+]

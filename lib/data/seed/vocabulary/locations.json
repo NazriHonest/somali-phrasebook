@@ -1,0 +1,598 @@
+[
+  {
+    "id": "vocab_locations_asking_directions_direction",
+    "category_code": "locations",
+    "subcategory_code": "locations_asking_directions",
+    "english": {
+      "headword": "direction",
+      "search_forms": [
+        "direction",
+        "directions"
+      ]
+    },
+    "somali": {
+      "translation": "jiho",
+      "alternative_translations": [],
+      "explanation": "Jihada ama waddada lagu tago meel gaar ah."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "The route or way to reach a place.",
+        "translation": "jiho",
+        "examples": [
+          {
+            "english": "Could you give me directions to the station?",
+            "somali": "Ma ii sheegi kartaa jidka saldhigga?"
+          },
+          {
+            "english": "We followed the directions on the map.",
+            "somali": "Waxaan raacnay tilmaamaha khariidadda."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "ask for directions",
+        "somali": "weydii jidka"
+      },
+      {
+        "english": "follow directions",
+        "somali": "raac tilmaamaha"
+      },
+      {
+        "english": "give directions",
+        "somali": "tilmaan bixi"
+      }
+    ],
+    "related_words": [
+      "route",
+      "map",
+      "street",
+      "turn"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Helping a tourist",
+      "Finding a hotel"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Asking Directions"
+    }
+  },
+  {
+    "id": "vocab_locations_buildings_building",
+    "category_code": "locations",
+    "subcategory_code": "locations_buildings",
+    "english": {
+      "headword": "building",
+      "search_forms": [
+        "building",
+        "buildings"
+      ]
+    },
+    "somali": {
+      "translation": "dhisme",
+      "alternative_translations": [],
+      "explanation": "Dhisme loogu talagalay in lagu noolaado ama lagu shaqeeyo."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A structure such as a house, office or school.",
+        "translation": "dhisme",
+        "examples": [
+          {
+            "english": "That building is very tall.",
+            "somali": "Dhismahaasi aad buu u dheer yahay."
+          },
+          {
+            "english": "The office is in the next building.",
+            "somali": "Xafiisku wuxuu ku yaal dhismaha xiga."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "office building",
+        "somali": "dhisme xafiis"
+      },
+      {
+        "english": "apartment building",
+        "somali": "dhisme dabaqyo"
+      },
+      {
+        "english": "public building",
+        "somali": "dhisme dadweyne"
+      }
+    ],
+    "related_words": [
+      "house",
+      "office",
+      "tower",
+      "entrance"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Looking for a building",
+      "Giving directions",
+      "Describing a location"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Buildings"
+    }
+  },
+  {
+    "id": "vocab_locations_rooms_room",
+    "category_code": "locations",
+    "subcategory_code": "locations_rooms",
+    "english": {
+      "headword": "room",
+      "search_forms": [
+        "room",
+        "rooms"
+      ]
+    },
+    "somali": {
+      "translation": "qol",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (rooms)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "qol",
+        "examples": [
+          {
+            "english": "Can you show me the room?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The room is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "room location",
+        "somali": "goobta"
+      },
+      {
+        "english": "room sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "room area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Rooms"
+    }
+  },
+  {
+    "id": "vocab_locations_furniture_chair",
+    "category_code": "locations",
+    "subcategory_code": "locations_furniture",
+    "english": {
+      "headword": "chair",
+      "search_forms": [
+        "chair",
+        "chairs"
+      ]
+    },
+    "somali": {
+      "translation": "kursi",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (furniture)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "kursi",
+        "examples": [
+          {
+            "english": "Can you show me the chair?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The chair is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "chair location",
+        "somali": "goobta"
+      },
+      {
+        "english": "chair sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "chair area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Furniture"
+    }
+  },
+  {
+    "id": "vocab_locations_position_near",
+    "category_code": "locations",
+    "subcategory_code": "locations_position",
+    "english": {
+      "headword": "near",
+      "search_forms": [
+        "near"
+      ]
+    },
+    "somali": {
+      "translation": "u dhow",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (position)."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "u dhow",
+        "examples": [
+          {
+            "english": "Can you show me the near?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The near is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "near location",
+        "somali": "goobta"
+      },
+      {
+        "english": "near sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "near area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Position"
+    }
+  },
+  {
+    "id": "vocab_locations_left_right_left",
+    "category_code": "locations",
+    "subcategory_code": "locations_left_right",
+    "english": {
+      "headword": "left",
+      "search_forms": [
+        "left"
+      ]
+    },
+    "somali": {
+      "translation": "bidix",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (left right)."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "bidix",
+        "examples": [
+          {
+            "english": "Can you show me the left?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The left is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "left location",
+        "somali": "goobta"
+      },
+      {
+        "english": "left sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "left area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Left Right"
+    }
+  },
+  {
+    "id": "vocab_locations_maps_map",
+    "category_code": "locations",
+    "subcategory_code": "locations_maps",
+    "english": {
+      "headword": "map",
+      "search_forms": [
+        "map",
+        "maps"
+      ]
+    },
+    "somali": {
+      "translation": "khariidad",
+      "alternative_translations": [],
+      "explanation": "Khariidad muujinaysa waddooyinka iyo meelaha."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A drawing showing roads, places and directions.",
+        "translation": "khariidad",
+        "examples": [
+          {
+            "english": "Let's check the map.",
+            "somali": "Aan eegno khariidadda."
+          },
+          {
+            "english": "The map shows the fastest route.",
+            "somali": "Khariidaddu waxay muujinaysaa jidka ugu dhaqsaha badan."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "city map",
+        "somali": "khariidadda magaalada"
+      },
+      {
+        "english": "road map",
+        "somali": "khariidadda waddooyinka"
+      },
+      {
+        "english": "map app",
+        "somali": "barnaamijka khariidadda"
+      }
+    ],
+    "related_words": [
+      "GPS",
+      "route",
+      "direction",
+      "street"
+    ],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Using a map app",
+      "Planning a journey",
+      "Finding an address"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Maps"
+    }
+  },
+  {
+    "id": "vocab_locations_lost_items_lost_item",
+    "category_code": "locations",
+    "subcategory_code": "locations_lost_items",
+    "english": {
+      "headword": "lost item",
+      "search_forms": [
+        "lost item"
+      ]
+    },
+    "somali": {
+      "translation": "shay lumay",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (lost items)."
+    },
+    "part_of_speech": "noun",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "shay lumay",
+        "examples": [
+          {
+            "english": "Can you show me the lost item?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The lost item is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "lost item location",
+        "somali": "goobta"
+      },
+      {
+        "english": "lost item sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "lost item area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "polite questions",
+      "imperatives",
+      "prepositions in everyday phrases"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Lost Items"
+    }
+  },
+  {
+    "id": "vocab_locations_nearby_places_nearby",
+    "category_code": "locations",
+    "subcategory_code": "locations_nearby_places",
+    "english": {
+      "headword": "nearby",
+      "search_forms": [
+        "nearby"
+      ]
+    },
+    "somali": {
+      "translation": "ag dhow",
+      "alternative_translations": [],
+      "explanation": "Eraygan waxa uu la xiriiraa goobaha iyo tilmaamidda meelaha (nearby places)."
+    },
+    "part_of_speech": "adjective",
+    "cefr": "A1",
+    "senses": [
+      {
+        "definition": "A location-related term used in everyday navigation.",
+        "translation": "ag dhow",
+        "examples": [
+          {
+            "english": "Can you show me the nearby?",
+            "somali": "Ma i tusi kartaa?"
+          },
+          {
+            "english": "The nearby is easy to find.",
+            "somali": "Way fududahay in la helo."
+          }
+        ]
+      }
+    ],
+    "collocations": [
+      {
+        "english": "nearby location",
+        "somali": "goobta"
+      },
+      {
+        "english": "nearby sign",
+        "somali": "calaamadda"
+      },
+      {
+        "english": "nearby area",
+        "somali": "aagga"
+      }
+    ],
+    "related_words": [],
+    "common_mistakes": [],
+    "grammar_topics": [
+      "adjective position",
+      "questions with be",
+      "comparisons in simple speech"
+    ],
+    "situations": [
+      "Asking for directions",
+      "Finding a place",
+      "Talking about locations"
+    ],
+    "source": {
+      "type": "editorial_addition",
+      "section": "Nearby Places"
+    }
+  }
+]
